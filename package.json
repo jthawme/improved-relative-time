@@ -1,6 +1,6 @@
 {
   "name": "improved-relative-time",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A more nuanced, intelligent relative time library, for all of the dinner parties you go to",
   "files": [
     "dist"
