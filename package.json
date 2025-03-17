@@ -1,0 +1,33 @@
+{
+  "name": "improved-relative-time",
+  "version": "1.0.0",
+  "description": "A more nuanced, intelligent relative time library, for all of the dinner parties you go to",
+  "files": [
+    "dist"
+  ],
+  "main": "./dist/improved-relative-time.umd.js",
+  "module": "./dist/improved-relative-time.es.js",
+  "exports": {
+    ".": {
+      "import": "./dist/improved-relative-time.es.js",
+      "require": "./dist/improved-relative-time.umd.js"
+    }
+  },
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "node tools/prepare.js && vite build",
+    "preview": "vite preview",
+    "release": "standard-version && npm run build && npm publish"
+  },
+  "devDependencies": {
+    "@inquirer/prompts": "^7.2.0",
+    "jsdom": "^25.0.1",
+    "slugify": "^1.6.6",
+    "yoctocolors": "^2.1.1"
+  },
+  "dependencies": {
+    "standard-version": "^9.5.0",
+    "vite": "^6.0.3"
+  }
+}

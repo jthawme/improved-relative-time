@@ -1,0 +1,21 @@
+export const Now = {
+  id: "now",
+  text: "Now",
+  source: "https://dictionary.cambridge.org/dictionary/english/now",
+  slim: "N",
+  descriptive: "Nw",
+  verbose: "Now",
+  year: () => new Date().getFullYear(),
+  iteration: 1,
+};
+
+export const Then = {
+  id: "then",
+  text: "Then",
+  source: "https://dictionary.cambridge.org/dictionary/english/then",
+  slim: "T",
+  descriptive: "Th",
+  verbose: "Then",
+  year: {{NOW}},
+  iteration: 1,
+};

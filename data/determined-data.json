@@ -1,0 +1,7716 @@
+[
+  {
+    "id": "stone-tools",
+    "year": -3300000,
+    "linked": {
+      "text": "Stone tools",
+      "link": "/wiki/Stone_tool"
+    },
+    "abbreviation": {
+      "slim": "ST",
+      "descriptive": "StT",
+      "verbose": "StTo"
+    },
+    "conflictProperty": "-3300000-0"
+  },
+  {
+    "id": "control-of-fire",
+    "year": -2300000,
+    "linked": {
+      "text": "control of fire",
+      "link": "/wiki/Control_of_fire_by_early_humans"
+    },
+    "abbreviation": {
+      "slim": "CF",
+      "descriptive": "CooF",
+      "verbose": "CooFi"
+    },
+    "conflictProperty": "-2300000-1"
+  },
+  {
+    "id": "acheulean",
+    "year": -1760000,
+    "linked": {
+      "text": "Acheulean",
+      "link": "/wiki/Acheulean"
+    },
+    "abbreviation": {
+      "slim": "A",
+      "descriptive": "Ac",
+      "verbose": "Ac"
+    },
+    "conflictProperty": "-1760000-2"
+  },
+  {
+    "id": "origin-of-language",
+    "year": -1750,
+    "linked": {
+      "text": "origin of language",
+      "link": "/wiki/Origin_of_language"
+    },
+    "abbreviation": {
+      "slim": "OL",
+      "descriptive": "OroL",
+      "verbose": "OroLa"
+    },
+    "conflictProperty": "-1750-3"
+  },
+  {
+    "id": "bone-tools",
+    "year": -1500000,
+    "linked": {
+      "text": "Bone tools",
+      "link": "/wiki/Bone_tool"
+    },
+    "abbreviation": {
+      "slim": "BT",
+      "descriptive": "BoT",
+      "verbose": "BoTo"
+    },
+    "conflictProperty": "-1500000-4"
+  },
+  {
+    "id": "boats",
+    "year": -900000,
+    "linked": {
+      "text": "Boats",
+      "link": "/wiki/Boat"
+    },
+    "abbreviation": {
+      "slim": "B",
+      "descriptive": "Bo",
+      "verbose": "Bo"
+    },
+    "conflictProperty": "-900000-5"
+  },
+  {
+    "id": "hafting",
+    "year": -500000,
+    "linked": {
+      "text": "Hafting",
+      "link": "/wiki/Hafting"
+    },
+    "abbreviation": {
+      "slim": "H",
+      "descriptive": "Ha",
+      "verbose": "Ha"
+    },
+    "conflictProperty": "-500000-6"
+  },
+  {
+    "id": "woodworking",
+    "year": -500000,
+    "linked": {
+      "text": "Woodworking",
+      "link": "/wiki/Woodworking"
+    },
+    "abbreviation": {
+      "slim": "W",
+      "descriptive": "Wo",
+      "verbose": "Wo"
+    },
+    "conflictProperty": "-500000-7"
+  },
+  {
+    "id": "food-storage",
+    "year": -420000,
+    "linked": {
+      "text": "Food storage",
+      "link": "/wiki/Food_storage"
+    },
+    "abbreviation": {
+      "slim": "FS",
+      "descriptive": "FoS",
+      "verbose": "FoSt"
+    },
+    "conflictProperty": "-420000-8"
+  },
+  {
+    "id": "pigments",
+    "year": -400000,
+    "linked": {
+      "text": "Pigments",
+      "link": "/wiki/Pigment"
+    },
+    "abbreviation": {
+      "slim": "P",
+      "descriptive": "Pi",
+      "verbose": "Pi"
+    },
+    "conflictProperty": "-400000-9"
+  },
+  {
+    "id": "spears",
+    "year": -400000,
+    "linked": {
+      "text": "Spears",
+      "link": "/wiki/Spear"
+    },
+    "abbreviation": {
+      "slim": "S",
+      "descriptive": "Sp",
+      "verbose": "Sp"
+    },
+    "conflictProperty": "-400000-10"
+  },
+  {
+    "id": "trade",
+    "year": -320000,
+    "linked": {
+      "text": "trade",
+      "link": "/wiki/Trade"
+    },
+    "abbreviation": {
+      "slim": "T",
+      "descriptive": "Tr",
+      "verbose": "Tr"
+    },
+    "conflictProperty": "-320000-11"
+  },
+  {
+    "id": "stone-tipped-projectiles",
+    "year": -279000,
+    "linked": {
+      "link": "/wiki/https://en.wikipedia.org",
+      "text": "Stone-Tipped Projectiles"
+    },
+    "abbreviation": {
+      "slim": "SP",
+      "descriptive": "StP",
+      "verbose": "StPr"
+    },
+    "conflictProperty": "-279000-12"
+  },
+  {
+    "id": "adhesive",
+    "year": -200000,
+    "linked": {
+      "text": "adhesive",
+      "link": "/wiki/Adhesive"
+    },
+    "abbreviation": {
+      "slim": "A",
+      "descriptive": "Ad",
+      "verbose": "Ad"
+    },
+    "conflictProperty": "-200000-13"
+  },
+  {
+    "id": "beds",
+    "year": -200000,
+    "linked": {
+      "text": "Beds",
+      "link": "/wiki/Bed"
+    },
+    "abbreviation": {
+      "slim": "B",
+      "descriptive": "Be",
+      "verbose": "Be"
+    },
+    "conflictProperty": "-200000-14"
+  },
+  {
+    "id": "clothing",
+    "year": -170000,
+    "linked": {
+      "text": "Clothing",
+      "link": "/wiki/History_of_clothing_and_textiles"
+    },
+    "abbreviation": {
+      "slim": "C",
+      "descriptive": "Cl",
+      "verbose": "Cl"
+    },
+    "conflictProperty": "-170000-15"
+  },
+  {
+    "id": "heat-treating-of-stone-blades",
+    "year": -164000,
+    "linked": {
+      "link": "/wiki/https://en.wikipedia.org",
+      "text": "Heat Treating of Stone Blades"
+    },
+    "abbreviation": {
+      "slim": "HTSB",
+      "descriptive": "HeToSB",
+      "verbose": "HeTroStBl"
+    },
+    "conflictProperty": "-164000-16"
+  },
+  {
+    "id": "beads",
+    "year": -135000,
+    "linked": {
+      "text": "Beads",
+      "link": "/wiki/Bead"
+    },
+    "abbreviation": {
+      "slim": "B",
+      "descriptive": "Be",
+      "verbose": "Be"
+    },
+    "conflictProperty": "-135000-17"
+  },
+  {
+    "id": "paints",
+    "year": -100000,
+    "linked": {
+      "text": "paints",
+      "link": "/wiki/Paint"
+    },
+    "abbreviation": {
+      "slim": "P",
+      "descriptive": "Pa",
+      "verbose": "Pa"
+    },
+    "conflictProperty": "-100000-18"
+  },
+  {
+    "id": "burial",
+    "year": -100000,
+    "linked": {
+      "text": "burial",
+      "link": "/wiki/Burial"
+    },
+    "abbreviation": {
+      "slim": "B",
+      "descriptive": "Bu",
+      "verbose": "Bu"
+    },
+    "conflictProperty": "-100000-19"
+  },
+  {
+    "id": "harpoons",
+    "year": -90000,
+    "linked": {
+      "text": "Harpoons",
+      "link": "/wiki/Harpoon"
+    },
+    "abbreviation": {
+      "slim": "H",
+      "descriptive": "Ha",
+      "verbose": "Ha"
+    },
+    "conflictProperty": "-90000-20"
+  },
+  {
+    "id": "sewing-needle",
+    "year": 70,
+    "linked": {
+      "text": "Sewing needle",
+      "link": "/wiki/Sewing_needle"
+    },
+    "abbreviation": {
+      "slim": "SN",
+      "descriptive": "SeN",
+      "verbose": "SeNe"
+    },
+    "conflictProperty": "70-21"
+  },
+  {
+    "id": "cave-painting",
+    "year": -61000,
+    "linked": {
+      "text": "Cave painting",
+      "link": "/wiki/Cave_painting"
+    },
+    "abbreviation": {
+      "slim": "CP",
+      "descriptive": "CaP",
+      "verbose": "CaPa"
+    },
+    "conflictProperty": "-61000-22"
+  },
+  {
+    "id": "narrative-art",
+    "year": -55800,
+    "linked": {
+      "text": "Narrative art",
+      "link": "/wiki/Narrative_art"
+    },
+    "abbreviation": {
+      "slim": "NA",
+      "descriptive": "NaA",
+      "verbose": "NaAr"
+    },
+    "conflictProperty": "-55800-23"
+  },
+  {
+    "id": "ground-stone",
+    "year": -49000,
+    "linked": {
+      "text": "Ground stone",
+      "link": "/wiki/Ground_stone"
+    },
+    "abbreviation": {
+      "slim": "GS",
+      "descriptive": "GrS",
+      "verbose": "GrSt"
+    },
+    "conflictProperty": "-49000-24"
+  },
+  {
+    "id": "ochre",
+    "year": -47000,
+    "linked": {
+      "text": "ochre",
+      "link": "/wiki/Ochre"
+    },
+    "abbreviation": {
+      "slim": "O",
+      "descriptive": "Oc",
+      "verbose": "Oc"
+    },
+    "conflictProperty": "-47000-25"
+  },
+  {
+    "id": "shoes",
+    "year": -45000,
+    "linked": {
+      "text": "shoes",
+      "link": "/wiki/Shoe"
+    },
+    "abbreviation": {
+      "slim": "S",
+      "descriptive": "Sh",
+      "verbose": "Sh"
+    },
+    "conflictProperty": "-45000-26"
+  },
+  {
+    "id": "tally-sticks",
+    "year": -44000,
+    "linked": {
+      "text": "Tally sticks",
+      "link": "/wiki/Tally_stick"
+    },
+    "abbreviation": {
+      "slim": "TS",
+      "descriptive": "TaS",
+      "verbose": "TaSt"
+    },
+    "conflictProperty": "-44000-27"
+  },
+  {
+    "id": "flute",
+    "year": -42000,
+    "linked": {
+      "text": "Flute",
+      "link": "/wiki/Flute"
+    },
+    "abbreviation": {
+      "slim": "F",
+      "descriptive": "Fl",
+      "verbose": "Fl"
+    },
+    "conflictProperty": "-42000-28"
+  },
+  {
+    "id": "mortar-and-pestle",
+    "year": -37000,
+    "linked": {
+      "text": "Mortar and pestle",
+      "link": "/wiki/Mortar_and_pestle"
+    },
+    "abbreviation": {
+      "slim": "MAP",
+      "descriptive": "MoAP",
+      "verbose": "MoAnPe"
+    },
+    "conflictProperty": "-37000-29"
+  },
+  {
+    "id": "rope",
+    "year": -32000,
+    "linked": {
+      "text": "Rope",
+      "link": "/wiki/Rope"
+    },
+    "abbreviation": {
+      "slim": "R",
+      "descriptive": "Ro",
+      "verbose": "Ro"
+    },
+    "conflictProperty": "-32000-30"
+  },
+  {
+    "id": "amputation",
+    "year": -31000,
+    "linked": {
+      "text": "Amputation",
+      "link": "/wiki/Amputation"
+    },
+    "abbreviation": {
+      "slim": "A",
+      "descriptive": "Am",
+      "verbose": "Am"
+    },
+    "conflictProperty": "-31000-31"
+  },
+  {
+    "id": "ceramics",
+    "year": -28000,
+    "linked": {
+      "text": "Ceramics",
+      "link": "/wiki/Ceramics"
+    },
+    "abbreviation": {
+      "slim": "C",
+      "descriptive": "Ce",
+      "verbose": "Ce"
+    },
+    "conflictProperty": "-28000-32"
+  },
+  {
+    "id": "oldest-known-ceramic-sculpture",
+    "year": -24000,
+    "linked": {
+      "text": "Oldest known ceramic sculpture",
+      "link": "/wiki/Venus_of_Doln%C3%AD_V%C4%9Bstonice"
+    },
+    "abbreviation": {
+      "slim": "OKCS",
+      "descriptive": "OlKCS",
+      "verbose": "OlKnCeSc"
+    },
+    "conflictProperty": "-24000-33"
+  },
+  {
+    "id": "domestication-of-the-dog",
+    "year": -23000,
+    "linked": {
+      "text": "Domestication of the dog",
+      "link": "/wiki/Domestication_of_the_dog"
+    },
+    "abbreviation": {
+      "slim": "DD",
+      "descriptive": "DootD",
+      "verbose": "DootDo"
+    },
+    "conflictProperty": "-23000-34"
+  },
+  {
+    "id": "bullroarer",
+    "year": 22,
+    "linked": {
+      "text": "Bullroarer",
+      "link": "/wiki/Bullroarer"
+    },
+    "abbreviation": {
+      "slim": "B",
+      "descriptive": "Bu",
+      "verbose": "Bu"
+    },
+    "conflictProperty": "22-35"
+  },
+  {
+    "id": "fish-hook",
+    "year": -22000,
+    "linked": {
+      "text": "Fish hook",
+      "link": "/wiki/Fish_hook"
+    },
+    "abbreviation": {
+      "slim": "FH",
+      "descriptive": "FiH",
+      "verbose": "FiHo"
+    },
+    "conflictProperty": "-22000-36"
+  },
+  {
+    "id": "star-chart",
+    "year": -21000,
+    "linked": {
+      "text": "Star chart",
+      "link": "/wiki/Star_chart"
+    },
+    "abbreviation": {
+      "slim": "SC",
+      "descriptive": "StC",
+      "verbose": "StCh"
+    },
+    "conflictProperty": "-21000-37"
+  },
+  {
+    "id": "spear-thrower",
+    "year": -17500,
+    "linked": {
+      "text": "Spear-thrower",
+      "link": "/wiki/Spear-thrower"
+    },
+    "abbreviation": {
+      "slim": "S",
+      "descriptive": "Sp",
+      "verbose": "Sp"
+    },
+    "conflictProperty": "-17500-38"
+  },
+  {
+    "id": "pottery",
+    "year": -16000,
+    "linked": {
+      "text": "Pottery",
+      "link": "/wiki/Pottery"
+    },
+    "abbreviation": {
+      "slim": "P",
+      "descriptive": "Po",
+      "verbose": "Po"
+    },
+    "conflictProperty": "-16000-39"
+  },
+  {
+    "id": "bread",
+    "year": -14500,
+    "linked": {
+      "text": "Bread",
+      "link": "/wiki/Bread"
+    },
+    "abbreviation": {
+      "slim": "B",
+      "descriptive": "Br",
+      "verbose": "Br"
+    },
+    "conflictProperty": "-14500-40"
+  },
+  {
+    "id": "spindle-whorl",
+    "year": -12000,
+    "linked": {
+      "text": "Spindle whorl",
+      "link": "/wiki/Spindle_whorl"
+    },
+    "abbreviation": {
+      "slim": "SW",
+      "descriptive": "SpW",
+      "verbose": "SpWh"
+    },
+    "conflictProperty": "-12000-41"
+  },
+  {
+    "id": "agriculture",
+    "year": -10,
+    "linked": {
+      "text": "Agriculture",
+      "link": "/wiki/Agriculture"
+    },
+    "abbreviation": {
+      "slim": "A",
+      "descriptive": "Ag",
+      "verbose": "Ag"
+    },
+    "conflictProperty": "-10-42"
+  },
+  {
+    "id": "domestication-of-sheep",
+    "year": -10,
+    "linked": {
+      "text": "Domestication of sheep",
+      "link": "/wiki/Domestication_of_the_sheep"
+    },
+    "abbreviation": {
+      "slim": "DS",
+      "descriptive": "DooS",
+      "verbose": "DooSh"
+    },
+    "conflictProperty": "-10-43"
+  },
+  {
+    "id": "oldest-known-surviving-building",
+    "year": -9500,
+    "linked": {
+      "text": "Oldest known surviving building",
+      "link": "/wiki/List_of_oldest_extant_buildings"
+    },
+    "abbreviation": {
+      "slim": "OKSB",
+      "descriptive": "OlKSB",
+      "verbose": "OlKnSuBu"
+    },
+    "conflictProperty": "-9500-44"
+  },
+  {
+    "id": "domestication-of-rice",
+    "year": -9000,
+    "linked": {
+      "text": "Domestication of rice",
+      "link": "/wiki/Domestication_of_rice"
+    },
+    "abbreviation": {
+      "slim": "DR",
+      "descriptive": "DooR",
+      "verbose": "DooRi"
+    },
+    "conflictProperty": "-9000-45"
+  },
+  {
+    "id": "mudbricks",
+    "year": -9000,
+    "linked": {
+      "text": "Mudbricks",
+      "link": "/wiki/Mudbrick"
+    },
+    "abbreviation": {
+      "slim": "M",
+      "descriptive": "Mu",
+      "verbose": "Mu"
+    },
+    "conflictProperty": "-9000-46"
+  },
+  {
+    "id": "well",
+    "year": -8400,
+    "linked": {
+      "text": "well",
+      "link": "/wiki/Well"
+    },
+    "abbreviation": {
+      "slim": "W",
+      "descriptive": "We",
+      "verbose": "We"
+    },
+    "conflictProperty": "-8400-47"
+  },
+  {
+    "id": "alcohol-fermentation",
+    "year": -7000,
+    "linked": {
+      "text": "Alcohol fermentation",
+      "link": "/wiki/Ethanol_fermentation#Alcoholic_beverages"
+    },
+    "abbreviation": {
+      "slim": "AF",
+      "descriptive": "AlF",
+      "verbose": "AlFe"
+    },
+    "conflictProperty": "-7000-49"
+  },
+  {
+    "id": "dog-sled",
+    "year": -7000,
+    "linked": {
+      "text": "Dog sled",
+      "link": "/wiki/Dog_sled"
+    },
+    "abbreviation": {
+      "slim": "DS",
+      "descriptive": "DoS",
+      "verbose": "DoSl"
+    },
+    "conflictProperty": "-7000-50"
+  },
+  {
+    "id": "tanned-leather",
+    "year": -7000,
+    "linked": {
+      "text": "Tanned leather",
+      "link": "/wiki/Tanning_(leather)"
+    },
+    "abbreviation": {
+      "slim": "TL",
+      "descriptive": "TaL",
+      "verbose": "TaLe"
+    },
+    "conflictProperty": "-7000-51"
+  },
+  {
+    "id": "lead-smelting",
+    "year": -6500,
+    "linked": {
+      "text": "lead smelting",
+      "link": "/wiki/Lead_smelting"
+    },
+    "abbreviation": {
+      "slim": "LS",
+      "descriptive": "LeS",
+      "verbose": "LeSm"
+    },
+    "conflictProperty": "-6500-52"
+  },
+  {
+    "id": "kiln",
+    "year": -6000,
+    "linked": {
+      "text": "Kiln",
+      "link": "/wiki/Kiln"
+    },
+    "abbreviation": {
+      "slim": "K",
+      "descriptive": "Ki",
+      "verbose": "Ki"
+    },
+    "conflictProperty": "-6000-53"
+  },
+  {
+    "id": "irrigation",
+    "year": -6,
+    "linked": {
+      "text": "Irrigation",
+      "link": "/wiki/Irrigation"
+    },
+    "abbreviation": {
+      "slim": "I",
+      "descriptive": "Ir",
+      "verbose": "Ir"
+    },
+    "conflictProperty": "-6-54"
+  },
+  {
+    "id": "salt-production",
+    "year": -5900,
+    "linked": {
+      "text": "salt production",
+      "link": "/wiki/Salt_production"
+    },
+    "abbreviation": {
+      "slim": "SP",
+      "descriptive": "SaP",
+      "verbose": "SaPr"
+    },
+    "conflictProperty": "-5900-56"
+  },
+  {
+    "id": "cheese",
+    "year": -5500,
+    "linked": {
+      "text": "cheese",
+      "link": "/wiki/Cheese"
+    },
+    "abbreviation": {
+      "slim": "C",
+      "descriptive": "Ch",
+      "verbose": "Ch"
+    },
+    "conflictProperty": "-5500-57"
+  },
+  {
+    "id": "sailing",
+    "year": -5500,
+    "linked": {
+      "text": "Sailing",
+      "link": "/wiki/Sailing"
+    },
+    "abbreviation": {
+      "slim": "S",
+      "descriptive": "Sa",
+      "verbose": "Sa"
+    },
+    "conflictProperty": "-5500-58"
+  },
+  {
+    "id": "copper-smelting",
+    "year": -5000,
+    "linked": {
+      "text": "Copper smelting",
+      "link": "/wiki/Smelting#Copper_and_bronze"
+    },
+    "abbreviation": {
+      "slim": "CS",
+      "descriptive": "CoS",
+      "verbose": "CoSm"
+    },
+    "conflictProperty": "-5000-59"
+  },
+  {
+    "id": "seawall",
+    "year": -5000,
+    "linked": {
+      "text": "Seawall",
+      "link": "/wiki/Seawall"
+    },
+    "abbreviation": {
+      "slim": "S",
+      "descriptive": "Se",
+      "verbose": "Se"
+    },
+    "conflictProperty": "-5000-60"
+  },
+  {
+    "id": "lacquer",
+    "year": -5,
+    "linked": {
+      "text": "Lacquer",
+      "link": "/wiki/Lacquer"
+    },
+    "abbreviation": {
+      "slim": "L",
+      "descriptive": "La",
+      "verbose": "La"
+    },
+    "conflictProperty": "-5-61"
+  },
+  {
+    "id": "cotton",
+    "year": -5000,
+    "linked": {
+      "text": "Cotton",
+      "link": "/wiki/Cotton"
+    },
+    "abbreviation": {
+      "slim": "C",
+      "descriptive": "Co",
+      "verbose": "Co"
+    },
+    "conflictProperty": "-5000-62"
+  },
+  {
+    "id": "rowing-oars",
+    "year": -5000,
+    "linked": {
+      "text": "Rowing oars",
+      "link": "/wiki/Oar"
+    },
+    "abbreviation": {
+      "slim": "RO",
+      "descriptive": "RoO",
+      "verbose": "RoOa"
+    },
+    "conflictProperty": "-5000-63"
+  },
+  {
+    "id": "lost-wax-casting",
+    "year": -4500,
+    "linked": {
+      "text": "Lost-wax casting",
+      "link": "/wiki/Lost-wax_casting"
+    },
+    "abbreviation": {
+      "slim": "LC",
+      "descriptive": "LoC",
+      "verbose": "LoCa"
+    },
+    "conflictProperty": "-4500-64"
+  },
+  {
+    "id": "fired-bricks",
+    "year": -4400,
+    "linked": {
+      "text": "Fired bricks",
+      "link": "/wiki/Brick#Fired_brick"
+    },
+    "abbreviation": {
+      "slim": "FB",
+      "descriptive": "FiB",
+      "verbose": "FiBr"
+    },
+    "conflictProperty": "-4400-65"
+  },
+  {
+    "id": "diamond-mining",
+    "year": -4000,
+    "linked": {
+      "link": "/wiki/https://en.wikipedia.org",
+      "text": "Diamond Mining"
+    },
+    "abbreviation": {
+      "slim": "DM",
+      "descriptive": "DiM",
+      "verbose": "DiMi"
+    },
+    "conflictProperty": "-4000-66"
+  },
+  {
+    "id": "roads",
+    "year": -4000,
+    "linked": {
+      "text": "roads",
+      "link": "/wiki/Roads"
+    },
+    "abbreviation": {
+      "slim": "R",
+      "descriptive": "Ro",
+      "verbose": "Ro"
+    },
+    "conflictProperty": "-4000-67"
+  },
+  {
+    "id": "plumbing",
+    "year": -4000,
+    "linked": {
+      "text": "Plumbing",
+      "link": "/wiki/Plumbing"
+    },
+    "abbreviation": {
+      "slim": "P",
+      "descriptive": "Pl",
+      "verbose": "Pl"
+    },
+    "conflictProperty": "-4000-68"
+  },
+  {
+    "id": "locks",
+    "year": -4000,
+    "linked": {
+      "text": "locks",
+      "link": "/wiki/Lock_and_key"
+    },
+    "abbreviation": {
+      "slim": "L",
+      "descriptive": "Lo",
+      "verbose": "Lo"
+    },
+    "conflictProperty": "-4000-69"
+  },
+  {
+    "id": "wheels",
+    "year": -4000,
+    "linked": {
+      "text": "wheels",
+      "link": "/wiki/Wheel"
+    },
+    "abbreviation": {
+      "slim": "W",
+      "descriptive": "Wh",
+      "verbose": "Wh"
+    },
+    "conflictProperty": "-4000-70"
+  },
+  {
+    "id": "silk-garments",
+    "year": -3630,
+    "linked": {
+      "text": "Silk Garments",
+      "link": "/wiki/Sericulture"
+    },
+    "abbreviation": {
+      "slim": "SG",
+      "descriptive": "SiG",
+      "verbose": "SiGa"
+    },
+    "conflictProperty": "-3630-71"
+  },
+  {
+    "id": "domestication-of-the-horse",
+    "year": -3500,
+    "linked": {
+      "text": "domestication of the horse",
+      "link": "/wiki/Domestication_of_the_horse"
+    },
+    "abbreviation": {
+      "slim": "DH",
+      "descriptive": "DootH",
+      "verbose": "DootHo"
+    },
+    "conflictProperty": "-3500-72"
+  },
+  {
+    "id": "general-anaesthesia",
+    "year": -3500,
+    "linked": {
+      "text": "general anaesthesia",
+      "link": "/wiki/General_anaesthesia"
+    },
+    "abbreviation": {
+      "slim": "GA",
+      "descriptive": "GeA",
+      "verbose": "GeAn"
+    },
+    "conflictProperty": "-3500-73"
+  },
+  {
+    "id": "ploughing",
+    "year": -3500,
+    "linked": {
+      "text": "Ploughing",
+      "link": "/wiki/Ploughing"
+    },
+    "abbreviation": {
+      "slim": "P",
+      "descriptive": "Pl",
+      "verbose": "Pl"
+    },
+    "conflictProperty": "-3500-75"
+  },
+  {
+    "id": "tattoos",
+    "year": -3400,
+    "linked": {
+      "text": "Tattoos",
+      "link": "/wiki/Tattoo"
+    },
+    "abbreviation": {
+      "slim": "T",
+      "descriptive": "Ta",
+      "verbose": "Ta"
+    },
+    "conflictProperty": "-3400-76"
+  },
+  {
+    "id": "writing",
+    "year": -4,
+    "linked": {
+      "text": "Writing",
+      "link": "/wiki/Writing"
+    },
+    "abbreviation": {
+      "slim": "W",
+      "descriptive": "Wr",
+      "verbose": "Wr"
+    },
+    "conflictProperty": "-4-77"
+  },
+  {
+    "id": "swords",
+    "year": -3300,
+    "linked": {
+      "text": "swords",
+      "link": "/wiki/Sword"
+    },
+    "abbreviation": {
+      "slim": "S",
+      "descriptive": "Sw",
+      "verbose": "Sw"
+    },
+    "conflictProperty": "-3300-78"
+  },
+  {
+    "id": "city",
+    "year": -3300,
+    "linked": {
+      "text": "City",
+      "link": "/wiki/City"
+    },
+    "abbreviation": {
+      "slim": "C",
+      "descriptive": "Ci",
+      "verbose": "Ci"
+    },
+    "conflictProperty": "-3300-79"
+  },
+  {
+    "id": "hats",
+    "year": -3250,
+    "linked": {
+      "text": "hats",
+      "link": "/wiki/Hat"
+    },
+    "abbreviation": {
+      "slim": "H",
+      "descriptive": "Ha",
+      "verbose": "Ha"
+    },
+    "conflictProperty": "-3250-80"
+  },
+  {
+    "id": "latrines",
+    "year": -3200,
+    "linked": {
+      "text": "Latrines",
+      "link": "/wiki/Latrine"
+    },
+    "abbreviation": {
+      "slim": "L",
+      "descriptive": "La",
+      "verbose": "La"
+    },
+    "conflictProperty": "-3200-81"
+  },
+  {
+    "id": "ljubljana-marshes-wheel",
+    "year": -3200,
+    "linked": {
+      "text": "Ljubljana Marshes Wheel",
+      "link": "/wiki/Ljubljana_Marshes_Wheel"
+    },
+    "abbreviation": {
+      "slim": "LMW",
+      "descriptive": "LjMW",
+      "verbose": "LjMaWh"
+    },
+    "conflictProperty": "-3200-82"
+  },
+  {
+    "id": "dice",
+    "year": -3000,
+    "linked": {
+      "text": "dice",
+      "link": "/wiki/Dice"
+    },
+    "abbreviation": {
+      "slim": "D",
+      "descriptive": "Di",
+      "verbose": "Di"
+    },
+    "conflictProperty": "-3000-83"
+  },
+  {
+    "id": "tin",
+    "year": -3000,
+    "linked": {
+      "text": "Tin",
+      "link": "/wiki/Tin"
+    },
+    "abbreviation": {
+      "slim": "T",
+      "descriptive": "Ti",
+      "verbose": "Ti"
+    },
+    "conflictProperty": "-3000-84"
+  },
+  {
+    "id": "papyrus",
+    "year": -3000,
+    "linked": {
+      "text": "Papyrus",
+      "link": "/wiki/Papyrus"
+    },
+    "abbreviation": {
+      "slim": "P",
+      "descriptive": "Pa",
+      "verbose": "Pa"
+    },
+    "conflictProperty": "-3000-85"
+  },
+  {
+    "id": "reservoir",
+    "year": -3000,
+    "linked": {
+      "text": "Reservoir",
+      "link": "/wiki/Reservoir"
+    },
+    "abbreviation": {
+      "slim": "R",
+      "descriptive": "Re",
+      "verbose": "Re"
+    },
+    "conflictProperty": "-3000-86"
+  },
+  {
+    "id": "receipt",
+    "year": -3000,
+    "linked": {
+      "text": "Receipt",
+      "link": "/wiki/Receipt"
+    },
+    "abbreviation": {
+      "slim": "R",
+      "descriptive": "Re",
+      "verbose": "Re"
+    },
+    "conflictProperty": "-3000-87"
+  },
+  {
+    "id": "prosthesis",
+    "year": -3000,
+    "linked": {
+      "text": "Prosthesis",
+      "link": "/wiki/Prosthesis"
+    },
+    "abbreviation": {
+      "slim": "P",
+      "descriptive": "Pr",
+      "verbose": "Pr"
+    },
+    "conflictProperty": "-3000-88"
+  },
+  {
+    "id": "rhinoplasty",
+    "year": -3000,
+    "linked": {
+      "text": "Rhinoplasty",
+      "link": "/wiki/Rhinoplasty"
+    },
+    "abbreviation": {
+      "slim": "R",
+      "descriptive": "Rh",
+      "verbose": "Rh"
+    },
+    "conflictProperty": "-3000-89"
+  },
+  {
+    "id": "ruler",
+    "year": -2650,
+    "linked": {
+      "text": "Ruler",
+      "link": "/wiki/Ruler"
+    },
+    "abbreviation": {
+      "slim": "R",
+      "descriptive": "Ru",
+      "verbose": "Ru"
+    },
+    "conflictProperty": "-2650-90"
+  },
+  {
+    "id": "planned-city",
+    "year": -2600,
+    "linked": {
+      "text": "Planned city",
+      "link": "/wiki/Planned_city"
+    },
+    "abbreviation": {
+      "slim": "PC",
+      "descriptive": "PlC",
+      "verbose": "PlCi"
+    },
+    "conflictProperty": "-2600-91"
+  },
+  {
+    "id": "public-sewage-and-sanitation-systems",
+    "year": -2600,
+    "linked": {
+      "text": "Public Sewage and Sanitation Systems",
+      "link": "/wiki/Sanitation_of_the_Indus_Valley_Civilisation"
+    },
+    "abbreviation": {
+      "slim": "PSASS",
+      "descriptive": "PuSASS",
+      "verbose": "PuSeAnSaSy"
+    },
+    "conflictProperty": "-2600-92"
+  },
+  {
+    "id": "public-bath",
+    "year": -2600,
+    "linked": {
+      "text": "Public bath",
+      "link": "/wiki/Great_Bath,_Mohenjo-daro"
+    },
+    "abbreviation": {
+      "slim": "PB",
+      "descriptive": "PuB",
+      "verbose": "PuBa"
+    },
+    "conflictProperty": "-2600-93"
+  },
+  {
+    "id": "levee",
+    "year": -2600,
+    "linked": {
+      "text": "Levee",
+      "link": "/wiki/Levee"
+    },
+    "abbreviation": {
+      "slim": "L",
+      "descriptive": "Le",
+      "verbose": "Le"
+    },
+    "conflictProperty": "-2600-94"
+  },
+  {
+    "id": "balance-weights-and-scales",
+    "year": -2600,
+    "linked": {
+      "text": "Balance weights and scales",
+      "link": "/wiki/Weighing_scale"
+    },
+    "abbreviation": {
+      "slim": "BWAS",
+      "descriptive": "BaWAS",
+      "verbose": "BaWeAnSc"
+    },
+    "conflictProperty": "-2600-95"
+  },
+  {
+    "id": "docks",
+    "year": -2556,
+    "linked": {
+      "text": "Docks",
+      "link": "/wiki/Dock_(maritime)"
+    },
+    "abbreviation": {
+      "slim": "D",
+      "descriptive": "Do",
+      "verbose": "Do"
+    },
+    "conflictProperty": "-2556-96"
+  },
+  {
+    "id": "puppetry",
+    "year": -2500,
+    "linked": {
+      "text": "Puppetry",
+      "link": "/wiki/Puppetry"
+    },
+    "abbreviation": {
+      "slim": "P",
+      "descriptive": "Pu",
+      "verbose": "Pu"
+    },
+    "conflictProperty": "-2500-97"
+  },
+  {
+    "id": "fork",
+    "year": -2400,
+    "linked": {
+      "text": "Fork",
+      "link": "/wiki/Fork"
+    },
+    "abbreviation": {
+      "slim": "F",
+      "descriptive": "Fo",
+      "verbose": "Fo"
+    },
+    "conflictProperty": "-2400-98"
+  },
+  {
+    "id": "copper-pipes",
+    "year": -2400,
+    "linked": {
+      "text": "Copper pipes",
+      "link": "/wiki/History_of_water_supply_and_sanitation#Ancient_Egypt"
+    },
+    "abbreviation": {
+      "slim": "CP",
+      "descriptive": "CoP",
+      "verbose": "CoPi"
+    },
+    "conflictProperty": "-2400-99"
+  },
+  {
+    "id": "touchstone",
+    "year": -2400,
+    "linked": {
+      "text": "Touchstone",
+      "link": "/wiki/Touchstone_(assaying_tool)"
+    },
+    "abbreviation": {
+      "slim": "T",
+      "descriptive": "To",
+      "verbose": "To"
+    },
+    "conflictProperty": "-2400-100"
+  },
+  {
+    "id": "dictionary",
+    "year": -2300,
+    "linked": {
+      "text": "Dictionary",
+      "link": "/wiki/Dictionary"
+    },
+    "abbreviation": {
+      "slim": "D",
+      "descriptive": "Di",
+      "verbose": "Di"
+    },
+    "conflictProperty": "-2300-101"
+  },
+  {
+    "id": "iron-smelting",
+    "year": -2200,
+    "linked": {
+      "text": "Iron smelting",
+      "link": "/wiki/Iron_smelting"
+    },
+    "abbreviation": {
+      "slim": "IS",
+      "descriptive": "IrS",
+      "verbose": "IrSm"
+    },
+    "conflictProperty": "-2200-102"
+  },
+  {
+    "id": "protractor",
+    "year": -2200,
+    "linked": {
+      "text": "Protractor",
+      "link": "/wiki/Protractor"
+    },
+    "abbreviation": {
+      "slim": "P",
+      "descriptive": "Pr",
+      "verbose": "Pr"
+    },
+    "conflictProperty": "-2200-103"
+  },
+  {
+    "id": "water-clock",
+    "year": -2000,
+    "linked": {
+      "text": "Water clock",
+      "link": "/wiki/Water_clock"
+    },
+    "abbreviation": {
+      "slim": "WC",
+      "descriptive": "WaC",
+      "verbose": "WaCl"
+    },
+    "conflictProperty": "-2000-104"
+  },
+  {
+    "id": "chariot",
+    "year": -2000,
+    "linked": {
+      "text": "Chariot",
+      "link": "/wiki/Chariot"
+    },
+    "abbreviation": {
+      "slim": "C",
+      "descriptive": "Ch",
+      "verbose": "Ch"
+    },
+    "conflictProperty": "-2000-105"
+  },
+  {
+    "id": "fountain",
+    "year": -2000,
+    "linked": {
+      "text": "Fountain",
+      "link": "/wiki/Fountain"
+    },
+    "abbreviation": {
+      "slim": "F",
+      "descriptive": "Fo",
+      "verbose": "Fo"
+    },
+    "conflictProperty": "-2000-106"
+  },
+  {
+    "id": "scissors",
+    "year": -2000,
+    "linked": {
+      "text": "Scissors",
+      "link": "/wiki/Scissors"
+    },
+    "abbreviation": {
+      "slim": "S",
+      "descriptive": "Sc",
+      "verbose": "Sc"
+    },
+    "conflictProperty": "-2000-107"
+  },
+  {
+    "id": "proto-city",
+    "year": -8000,
+    "linked": {
+      "text": "Proto-city",
+      "link": "/wiki/Proto-city"
+    },
+    "abbreviation": {
+      "slim": "PC",
+      "descriptive": "PrC",
+      "verbose": "PrCi"
+    },
+    "conflictProperty": "-8000-48"
+  },
+  {
+    "id": "proto-alphabet",
+    "year": -1850,
+    "linked": {
+      "text": "Proto-Alphabet",
+      "link": "/wiki/Proto-Sinaitic_script"
+    },
+    "abbreviation": {
+      "slim": "PA",
+      "descriptive": "PrA",
+      "verbose": "PrAl"
+    },
+    "conflictProperty": "-1850-108"
+  },
+  {
+    "id": "proto-writing",
+    "year": -6000,
+    "linked": {
+      "text": "Proto-writing",
+      "link": "/wiki/Proto-writing"
+    },
+    "abbreviation": {
+      "slim": "PW",
+      "descriptive": "PrW",
+      "verbose": "PrWr"
+    },
+    "conflictProperty": "-6000-55"
+  },
+  {
+    "id": "surgical-treatise",
+    "year": -1600,
+    "linked": {
+      "text": "Surgical treatise",
+      "link": "/wiki/Edwin_Smith_Papyrus"
+    },
+    "abbreviation": {
+      "slim": "ST",
+      "descriptive": "SuT",
+      "verbose": "SuTr"
+    },
+    "conflictProperty": "-1600-109"
+  },
+  {
+    "id": "sundial",
+    "year": -1500,
+    "linked": {
+      "text": "Sundial",
+      "link": "/wiki/Sundial"
+    },
+    "abbreviation": {
+      "slim": "S",
+      "descriptive": "Su",
+      "verbose": "Su"
+    },
+    "conflictProperty": "-1500-110"
+  },
+  {
+    "id": "glass",
+    "year": -1500,
+    "linked": {
+      "text": "Glass",
+      "link": "/wiki/Glass"
+    },
+    "abbreviation": {
+      "slim": "G",
+      "descriptive": "Gl",
+      "verbose": "Gl"
+    },
+    "conflictProperty": "-1500-111"
+  },
+  {
+    "id": "seed-drill",
+    "year": -1500,
+    "linked": {
+      "text": "Seed drill",
+      "link": "/wiki/Seed_drill"
+    },
+    "abbreviation": {
+      "slim": "SD",
+      "descriptive": "SeD",
+      "verbose": "SeDr"
+    },
+    "conflictProperty": "-1500-112"
+  },
+  {
+    "id": "prosthetic",
+    "year": -1500,
+    "linked": {
+      "text": "Prosthetic",
+      "link": "/wiki/Prosthetic"
+    },
+    "abbreviation": {
+      "slim": "P",
+      "descriptive": "Pr",
+      "verbose": "Pr"
+    },
+    "conflictProperty": "-1500-113"
+  },
+  {
+    "id": "rubber",
+    "year": -1400,
+    "linked": {
+      "text": "Rubber",
+      "link": "/wiki/Mesoamerican_rubber_balls"
+    },
+    "abbreviation": {
+      "slim": "R",
+      "descriptive": "Ru",
+      "verbose": "Ru"
+    },
+    "conflictProperty": "-1400-114"
+  },
+  {
+    "id": "concrete",
+    "year": -1400,
+    "linked": {
+      "text": "Concrete",
+      "link": "/wiki/Concrete"
+    },
+    "abbreviation": {
+      "slim": "C",
+      "descriptive": "Co",
+      "verbose": "Co"
+    },
+    "conflictProperty": "-1400-115"
+  },
+  {
+    "id": "lathe",
+    "year": -1300,
+    "linked": {
+      "text": "Lathe",
+      "link": "/wiki/Lathe"
+    },
+    "abbreviation": {
+      "slim": "L",
+      "descriptive": "La",
+      "verbose": "La"
+    },
+    "conflictProperty": "-1300-116"
+  },
+  {
+    "id": "distillation",
+    "year": -1200,
+    "linked": {
+      "text": "Distillation",
+      "link": "/wiki/Distillation"
+    },
+    "abbreviation": {
+      "slim": "D",
+      "descriptive": "Di",
+      "verbose": "Di"
+    },
+    "conflictProperty": "-1200-117"
+  },
+  {
+    "id": "star-catalogue",
+    "year": 1100,
+    "linked": {
+      "text": "Star catalogue",
+      "link": "/wiki/Star_catalogue"
+    },
+    "abbreviation": {
+      "slim": "SC",
+      "descriptive": "StC",
+      "verbose": "StCa"
+    },
+    "conflictProperty": "1100-118"
+  },
+  {
+    "id": "saddle",
+    "year": -700,
+    "linked": {
+      "text": "Saddle",
+      "link": "/wiki/Saddle"
+    },
+    "abbreviation": {
+      "slim": "S",
+      "descriptive": "Sa",
+      "verbose": "Sa"
+    },
+    "conflictProperty": "-700-119"
+  },
+  {
+    "id": "library-catalog",
+    "year": -8000,
+    "linked": {
+      "text": "library catalog",
+      "link": "/wiki/Library_catalog"
+    },
+    "abbreviation": {
+      "slim": "LC",
+      "descriptive": "LiC",
+      "verbose": "LiCa"
+    },
+    "conflictProperty": "-8000-120"
+  },
+  {
+    "id": "waterproof-concrete",
+    "year": -688,
+    "linked": {
+      "link": "/wiki/https://en.wikipedia.org",
+      "text": "Waterproof concrete"
+    },
+    "abbreviation": {
+      "slim": "WC",
+      "descriptive": "WaC",
+      "verbose": "WaCo"
+    },
+    "conflictProperty": "-688-121"
+  },
+  {
+    "id": "crossbow",
+    "year": -650,
+    "linked": {
+      "text": "Crossbow",
+      "link": "/wiki/Crossbow"
+    },
+    "abbreviation": {
+      "slim": "C",
+      "descriptive": "Cr",
+      "verbose": "Cr"
+    },
+    "conflictProperty": "-650-122"
+  },
+  {
+    "id": "windmills",
+    "year": -650,
+    "linked": {
+      "text": "Windmills",
+      "link": "/wiki/Windmill"
+    },
+    "abbreviation": {
+      "slim": "W",
+      "descriptive": "Wi",
+      "verbose": "Wi"
+    },
+    "conflictProperty": "-650-123"
+  },
+  {
+    "id": "coins",
+    "year": -600,
+    "linked": {
+      "text": "Coins",
+      "link": "/wiki/Coins"
+    },
+    "abbreviation": {
+      "slim": "C",
+      "descriptive": "Co",
+      "verbose": "Co"
+    },
+    "conflictProperty": "-600-124"
+  },
+  {
+    "id": "wagonway",
+    "year": -7000,
+    "linked": {
+      "text": "Wagonway",
+      "link": "/wiki/Wagonway"
+    },
+    "abbreviation": {
+      "slim": "W",
+      "descriptive": "Wa",
+      "verbose": "Wa"
+    },
+    "conflictProperty": "-7000-125"
+  },
+  {
+    "id": "high-carbon-steel",
+    "year": 5000,
+    "linked": {
+      "text": "High Carbon Steel",
+      "link": "/wiki/Steel#Wootz_steel_and_Damascus_steel"
+    },
+    "abbreviation": {
+      "slim": "HCS",
+      "descriptive": "HiCS",
+      "verbose": "HiCaSt"
+    },
+    "conflictProperty": "5000-126"
+  },
+  {
+    "id": "university",
+    "year": -7000,
+    "linked": {
+      "text": "University",
+      "link": "/wiki/University"
+    },
+    "abbreviation": {
+      "slim": "U",
+      "descriptive": "Un",
+      "verbose": "Un"
+    },
+    "conflictProperty": "-7000-127"
+  },
+  {
+    "id": "cataract-surgery",
+    "year": -7000,
+    "linked": {
+      "text": "cataract surgery",
+      "link": "/wiki/Cataract_surgery"
+    },
+    "abbreviation": {
+      "slim": "CS",
+      "descriptive": "CaS",
+      "verbose": "CaSu"
+    },
+    "conflictProperty": "-7000-128"
+  },
+  {
+    "id": "crank",
+    "year": -6000,
+    "linked": {
+      "text": "Crank",
+      "link": "/wiki/Crank_(mechanism)"
+    },
+    "abbreviation": {
+      "slim": "C",
+      "descriptive": "Cr",
+      "verbose": "Cr"
+    },
+    "conflictProperty": "-6000-129"
+  },
+  {
+    "id": "loan-deeds",
+    "year": -6000,
+    "linked": {
+      "text": "Loan deeds",
+      "link": "/wiki/Deed"
+    },
+    "abbreviation": {
+      "slim": "LD",
+      "descriptive": "LoD",
+      "verbose": "LoDe"
+    },
+    "conflictProperty": "-6000-130"
+  },
+  {
+    "id": "lighthouse",
+    "year": -500,
+    "linked": {
+      "text": "Lighthouse",
+      "link": "/wiki/Lighthouse"
+    },
+    "abbreviation": {
+      "slim": "L",
+      "descriptive": "Li",
+      "verbose": "Li"
+    },
+    "conflictProperty": "-500-131"
+  },
+  {
+    "id": "toe-stirrup",
+    "year": -500,
+    "linked": {
+      "text": "Toe stirrup",
+      "link": "/wiki/Stirrup#Precursors"
+    },
+    "abbreviation": {
+      "slim": "TS",
+      "descriptive": "ToS",
+      "verbose": "ToSt"
+    },
+    "conflictProperty": "-500-132"
+  },
+  {
+    "id": "catapult",
+    "year": -485,
+    "linked": {
+      "text": "Catapult",
+      "link": "/wiki/Catapult"
+    },
+    "abbreviation": {
+      "slim": "C",
+      "descriptive": "Ca",
+      "verbose": "Ca"
+    },
+    "conflictProperty": "-485-133"
+  },
+  {
+    "id": "scythed-chariot",
+    "year": -485,
+    "linked": {
+      "link": "/wiki/https://en.wikipedia.org",
+      "text": "Scythed Chariot"
+    },
+    "abbreviation": {
+      "slim": "SC",
+      "descriptive": "ScC",
+      "verbose": "ScCh"
+    },
+    "conflictProperty": "-485-134"
+  },
+  {
+    "id": "cast-iron",
+    "year": -6000,
+    "linked": {
+      "text": "Cast iron",
+      "link": "/wiki/Cast_iron"
+    },
+    "abbreviation": {
+      "slim": "CI",
+      "descriptive": "CaI",
+      "verbose": "CaIr"
+    },
+    "conflictProperty": "-6000-135"
+  },
+  {
+    "id": "spiral-stairs",
+    "year": -480,
+    "linked": {
+      "text": "Spiral stairs",
+      "link": "/wiki/Spiral_stairs"
+    },
+    "abbreviation": {
+      "slim": "SS",
+      "descriptive": "SpS",
+      "verbose": "SpSt"
+    },
+    "conflictProperty": "-480-136"
+  },
+  {
+    "id": "wheelbarrow",
+    "year": -407,
+    "linked": {
+      "text": "Wheelbarrow",
+      "link": "/wiki/Wheelbarrow"
+    },
+    "abbreviation": {
+      "slim": "W",
+      "descriptive": "Wh",
+      "verbose": "Wh"
+    },
+    "conflictProperty": "-407-137"
+  },
+  {
+    "id": "camera-obscura",
+    "year": -400,
+    "linked": {
+      "text": "Camera obscura",
+      "link": "/wiki/Camera_obscura"
+    },
+    "abbreviation": {
+      "slim": "CO",
+      "descriptive": "CaO",
+      "verbose": "CaOb"
+    },
+    "conflictProperty": "-400-138"
+  },
+  {
+    "id": "traction-trebuchet",
+    "year": -5000,
+    "linked": {
+      "text": "Traction trebuchet",
+      "link": "/wiki/Trebuchet"
+    },
+    "abbreviation": {
+      "slim": "TT",
+      "descriptive": "TrT",
+      "verbose": "TrTr"
+    },
+    "conflictProperty": "-5000-139"
+  },
+  {
+    "id": "gears",
+    "year": -5000,
+    "linked": {
+      "text": "Gears",
+      "link": "/wiki/Gear"
+    },
+    "abbreviation": {
+      "slim": "G",
+      "descriptive": "Ge",
+      "verbose": "Ge"
+    },
+    "conflictProperty": "-5000-140"
+  },
+  {
+    "id": "reed-pens",
+    "year": -5000,
+    "linked": {
+      "text": "Reed pens",
+      "link": "/wiki/Reed_pen"
+    },
+    "abbreviation": {
+      "slim": "RP",
+      "descriptive": "ReP",
+      "verbose": "RePe"
+    },
+    "conflictProperty": "-5000-141"
+  },
+  {
+    "id": "horseshoe",
+    "year": -5000,
+    "linked": {
+      "text": "Horseshoe",
+      "link": "/wiki/Horseshoe"
+    },
+    "abbreviation": {
+      "slim": "H",
+      "descriptive": "Ho",
+      "verbose": "Ho"
+    },
+    "conflictProperty": "-5000-142"
+  },
+  {
+    "id": "animal-driven-rotary-mill",
+    "year": -375,
+    "linked": {
+      "text": "Animal-driven rotary mill",
+      "link": "/wiki/Horse_mill"
+    },
+    "abbreviation": {
+      "slim": "ADRM",
+      "descriptive": "AnDRM",
+      "verbose": "AnDrRoMi"
+    },
+    "conflictProperty": "-375-143"
+  },
+  {
+    "id": "corporations",
+    "year": -4000,
+    "linked": {
+      "text": "Corporations",
+      "link": "/wiki/Corporation"
+    },
+    "abbreviation": {
+      "slim": "C",
+      "descriptive": "Co",
+      "verbose": "Co"
+    },
+    "conflictProperty": "-4000-144"
+  },
+  {
+    "id": "cheque",
+    "year": -4000,
+    "linked": {
+      "text": "Cheque",
+      "link": "/wiki/Cheque"
+    },
+    "abbreviation": {
+      "slim": "C",
+      "descriptive": "Ch",
+      "verbose": "Ch"
+    },
+    "conflictProperty": "-4000-145"
+  },
+  {
+    "id": "potassium-nitrate",
+    "year": -4000,
+    "linked": {
+      "text": "Potassium nitrate",
+      "link": "/wiki/Potassium_nitrate"
+    },
+    "abbreviation": {
+      "slim": "PN",
+      "descriptive": "PoN",
+      "verbose": "PoNi"
+    },
+    "conflictProperty": "-4000-146"
+  },
+  {
+    "id": "formal-systems",
+    "year": -4000,
+    "linked": {
+      "text": "Formal systems",
+      "link": "/wiki/Formal_system"
+    },
+    "abbreviation": {
+      "slim": "FS",
+      "descriptive": "FoS",
+      "verbose": "FoSy"
+    },
+    "conflictProperty": "-4000-147"
+  },
+  {
+    "id": "zinc-production",
+    "year": -5000,
+    "linked": {
+      "text": "Zinc production",
+      "link": "/wiki/Zinc_mining#History"
+    },
+    "abbreviation": {
+      "slim": "ZP",
+      "descriptive": "ZiP",
+      "verbose": "ZiPr"
+    },
+    "conflictProperty": "-5000-148"
+  },
+  {
+    "id": "analog-computers",
+    "year": -4000,
+    "linked": {
+      "text": "Analog computers",
+      "link": "/wiki/Analog_computer"
+    },
+    "abbreviation": {
+      "slim": "AC",
+      "descriptive": "AnC",
+      "verbose": "AnCo"
+    },
+    "conflictProperty": "-4000-149"
+  },
+  {
+    "id": "hydraulic-machines",
+    "year": -4000,
+    "linked": {
+      "text": "Hydraulic Machines",
+      "link": "/wiki/Archimedes%27_screw"
+    },
+    "abbreviation": {
+      "slim": "HM",
+      "descriptive": "HyM",
+      "verbose": "HyMa"
+    },
+    "conflictProperty": "-4000-150"
+  },
+  {
+    "id": "canal-lock",
+    "year": -4000,
+    "linked": {
+      "text": "Canal lock",
+      "link": "/wiki/Lock_(water_transport)"
+    },
+    "abbreviation": {
+      "slim": "CL",
+      "descriptive": "CaL",
+      "verbose": "CaLo"
+    },
+    "conflictProperty": "-4000-151"
+  },
+  {
+    "id": "cam",
+    "year": -4000,
+    "linked": {
+      "text": "Cam",
+      "link": "/wiki/Cam_(mechanism)"
+    },
+    "abbreviation": {
+      "slim": "C",
+      "descriptive": "Ca",
+      "verbose": "Ca"
+    },
+    "conflictProperty": "-4000-152"
+  },
+  {
+    "id": "water-wheel",
+    "year": -4000,
+    "linked": {
+      "text": "Water wheel",
+      "link": "/wiki/Water_wheel"
+    },
+    "abbreviation": {
+      "slim": "WW",
+      "descriptive": "WaW",
+      "verbose": "WaWh"
+    },
+    "conflictProperty": "-4000-153"
+  },
+  {
+    "id": "gimbal",
+    "year": -4000,
+    "linked": {
+      "text": "Gimbal",
+      "link": "/wiki/Gimbal"
+    },
+    "abbreviation": {
+      "slim": "G",
+      "descriptive": "Gi",
+      "verbose": "Gi"
+    },
+    "conflictProperty": "-4000-154"
+  },
+  {
+    "id": "dry-dock",
+    "year": -3000,
+    "linked": {
+      "text": "Dry dock",
+      "link": "/wiki/Dry_dock"
+    },
+    "abbreviation": {
+      "slim": "DD",
+      "descriptive": "DrD",
+      "verbose": "DrDo"
+    },
+    "conflictProperty": "-3000-155"
+  },
+  {
+    "id": "blast-furnace",
+    "year": -4000,
+    "linked": {
+      "text": "Blast furnace",
+      "link": "/wiki/Blast_furnace"
+    },
+    "abbreviation": {
+      "slim": "BF",
+      "descriptive": "BlF",
+      "verbose": "BlFu"
+    },
+    "conflictProperty": "-4000-156"
+  },
+  {
+    "id": "paper",
+    "year": -3000,
+    "linked": {
+      "text": "Paper",
+      "link": "/wiki/Paper"
+    },
+    "abbreviation": {
+      "slim": "P",
+      "descriptive": "Pa",
+      "verbose": "Pa"
+    },
+    "conflictProperty": "-3000-157"
+  },
+  {
+    "id": "compass",
+    "year": -206,
+    "linked": {
+      "text": "Compass",
+      "link": "/wiki/Compass"
+    },
+    "abbreviation": {
+      "slim": "C",
+      "descriptive": "Co",
+      "verbose": "Co"
+    },
+    "conflictProperty": "-206-158"
+  },
+  {
+    "id": "astrolabe",
+    "year": -3000,
+    "linked": {
+      "text": "Astrolabe",
+      "link": "/wiki/Astrolabe"
+    },
+    "abbreviation": {
+      "slim": "A",
+      "descriptive": "As",
+      "verbose": "As"
+    },
+    "conflictProperty": "-3000-159"
+  },
+  {
+    "id": "arch-bridge",
+    "year": -2000,
+    "linked": {
+      "text": "arch bridge",
+      "link": "/wiki/Arch_bridge"
+    },
+    "abbreviation": {
+      "slim": "AB",
+      "descriptive": "ArB",
+      "verbose": "ArBr"
+    },
+    "conflictProperty": "-2000-160"
+  },
+  {
+    "id": "newspaper",
+    "year": -2000,
+    "linked": {
+      "text": "newspaper",
+      "link": "/wiki/Newspaper"
+    },
+    "abbreviation": {
+      "slim": "N",
+      "descriptive": "Ne",
+      "verbose": "Ne"
+    },
+    "conflictProperty": "-2000-161"
+  },
+  {
+    "id": "arch-dam",
+    "year": -2000,
+    "linked": {
+      "text": "Arch dam",
+      "link": "/wiki/Arch_dam"
+    },
+    "abbreviation": {
+      "slim": "AD",
+      "descriptive": "ArD",
+      "verbose": "ArDa"
+    },
+    "conflictProperty": "-2000-162"
+  },
+  {
+    "id": "trip-hammer",
+    "year": -40,
+    "linked": {
+      "text": "Trip hammer",
+      "link": "/wiki/Trip_hammer"
+    },
+    "abbreviation": {
+      "slim": "TH",
+      "descriptive": "TrH",
+      "verbose": "TrHa"
+    },
+    "conflictProperty": "-40-163"
+  },
+  {
+    "id": "zero",
+    "year": -38,
+    "linked": {
+      "text": "zero",
+      "link": "/wiki/0#Pre-Columbian_Americas"
+    },
+    "abbreviation": {
+      "slim": "Z",
+      "descriptive": "Ze",
+      "verbose": "Ze"
+    },
+    "conflictProperty": "-38-164"
+  },
+  {
+    "id": "glass-blowing",
+    "year": -37,
+    "linked": {
+      "text": "Glass blowing",
+      "link": "/wiki/Glass_blowing"
+    },
+    "abbreviation": {
+      "slim": "GB",
+      "descriptive": "GlB",
+      "verbose": "GlBl"
+    },
+    "conflictProperty": "-37-165"
+  },
+  {
+    "id": "reverse-overshot-water-wheel",
+    "year": -25,
+    "linked": {
+      "text": "Reverse overshot water wheel",
+      "link": "/wiki/Reverse_overshot_water_wheel"
+    },
+    "abbreviation": {
+      "slim": "ROWW",
+      "descriptive": "ReOWW",
+      "verbose": "ReOvWaWh"
+    },
+    "conflictProperty": "-25-166"
+  },
+  {
+    "id": "noodle",
+    "year": -25,
+    "linked": {
+      "text": "Noodle",
+      "link": "/wiki/Noodle"
+    },
+    "abbreviation": {
+      "slim": "N",
+      "descriptive": "No",
+      "verbose": "No"
+    },
+    "conflictProperty": "-25-167"
+  },
+  {
+    "id": "steam-turbine",
+    "year": 0,
+    "linked": {
+      "text": "steam turbine",
+      "link": "/wiki/Steam_turbine"
+    },
+    "abbreviation": {
+      "slim": "ST",
+      "descriptive": "StT",
+      "verbose": "StTu"
+    },
+    "conflictProperty": "0-168"
+  },
+  {
+    "id": "respiratory-protective-equipment",
+    "year": 0,
+    "linked": {
+      "text": "respiratory protective equipment",
+      "link": "/wiki/Respiratory_protective_equipment"
+    },
+    "abbreviation": {
+      "slim": "RPE",
+      "descriptive": "RePE",
+      "verbose": "RePrEq"
+    },
+    "conflictProperty": "0-169"
+  },
+  {
+    "id": "wine",
+    "year": 0,
+    "linked": {
+      "text": "wine",
+      "link": "/wiki/Wine"
+    },
+    "abbreviation": {
+      "slim": "W",
+      "descriptive": "Wi",
+      "verbose": "Wi"
+    },
+    "conflictProperty": "0-170"
+  },
+  {
+    "id": "vending-machines",
+    "year": 0,
+    "linked": {
+      "text": "Vending machines",
+      "link": "/wiki/Vending_machine"
+    },
+    "abbreviation": {
+      "slim": "VM",
+      "descriptive": "VeM",
+      "verbose": "VeMa"
+    },
+    "conflictProperty": "0-171"
+  },
+  {
+    "id": "double-entry-bookkeeping-system",
+    "year": 0,
+    "linked": {
+      "text": "double-entry bookkeeping system",
+      "link": "/wiki/Double-entry_bookkeeping"
+    },
+    "abbreviation": {
+      "slim": "DEBS",
+      "descriptive": "DoEBS",
+      "verbose": "DoEnBoSy"
+    },
+    "conflictProperty": "0-172"
+  },
+  {
+    "id": "seismometer",
+    "year": 132,
+    "linked": {
+      "text": "Seismometer",
+      "link": "/wiki/Seismometer"
+    },
+    "abbreviation": {
+      "slim": "S",
+      "descriptive": "Se",
+      "verbose": "Se"
+    },
+    "conflictProperty": "132-173"
+  },
+  {
+    "id": "carding",
+    "year": 2,
+    "linked": {
+      "text": "Carding",
+      "link": "/wiki/Carding"
+    },
+    "abbreviation": {
+      "slim": "C",
+      "descriptive": "Ca",
+      "verbose": "Ca"
+    },
+    "conflictProperty": "2-174"
+  },
+  {
+    "id": "crystallized-sugar",
+    "year": 3,
+    "linked": {
+      "link": "/wiki/https://en.wikipedia.org",
+      "text": "Crystallized Sugar"
+    },
+    "abbreviation": {
+      "slim": "CS",
+      "descriptive": "CrS",
+      "verbose": "CrSu"
+    },
+    "conflictProperty": "3-175"
+  },
+  {
+    "id": "woodblock-printing",
+    "year": 3,
+    "linked": {
+      "text": "Woodblock printing",
+      "link": "/wiki/Woodblock_printing"
+    },
+    "abbreviation": {
+      "slim": "WP",
+      "descriptive": "WoP",
+      "verbose": "WoPr"
+    },
+    "conflictProperty": "3-176"
+  },
+  {
+    "id": "water-turbine",
+    "year": 3,
+    "linked": {
+      "text": "Water turbine",
+      "link": "/wiki/Water_turbine"
+    },
+    "abbreviation": {
+      "slim": "WT",
+      "descriptive": "WaT",
+      "verbose": "WaTu"
+    },
+    "conflictProperty": "3-177"
+  },
+  {
+    "id": "chaturanga",
+    "year": 280,
+    "linked": {
+      "text": "Chaturanga",
+      "link": "/wiki/Chaturanga"
+    },
+    "abbreviation": {
+      "slim": "C",
+      "descriptive": "Ch",
+      "verbose": "Ch"
+    },
+    "conflictProperty": "280-178"
+  },
+  {
+    "id": "dichroic-glass",
+    "year": 4,
+    "linked": {
+      "text": "Dichroic glass",
+      "link": "/wiki/Dichroic_glass"
+    },
+    "abbreviation": {
+      "slim": "DG",
+      "descriptive": "DiG",
+      "verbose": "DiGl"
+    },
+    "conflictProperty": "4-179"
+  },
+  {
+    "id": "mariners-compass",
+    "year": 4,
+    "linked": {
+      "text": "Mariner's compass",
+      "link": "/wiki/Compass"
+    },
+    "abbreviation": {
+      "slim": "MSC",
+      "descriptive": "MaSC",
+      "verbose": "MaSCo"
+    },
+    "conflictProperty": "4-180"
+  },
+  {
+    "id": "simple-suspension-bridge",
+    "year": 4,
+    "linked": {
+      "text": "Simple suspension bridge",
+      "link": "/wiki/Simple_suspension_bridge#History"
+    },
+    "abbreviation": {
+      "slim": "SSB",
+      "descriptive": "SiSB",
+      "verbose": "SiSuBr"
+    },
+    "conflictProperty": "4-181"
+  },
+  {
+    "id": "fishing-reel",
+    "year": 4,
+    "linked": {
+      "text": "Fishing reel",
+      "link": "/wiki/Fishing_reel"
+    },
+    "abbreviation": {
+      "slim": "FR",
+      "descriptive": "FiR",
+      "verbose": "FiRe"
+    },
+    "conflictProperty": "4-182"
+  },
+  {
+    "id": "oil-wells",
+    "year": 347,
+    "linked": {
+      "text": "Oil Wells",
+      "link": "/wiki/Oil_Well"
+    },
+    "abbreviation": {
+      "slim": "OW",
+      "descriptive": "OiW",
+      "verbose": "OiWe"
+    },
+    "conflictProperty": "347-183"
+  },
+  {
+    "id": "iron-pillar-of-delhi",
+    "year": 400,
+    "linked": {
+      "text": "Iron pillar of Delhi",
+      "link": "/wiki/Iron_pillar_of_Delhi"
+    },
+    "abbreviation": {
+      "slim": "IPD",
+      "descriptive": "IrPoD",
+      "verbose": "IrPioDe"
+    },
+    "conflictProperty": "400-184"
+  },
+  {
+    "id": "horse-collar",
+    "year": 5,
+    "linked": {
+      "text": "horse collar",
+      "link": "/wiki/Horse_collar"
+    },
+    "abbreviation": {
+      "slim": "HC",
+      "descriptive": "HoC",
+      "verbose": "HoCo"
+    },
+    "conflictProperty": "5-185"
+  },
+  {
+    "id": "pointed-arch-bridge",
+    "year": 5,
+    "linked": {
+      "text": "Pointed arch bridge",
+      "link": "/wiki/Pointed_arch_bridge"
+    },
+    "abbreviation": {
+      "slim": "PAB",
+      "descriptive": "PoAB",
+      "verbose": "PoArBr"
+    },
+    "conflictProperty": "5-186"
+  },
+  {
+    "id": "incense-clock",
+    "year": 6,
+    "linked": {
+      "text": "Incense clock",
+      "link": "/wiki/Incense_clock"
+    },
+    "abbreviation": {
+      "slim": "IC",
+      "descriptive": "InC",
+      "verbose": "InCl"
+    },
+    "conflictProperty": "6-187"
+  },
+  {
+    "id": "charkha",
+    "year": 500,
+    "linked": {
+      "text": "Charkha",
+      "link": "/wiki/Charkha_(spinning_wheel)"
+    },
+    "abbreviation": {
+      "slim": "C",
+      "descriptive": "Ch",
+      "verbose": "Ch"
+    },
+    "conflictProperty": "500-188"
+  },
+  {
+    "id": "pendentive-dome",
+    "year": 563,
+    "linked": {
+      "text": "Pendentive Dome",
+      "link": "/wiki/Pendentive"
+    },
+    "abbreviation": {
+      "slim": "PD",
+      "descriptive": "PeD",
+      "verbose": "PeDo"
+    },
+    "conflictProperty": "563-189"
+  },
+  {
+    "id": "sulfur-matches",
+    "year": 577,
+    "linked": {
+      "text": "Sulfur matches",
+      "link": "/wiki/Match#Early_matches"
+    },
+    "abbreviation": {
+      "slim": "SM",
+      "descriptive": "SuM",
+      "verbose": "SuMa"
+    },
+    "conflictProperty": "577-190"
+  },
+  {
+    "id": "toilet-paper",
+    "year": 589,
+    "linked": {
+      "text": "Toilet paper",
+      "link": "/wiki/Toilet_paper"
+    },
+    "abbreviation": {
+      "slim": "TP",
+      "descriptive": "ToP",
+      "verbose": "ToPa"
+    },
+    "conflictProperty": "589-191"
+  },
+  {
+    "id": "toothbrush",
+    "year": 619,
+    "linked": {
+      "text": "Toothbrush",
+      "link": "/wiki/Toothbrush"
+    },
+    "abbreviation": {
+      "slim": "T",
+      "descriptive": "To",
+      "verbose": "To"
+    },
+    "conflictProperty": "619-192"
+  },
+  {
+    "id": "incendiary-weapon",
+    "year": 672,
+    "linked": {
+      "text": "incendiary weapon",
+      "link": "/wiki/Incendiary_device"
+    },
+    "abbreviation": {
+      "slim": "IW",
+      "descriptive": "InW",
+      "verbose": "InWe"
+    },
+    "conflictProperty": "672-193"
+  },
+  {
+    "id": "banknote",
+    "year": 7,
+    "linked": {
+      "text": "Banknote",
+      "link": "/wiki/Banknote"
+    },
+    "abbreviation": {
+      "slim": "B",
+      "descriptive": "Ba",
+      "verbose": "Ba"
+    },
+    "conflictProperty": "7-194"
+  },
+  {
+    "id": "porcelain",
+    "year": 7,
+    "linked": {
+      "text": "Porcelain",
+      "link": "/wiki/Porcelain"
+    },
+    "abbreviation": {
+      "slim": "P",
+      "descriptive": "Po",
+      "verbose": "Po"
+    },
+    "conflictProperty": "7-195"
+  },
+  {
+    "id": "gunpowder",
+    "year": 9,
+    "linked": {
+      "text": "Gunpowder",
+      "link": "/wiki/Gunpowder"
+    },
+    "abbreviation": {
+      "slim": "G",
+      "descriptive": "Gu",
+      "verbose": "Gu"
+    },
+    "conflictProperty": "9-196"
+  },
+  {
+    "id": "playing-card",
+    "year": 9,
+    "linked": {
+      "text": "Playing card",
+      "link": "/wiki/Playing_card"
+    },
+    "abbreviation": {
+      "slim": "PC",
+      "descriptive": "PlC",
+      "verbose": "PlCa"
+    },
+    "conflictProperty": "9-197"
+  },
+  {
+    "id": "fire-lance",
+    "year": 10,
+    "linked": {
+      "text": "Fire lance",
+      "link": "/wiki/Fire_lance"
+    },
+    "abbreviation": {
+      "slim": "FL",
+      "descriptive": "FiL",
+      "verbose": "FiLa"
+    },
+    "conflictProperty": "10-198"
+  },
+  {
+    "id": "fireworks",
+    "year": 10,
+    "linked": {
+      "text": "Fireworks",
+      "link": "/wiki/Fireworks"
+    },
+    "abbreviation": {
+      "slim": "F",
+      "descriptive": "Fi",
+      "verbose": "Fi"
+    },
+    "conflictProperty": "10-199"
+  },
+  {
+    "id": "fountain-pen",
+    "year": 974,
+    "linked": {
+      "text": "Fountain pen",
+      "link": "/wiki/Fountain_pen"
+    },
+    "abbreviation": {
+      "slim": "FP",
+      "descriptive": "FoP",
+      "verbose": "FoPe"
+    },
+    "conflictProperty": "974-200"
+  },
+  {
+    "id": "bessemer-process",
+    "year": 11,
+    "linked": {
+      "text": "Bessemer process",
+      "link": "/wiki/Bessemer_process"
+    },
+    "abbreviation": {
+      "slim": "BP",
+      "descriptive": "BeP",
+      "verbose": "BePr"
+    },
+    "conflictProperty": "11-201"
+  },
+  {
+    "id": "endless-power-transmitting-chain-drive",
+    "year": 11,
+    "linked": {
+      "text": "Endless power-transmitting chain drive",
+      "link": "/wiki/Su_Song#The_endless_chain_drive"
+    },
+    "abbreviation": {
+      "slim": "EPTCD",
+      "descriptive": "EnPTCD",
+      "verbose": "EnPoTrChDr"
+    },
+    "conflictProperty": "11-202"
+  },
+  {
+    "id": "calicut",
+    "year": 11,
+    "linked": {
+      "text": "Calicut",
+      "link": "/wiki/Kozhikode"
+    },
+    "abbreviation": {
+      "slim": "C",
+      "descriptive": "Ca",
+      "verbose": "Ca"
+    },
+    "conflictProperty": "11-203"
+  },
+  {
+    "id": "movable-type",
+    "year": 1088,
+    "linked": {
+      "text": "Movable type",
+      "link": "/wiki/Movable_type"
+    },
+    "abbreviation": {
+      "slim": "MT",
+      "descriptive": "MoT",
+      "verbose": "MoTy"
+    },
+    "conflictProperty": "1088-204"
+  },
+  {
+    "id": "rocket",
+    "year": 13,
+    "linked": {
+      "text": "Rocket",
+      "link": "/wiki/Rocket"
+    },
+    "abbreviation": {
+      "slim": "R",
+      "descriptive": "Ro",
+      "verbose": "Ro"
+    },
+    "conflictProperty": "13-205"
+  },
+  {
+    "id": "mechanical-escapement",
+    "year": 13,
+    "linked": {
+      "text": "mechanical escapement",
+      "link": "/wiki/Mechanical_escapement"
+    },
+    "abbreviation": {
+      "slim": "ME",
+      "descriptive": "MeE",
+      "verbose": "MeEs"
+    },
+    "conflictProperty": "13-206"
+  },
+  {
+    "id": "buttons",
+    "year": 13,
+    "linked": {
+      "text": "Buttons",
+      "link": "/wiki/Button"
+    },
+    "abbreviation": {
+      "slim": "B",
+      "descriptive": "Bu",
+      "verbose": "Bu"
+    },
+    "conflictProperty": "13-207"
+  },
+  {
+    "id": "explosive-bomb",
+    "year": 13,
+    "linked": {
+      "text": "Explosive bomb",
+      "link": "/wiki/Bomb"
+    },
+    "abbreviation": {
+      "slim": "EB",
+      "descriptive": "ExB",
+      "verbose": "ExBo"
+    },
+    "conflictProperty": "13-208"
+  },
+  {
+    "id": "hand-cannon",
+    "year": 13,
+    "linked": {
+      "text": "Hand cannon",
+      "link": "/wiki/Hand_cannon"
+    },
+    "abbreviation": {
+      "slim": "HC",
+      "descriptive": "HaC",
+      "verbose": "HaCa"
+    },
+    "conflictProperty": "13-209"
+  },
+  {
+    "id": "snow-goggles",
+    "year": 13,
+    "linked": {
+      "text": "snow goggles",
+      "link": "/wiki/Snow_goggles"
+    },
+    "abbreviation": {
+      "slim": "SG",
+      "descriptive": "SnG",
+      "verbose": "SnGo"
+    },
+    "conflictProperty": "13-210"
+  },
+  {
+    "id": "worm-gear-cotton-gin",
+    "year": 13,
+    "linked": {
+      "text": "Worm gear cotton gin",
+      "link": "/wiki/Cotton_gin"
+    },
+    "abbreviation": {
+      "slim": "WGCG",
+      "descriptive": "WoGCG",
+      "verbose": "WoGeCoGi"
+    },
+    "conflictProperty": "13-211"
+  },
+  {
+    "id": "land-mine",
+    "year": 1277,
+    "linked": {
+      "text": "Land mine",
+      "link": "/wiki/Land_mine"
+    },
+    "abbreviation": {
+      "slim": "LM",
+      "descriptive": "LaM",
+      "verbose": "LaMi"
+    },
+    "conflictProperty": "1277-212"
+  },
+  {
+    "id": "eyeglasses",
+    "year": 1286,
+    "linked": {
+      "text": "Eyeglasses",
+      "link": "/wiki/Eyeglasses"
+    },
+    "abbreviation": {
+      "slim": "E",
+      "descriptive": "Ey",
+      "verbose": "Ey"
+    },
+    "conflictProperty": "1286-213"
+  },
+  {
+    "id": "multistage-rocket",
+    "year": 14,
+    "linked": {
+      "text": "Multistage rocket",
+      "link": "/wiki/Multistage_rocket"
+    },
+    "abbreviation": {
+      "slim": "MR",
+      "descriptive": "MuR",
+      "verbose": "MuRo"
+    },
+    "conflictProperty": "14-214"
+  },
+  {
+    "id": "cannon",
+    "year": 1326,
+    "linked": {
+      "text": "Cannon",
+      "link": "/wiki/Cannon"
+    },
+    "abbreviation": {
+      "slim": "C",
+      "descriptive": "Ca",
+      "verbose": "Ca"
+    },
+    "conflictProperty": "1326-215"
+  },
+  {
+    "id": "canvas",
+    "year": 14,
+    "linked": {
+      "text": "Canvas",
+      "link": "/wiki/Canvas"
+    },
+    "abbreviation": {
+      "slim": "C",
+      "descriptive": "Ca",
+      "verbose": "Ca"
+    },
+    "conflictProperty": "14-216"
+  },
+  {
+    "id": "jacobs-staff",
+    "year": 14,
+    "linked": {
+      "text": "Jacob's staff",
+      "link": "/wiki/Jacob%27s_staff"
+    },
+    "abbreviation": {
+      "slim": "JSS",
+      "descriptive": "JaSS",
+      "verbose": "JaSSt"
+    },
+    "conflictProperty": "14-217"
+  },
+  {
+    "id": "naval-mine",
+    "year": 14,
+    "linked": {
+      "text": "Naval mine",
+      "link": "/wiki/Naval_mine"
+    },
+    "abbreviation": {
+      "slim": "NM",
+      "descriptive": "NaM",
+      "verbose": "NaMi"
+    },
+    "conflictProperty": "14-218"
+  },
+  {
+    "id": "bidriware",
+    "year": 14,
+    "linked": {
+      "text": "Bidriware",
+      "link": "/wiki/Bidriware"
+    },
+    "abbreviation": {
+      "slim": "B",
+      "descriptive": "Bi",
+      "verbose": "Bi"
+    },
+    "conflictProperty": "14-219"
+  },
+  {
+    "id": "coil-spring",
+    "year": 15,
+    "linked": {
+      "text": "Coil spring",
+      "link": "/wiki/Coil_spring"
+    },
+    "abbreviation": {
+      "slim": "CS",
+      "descriptive": "CoS",
+      "verbose": "CoSp"
+    },
+    "conflictProperty": "15-220"
+  },
+  {
+    "id": "mainspring",
+    "year": 15,
+    "linked": {
+      "text": "Mainspring",
+      "link": "/wiki/Mainspring"
+    },
+    "abbreviation": {
+      "slim": "M",
+      "descriptive": "Ma",
+      "verbose": "Ma"
+    },
+    "conflictProperty": "15-221"
+  },
+  {
+    "id": "rifle",
+    "year": 15,
+    "linked": {
+      "text": "Rifle",
+      "link": "/wiki/Rifle"
+    },
+    "abbreviation": {
+      "slim": "R",
+      "descriptive": "Ri",
+      "verbose": "Ri"
+    },
+    "conflictProperty": "15-222"
+  },
+  {
+    "id": "brace",
+    "year": 1420,
+    "linked": {
+      "text": "Brace",
+      "link": "/wiki/Brace_(tool)"
+    },
+    "abbreviation": {
+      "slim": "B",
+      "descriptive": "Br",
+      "verbose": "Br"
+    },
+    "conflictProperty": "1420-223"
+  },
+  {
+    "id": "printing-press",
+    "year": 1439,
+    "linked": {
+      "text": "Printing press",
+      "link": "/wiki/Printing_press"
+    },
+    "abbreviation": {
+      "slim": "PP",
+      "descriptive": "PrP",
+      "verbose": "PrPr"
+    },
+    "conflictProperty": "1439-224"
+  },
+  {
+    "id": "arquebus",
+    "year": 15,
+    "linked": {
+      "text": "Arquebus",
+      "link": "/wiki/Arquebus"
+    },
+    "abbreviation": {
+      "slim": "A",
+      "descriptive": "Ar",
+      "verbose": "Ar"
+    },
+    "conflictProperty": "15-225"
+  },
+  {
+    "id": "mariner's-astrolabe",
+    "year": 1480,
+    "linked": {
+      "text": "Mariner's astrolabe",
+      "link": "/wiki/Mariner%27s_astrolabe"
+    },
+    "abbreviation": {
+      "slim": "MSA",
+      "descriptive": "MaSA",
+      "verbose": "MaSAs"
+    },
+    "conflictProperty": "1480-226"
+  },
+  {
+    "id": "chintz",
+    "year": 16,
+    "linked": {
+      "text": "Chintz",
+      "link": "/wiki/Chintz"
+    },
+    "abbreviation": {
+      "slim": "C",
+      "descriptive": "Ch",
+      "verbose": "Ch"
+    },
+    "conflictProperty": "16-227"
+  },
+  {
+    "id": "hookah",
+    "year": 16,
+    "linked": {
+      "text": "Hookah",
+      "link": "/wiki/Hookah"
+    },
+    "abbreviation": {
+      "slim": "H",
+      "descriptive": "Ho",
+      "verbose": "Ho"
+    },
+    "conflictProperty": "16-228"
+  },
+  {
+    "id": "floating-dry-dock",
+    "year": 1560,
+    "linked": {
+      "text": "Floating Dry Dock",
+      "link": "/wiki/Dry_dock#Floating"
+    },
+    "abbreviation": {
+      "slim": "FDD",
+      "descriptive": "FlDD",
+      "verbose": "FlDrDo"
+    },
+    "conflictProperty": "1560-229"
+  },
+  {
+    "id": "mercator-projection",
+    "year": 1569,
+    "linked": {
+      "text": "Mercator Projection",
+      "link": "/wiki/Mercator_Projection"
+    },
+    "abbreviation": {
+      "slim": "MP",
+      "descriptive": "MeP",
+      "verbose": "MePr"
+    },
+    "conflictProperty": "1569-230"
+  },
+  {
+    "id": "stocking-frame",
+    "year": 1589,
+    "linked": {
+      "text": "Stocking frame",
+      "link": "/wiki/Stocking_frame"
+    },
+    "abbreviation": {
+      "slim": "SF",
+      "descriptive": "StF",
+      "verbose": "StFr"
+    },
+    "conflictProperty": "1589-231"
+  },
+  {
+    "id": "backstaff",
+    "year": 1594,
+    "linked": {
+      "text": "Backstaff",
+      "link": "/wiki/Backstaff"
+    },
+    "abbreviation": {
+      "slim": "B",
+      "descriptive": "Ba",
+      "verbose": "Ba"
+    },
+    "conflictProperty": "1594-232"
+  },
+  {
+    "id": "revolver",
+    "year": 1597,
+    "linked": {
+      "text": "Revolver",
+      "link": "/wiki/Revolver"
+    },
+    "abbreviation": {
+      "slim": "R",
+      "descriptive": "Re",
+      "verbose": "Re"
+    },
+    "conflictProperty": "1597-233"
+  },
+  {
+    "id": "newspaper",
+    "year": 1605,
+    "linked": {
+      "text": "Newspaper",
+      "link": "/wiki/Newspaper"
+    },
+    "abbreviation": {
+      "slim": "N",
+      "descriptive": "Ne",
+      "verbose": "Ne"
+    },
+    "conflictProperty": "1605-234"
+  },
+  {
+    "id": "telescope",
+    "year": 1608,
+    "linked": {
+      "text": "Telescope",
+      "link": "/wiki/Telescope"
+    },
+    "abbreviation": {
+      "slim": "T",
+      "descriptive": "Te",
+      "verbose": "Te"
+    },
+    "conflictProperty": "1608-235"
+  },
+  {
+    "id": "compound-microscopes",
+    "year": 1620,
+    "linked": {
+      "text": "Compound microscopes",
+      "link": "/wiki/Optical_microscope#Compound_microscope"
+    },
+    "abbreviation": {
+      "slim": "CM",
+      "descriptive": "CoM",
+      "verbose": "CoMi"
+    },
+    "conflictProperty": "1620-236"
+  },
+  {
+    "id": "slide-rule",
+    "year": 1630,
+    "linked": {
+      "text": "Slide rule",
+      "link": "/wiki/Slide_rule"
+    },
+    "abbreviation": {
+      "slim": "SR",
+      "descriptive": "SlR",
+      "verbose": "SlRu"
+    },
+    "conflictProperty": "1630-237"
+  },
+  {
+    "id": "mechanical-calculator",
+    "year": 1642,
+    "linked": {
+      "text": "Mechanical calculator",
+      "link": "/wiki/Mechanical_calculator"
+    },
+    "abbreviation": {
+      "slim": "MC",
+      "descriptive": "MeC",
+      "verbose": "MeCa"
+    },
+    "conflictProperty": "1642-238"
+  },
+  {
+    "id": "barometer",
+    "year": 1643,
+    "linked": {
+      "text": "Barometer",
+      "link": "/wiki/Barometer"
+    },
+    "abbreviation": {
+      "slim": "B",
+      "descriptive": "Ba",
+      "verbose": "Ba"
+    },
+    "conflictProperty": "1643-239"
+  },
+  {
+    "id": "vacuum-pump",
+    "year": 1650,
+    "linked": {
+      "text": "Vacuum pump",
+      "link": "/wiki/Vacuum_pump"
+    },
+    "abbreviation": {
+      "slim": "VP",
+      "descriptive": "VaP",
+      "verbose": "VaPu"
+    },
+    "conflictProperty": "1650-240"
+  },
+  {
+    "id": "pendulum-clock",
+    "year": 1656,
+    "linked": {
+      "text": "Pendulum clock",
+      "link": "/wiki/Pendulum_clock"
+    },
+    "abbreviation": {
+      "slim": "PC",
+      "descriptive": "PeC",
+      "verbose": "PeCl"
+    },
+    "conflictProperty": "1656-241"
+  },
+  {
+    "id": "friction-machine",
+    "year": 1663,
+    "linked": {
+      "text": "Friction machine",
+      "link": "/wiki/Electrostatic_generator"
+    },
+    "abbreviation": {
+      "slim": "FM",
+      "descriptive": "FrM",
+      "verbose": "FrMa"
+    },
+    "conflictProperty": "1663-242"
+  },
+  {
+    "id": "reflecting-telescope",
+    "year": 1668,
+    "linked": {
+      "text": "reflecting telescope",
+      "link": "/wiki/Reflecting_telescope"
+    },
+    "abbreviation": {
+      "slim": "RT",
+      "descriptive": "ReT",
+      "verbose": "ReTe"
+    },
+    "conflictProperty": "1668-243"
+  },
+  {
+    "id": "pressure-cooker",
+    "year": 1679,
+    "linked": {
+      "text": "Pressure-cooker",
+      "link": "/wiki/Pressure-cooker"
+    },
+    "abbreviation": {
+      "slim": "PC",
+      "descriptive": "PrC",
+      "verbose": "PrCo"
+    },
+    "conflictProperty": "1679-244"
+  },
+  {
+    "id": "piston-engine",
+    "year": 1680,
+    "linked": {
+      "text": "piston engine",
+      "link": "/wiki/Gunpowder_engine"
+    },
+    "abbreviation": {
+      "slim": "PE",
+      "descriptive": "PiE",
+      "verbose": "PiEn"
+    },
+    "conflictProperty": "1680-245"
+  },
+  {
+    "id": "steam-powered-water-pump",
+    "year": 1698,
+    "linked": {
+      "text": "steam-powered water pump",
+      "link": "/wiki/Thomas_Savery#Steam-powered_pump"
+    },
+    "abbreviation": {
+      "slim": "SPWP",
+      "descriptive": "StPWP",
+      "verbose": "StPoWaPu"
+    },
+    "conflictProperty": "1698-246"
+  },
+  {
+    "id": "piano",
+    "year": 1709,
+    "linked": {
+      "text": "piano",
+      "link": "/wiki/Piano"
+    },
+    "abbreviation": {
+      "slim": "P",
+      "descriptive": "Pi",
+      "verbose": "Pi"
+    },
+    "conflictProperty": "1709-247"
+  },
+  {
+    "id": "thermometer",
+    "year": 1709,
+    "linked": {
+      "text": "thermometer",
+      "link": "/wiki/Thermometer"
+    },
+    "abbreviation": {
+      "slim": "T",
+      "descriptive": "Th",
+      "verbose": "Th"
+    },
+    "conflictProperty": "1709-248"
+  },
+  {
+    "id": "first-commercial-steam-engine",
+    "year": 1712,
+    "linked": {
+      "link": "/wiki/https://en.wikipedia.org",
+      "text": "First Commercial Steam Engine"
+    },
+    "abbreviation": {
+      "slim": "FCSE",
+      "descriptive": "FiCSE",
+      "verbose": "FiCoStEn"
+    },
+    "conflictProperty": "1712-249"
+  },
+  {
+    "id": "octant",
+    "year": 1730,
+    "linked": {
+      "text": "octant",
+      "link": "/wiki/Octant_(instrument)"
+    },
+    "abbreviation": {
+      "slim": "O",
+      "descriptive": "Oc",
+      "verbose": "Oc"
+    },
+    "conflictProperty": "1730-250"
+  },
+  {
+    "id": "flying-shuttle",
+    "year": 1733,
+    "linked": {
+      "text": "flying shuttle",
+      "link": "/wiki/Flying_shuttle"
+    },
+    "abbreviation": {
+      "slim": "FS",
+      "descriptive": "FlS",
+      "verbose": "FlSh"
+    },
+    "conflictProperty": "1733-251"
+  },
+  {
+    "id": "mechanized-cotton-spinning-machine",
+    "year": 1738,
+    "linked": {
+      "text": "mechanized cotton spinning machine",
+      "link": "/wiki/Paul-Wyatt_cotton_mills"
+    },
+    "abbreviation": {
+      "slim": "MCSM",
+      "descriptive": "MeCSM",
+      "verbose": "MeCoSpMa"
+    },
+    "conflictProperty": "1738-252"
+  },
+  {
+    "id": "franklin-stove",
+    "year": 1742,
+    "linked": {
+      "text": "Franklin stove",
+      "link": "/wiki/Franklin_stove"
+    },
+    "abbreviation": {
+      "slim": "FS",
+      "descriptive": "FrS",
+      "verbose": "FrSt"
+    },
+    "conflictProperty": "1742-253"
+  },
+  {
+    "id": "capacitor",
+    "year": 1745,
+    "linked": {
+      "text": "capacitor",
+      "link": "/wiki/Capacitor"
+    },
+    "abbreviation": {
+      "slim": "C",
+      "descriptive": "Ca",
+      "verbose": "Ca"
+    },
+    "conflictProperty": "1745-254"
+  },
+  {
+    "id": "lead-chamber-process",
+    "year": 1746,
+    "linked": {
+      "text": "lead chamber process",
+      "link": "/wiki/Lead_chamber_process"
+    },
+    "abbreviation": {
+      "slim": "LCP",
+      "descriptive": "LeCP",
+      "verbose": "LeChPr"
+    },
+    "conflictProperty": "1746-255"
+  },
+  {
+    "id": "lightning-rod",
+    "year": 1752,
+    "linked": {
+      "text": "lightning rod",
+      "link": "/wiki/Lightning_rod"
+    },
+    "abbreviation": {
+      "slim": "LR",
+      "descriptive": "LiR",
+      "verbose": "LiRo"
+    },
+    "conflictProperty": "1752-256"
+  },
+  {
+    "id": "refrigeration",
+    "year": 1755,
+    "linked": {
+      "text": "refrigeration",
+      "link": "/wiki/Refrigeration"
+    },
+    "abbreviation": {
+      "slim": "R",
+      "descriptive": "Re",
+      "verbose": "Re"
+    },
+    "conflictProperty": "1755-257"
+  },
+  {
+    "id": "roller-skates",
+    "year": 1760,
+    "linked": {
+      "text": "Roller skates",
+      "link": "/wiki/Roller_skates"
+    },
+    "abbreviation": {
+      "slim": "RS",
+      "descriptive": "RoS",
+      "verbose": "RoSk"
+    },
+    "conflictProperty": "1760-258"
+  },
+  {
+    "id": "spinning-jenny",
+    "year": 1764,
+    "linked": {
+      "text": "spinning jenny",
+      "link": "/wiki/Spinning_jenny"
+    },
+    "abbreviation": {
+      "slim": "SJ",
+      "descriptive": "SpJ",
+      "verbose": "SpJe"
+    },
+    "conflictProperty": "1764-259"
+  },
+  {
+    "id": "steam-engine",
+    "year": 1765,
+    "linked": {
+      "text": "steam engine",
+      "link": "/wiki/Steam_engine"
+    },
+    "abbreviation": {
+      "slim": "SE",
+      "descriptive": "StE",
+      "verbose": "StEn"
+    },
+    "conflictProperty": "1765-260"
+  },
+  {
+    "id": "carbonated-water",
+    "year": 1767,
+    "linked": {
+      "text": "carbonated water",
+      "link": "/wiki/Carbonated_water"
+    },
+    "abbreviation": {
+      "slim": "CW",
+      "descriptive": "CaW",
+      "verbose": "CaWa"
+    },
+    "conflictProperty": "1767-261"
+  },
+  {
+    "id": "car",
+    "year": 1769,
+    "linked": {
+      "text": "car",
+      "link": "/wiki/Car"
+    },
+    "abbreviation": {
+      "slim": "C",
+      "descriptive": "Ca",
+      "verbose": "Ca"
+    },
+    "conflictProperty": "1769-262"
+  },
+  {
+    "id": "weighing-scale",
+    "year": 1770,
+    "linked": {
+      "text": "weighing scale",
+      "link": "/wiki/Weighing_scale"
+    },
+    "abbreviation": {
+      "slim": "WS",
+      "descriptive": "WeS",
+      "verbose": "WeSc"
+    },
+    "conflictProperty": "1770-263"
+  },
+  {
+    "id": "boring-machine",
+    "year": 1774,
+    "linked": {
+      "text": "Boring Machine",
+      "link": "/wiki/Boring_(manufacturing)"
+    },
+    "abbreviation": {
+      "slim": "BM",
+      "descriptive": "BoM",
+      "verbose": "BoMa"
+    },
+    "conflictProperty": "1774-264"
+  },
+  {
+    "id": "screw-cutting-lathe",
+    "year": 1775,
+    "linked": {
+      "text": "screw-cutting lathe",
+      "link": "/wiki/Screw-cutting_lathe"
+    },
+    "abbreviation": {
+      "slim": "SCL",
+      "descriptive": "ScCL",
+      "verbose": "ScCuLa"
+    },
+    "conflictProperty": "1775-265"
+  },
+  {
+    "id": "air-compressor",
+    "year": 1776,
+    "linked": {
+      "text": "air compressor",
+      "link": "/wiki/Air_compressor"
+    },
+    "abbreviation": {
+      "slim": "AC",
+      "descriptive": "AiC",
+      "verbose": "AiCo"
+    },
+    "conflictProperty": "1776-266"
+  },
+  {
+    "id": "lever-tumbler-lock",
+    "year": 1778,
+    "linked": {
+      "text": "lever tumbler lock",
+      "link": "/wiki/Lever_tumbler_lock"
+    },
+    "abbreviation": {
+      "slim": "LTL",
+      "descriptive": "LeTL",
+      "verbose": "LeTuLo"
+    },
+    "conflictProperty": "1778-267"
+  },
+  {
+    "id": "metal-cylinder-rockets",
+    "year": 1780,
+    "linked": {
+      "text": "metal-cylinder rockets",
+      "link": "/wiki/Mysorean_rockets"
+    },
+    "abbreviation": {
+      "slim": "MCR",
+      "descriptive": "MeCR",
+      "verbose": "MeCyRo"
+    },
+    "conflictProperty": "1780-268"
+  },
+  {
+    "id": "steamboat",
+    "year": 1783,
+    "linked": {
+      "text": "steamboat",
+      "link": "/wiki/Steamboat"
+    },
+    "abbreviation": {
+      "slim": "S",
+      "descriptive": "St",
+      "verbose": "St"
+    },
+    "conflictProperty": "1783-269"
+  },
+  {
+    "id": "hot-air-balloon",
+    "year": 1783,
+    "linked": {
+      "text": "hot air balloon",
+      "link": "/wiki/Hot_air_balloon"
+    },
+    "abbreviation": {
+      "slim": "HAB",
+      "descriptive": "HoAB",
+      "verbose": "HoAiBa"
+    },
+    "conflictProperty": "1783-270"
+  },
+  {
+    "id": "parachute",
+    "year": 1783,
+    "linked": {
+      "text": "parachute",
+      "link": "/wiki/Parachute"
+    },
+    "abbreviation": {
+      "slim": "P",
+      "descriptive": "Pa",
+      "verbose": "Pa"
+    },
+    "conflictProperty": "1783-271"
+  },
+  {
+    "id": "electrolysis",
+    "year": 1785,
+    "linked": {
+      "text": "electrolysis",
+      "link": "/wiki/Electrolysis"
+    },
+    "abbreviation": {
+      "slim": "E",
+      "descriptive": "El",
+      "verbose": "El"
+    },
+    "conflictProperty": "1785-272"
+  },
+  {
+    "id": "threshing-machine",
+    "year": 1786,
+    "linked": {
+      "text": "threshing machine",
+      "link": "/wiki/Threshing_machine"
+    },
+    "abbreviation": {
+      "slim": "TM",
+      "descriptive": "ThM",
+      "verbose": "ThMa"
+    },
+    "conflictProperty": "1786-273"
+  },
+  {
+    "id": "power-loom",
+    "year": 1789,
+    "linked": {
+      "text": "power loom",
+      "link": "/wiki/Power_loom"
+    },
+    "abbreviation": {
+      "slim": "PL",
+      "descriptive": "PoL",
+      "verbose": "PoLo"
+    },
+    "conflictProperty": "1789-274"
+  },
+  {
+    "id": "sewing-machine",
+    "year": 1790,
+    "linked": {
+      "text": "sewing machine",
+      "link": "/wiki/Sewing_machine"
+    },
+    "abbreviation": {
+      "slim": "SM",
+      "descriptive": "SeM",
+      "verbose": "SeMa"
+    },
+    "conflictProperty": "1790-275"
+  },
+  {
+    "id": "telegraph",
+    "year": 1792,
+    "linked": {
+      "text": "telegraph",
+      "link": "/wiki/Telegraph"
+    },
+    "abbreviation": {
+      "slim": "T",
+      "descriptive": "Te",
+      "verbose": "Te"
+    },
+    "conflictProperty": "1792-276"
+  },
+  {
+    "id": "cotton-gin",
+    "year": 1793,
+    "linked": {
+      "text": "cotton gin",
+      "link": "/wiki/Cotton_gin"
+    },
+    "abbreviation": {
+      "slim": "CG",
+      "descriptive": "CoG",
+      "verbose": "CoGi"
+    },
+    "conflictProperty": "1793-277"
+  },
+  {
+    "id": "hydraulic-press",
+    "year": 1795,
+    "linked": {
+      "text": "hydraulic press",
+      "link": "/wiki/Hydraulic_press"
+    },
+    "abbreviation": {
+      "slim": "HP",
+      "descriptive": "HyP",
+      "verbose": "HyPr"
+    },
+    "conflictProperty": "1795-278"
+  },
+  {
+    "id": "lithography",
+    "year": 1796,
+    "linked": {
+      "text": "lithography",
+      "link": "/wiki/Lithography"
+    },
+    "abbreviation": {
+      "slim": "L",
+      "descriptive": "Li",
+      "verbose": "Li"
+    },
+    "conflictProperty": "1796-279"
+  },
+  {
+    "id": "plywood",
+    "year": 1797,
+    "linked": {
+      "text": "plywood",
+      "link": "/wiki/Plywood"
+    },
+    "abbreviation": {
+      "slim": "P",
+      "descriptive": "Pl",
+      "verbose": "Pl"
+    },
+    "conflictProperty": "1797-280"
+  },
+  {
+    "id": "air-compressor",
+    "year": 1799,
+    "linked": {
+      "text": "air compressor",
+      "link": "/wiki/Air_compressor"
+    },
+    "abbreviation": {
+      "slim": "AC",
+      "descriptive": "AiC",
+      "verbose": "AiCo"
+    },
+    "conflictProperty": "1799-281"
+  },
+  {
+    "id": "paper-machine",
+    "year": 1799,
+    "linked": {
+      "text": "paper machine",
+      "link": "/wiki/Paper_machine"
+    },
+    "abbreviation": {
+      "slim": "PM",
+      "descriptive": "PaM",
+      "verbose": "PaMa"
+    },
+    "conflictProperty": "1799-282"
+  },
+  {
+    "id": "voltaic-pile",
+    "year": 1800,
+    "linked": {
+      "text": "voltaic pile",
+      "link": "/wiki/Voltaic_pile"
+    },
+    "abbreviation": {
+      "slim": "VP",
+      "descriptive": "VoP",
+      "verbose": "VoPi"
+    },
+    "conflictProperty": "1800-283"
+  },
+  {
+    "id": "arc-lamp",
+    "year": 1802,
+    "linked": {
+      "text": "arc lamp",
+      "link": "/wiki/Arc_lamp"
+    },
+    "abbreviation": {
+      "slim": "AL",
+      "descriptive": "ArL",
+      "verbose": "ArLa"
+    },
+    "conflictProperty": "1802-284"
+  },
+  {
+    "id": "morphine",
+    "year": 1804,
+    "linked": {
+      "text": "morphine",
+      "link": "/wiki/Morphine"
+    },
+    "abbreviation": {
+      "slim": "M",
+      "descriptive": "Mo",
+      "verbose": "Mo"
+    },
+    "conflictProperty": "1804-285"
+  },
+  {
+    "id": "jacquard-loom",
+    "year": 1804,
+    "linked": {
+      "text": "Jacquard loom",
+      "link": "/wiki/Jacquard_loom"
+    },
+    "abbreviation": {
+      "slim": "JL",
+      "descriptive": "JaL",
+      "verbose": "JaLo"
+    },
+    "conflictProperty": "1804-286"
+  },
+  {
+    "id": "steam-locomotive",
+    "year": 1804,
+    "linked": {
+      "text": "steam locomotive",
+      "link": "/wiki/Steam_locomotive"
+    },
+    "abbreviation": {
+      "slim": "SL",
+      "descriptive": "StL",
+      "verbose": "StLo"
+    },
+    "conflictProperty": "1804-287"
+  },
+  {
+    "id": "general-anesthetic",
+    "year": 1804,
+    "linked": {
+      "text": "general anesthetic",
+      "link": "/wiki/General_anesthetic"
+    },
+    "abbreviation": {
+      "slim": "GA",
+      "descriptive": "GeA",
+      "verbose": "GeAn"
+    },
+    "conflictProperty": "1804-288"
+  },
+  {
+    "id": "internal-combustion-engine",
+    "year": 1807,
+    "linked": {
+      "text": "internal combustion engine",
+      "link": "/wiki/Internal_combustion_engine"
+    },
+    "abbreviation": {
+      "slim": "ICE",
+      "descriptive": "InCE",
+      "verbose": "InCoEn"
+    },
+    "conflictProperty": "1807-289"
+  },
+  {
+    "id": "automobile-internal-combustion-engine",
+    "year": 1807,
+    "linked": {
+      "text": "Automobile Internal Combustion Engine",
+      "link": "/wiki/Internal_combustion_engine"
+    },
+    "abbreviation": {
+      "slim": "AICE",
+      "descriptive": "AuICE",
+      "verbose": "AuInCoEn"
+    },
+    "conflictProperty": "1807-290"
+  },
+  {
+    "id": "workable-steamboat",
+    "year": 1807,
+    "linked": {
+      "link": "/wiki/https://en.wikipedia.org",
+      "text": "Workable Steamboat"
+    },
+    "abbreviation": {
+      "slim": "WS",
+      "descriptive": "WoS",
+      "verbose": "WoSt"
+    },
+    "conflictProperty": "1807-291"
+  },
+  {
+    "id": "canning",
+    "year": 1810,
+    "linked": {
+      "text": "canning",
+      "link": "/wiki/Canning"
+    },
+    "abbreviation": {
+      "slim": "C",
+      "descriptive": "Ca",
+      "verbose": "Ca"
+    },
+    "conflictProperty": "1810-292"
+  },
+  {
+    "id": "wristwatch",
+    "year": 1810,
+    "linked": {
+      "link": "/wiki/https://en.wikipedia.org",
+      "text": "Wristwatch"
+    },
+    "abbreviation": {
+      "slim": "W",
+      "descriptive": "Wr",
+      "verbose": "Wr"
+    },
+    "conflictProperty": "1810-293"
+  },
+  {
+    "id": "printing-press",
+    "year": 1811,
+    "linked": {
+      "text": "printing press",
+      "link": "/wiki/Printing_press"
+    },
+    "abbreviation": {
+      "slim": "PP",
+      "descriptive": "PrP",
+      "verbose": "PrPr"
+    },
+    "conflictProperty": "1811-294"
+  },
+  {
+    "id": "safety-lamp",
+    "year": 1812,
+    "linked": {
+      "text": "safety lamp",
+      "link": "/wiki/Safety_lamp"
+    },
+    "abbreviation": {
+      "slim": "SL",
+      "descriptive": "SaL",
+      "verbose": "SaLa"
+    },
+    "conflictProperty": "1812-295"
+  },
+  {
+    "id": "planing-machine",
+    "year": 1814,
+    "linked": {
+      "text": "planing machine",
+      "link": "/wiki/Planer_(metalworking)"
+    },
+    "abbreviation": {
+      "slim": "PM",
+      "descriptive": "PlM",
+      "verbose": "PlMa"
+    },
+    "conflictProperty": "1814-296"
+  },
+  {
+    "id": "stethoscope",
+    "year": 1816,
+    "linked": {
+      "text": "Stethoscope",
+      "link": "/wiki/Stethoscope"
+    },
+    "abbreviation": {
+      "slim": "S",
+      "descriptive": "St",
+      "verbose": "St"
+    },
+    "conflictProperty": "1816-297"
+  },
+  {
+    "id": "electric-telegraph",
+    "year": 1816,
+    "linked": {
+      "text": "electric telegraph",
+      "link": "/wiki/Electric_telegraph"
+    },
+    "abbreviation": {
+      "slim": "ET",
+      "descriptive": "ElT",
+      "verbose": "ElTe"
+    },
+    "conflictProperty": "1816-298"
+  },
+  {
+    "id": "stirling-engine",
+    "year": 1816,
+    "linked": {
+      "text": "Stirling engine",
+      "link": "/wiki/Stirling_engine"
+    },
+    "abbreviation": {
+      "slim": "SE",
+      "descriptive": "StE",
+      "verbose": "StEn"
+    },
+    "conflictProperty": "1816-299"
+  },
+  {
+    "id": "dandy-horse",
+    "year": 1817,
+    "linked": {
+      "text": "dandy horse",
+      "link": "/wiki/Dandy_horse"
+    },
+    "abbreviation": {
+      "slim": "DH",
+      "descriptive": "DaH",
+      "verbose": "DaHo"
+    },
+    "conflictProperty": "1817-300"
+  },
+  {
+    "id": "tunnelling-shield",
+    "year": 1818,
+    "linked": {
+      "text": "tunnelling shield",
+      "link": "/wiki/Tunnelling_shield"
+    },
+    "abbreviation": {
+      "slim": "TS",
+      "descriptive": "TuS",
+      "verbose": "TuSh"
+    },
+    "conflictProperty": "1818-301"
+  },
+  {
+    "id": "shaper",
+    "year": 1822,
+    "linked": {
+      "text": "shaper",
+      "link": "/wiki/Shaper"
+    },
+    "abbreviation": {
+      "slim": "S",
+      "descriptive": "Sh",
+      "verbose": "Sh"
+    },
+    "conflictProperty": "1822-302"
+  },
+  {
+    "id": "heliography",
+    "year": 1822,
+    "linked": {
+      "text": "Heliography",
+      "link": "/wiki/Heliography"
+    },
+    "abbreviation": {
+      "slim": "H",
+      "descriptive": "He",
+      "verbose": "He"
+    },
+    "conflictProperty": "1822-303"
+  },
+  {
+    "id": "mechanical-computer",
+    "year": 1822,
+    "linked": {
+      "text": "mechanical computer",
+      "link": "/wiki/Mechanical_computer"
+    },
+    "abbreviation": {
+      "slim": "MC",
+      "descriptive": "MeC",
+      "verbose": "MeCo"
+    },
+    "conflictProperty": "1822-304"
+  },
+  {
+    "id": "first-lighter",
+    "year": 1823,
+    "linked": {
+      "text": "first lighter",
+      "link": "/wiki/D%C3%B6bereiner%27s_lamp"
+    },
+    "abbreviation": {
+      "slim": "FL",
+      "descriptive": "FiL",
+      "verbose": "FiLi"
+    },
+    "conflictProperty": "1823-305"
+  },
+  {
+    "id": "bolt-action-rifle",
+    "year": 1824,
+    "linked": {
+      "text": "bolt-action rifle",
+      "link": "/wiki/Bolt_action"
+    },
+    "abbreviation": {
+      "slim": "BAR",
+      "descriptive": "BoAR",
+      "verbose": "BoAcRi"
+    },
+    "conflictProperty": "1824-306"
+  },
+  {
+    "id": "electromagnet",
+    "year": 1824,
+    "linked": {
+      "text": "electromagnet",
+      "link": "/wiki/Electromagnet"
+    },
+    "abbreviation": {
+      "slim": "E",
+      "descriptive": "El",
+      "verbose": "El"
+    },
+    "conflictProperty": "1824-307"
+  },
+  {
+    "id": "match",
+    "year": 1826,
+    "linked": {
+      "text": "match",
+      "link": "/wiki/Match"
+    },
+    "abbreviation": {
+      "slim": "M",
+      "descriptive": "Ma",
+      "verbose": "Ma"
+    },
+    "conflictProperty": "1826-308"
+  },
+  {
+    "id": "gas-stove",
+    "year": 1826,
+    "linked": {
+      "text": "gas stove",
+      "link": "/wiki/Gas_stove"
+    },
+    "abbreviation": {
+      "slim": "GS",
+      "descriptive": "GaS",
+      "verbose": "GaSt"
+    },
+    "conflictProperty": "1826-309"
+  },
+  {
+    "id": "hot-blast",
+    "year": 1828,
+    "linked": {
+      "text": "hot blast",
+      "link": "/wiki/Hot_blast"
+    },
+    "abbreviation": {
+      "slim": "HB",
+      "descriptive": "HoB",
+      "verbose": "HoBl"
+    },
+    "conflictProperty": "1828-310"
+  },
+  {
+    "id": "reaping-machine",
+    "year": 1828,
+    "linked": {
+      "text": "reaping machine",
+      "link": "/wiki/Reaping_machine"
+    },
+    "abbreviation": {
+      "slim": "RM",
+      "descriptive": "ReM",
+      "verbose": "ReMa"
+    },
+    "conflictProperty": "1828-311"
+  },
+  {
+    "id": "electromechanical-machine",
+    "year": 1828,
+    "linked": {
+      "text": "electromechanical machine",
+      "link": "/wiki/Timeline_of_the_electric_motor"
+    },
+    "abbreviation": {
+      "slim": "EM",
+      "descriptive": "ElM",
+      "verbose": "ElMa"
+    },
+    "conflictProperty": "1828-312"
+  },
+  {
+    "id": "braille",
+    "year": 1829,
+    "linked": {
+      "text": "Braille",
+      "link": "/wiki/Braille"
+    },
+    "abbreviation": {
+      "slim": "B",
+      "descriptive": "Br",
+      "verbose": "Br"
+    },
+    "conflictProperty": "1829-313"
+  },
+  {
+    "id": "air-compressor",
+    "year": 1829,
+    "linked": {
+      "text": "air compressor",
+      "link": "/wiki/Air_compressor"
+    },
+    "abbreviation": {
+      "slim": "AC",
+      "descriptive": "AiC",
+      "verbose": "AiCo"
+    },
+    "conflictProperty": "1829-314"
+  },
+  {
+    "id": "corrugated-galvanised-iron",
+    "year": 1829,
+    "linked": {
+      "text": "corrugated galvanised iron",
+      "link": "/wiki/Corrugated_galvanised_iron"
+    },
+    "abbreviation": {
+      "slim": "CGI",
+      "descriptive": "CoGI",
+      "verbose": "CoGaIr"
+    },
+    "conflictProperty": "1829-315"
+  },
+  {
+    "id": "lawn-mower",
+    "year": 1830,
+    "linked": {
+      "text": "lawn mower",
+      "link": "/wiki/Lawn_mower"
+    },
+    "abbreviation": {
+      "slim": "LM",
+      "descriptive": "LaM",
+      "verbose": "LaMo"
+    },
+    "conflictProperty": "1830-316"
+  },
+  {
+    "id": "electromagnetic-induction",
+    "year": 1831,
+    "linked": {
+      "text": "electromagnetic induction",
+      "link": "/wiki/Electromagnetic_induction"
+    },
+    "abbreviation": {
+      "slim": "EI",
+      "descriptive": "ElI",
+      "verbose": "ElIn"
+    },
+    "conflictProperty": "1831-317"
+  },
+  {
+    "id": "electric-motor",
+    "year": 1834,
+    "linked": {
+      "text": "electric motor",
+      "link": "/wiki/Electric_motor"
+    },
+    "abbreviation": {
+      "slim": "EM",
+      "descriptive": "ElM",
+      "verbose": "ElMo"
+    },
+    "conflictProperty": "1834-318"
+  },
+  {
+    "id": "relay",
+    "year": 1835,
+    "linked": {
+      "text": "relay",
+      "link": "/wiki/Relay"
+    },
+    "abbreviation": {
+      "slim": "R",
+      "descriptive": "Re",
+      "verbose": "Re"
+    },
+    "conflictProperty": "1835-319"
+  },
+  {
+    "id": "morse-code",
+    "year": 1837,
+    "linked": {
+      "text": "Morse code",
+      "link": "/wiki/Morse_code"
+    },
+    "abbreviation": {
+      "slim": "MC",
+      "descriptive": "MoC",
+      "verbose": "MoCo"
+    },
+    "conflictProperty": "1837-320"
+  },
+  {
+    "id": "electrotyping",
+    "year": 1838,
+    "linked": {
+      "text": "electrotyping",
+      "link": "/wiki/Electrotyping"
+    },
+    "abbreviation": {
+      "slim": "E",
+      "descriptive": "El",
+      "verbose": "El"
+    },
+    "conflictProperty": "1838-321"
+  },
+  {
+    "id": "steam-shovel",
+    "year": 1839,
+    "linked": {
+      "text": "steam shovel",
+      "link": "/wiki/Steam_shovel"
+    },
+    "abbreviation": {
+      "slim": "SS",
+      "descriptive": "StS",
+      "verbose": "StSh"
+    },
+    "conflictProperty": "1839-322"
+  },
+  {
+    "id": "steam-hammer",
+    "year": 1839,
+    "linked": {
+      "text": "steam hammer",
+      "link": "/wiki/Steam_hammer"
+    },
+    "abbreviation": {
+      "slim": "SH",
+      "descriptive": "StH",
+      "verbose": "StHa"
+    },
+    "conflictProperty": "1839-323"
+  },
+  {
+    "id": "photovoltaic-effect",
+    "year": 1839,
+    "linked": {
+      "text": "photovoltaic effect",
+      "link": "/wiki/Photovoltaic_effect"
+    },
+    "abbreviation": {
+      "slim": "PE",
+      "descriptive": "PhE",
+      "verbose": "PhEf"
+    },
+    "conflictProperty": "1839-324"
+  },
+  {
+    "id": "vulcanized-rubber",
+    "year": 1839,
+    "linked": {
+      "text": "vulcanized rubber",
+      "link": "/wiki/Vulcanization"
+    },
+    "abbreviation": {
+      "slim": "VR",
+      "descriptive": "VuR",
+      "verbose": "VuRu"
+    },
+    "conflictProperty": "1839-325"
+  },
+  {
+    "id": "daguerreotype",
+    "year": 1839,
+    "linked": {
+      "text": "daguerreotype",
+      "link": "/wiki/Daguerreotype"
+    },
+    "abbreviation": {
+      "slim": "D",
+      "descriptive": "Da",
+      "verbose": "Da"
+    },
+    "conflictProperty": "1839-326"
+  },
+  {
+    "id": "blueprint",
+    "year": 1840,
+    "linked": {
+      "text": "blueprint",
+      "link": "/wiki/Blueprint"
+    },
+    "abbreviation": {
+      "slim": "B",
+      "descriptive": "Bl",
+      "verbose": "Bl"
+    },
+    "conflictProperty": "1840-327"
+  },
+  {
+    "id": "printing-telegraph",
+    "year": 1841,
+    "linked": {
+      "link": "/wiki/https://en.wikipedia.org",
+      "text": "Printing Telegraph"
+    },
+    "abbreviation": {
+      "slim": "PT",
+      "descriptive": "PrT",
+      "verbose": "PrTe"
+    },
+    "conflictProperty": "1841-328"
+  },
+  {
+    "id": "fuel-cell",
+    "year": 1842,
+    "linked": {
+      "text": "fuel cell",
+      "link": "/wiki/Fuel_cell"
+    },
+    "abbreviation": {
+      "slim": "FC",
+      "descriptive": "FuC",
+      "verbose": "FuCe"
+    },
+    "conflictProperty": "1842-329"
+  },
+  {
+    "id": "superphosphate",
+    "year": 1842,
+    "linked": {
+      "text": "superphosphate",
+      "link": "/wiki/Superphosphate"
+    },
+    "abbreviation": {
+      "slim": "S",
+      "descriptive": "Su",
+      "verbose": "Su"
+    },
+    "conflictProperty": "1842-330"
+  },
+  {
+    "id": "wood-pulp-paper",
+    "year": 1844,
+    "linked": {
+      "link": "/wiki/https://en.wikipedia.org",
+      "text": "Wood Pulp Paper"
+    },
+    "abbreviation": {
+      "slim": "WPP",
+      "descriptive": "WoPP",
+      "verbose": "WoPuPa"
+    },
+    "conflictProperty": "1844-331"
+  },
+  {
+    "id": "hypodermic-needle",
+    "year": 1844,
+    "linked": {
+      "text": "hypodermic needle",
+      "link": "/wiki/Hypodermic_needle"
+    },
+    "abbreviation": {
+      "slim": "HN",
+      "descriptive": "HyN",
+      "verbose": "HyNe"
+    },
+    "conflictProperty": "1844-332"
+  },
+  {
+    "id": "portland-cement",
+    "year": 1845,
+    "linked": {
+      "text": "Portland cement",
+      "link": "/wiki/Portland_cement"
+    },
+    "abbreviation": {
+      "slim": "PC",
+      "descriptive": "PoC",
+      "verbose": "PoCe"
+    },
+    "conflictProperty": "1845-333"
+  },
+  {
+    "id": "tunnel-boring-machine",
+    "year": 1846,
+    "linked": {
+      "text": "tunnel boring machine",
+      "link": "/wiki/Tunnel_boring_machine"
+    },
+    "abbreviation": {
+      "slim": "TBM",
+      "descriptive": "TuBM",
+      "verbose": "TuBoMa"
+    },
+    "conflictProperty": "1846-334"
+  },
+  {
+    "id": "nitroglycerin",
+    "year": 1847,
+    "linked": {
+      "text": "Nitroglycerin",
+      "link": "/wiki/Nitroglycerin"
+    },
+    "abbreviation": {
+      "slim": "N",
+      "descriptive": "Ni",
+      "verbose": "Ni"
+    },
+    "conflictProperty": "1847-335"
+  },
+  {
+    "id": "pneumatic-drill",
+    "year": 1848,
+    "linked": {
+      "text": "pneumatic drill",
+      "link": "/wiki/Jackhammer"
+    },
+    "abbreviation": {
+      "slim": "PD",
+      "descriptive": "PnD",
+      "verbose": "PnDr"
+    },
+    "conflictProperty": "1848-336"
+  },
+  {
+    "id": "pin-tumbler-lock",
+    "year": 1848,
+    "linked": {
+      "text": "pin tumbler lock",
+      "link": "/wiki/Pin_tumbler_lock"
+    },
+    "abbreviation": {
+      "slim": "PTL",
+      "descriptive": "PiTL",
+      "verbose": "PiTuLo"
+    },
+    "conflictProperty": "1848-337"
+  },
+  {
+    "id": "repeating-rifle",
+    "year": 1849,
+    "linked": {
+      "text": "repeating rifle",
+      "link": "/wiki/Repeating_rifle"
+    },
+    "abbreviation": {
+      "slim": "RR",
+      "descriptive": "ReR",
+      "verbose": "ReRi"
+    },
+    "conflictProperty": "1849-338"
+  },
+  {
+    "id": "francis-turbine",
+    "year": 1849,
+    "linked": {
+      "text": "Francis turbine",
+      "link": "/wiki/Francis_turbine"
+    },
+    "abbreviation": {
+      "slim": "FT",
+      "descriptive": "FrT",
+      "verbose": "FrTu"
+    },
+    "conflictProperty": "1849-339"
+  },
+  {
+    "id": "safety-pin",
+    "year": 1849,
+    "linked": {
+      "text": "Safety pin",
+      "link": "/wiki/Safety_pin"
+    },
+    "abbreviation": {
+      "slim": "SP",
+      "descriptive": "SaP",
+      "verbose": "SaPi"
+    },
+    "conflictProperty": "1849-340"
+  },
+  {
+    "id": "hydraulic-accumulator",
+    "year": 1850,
+    "linked": {
+      "text": "hydraulic accumulator",
+      "link": "/wiki/Hydraulic_accumulator"
+    },
+    "abbreviation": {
+      "slim": "HA",
+      "descriptive": "HyA",
+      "verbose": "HyAc"
+    },
+    "conflictProperty": "1850-341"
+  },
+  {
+    "id": "public-flush-toilets",
+    "year": 1851,
+    "linked": {
+      "link": "/wiki/https://en.wikipedia.org",
+      "text": "Public Flush Toilets"
+    },
+    "abbreviation": {
+      "slim": "PFT",
+      "descriptive": "PuFT",
+      "verbose": "PuFlTo"
+    },
+    "conflictProperty": "1851-342"
+  },
+  {
+    "id": "chemical-vapor-deposition",
+    "year": 1852,
+    "linked": {
+      "text": "chemical vapor deposition",
+      "link": "/wiki/Chemical_vapor_deposition"
+    },
+    "abbreviation": {
+      "slim": "CVD",
+      "descriptive": "ChVD",
+      "verbose": "ChVaDe"
+    },
+    "conflictProperty": "1852-343"
+  },
+  {
+    "id": "safety-brake-elevator",
+    "year": 1852,
+    "linked": {
+      "link": "/wiki/https://en.wikipedia.org",
+      "text": "Safety Brake Elevator"
+    },
+    "abbreviation": {
+      "slim": "SBE",
+      "descriptive": "SaBE",
+      "verbose": "SaBrEl"
+    },
+    "conflictProperty": "1852-344"
+  },
+  {
+    "id": "dirigible",
+    "year": 1852,
+    "linked": {
+      "text": "dirigible",
+      "link": "/wiki/Dirigible"
+    },
+    "abbreviation": {
+      "slim": "D",
+      "descriptive": "Di",
+      "verbose": "Di"
+    },
+    "conflictProperty": "1852-345"
+  },
+  {
+    "id": "reinforced-concrete",
+    "year": 1853,
+    "linked": {
+      "text": "reinforced concrete",
+      "link": "/wiki/Reinforced_concrete"
+    },
+    "abbreviation": {
+      "slim": "RC",
+      "descriptive": "ReC",
+      "verbose": "ReCo"
+    },
+    "conflictProperty": "1853-346"
+  },
+  {
+    "id": "color-photography",
+    "year": 1855,
+    "linked": {
+      "text": "color photography",
+      "link": "/wiki/Color_photography"
+    },
+    "abbreviation": {
+      "slim": "CP",
+      "descriptive": "CoP",
+      "verbose": "CoPh"
+    },
+    "conflictProperty": "1855-347"
+  },
+  {
+    "id": "bessemer-process",
+    "year": 1855,
+    "linked": {
+      "text": "Bessemer process",
+      "link": "/wiki/Bessemer_process"
+    },
+    "abbreviation": {
+      "slim": "BP",
+      "descriptive": "BeP",
+      "verbose": "BePr"
+    },
+    "conflictProperty": "1855-348"
+  },
+  {
+    "id": "parkesine",
+    "year": 1856,
+    "linked": {
+      "text": "parkesine",
+      "link": "/wiki/Parkesine"
+    },
+    "abbreviation": {
+      "slim": "P",
+      "descriptive": "Pa",
+      "verbose": "Pa"
+    },
+    "conflictProperty": "1856-349"
+  },
+  {
+    "id": "ice-making-machine",
+    "year": 1856,
+    "linked": {
+      "link": "/wiki/https://en.wikipedia.org",
+      "text": "Ice Making Machine"
+    },
+    "abbreviation": {
+      "slim": "IMM",
+      "descriptive": "IcMM",
+      "verbose": "IcMaMa"
+    },
+    "conflictProperty": "1856-350"
+  },
+  {
+    "id": "mauveine",
+    "year": 1856,
+    "linked": {
+      "text": "mauveine",
+      "link": "/wiki/Mauveine"
+    },
+    "abbreviation": {
+      "slim": "M",
+      "descriptive": "Ma",
+      "verbose": "Ma"
+    },
+    "conflictProperty": "1856-351"
+  },
+  {
+    "id": "geissler-tube",
+    "year": 1857,
+    "linked": {
+      "text": "Geissler tube",
+      "link": "/wiki/Geissler_tube"
+    },
+    "abbreviation": {
+      "slim": "GT",
+      "descriptive": "GeT",
+      "verbose": "GeTu"
+    },
+    "conflictProperty": "1857-352"
+  },
+  {
+    "id": "phonautograph",
+    "year": 1857,
+    "linked": {
+      "text": "phonautograph",
+      "link": "/wiki/Phonautograph"
+    },
+    "abbreviation": {
+      "slim": "P",
+      "descriptive": "Ph",
+      "verbose": "Ph"
+    },
+    "conflictProperty": "1857-353"
+  },
+  {
+    "id": "lead-acid-battery",
+    "year": 1859,
+    "linked": {
+      "text": "lead acid battery",
+      "link": "/wiki/Lead-acid"
+    },
+    "abbreviation": {
+      "slim": "LAB",
+      "descriptive": "LeAB",
+      "verbose": "LeAcBa"
+    },
+    "conflictProperty": "1859-354"
+  },
+  {
+    "id": "carbon-fibers",
+    "year": 1860,
+    "linked": {
+      "text": "carbon fibers",
+      "link": "/wiki/Carbon_fibers"
+    },
+    "abbreviation": {
+      "slim": "CF",
+      "descriptive": "CaF",
+      "verbose": "CaFi"
+    },
+    "conflictProperty": "1860-355"
+  },
+  {
+    "id": "pasteurization",
+    "year": 1864,
+    "linked": {
+      "text": "pasteurization",
+      "link": "/wiki/Pasteurization"
+    },
+    "abbreviation": {
+      "slim": "P",
+      "descriptive": "Pa",
+      "verbose": "Pa"
+    },
+    "conflictProperty": "1864-356"
+  },
+  {
+    "id": "siemens-martin",
+    "year": 1865,
+    "linked": {
+      "link": "/wiki/https://en.wikipedia.org",
+      "text": "Siemens-Martin"
+    },
+    "abbreviation": {
+      "slim": "SM",
+      "descriptive": "SiM",
+      "verbose": "SiMa"
+    },
+    "conflictProperty": "1865-357"
+  },
+  {
+    "id": "dynamite",
+    "year": 1867,
+    "linked": {
+      "text": "dynamite",
+      "link": "/wiki/Dynamite"
+    },
+    "abbreviation": {
+      "slim": "D",
+      "descriptive": "Dy",
+      "verbose": "Dy"
+    },
+    "conflictProperty": "1867-358"
+  },
+  {
+    "id": "barbed-wire",
+    "year": 1867,
+    "linked": {
+      "text": "barbed wire",
+      "link": "/wiki/Barbed_wire"
+    },
+    "abbreviation": {
+      "slim": "BW",
+      "descriptive": "BaW",
+      "verbose": "BaWi"
+    },
+    "conflictProperty": "1867-359"
+  },
+  {
+    "id": "polyvinyl-chloride",
+    "year": 1872,
+    "linked": {
+      "text": "Polyvinyl chloride",
+      "link": "/wiki/Polyvinyl_chloride"
+    },
+    "abbreviation": {
+      "slim": "PC",
+      "descriptive": "PoC",
+      "verbose": "PoCh"
+    },
+    "conflictProperty": "1872-360"
+  },
+  {
+    "id": "stainless-steel",
+    "year": 1872,
+    "linked": {
+      "text": "stainless steel",
+      "link": "/wiki/Stainless_steel"
+    },
+    "abbreviation": {
+      "slim": "SS",
+      "descriptive": "StS",
+      "verbose": "StSt"
+    },
+    "conflictProperty": "1872-361"
+  },
+  {
+    "id": "rotary-kiln",
+    "year": 1873,
+    "linked": {
+      "text": "rotary kiln",
+      "link": "/wiki/Rotary_kiln"
+    },
+    "abbreviation": {
+      "slim": "RK",
+      "descriptive": "RoK",
+      "verbose": "RoKi"
+    },
+    "conflictProperty": "1873-362"
+  },
+  {
+    "id": "crookes-radiometer",
+    "year": 1873,
+    "linked": {
+      "text": "Crookes radiometer",
+      "link": "/wiki/Crookes_radiometer"
+    },
+    "abbreviation": {
+      "slim": "CR",
+      "descriptive": "CrR",
+      "verbose": "CrRa"
+    },
+    "conflictProperty": "1873-363"
+  },
+  {
+    "id": "electrical-generator",
+    "year": 1873,
+    "linked": {
+      "text": "electrical generator",
+      "link": "/wiki/Electrical_generator"
+    },
+    "abbreviation": {
+      "slim": "EG",
+      "descriptive": "ElG",
+      "verbose": "ElGe"
+    },
+    "conflictProperty": "1873-364"
+  },
+  {
+    "id": "metal-detector",
+    "year": 1874,
+    "linked": {
+      "text": "metal detector",
+      "link": "/wiki/Metal_detector"
+    },
+    "abbreviation": {
+      "slim": "MD",
+      "descriptive": "MeD",
+      "verbose": "MeDe"
+    },
+    "conflictProperty": "1874-365"
+  },
+  {
+    "id": "electric-tram",
+    "year": 1875,
+    "linked": {
+      "text": "electric tram",
+      "link": "/wiki/Electric_tram"
+    },
+    "abbreviation": {
+      "slim": "ET",
+      "descriptive": "ElT",
+      "verbose": "ElTr"
+    },
+    "conflictProperty": "1875-366"
+  },
+  {
+    "id": "four-stroke-cycle",
+    "year": 1876,
+    "linked": {
+      "text": "four-stroke cycle",
+      "link": "/wiki/Four-stroke_cycle"
+    },
+    "abbreviation": {
+      "slim": "FSC",
+      "descriptive": "FoSC",
+      "verbose": "FoStCy"
+    },
+    "conflictProperty": "1876-367"
+  },
+  {
+    "id": "telephone",
+    "year": 1876,
+    "linked": {
+      "text": "telephone",
+      "link": "/wiki/Telephone"
+    },
+    "abbreviation": {
+      "slim": "T",
+      "descriptive": "Te",
+      "verbose": "Te"
+    },
+    "conflictProperty": "1876-368"
+  },
+  {
+    "id": "phonograph",
+    "year": 1877,
+    "linked": {
+      "text": "phonograph",
+      "link": "/wiki/Phonograph"
+    },
+    "abbreviation": {
+      "slim": "P",
+      "descriptive": "Ph",
+      "verbose": "Ph"
+    },
+    "conflictProperty": "1877-369"
+  },
+  {
+    "id": "rebreather",
+    "year": 1878,
+    "linked": {
+      "text": "rebreather",
+      "link": "/wiki/Rebreather"
+    },
+    "abbreviation": {
+      "slim": "R",
+      "descriptive": "Re",
+      "verbose": "Re"
+    },
+    "conflictProperty": "1878-370"
+  },
+  {
+    "id": "pelton-wheel",
+    "year": 1878,
+    "linked": {
+      "text": "Pelton wheel",
+      "link": "/wiki/Pelton_wheel"
+    },
+    "abbreviation": {
+      "slim": "PW",
+      "descriptive": "PeW",
+      "verbose": "PeWh"
+    },
+    "conflictProperty": "1878-371"
+  },
+  {
+    "id": "incandescent-light-bulb",
+    "year": 1879,
+    "linked": {
+      "text": "incandescent light bulb",
+      "link": "/wiki/Incandescent_light_bulb"
+    },
+    "abbreviation": {
+      "slim": "ILB",
+      "descriptive": "InLB",
+      "verbose": "InLiBu"
+    },
+    "conflictProperty": "1879-372"
+  },
+  {
+    "id": "carbon-arc-welding",
+    "year": 1881,
+    "linked": {
+      "text": "carbon arc welding",
+      "link": "/wiki/Carbon_arc_welding"
+    },
+    "abbreviation": {
+      "slim": "CAW",
+      "descriptive": "CaAW",
+      "verbose": "CaArWe"
+    },
+    "conflictProperty": "1881-373"
+  },
+  {
+    "id": "recoil-operated-gun",
+    "year": 1884,
+    "linked": {
+      "text": "Recoil-Operated Gun",
+      "link": "/wiki/Recoil_operation"
+    },
+    "abbreviation": {
+      "slim": "ROG",
+      "descriptive": "ReOG",
+      "verbose": "ReOpGu"
+    },
+    "conflictProperty": "1884-374"
+  },
+  {
+    "id": "smokeless-powder",
+    "year": 1884,
+    "linked": {
+      "text": "smokeless powder",
+      "link": "/wiki/Smokeless_powder"
+    },
+    "abbreviation": {
+      "slim": "SP",
+      "descriptive": "SmP",
+      "verbose": "SmPo"
+    },
+    "conflictProperty": "1884-375"
+  },
+  {
+    "id": "steam-turbine",
+    "year": 1884,
+    "linked": {
+      "text": "steam turbine",
+      "link": "/wiki/Steam_turbine"
+    },
+    "abbreviation": {
+      "slim": "ST",
+      "descriptive": "StT",
+      "verbose": "StTu"
+    },
+    "conflictProperty": "1884-376"
+  },
+  {
+    "id": "closed-core-high-efficiency-transformer",
+    "year": 1884,
+    "linked": {
+      "link": "/wiki/https://en.wikipedia.org",
+      "text": "Closed Core High Efficiency Transformer"
+    },
+    "abbreviation": {
+      "slim": "CCHET",
+      "descriptive": "ClCHET",
+      "verbose": "ClCoHiEfTr"
+    },
+    "conflictProperty": "1884-377"
+  },
+  {
+    "id": "safety-bicycle",
+    "year": 1885,
+    "linked": {
+      "text": "safety bicycle",
+      "link": "/wiki/Safety_bicycle"
+    },
+    "abbreviation": {
+      "slim": "SB",
+      "descriptive": "SaB",
+      "verbose": "SaBi"
+    },
+    "conflictProperty": "1885-378"
+  },
+  {
+    "id": "zinc-carbon-battery",
+    "year": 1886,
+    "linked": {
+      "text": "zinc–carbon battery",
+      "link": "/wiki/Zinc%E2%80%93carbon_battery"
+    },
+    "abbreviation": {
+      "slim": "ZCB",
+      "descriptive": "ZiCB",
+      "verbose": "ZiCaBa"
+    },
+    "conflictProperty": "1886-379"
+  },
+  {
+    "id": "hall-heroult-process",
+    "year": 1886,
+    "linked": {
+      "text": "Hall–Héroult process",
+      "link": "/wiki/Hall%E2%80%93H%C3%A9roult_process"
+    },
+    "abbreviation": {
+      "slim": "HHRP",
+      "descriptive": "HaHRP",
+      "verbose": "HaHRoPr"
+    },
+    "conflictProperty": "1886-380"
+  },
+  {
+    "id": "petrol-automobile",
+    "year": 1886,
+    "linked": {
+      "link": "/wiki/https://en.wikipedia.org",
+      "text": "Petrol Automobile"
+    },
+    "abbreviation": {
+      "slim": "PA",
+      "descriptive": "PeA",
+      "verbose": "PeAu"
+    },
+    "conflictProperty": "1886-381"
+  },
+  {
+    "id": "bayer-process",
+    "year": 1887,
+    "linked": {
+      "text": "Bayer process",
+      "link": "/wiki/Bayer_process"
+    },
+    "abbreviation": {
+      "slim": "BP",
+      "descriptive": "BaP",
+      "verbose": "BaPr"
+    },
+    "conflictProperty": "1887-382"
+  },
+  {
+    "id": "wind-turbine",
+    "year": 1887,
+    "linked": {
+      "text": "wind turbine",
+      "link": "/wiki/Wind_turbine"
+    },
+    "abbreviation": {
+      "slim": "WT",
+      "descriptive": "WiT",
+      "verbose": "WiTu"
+    },
+    "conflictProperty": "1887-383"
+  },
+  {
+    "id": "gold-cyanidation",
+    "year": 1887,
+    "linked": {
+      "text": "gold cyanidation",
+      "link": "/wiki/Gold_cyanidation"
+    },
+    "abbreviation": {
+      "slim": "GC",
+      "descriptive": "GoC",
+      "verbose": "GoCy"
+    },
+    "conflictProperty": "1887-384"
+  },
+  {
+    "id": "ballpoint-pen",
+    "year": 1888,
+    "linked": {
+      "text": "ballpoint pen",
+      "link": "/wiki/Ballpoint_pen"
+    },
+    "abbreviation": {
+      "slim": "BP",
+      "descriptive": "BaP",
+      "verbose": "BaPe"
+    },
+    "conflictProperty": "1888-385"
+  },
+  {
+    "id": "kinetoscope",
+    "year": 1888,
+    "linked": {
+      "text": "Kinetoscope",
+      "link": "/wiki/Kinetoscope"
+    },
+    "abbreviation": {
+      "slim": "K",
+      "descriptive": "Ki",
+      "verbose": "Ki"
+    },
+    "conflictProperty": "1888-386"
+  },
+  {
+    "id": "radio-waves",
+    "year": 1888,
+    "linked": {
+      "text": "radio waves",
+      "link": "/wiki/Radio_wave"
+    },
+    "abbreviation": {
+      "slim": "RW",
+      "descriptive": "RaW",
+      "verbose": "RaWa"
+    },
+    "conflictProperty": "1888-387"
+  },
+  {
+    "id": "pneumatic-tire",
+    "year": 1888,
+    "linked": {
+      "text": "pneumatic tire",
+      "link": "/wiki/Pneumatic_tire"
+    },
+    "abbreviation": {
+      "slim": "PT",
+      "descriptive": "PnT",
+      "verbose": "PnTi"
+    },
+    "conflictProperty": "1888-388"
+  },
+  {
+    "id": "chlorofluorocarbons",
+    "year": 1890,
+    "linked": {
+      "text": "chlorofluorocarbons",
+      "link": "/wiki/Chlorofluorocarbon"
+    },
+    "abbreviation": {
+      "slim": "C",
+      "descriptive": "Ch",
+      "verbose": "Ch"
+    },
+    "conflictProperty": "1890-389"
+  },
+  {
+    "id": "cardboard-box",
+    "year": 1890,
+    "linked": {
+      "text": "cardboard box",
+      "link": "/wiki/Cardboard_box"
+    },
+    "abbreviation": {
+      "slim": "CB",
+      "descriptive": "CaB",
+      "verbose": "CaBo"
+    },
+    "conflictProperty": "1890-390"
+  },
+  {
+    "id": "zipper",
+    "year": 1891,
+    "linked": {
+      "text": "zipper",
+      "link": "/wiki/Zipper"
+    },
+    "abbreviation": {
+      "slim": "Z",
+      "descriptive": "Zi",
+      "verbose": "Zi"
+    },
+    "conflictProperty": "1891-391"
+  },
+  {
+    "id": "cinematograph",
+    "year": 1892,
+    "linked": {
+      "text": "cinematograph",
+      "link": "/wiki/Cinematograph"
+    },
+    "abbreviation": {
+      "slim": "C",
+      "descriptive": "Ci",
+      "verbose": "Ci"
+    },
+    "conflictProperty": "1892-392"
+  },
+  {
+    "id": "electric-oven",
+    "year": 1892,
+    "linked": {
+      "text": "electric oven",
+      "link": "/wiki/Electric_stove"
+    },
+    "abbreviation": {
+      "slim": "EO",
+      "descriptive": "ElO",
+      "verbose": "ElOv"
+    },
+    "conflictProperty": "1892-393"
+  },
+  {
+    "id": "diesel-engine",
+    "year": 1893,
+    "linked": {
+      "text": "diesel engine",
+      "link": "/wiki/Diesel_engine"
+    },
+    "abbreviation": {
+      "slim": "DE",
+      "descriptive": "DiE",
+      "verbose": "DiEn"
+    },
+    "conflictProperty": "1893-394"
+  },
+  {
+    "id": "rubber-glove",
+    "year": 1893,
+    "linked": {
+      "text": "rubber glove",
+      "link": "/wiki/Rubber_glove"
+    },
+    "abbreviation": {
+      "slim": "RG",
+      "descriptive": "RuG",
+      "verbose": "RuGl"
+    },
+    "conflictProperty": "1893-395"
+  },
+  {
+    "id": "wireless-communication",
+    "year": 1895,
+    "linked": {
+      "link": "/wiki/https://en.wikipedia.org",
+      "text": "Wireless Communication"
+    },
+    "abbreviation": {
+      "slim": "WC",
+      "descriptive": "WiC",
+      "verbose": "WiCo"
+    },
+    "conflictProperty": "1895-396"
+  },
+  {
+    "id": "x-ray",
+    "year": 1895,
+    "linked": {
+      "text": "X-ray",
+      "link": "/wiki/Xrays"
+    },
+    "abbreviation": {
+      "slim": "XR",
+      "descriptive": "XR",
+      "verbose": "XRa"
+    },
+    "conflictProperty": "1895-397"
+  },
+  {
+    "id": "surgical-masks",
+    "year": 1897,
+    "linked": {
+      "text": "Surgical masks",
+      "link": "/wiki/Surgical_masks"
+    },
+    "abbreviation": {
+      "slim": "SM",
+      "descriptive": "SuM",
+      "verbose": "SuMa"
+    },
+    "conflictProperty": "1897-398"
+  },
+  {
+    "id": "polyethylene",
+    "year": 1898,
+    "linked": {
+      "text": "polyethylene",
+      "link": "/wiki/Polyethylene"
+    },
+    "abbreviation": {
+      "slim": "P",
+      "descriptive": "Po",
+      "verbose": "Po"
+    },
+    "conflictProperty": "1898-399"
+  },
+  {
+    "id": "nickel-cadmium-battery",
+    "year": 1899,
+    "linked": {
+      "text": "nickel-cadmium battery",
+      "link": "/wiki/Nickel-cadmium_battery"
+    },
+    "abbreviation": {
+      "slim": "NCB",
+      "descriptive": "NiCB",
+      "verbose": "NiCaBa"
+    },
+    "conflictProperty": "1899-400"
+  },
+  {
+    "id": "zeppelin",
+    "year": 1900,
+    "linked": {
+      "text": "Zeppelin",
+      "link": "/wiki/Zeppelin"
+    },
+    "abbreviation": {
+      "slim": "Z",
+      "descriptive": "Ze",
+      "verbose": "Ze"
+    },
+    "conflictProperty": "1900-401"
+  },
+  {
+    "id": "vacuum-cleaner",
+    "year": 1901,
+    "linked": {
+      "text": "vacuum cleaner",
+      "link": "/wiki/Vacuum_cleaner"
+    },
+    "abbreviation": {
+      "slim": "VC",
+      "descriptive": "VaC",
+      "verbose": "VaCl"
+    },
+    "conflictProperty": "1901-402"
+  },
+  {
+    "id": "gas-turbine",
+    "year": 1903,
+    "linked": {
+      "text": "gas turbine",
+      "link": "/wiki/Gas_turbine"
+    },
+    "abbreviation": {
+      "slim": "GT",
+      "descriptive": "GaT",
+      "verbose": "GaTu"
+    },
+    "conflictProperty": "1903-403"
+  },
+  {
+    "id": "laminated-glass",
+    "year": 1903,
+    "linked": {
+      "text": "laminated glass",
+      "link": "/wiki/Laminated_glass"
+    },
+    "abbreviation": {
+      "slim": "LG",
+      "descriptive": "LaG",
+      "verbose": "LaGl"
+    },
+    "conflictProperty": "1903-404"
+  },
+  {
+    "id": "airplane",
+    "year": 1903,
+    "linked": {
+      "text": "airplane",
+      "link": "/wiki/Airplane"
+    },
+    "abbreviation": {
+      "slim": "A",
+      "descriptive": "Ai",
+      "verbose": "Ai"
+    },
+    "conflictProperty": "1903-405"
+  },
+  {
+    "id": "fleming-valve",
+    "year": 1904,
+    "linked": {
+      "text": "Fleming valve",
+      "link": "/wiki/Fleming_valve"
+    },
+    "abbreviation": {
+      "slim": "FV",
+      "descriptive": "FlV",
+      "verbose": "FlVa"
+    },
+    "conflictProperty": "1904-406"
+  },
+  {
+    "id": "rotary-wing-aircraft",
+    "year": 1907,
+    "linked": {
+      "link": "/wiki/https://en.wikipedia.org",
+      "text": "Rotary-Wing Aircraft"
+    },
+    "abbreviation": {
+      "slim": "RWA",
+      "descriptive": "RoWA",
+      "verbose": "RoWiAi"
+    },
+    "conflictProperty": "1907-407"
+  },
+  {
+    "id": "bakelite",
+    "year": 1907,
+    "linked": {
+      "text": "bakelite",
+      "link": "/wiki/Bakelite"
+    },
+    "abbreviation": {
+      "slim": "B",
+      "descriptive": "Ba",
+      "verbose": "Ba"
+    },
+    "conflictProperty": "1907-408"
+  },
+  {
+    "id": "ramjet",
+    "year": 1907,
+    "linked": {
+      "text": "ramjet",
+      "link": "/wiki/Ramjet"
+    },
+    "abbreviation": {
+      "slim": "R",
+      "descriptive": "Ra",
+      "verbose": "Ra"
+    },
+    "conflictProperty": "1907-409"
+  },
+  {
+    "id": "cellophane",
+    "year": 1908,
+    "linked": {
+      "text": "Cellophane",
+      "link": "/wiki/Cellophane"
+    },
+    "abbreviation": {
+      "slim": "C",
+      "descriptive": "Ce",
+      "verbose": "Ce"
+    },
+    "conflictProperty": "1908-410"
+  },
+  {
+    "id": "haber-process",
+    "year": 1909,
+    "linked": {
+      "text": "Haber process",
+      "link": "/wiki/Haber_process"
+    },
+    "abbreviation": {
+      "slim": "HP",
+      "descriptive": "HaP",
+      "verbose": "HaPr"
+    },
+    "conflictProperty": "1909-411"
+  },
+  {
+    "id": "television-broadcast",
+    "year": 1909,
+    "linked": {
+      "link": "/wiki/https://en.wikipedia.org",
+      "text": "Television Broadcast"
+    },
+    "abbreviation": {
+      "slim": "TB",
+      "descriptive": "TeB",
+      "verbose": "TeBr"
+    },
+    "conflictProperty": "1909-412"
+  },
+  {
+    "id": "cloud-chamber",
+    "year": 1911,
+    "linked": {
+      "text": "cloud chamber",
+      "link": "/wiki/Cloud_chamber"
+    },
+    "abbreviation": {
+      "slim": "CC",
+      "descriptive": "ClC",
+      "verbose": "ClCh"
+    },
+    "conflictProperty": "1911-413"
+  },
+  {
+    "id": "model-electric-racing-cars",
+    "year": 1912,
+    "linked": {
+      "link": "/wiki/https://en.wikipedia.org",
+      "text": "Model Electric Racing Cars"
+    },
+    "abbreviation": {
+      "slim": "MERC",
+      "descriptive": "MoERC",
+      "verbose": "MoElRaCa"
+    },
+    "conflictProperty": "1912-414"
+  },
+  {
+    "id": "trams",
+    "year": 1912,
+    "linked": {
+      "text": "trams",
+      "link": "/wiki/Tram"
+    },
+    "abbreviation": {
+      "slim": "T",
+      "descriptive": "Tr",
+      "verbose": "Tr"
+    },
+    "conflictProperty": "1912-415"
+  },
+  {
+    "id": "bergius-process",
+    "year": 1913,
+    "linked": {
+      "text": "Bergius process",
+      "link": "/wiki/Bergius_process"
+    },
+    "abbreviation": {
+      "slim": "BP",
+      "descriptive": "BeP",
+      "verbose": "BePr"
+    },
+    "conflictProperty": "1913-416"
+  },
+  {
+    "id": "kaplan-turbine",
+    "year": 1913,
+    "linked": {
+      "text": "Kaplan turbine",
+      "link": "/wiki/Kaplan_turbine"
+    },
+    "abbreviation": {
+      "slim": "KT",
+      "descriptive": "KaT",
+      "verbose": "KaTu"
+    },
+    "conflictProperty": "1913-417"
+  },
+  {
+    "id": "martensitic-stainless-steel",
+    "year": 1915,
+    "linked": {
+      "text": "Martensitic stainless steel",
+      "link": "/wiki/Martensitic_stainless_steel"
+    },
+    "abbreviation": {
+      "slim": "MSS",
+      "descriptive": "MaSS",
+      "verbose": "MaStSt"
+    },
+    "conflictProperty": "1915-418"
+  },
+  {
+    "id": "tanks",
+    "year": 1915,
+    "linked": {
+      "text": "tanks",
+      "link": "/wiki/Tanks"
+    },
+    "abbreviation": {
+      "slim": "T",
+      "descriptive": "Ta",
+      "verbose": "Ta"
+    },
+    "conflictProperty": "1915-419"
+  },
+  {
+    "id": "silicon",
+    "year": 1916,
+    "linked": {
+      "text": "silicon",
+      "link": "/wiki/Silicon"
+    },
+    "abbreviation": {
+      "slim": "S",
+      "descriptive": "Si",
+      "verbose": "Si"
+    },
+    "conflictProperty": "1916-420"
+  },
+  {
+    "id": "crystal-oscillator",
+    "year": 1917,
+    "linked": {
+      "text": "crystal oscillator",
+      "link": "/wiki/Crystal_oscillator"
+    },
+    "abbreviation": {
+      "slim": "CO",
+      "descriptive": "CrO",
+      "verbose": "CrOs"
+    },
+    "conflictProperty": "1917-421"
+  },
+  {
+    "id": "fischer-tropsch-process",
+    "year": 1925,
+    "linked": {
+      "text": "Fischer–Tropsch process",
+      "link": "/wiki/Fischer%E2%80%93Tropsch_process"
+    },
+    "abbreviation": {
+      "slim": "FTP",
+      "descriptive": "FiTP",
+      "verbose": "FiTrPr"
+    },
+    "conflictProperty": "1925-422"
+  },
+  {
+    "id": "yagi-uda-antenna",
+    "year": 1926,
+    "linked": {
+      "text": "Yagi-Uda Antenna",
+      "link": "/wiki/Yagi-Uda_Antenna"
+    },
+    "abbreviation": {
+      "slim": "YUA",
+      "descriptive": "YaUA",
+      "verbose": "YaUdAn"
+    },
+    "conflictProperty": "1926-423"
+  },
+  {
+    "id": "liquid-fueled-rocket",
+    "year": 1926,
+    "linked": {
+      "text": "liquid fueled rocket",
+      "link": "/wiki/Bipropellant_rocket"
+    },
+    "abbreviation": {
+      "slim": "LFR",
+      "descriptive": "LiFR",
+      "verbose": "LiFuRo"
+    },
+    "conflictProperty": "1926-424"
+  },
+  {
+    "id": "three-point-hitch",
+    "year": 1926,
+    "linked": {
+      "text": "Three-point hitch",
+      "link": "/wiki/Three-point_hitch"
+    },
+    "abbreviation": {
+      "slim": "TPH",
+      "descriptive": "ThPH",
+      "verbose": "ThPoHi"
+    },
+    "conflictProperty": "1926-425"
+  },
+  {
+    "id": "television",
+    "year": 1926,
+    "linked": {
+      "text": "television",
+      "link": "/wiki/Mechanical_television"
+    },
+    "abbreviation": {
+      "slim": "T",
+      "descriptive": "Te",
+      "verbose": "Te"
+    },
+    "conflictProperty": "1926-426"
+  },
+  {
+    "id": "quartz-clock",
+    "year": 1927,
+    "linked": {
+      "text": "quartz clock",
+      "link": "/wiki/Quartz_clock"
+    },
+    "abbreviation": {
+      "slim": "QC",
+      "descriptive": "QuC",
+      "verbose": "QuCl"
+    },
+    "conflictProperty": "1927-427"
+  },
+  {
+    "id": "penicillin",
+    "year": 1928,
+    "linked": {
+      "text": "Penicillin",
+      "link": "/wiki/Penicillin"
+    },
+    "abbreviation": {
+      "slim": "P",
+      "descriptive": "Pe",
+      "verbose": "Pe"
+    },
+    "conflictProperty": "1928-428"
+  },
+  {
+    "id": "turbo-jet-engine",
+    "year": 1928,
+    "linked": {
+      "link": "/wiki/https://en.wikipedia.org",
+      "text": "Turbo-Jet Engine"
+    },
+    "abbreviation": {
+      "slim": "TJE",
+      "descriptive": "TuJE",
+      "verbose": "TuJeEn"
+    },
+    "conflictProperty": "1928-429"
+  },
+  {
+    "id": "electronic-television",
+    "year": 1928,
+    "linked": {
+      "text": "electronic television",
+      "link": "/wiki/Electronic_television"
+    },
+    "abbreviation": {
+      "slim": "ET",
+      "descriptive": "ElT",
+      "verbose": "ElTe"
+    },
+    "conflictProperty": "1928-430"
+  },
+  {
+    "id": "ball-screw",
+    "year": 1929,
+    "linked": {
+      "text": "ball screw",
+      "link": "/wiki/Ball_screw"
+    },
+    "abbreviation": {
+      "slim": "BS",
+      "descriptive": "BaS",
+      "verbose": "BaSc"
+    },
+    "conflictProperty": "1929-431"
+  },
+  {
+    "id": "supersonic-combusting-ramjet",
+    "year": 1930,
+    "linked": {
+      "text": "Supersonic combusting ramjet",
+      "link": "/wiki/Supersonic_combusting_ramjet"
+    },
+    "abbreviation": {
+      "slim": "SCR",
+      "descriptive": "SuCR",
+      "verbose": "SuCoRa"
+    },
+    "conflictProperty": "1930-432"
+  },
+  {
+    "id": "phase-contrast-microscopy",
+    "year": 1930,
+    "linked": {
+      "text": "Phase-contrast microscopy",
+      "link": "/wiki/Phase-contrast_microscopy"
+    },
+    "abbreviation": {
+      "slim": "PCM",
+      "descriptive": "PhCM",
+      "verbose": "PhCoMi"
+    },
+    "conflictProperty": "1930-433"
+  },
+  {
+    "id": "electron-microscope",
+    "year": 1931,
+    "linked": {
+      "text": "electron microscope",
+      "link": "/wiki/Electron_microscope"
+    },
+    "abbreviation": {
+      "slim": "EM",
+      "descriptive": "ElM",
+      "verbose": "ElMi"
+    },
+    "conflictProperty": "1931-434"
+  },
+  {
+    "id": "fm-radio",
+    "year": 1933,
+    "linked": {
+      "text": "FM radio",
+      "link": "/wiki/FM_radio"
+    },
+    "abbreviation": {
+      "slim": "FR",
+      "descriptive": "FmR",
+      "verbose": "FmRa"
+    },
+    "conflictProperty": "1933-435"
+  },
+  {
+    "id": "wheelchair",
+    "year": 1933,
+    "linked": {
+      "text": "wheelchair",
+      "link": "/wiki/Wheelchair"
+    },
+    "abbreviation": {
+      "slim": "W",
+      "descriptive": "Wh",
+      "verbose": "Wh"
+    },
+    "conflictProperty": "1933-436"
+  },
+  {
+    "id": "nylon",
+    "year": 1935,
+    "linked": {
+      "text": "Nylon",
+      "link": "/wiki/Nylon"
+    },
+    "abbreviation": {
+      "slim": "N",
+      "descriptive": "Ny",
+      "verbose": "Ny"
+    },
+    "conflictProperty": "1935-437"
+  },
+  {
+    "id": "computer",
+    "year": 1938,
+    "linked": {
+      "text": "computer",
+      "link": "/wiki/Computer"
+    },
+    "abbreviation": {
+      "slim": "C",
+      "descriptive": "Co",
+      "verbose": "Co"
+    },
+    "conflictProperty": "1938-438"
+  },
+  {
+    "id": "nuclear-fission",
+    "year": 1938,
+    "linked": {
+      "text": "Nuclear fission",
+      "link": "/wiki/Nuclear_fission"
+    },
+    "abbreviation": {
+      "slim": "NF",
+      "descriptive": "NuF",
+      "verbose": "NuFi"
+    },
+    "conflictProperty": "1938-439"
+  },
+  {
+    "id": "defibrillator",
+    "year": 1939,
+    "linked": {
+      "text": "defibrillator",
+      "link": "/wiki/Defibrillation#Direct_current_method"
+    },
+    "abbreviation": {
+      "slim": "D",
+      "descriptive": "De",
+      "verbose": "De"
+    },
+    "conflictProperty": "1939-440"
+  },
+  {
+    "id": "plutonium",
+    "year": 1940,
+    "linked": {
+      "text": "plutonium",
+      "link": "/wiki/Plutonium"
+    },
+    "abbreviation": {
+      "slim": "P",
+      "descriptive": "Pl",
+      "verbose": "Pl"
+    },
+    "conflictProperty": "1940-441"
+  },
+  {
+    "id": "cavity-magnetron",
+    "year": 1940,
+    "linked": {
+      "text": "cavity magnetron",
+      "link": "/wiki/Cavity_magnetron"
+    },
+    "abbreviation": {
+      "slim": "CM",
+      "descriptive": "CaM",
+      "verbose": "CaMa"
+    },
+    "conflictProperty": "1940-442"
+  },
+  {
+    "id": "polyester",
+    "year": 1941,
+    "linked": {
+      "text": "Polyester",
+      "link": "/wiki/Polyester"
+    },
+    "abbreviation": {
+      "slim": "P",
+      "descriptive": "Po",
+      "verbose": "Po"
+    },
+    "conflictProperty": "1941-443"
+  },
+  {
+    "id": "v-2-rocket",
+    "year": 1942,
+    "linked": {
+      "text": "V-2 rocket",
+      "link": "/wiki/V-2_rocket"
+    },
+    "abbreviation": {
+      "slim": "V2R",
+      "descriptive": "V2R",
+      "verbose": "V2Ro"
+    },
+    "conflictProperty": "1942-444"
+  },
+  {
+    "id": "viral-vaccine",
+    "year": 1944,
+    "linked": {
+      "link": "/wiki/https://en.wikipedia.org",
+      "text": "Viral Vaccine"
+    },
+    "abbreviation": {
+      "slim": "VV",
+      "descriptive": "ViV",
+      "verbose": "ViVa"
+    },
+    "conflictProperty": "1944-445"
+  },
+  {
+    "id": "atomic-bomb",
+    "year": 1945,
+    "linked": {
+      "link": "/wiki/https://en.wikipedia.org",
+      "text": "Atomic Bomb"
+    },
+    "abbreviation": {
+      "slim": "AB",
+      "descriptive": "AtB",
+      "verbose": "AtBo"
+    },
+    "conflictProperty": "1945-446"
+  },
+  {
+    "id": "microwave-oven",
+    "year": 1945,
+    "linked": {
+      "text": "microwave oven",
+      "link": "/wiki/Microwave_oven"
+    },
+    "abbreviation": {
+      "slim": "MO",
+      "descriptive": "MiO",
+      "verbose": "MiOv"
+    },
+    "conflictProperty": "1945-447"
+  },
+  {
+    "id": "radiocarbon-dating",
+    "year": 1945,
+    "linked": {
+      "text": "radiocarbon dating",
+      "link": "/wiki/Radiocarbon_dating"
+    },
+    "abbreviation": {
+      "slim": "RD",
+      "descriptive": "RaD",
+      "verbose": "RaDa"
+    },
+    "conflictProperty": "1945-448"
+  },
+  {
+    "id": "ejector-seat",
+    "year": 1946,
+    "linked": {
+      "text": "ejector seat",
+      "link": "/wiki/Ejector_seat"
+    },
+    "abbreviation": {
+      "slim": "ES",
+      "descriptive": "EjS",
+      "verbose": "EjSe"
+    },
+    "conflictProperty": "1946-449"
+  },
+  {
+    "id": "holography",
+    "year": 1947,
+    "linked": {
+      "text": "Holography",
+      "link": "/wiki/Holography"
+    },
+    "abbreviation": {
+      "slim": "H",
+      "descriptive": "Ho",
+      "verbose": "Ho"
+    },
+    "conflictProperty": "1947-450"
+  },
+  {
+    "id": "hydraulic-fracturing",
+    "year": 1947,
+    "linked": {
+      "text": "hydraulic fracturing",
+      "link": "/wiki/Hydraulic_fracturing"
+    },
+    "abbreviation": {
+      "slim": "HF",
+      "descriptive": "HyF",
+      "verbose": "HyFr"
+    },
+    "conflictProperty": "1947-451"
+  },
+  {
+    "id": "transistor",
+    "year": 1947,
+    "linked": {
+      "text": "transistor",
+      "link": "/wiki/Transistor"
+    },
+    "abbreviation": {
+      "slim": "T",
+      "descriptive": "Tr",
+      "verbose": "Tr"
+    },
+    "conflictProperty": "1947-452"
+  },
+  {
+    "id": "atomic-clock",
+    "year": 1948,
+    "linked": {
+      "text": "atomic clock",
+      "link": "/wiki/Atomic_clock"
+    },
+    "abbreviation": {
+      "slim": "AC",
+      "descriptive": "AtC",
+      "verbose": "AtCl"
+    },
+    "conflictProperty": "1948-453"
+  },
+  {
+    "id": "basic-oxygen-steelmaking",
+    "year": 1948,
+    "linked": {
+      "text": "Basic oxygen steelmaking",
+      "link": "/wiki/Basic_oxygen_steelmaking"
+    },
+    "abbreviation": {
+      "slim": "BOS",
+      "descriptive": "BaOS",
+      "verbose": "BaOxSt"
+    },
+    "conflictProperty": "1948-454"
+  },
+  {
+    "id": "video-game",
+    "year": 1950,
+    "linked": {
+      "text": "video game",
+      "link": "/wiki/Video_game"
+    },
+    "abbreviation": {
+      "slim": "VG",
+      "descriptive": "ViG",
+      "verbose": "ViGa"
+    },
+    "conflictProperty": "1950-455"
+  },
+  {
+    "id": "tokamak",
+    "year": 1950,
+    "linked": {
+      "text": "Tokamak",
+      "link": "/wiki/Tokamak"
+    },
+    "abbreviation": {
+      "slim": "T",
+      "descriptive": "To",
+      "verbose": "To"
+    },
+    "conflictProperty": "1950-456"
+  },
+  {
+    "id": "float-glass-process",
+    "year": 1952,
+    "linked": {
+      "text": "float glass process",
+      "link": "/wiki/Float_glass"
+    },
+    "abbreviation": {
+      "slim": "FGP",
+      "descriptive": "FlGP",
+      "verbose": "FlGlPr"
+    },
+    "conflictProperty": "1952-457"
+  },
+  {
+    "id": "thermonuclear-weapon",
+    "year": 1952,
+    "linked": {
+      "text": "thermonuclear weapon",
+      "link": "/wiki/Thermonuclear_weapon"
+    },
+    "abbreviation": {
+      "slim": "TW",
+      "descriptive": "ThW",
+      "verbose": "ThWe"
+    },
+    "conflictProperty": "1952-458"
+  },
+  {
+    "id": "video-tape-recorder",
+    "year": 1953,
+    "linked": {
+      "text": "video tape recorder",
+      "link": "/wiki/Video_tape_recorder"
+    },
+    "abbreviation": {
+      "slim": "VTR",
+      "descriptive": "ViTR",
+      "verbose": "ViTaRe"
+    },
+    "conflictProperty": "1953-459"
+  },
+  {
+    "id": "solar-battery",
+    "year": 1954,
+    "linked": {
+      "link": "/wiki/https://en.wikipedia.org",
+      "text": "Solar Battery"
+    },
+    "abbreviation": {
+      "slim": "SB",
+      "descriptive": "SoB",
+      "verbose": "SoBa"
+    },
+    "conflictProperty": "1954-460"
+  },
+  {
+    "id": "hovercraft",
+    "year": 1955,
+    "linked": {
+      "text": "hovercraft",
+      "link": "/wiki/Hovercraft"
+    },
+    "abbreviation": {
+      "slim": "H",
+      "descriptive": "Ho",
+      "verbose": "Ho"
+    },
+    "conflictProperty": "1955-461"
+  },
+  {
+    "id": "intermodal-container",
+    "year": 1955,
+    "linked": {
+      "text": "intermodal container",
+      "link": "/wiki/Intermodal_container"
+    },
+    "abbreviation": {
+      "slim": "IC",
+      "descriptive": "InC",
+      "verbose": "InCo"
+    },
+    "conflictProperty": "1955-462"
+  },
+  {
+    "id": "hard-disk-drive",
+    "year": 1956,
+    "linked": {
+      "text": "hard disk drive",
+      "link": "/wiki/Hard_disk_drive"
+    },
+    "abbreviation": {
+      "slim": "HDD",
+      "descriptive": "HaDD",
+      "verbose": "HaDiDr"
+    },
+    "conflictProperty": "1956-463"
+  },
+  {
+    "id": "logic-theorist-program",
+    "year": 1956,
+    "linked": {
+      "text": "Logic Theorist Program",
+      "link": "/wiki/Logic_Theorist"
+    },
+    "abbreviation": {
+      "slim": "LTP",
+      "descriptive": "LoTP",
+      "verbose": "LoThPr"
+    },
+    "conflictProperty": "1956-464"
+  },
+  {
+    "id": "laser",
+    "year": 1957,
+    "linked": {
+      "text": "laser",
+      "link": "/wiki/Laser"
+    },
+    "abbreviation": {
+      "slim": "L",
+      "descriptive": "La",
+      "verbose": "La"
+    },
+    "conflictProperty": "1957-465"
+  },
+  {
+    "id": "personal-computer",
+    "year": 1957,
+    "linked": {
+      "text": "personal computer",
+      "link": "/wiki/Personal_computer"
+    },
+    "abbreviation": {
+      "slim": "PC",
+      "descriptive": "PeC",
+      "verbose": "PeCo"
+    },
+    "conflictProperty": "1957-466"
+  },
+  {
+    "id": "satellite",
+    "year": 1957,
+    "linked": {
+      "text": "satellite",
+      "link": "/wiki/Satellite"
+    },
+    "abbreviation": {
+      "slim": "S",
+      "descriptive": "Sa",
+      "verbose": "Sa"
+    },
+    "conflictProperty": "1957-467"
+  },
+  {
+    "id": "integrated-circuit",
+    "year": 1958,
+    "linked": {
+      "text": "integrated circuit",
+      "link": "/wiki/Integrated_circuit"
+    },
+    "abbreviation": {
+      "slim": "IC",
+      "descriptive": "InC",
+      "verbose": "InCi"
+    },
+    "conflictProperty": "1958-468"
+  },
+  {
+    "id": "mosfet",
+    "year": 1959,
+    "linked": {
+      "text": "MOSFET",
+      "link": "/wiki/MOSFET"
+    },
+    "abbreviation": {
+      "slim": "M",
+      "descriptive": "Mo",
+      "verbose": "Mo"
+    },
+    "conflictProperty": "1959-469"
+  },
+  {
+    "id": "laser",
+    "year": 1960,
+    "linked": {
+      "text": "laser",
+      "link": "/wiki/Laser"
+    },
+    "abbreviation": {
+      "slim": "L",
+      "descriptive": "La",
+      "verbose": "La"
+    },
+    "conflictProperty": "1960-470"
+  },
+  {
+    "id": "electronic-cigarette",
+    "year": 1963,
+    "linked": {
+      "text": "electronic cigarette",
+      "link": "/wiki/Electronic_cigarette"
+    },
+    "abbreviation": {
+      "slim": "EC",
+      "descriptive": "ElC",
+      "verbose": "ElCi"
+    },
+    "conflictProperty": "1963-471"
+  },
+  {
+    "id": "high-speed-rail",
+    "year": 1964,
+    "linked": {
+      "text": "high-speed rail",
+      "link": "/wiki/High-speed_rail"
+    },
+    "abbreviation": {
+      "slim": "HSR",
+      "descriptive": "HiSR",
+      "verbose": "HiSpRa"
+    },
+    "conflictProperty": "1964-472"
+  },
+  {
+    "id": "kevlar",
+    "year": 1965,
+    "linked": {
+      "text": "Kevlar",
+      "link": "/wiki/Kevlar"
+    },
+    "abbreviation": {
+      "slim": "K",
+      "descriptive": "Ke",
+      "verbose": "Ke"
+    },
+    "conflictProperty": "1965-473"
+  },
+  {
+    "id": "packet-switching",
+    "year": 1969,
+    "linked": {
+      "text": "packet switching",
+      "link": "/wiki/Packet_switching"
+    },
+    "abbreviation": {
+      "slim": "PS",
+      "descriptive": "PaS",
+      "verbose": "PaSw"
+    },
+    "conflictProperty": "1969-474"
+  },
+  {
+    "id": "public-key-cryptography",
+    "year": 1970,
+    "linked": {
+      "text": "Public-key cryptography",
+      "link": "/wiki/Public-key_cryptography"
+    },
+    "abbreviation": {
+      "slim": "PKC",
+      "descriptive": "PuKC",
+      "verbose": "PuKeCr"
+    },
+    "conflictProperty": "1970-475"
+  },
+  {
+    "id": "pocket-calculator",
+    "year": 1970,
+    "linked": {
+      "text": "pocket calculator",
+      "link": "/wiki/Calculator#Pocket_calculators"
+    },
+    "abbreviation": {
+      "slim": "PC",
+      "descriptive": "PoC",
+      "verbose": "PoCa"
+    },
+    "conflictProperty": "1970-476"
+  },
+  {
+    "id": "microprocessor",
+    "year": 1971,
+    "linked": {
+      "text": "microprocessor",
+      "link": "/wiki/Microprocessor"
+    },
+    "abbreviation": {
+      "slim": "M",
+      "descriptive": "Mi",
+      "verbose": "Mi"
+    },
+    "conflictProperty": "1971-477"
+  },
+  {
+    "id": "space-station",
+    "year": 1971,
+    "linked": {
+      "text": "space station",
+      "link": "/wiki/Space_station"
+    },
+    "abbreviation": {
+      "slim": "SS",
+      "descriptive": "SpS",
+      "verbose": "SpSt"
+    },
+    "conflictProperty": "1971-478"
+  },
+  {
+    "id": "floppy-disk",
+    "year": 1971,
+    "linked": {
+      "text": "floppy disk",
+      "link": "/wiki/Floppy_disk"
+    },
+    "abbreviation": {
+      "slim": "FD",
+      "descriptive": "FlD",
+      "verbose": "FlDi"
+    },
+    "conflictProperty": "1971-479"
+  },
+  {
+    "id": "video-game-console",
+    "year": 1972,
+    "linked": {
+      "text": "video game console",
+      "link": "/wiki/Video_game_console"
+    },
+    "abbreviation": {
+      "slim": "VGC",
+      "descriptive": "ViGC",
+      "verbose": "ViGaCo"
+    },
+    "conflictProperty": "1972-480"
+  },
+  {
+    "id": "fiber-optic-communication",
+    "year": 1973,
+    "linked": {
+      "link": "/wiki/https://en.wikipedia.org",
+      "text": "Fiber Optic Communication"
+    },
+    "abbreviation": {
+      "slim": "FOC",
+      "descriptive": "FiOC",
+      "verbose": "FiOpCo"
+    },
+    "conflictProperty": "1973-481"
+  },
+  {
+    "id": "graphical-user-interface",
+    "year": 1973,
+    "linked": {
+      "text": "graphical user interface",
+      "link": "/wiki/Graphical_user_interface"
+    },
+    "abbreviation": {
+      "slim": "GUI",
+      "descriptive": "GrUI",
+      "verbose": "GrUsIn"
+    },
+    "conflictProperty": "1973-482"
+  },
+  {
+    "id": "capacitive-touchscreen",
+    "year": 1973,
+    "linked": {
+      "text": "capacitive touchscreen",
+      "link": "/wiki/Touchscreen#Capacitive"
+    },
+    "abbreviation": {
+      "slim": "CT",
+      "descriptive": "CaT",
+      "verbose": "CaTo"
+    },
+    "conflictProperty": "1973-483"
+  },
+  {
+    "id": "transmission-control-program",
+    "year": 1974,
+    "linked": {
+      "text": "Transmission Control Program",
+      "link": "/wiki/Transmission_Control_Program"
+    },
+    "abbreviation": {
+      "slim": "TCP",
+      "descriptive": "TrCP",
+      "verbose": "TrCoPr"
+    },
+    "conflictProperty": "1974-484"
+  },
+  {
+    "id": "lithium-ion-battery",
+    "year": 1974,
+    "linked": {
+      "text": "lithium-ion battery",
+      "link": "/wiki/Lithium-ion_battery"
+    },
+    "abbreviation": {
+      "slim": "LIB",
+      "descriptive": "LiIB",
+      "verbose": "LiIoBa"
+    },
+    "conflictProperty": "1974-485"
+  },
+  {
+    "id": "rubik's-cube",
+    "year": 1974,
+    "linked": {
+      "text": "Rubik's cube",
+      "link": "/wiki/Rubik%27s_Cube"
+    },
+    "abbreviation": {
+      "slim": "RSC",
+      "descriptive": "RuSC",
+      "verbose": "RuSCu"
+    },
+    "conflictProperty": "1974-486"
+  },
+  {
+    "id": "dna-sequencing",
+    "year": 1977,
+    "linked": {
+      "text": "DNA sequencing",
+      "link": "/wiki/DNA_sequencing"
+    },
+    "abbreviation": {
+      "slim": "DS",
+      "descriptive": "DnS",
+      "verbose": "DnSe"
+    },
+    "conflictProperty": "1977-487"
+  },
+  {
+    "id": "self-driving-car",
+    "year": 1977,
+    "linked": {
+      "text": "self-driving car",
+      "link": "/wiki/Self-driving_car"
+    },
+    "abbreviation": {
+      "slim": "SDC",
+      "descriptive": "SeDC",
+      "verbose": "SeDrCa"
+    },
+    "conflictProperty": "1977-488"
+  },
+  {
+    "id": "global-positioning-system",
+    "year": 1978,
+    "linked": {
+      "text": "Global Positioning System",
+      "link": "/wiki/Global_Positioning_System"
+    },
+    "abbreviation": {
+      "slim": "GPS",
+      "descriptive": "GlPS",
+      "verbose": "GlPoSy"
+    },
+    "conflictProperty": "1978-489"
+  },
+  {
+    "id": "handheld-game-console",
+    "year": 1979,
+    "linked": {
+      "text": "Handheld Game Console",
+      "link": "/wiki/Microvision"
+    },
+    "abbreviation": {
+      "slim": "HGC",
+      "descriptive": "HaGC",
+      "verbose": "HaGaCo"
+    },
+    "conflictProperty": "1979-490"
+  },
+  {
+    "id": "cellular-network",
+    "year": 1979,
+    "linked": {
+      "text": "Cellular Network",
+      "link": "/wiki/Nippon_Telegraph_and_Telephone"
+    },
+    "abbreviation": {
+      "slim": "CN",
+      "descriptive": "CeN",
+      "verbose": "CeNe"
+    },
+    "conflictProperty": "1979-491"
+  },
+  {
+    "id": "public-dialup-information",
+    "year": 1979,
+    "linked": {
+      "link": "/wiki/https://en.wikipedia.org",
+      "text": "Public Dialup Information"
+    },
+    "abbreviation": {
+      "slim": "PDI",
+      "descriptive": "PuDI",
+      "verbose": "PuDiIn"
+    },
+    "conflictProperty": "1979-492"
+  },
+  {
+    "id": "flash-memory",
+    "year": 1980,
+    "linked": {
+      "text": "Flash memory",
+      "link": "/wiki/Flash_memory"
+    },
+    "abbreviation": {
+      "slim": "FM",
+      "descriptive": "FlM",
+      "verbose": "FlMe"
+    },
+    "conflictProperty": "1980-493"
+  },
+  {
+    "id": "restriction-fragment-length-polymorphisms",
+    "year": 1980,
+    "linked": {
+      "text": "Restriction Fragment-length Polymorphisms",
+      "link": "/wiki/Restriction_fragment_length_polymorphism"
+    },
+    "abbreviation": {
+      "slim": "RFLP",
+      "descriptive": "ReFLP",
+      "verbose": "ReFrLePo"
+    },
+    "conflictProperty": "1980-494"
+  },
+  {
+    "id": "reusable-spacecraft",
+    "year": 1981,
+    "linked": {
+      "text": "reusable spacecraft",
+      "link": "/wiki/Reusable_spacecraft"
+    },
+    "abbreviation": {
+      "slim": "RS",
+      "descriptive": "ReS",
+      "verbose": "ReSp"
+    },
+    "conflictProperty": "1981-495"
+  },
+  {
+    "id": "digital-media-player",
+    "year": 1981,
+    "linked": {
+      "text": "digital media player",
+      "link": "/wiki/Portable_media_player"
+    },
+    "abbreviation": {
+      "slim": "DMP",
+      "descriptive": "DiMP",
+      "verbose": "DiMePl"
+    },
+    "conflictProperty": "1981-496"
+  },
+  {
+    "id": "nordic-mobile-telephone",
+    "year": 1981,
+    "linked": {
+      "text": "Nordic Mobile Telephone",
+      "link": "/wiki/Nordic_Mobile_Telephone"
+    },
+    "abbreviation": {
+      "slim": "NMT",
+      "descriptive": "NoMT",
+      "verbose": "NoMoTe"
+    },
+    "conflictProperty": "1981-497"
+  },
+  {
+    "id": "automatic-cellular-system",
+    "year": 1981,
+    "linked": {
+      "link": "/wiki/https://en.wikipedia.org",
+      "text": "Automatic Cellular System"
+    },
+    "abbreviation": {
+      "slim": "ACS",
+      "descriptive": "AuCS",
+      "verbose": "AuCeSy"
+    },
+    "conflictProperty": "1981-498"
+  },
+  {
+    "id": "cd-rom",
+    "year": 1982,
+    "linked": {
+      "text": "CD-ROM",
+      "link": "/wiki/CD-ROM"
+    },
+    "abbreviation": {
+      "slim": "CR",
+      "descriptive": "CdR",
+      "verbose": "CdRo"
+    },
+    "conflictProperty": "1982-499"
+  },
+  {
+    "id": "satellite-television",
+    "year": 1982,
+    "linked": {
+      "text": "satellite television",
+      "link": "/wiki/Satellite_television"
+    },
+    "abbreviation": {
+      "slim": "ST",
+      "descriptive": "SaT",
+      "verbose": "SaTe"
+    },
+    "conflictProperty": "1982-500"
+  },
+  {
+    "id": "laptop",
+    "year": 1982,
+    "linked": {
+      "text": "laptop",
+      "link": "/wiki/Laptop"
+    },
+    "abbreviation": {
+      "slim": "L",
+      "descriptive": "La",
+      "verbose": "La"
+    },
+    "conflictProperty": "1982-501"
+  },
+  {
+    "id": "stereolithography",
+    "year": 1983,
+    "linked": {
+      "text": "Stereolithography",
+      "link": "/wiki/Stereolithography"
+    },
+    "abbreviation": {
+      "slim": "S",
+      "descriptive": "St",
+      "verbose": "St"
+    },
+    "conflictProperty": "1983-502"
+  },
+  {
+    "id": "bell-system",
+    "year": 1983,
+    "linked": {
+      "text": "Bell System",
+      "link": "/wiki/Bell_System"
+    },
+    "abbreviation": {
+      "slim": "BS",
+      "descriptive": "BeS",
+      "verbose": "BeSy"
+    },
+    "conflictProperty": "1983-503"
+  },
+  {
+    "id": "cell-phone",
+    "year": 1984,
+    "linked": {
+      "text": "cell phone",
+      "link": "/wiki/Cell_phone"
+    },
+    "abbreviation": {
+      "slim": "CP",
+      "descriptive": "CeP",
+      "verbose": "CePh"
+    },
+    "conflictProperty": "1984-504"
+  },
+  {
+    "id": "dna-profiling",
+    "year": 1984,
+    "linked": {
+      "text": "DNA profiling",
+      "link": "/wiki/DNA_profiling"
+    },
+    "abbreviation": {
+      "slim": "DP",
+      "descriptive": "DnP",
+      "verbose": "DnPr"
+    },
+    "conflictProperty": "1984-505"
+  },
+  {
+    "id": "pocket-sized-cell-phone",
+    "year": 1986,
+    "linked": {
+      "text": "Pocket Sized Cell Phone",
+      "link": "/wiki/Excel_mobile_phones"
+    },
+    "abbreviation": {
+      "slim": "PSCP",
+      "descriptive": "PoSCP",
+      "verbose": "PoSiCePh"
+    },
+    "conflictProperty": "1986-506"
+  },
+  {
+    "id": "mp3",
+    "year": 1989,
+    "linked": {
+      "text": "mp3",
+      "link": "/wiki/MP3"
+    },
+    "abbreviation": {
+      "slim": "M",
+      "descriptive": "Mp",
+      "verbose": "Mp"
+    },
+    "conflictProperty": "1989-507"
+  },
+  {
+    "id": "world-wide-web",
+    "year": 1989,
+    "linked": {
+      "text": "World Wide Web",
+      "link": "/wiki/World_Wide_Web"
+    },
+    "abbreviation": {
+      "slim": "WWW",
+      "descriptive": "WoWW",
+      "verbose": "WoWiWe"
+    },
+    "conflictProperty": "1989-508"
+  },
+  {
+    "id": "memory-cards",
+    "year": 1990,
+    "linked": {
+      "text": "Memory Cards",
+      "link": "/wiki/Memory_Cards"
+    },
+    "abbreviation": {
+      "slim": "MC",
+      "descriptive": "MeC",
+      "verbose": "MeCa"
+    },
+    "conflictProperty": "1990-509"
+  },
+  {
+    "id": "search-engine",
+    "year": 1990,
+    "linked": {
+      "text": "Search Engine",
+      "link": "/wiki/Archie_(search_engine)"
+    },
+    "abbreviation": {
+      "slim": "SE",
+      "descriptive": "SeE",
+      "verbose": "SeEn"
+    },
+    "conflictProperty": "1990-510"
+  },
+  {
+    "id": "solid-state-drive",
+    "year": 1991,
+    "linked": {
+      "text": "solid-state drive",
+      "link": "/wiki/Solid-state_drive"
+    },
+    "abbreviation": {
+      "slim": "SSD",
+      "descriptive": "SoSD",
+      "verbose": "SoStDr"
+    },
+    "conflictProperty": "1991-511"
+  },
+  {
+    "id": "sim-card",
+    "year": 1991,
+    "linked": {
+      "text": "sim card",
+      "link": "/wiki/Sim_card"
+    },
+    "abbreviation": {
+      "slim": "SC",
+      "descriptive": "SiC",
+      "verbose": "SiCa"
+    },
+    "conflictProperty": "1991-512"
+  },
+  {
+    "id": "mobile-app",
+    "year": 1993,
+    "linked": {
+      "link": "/wiki/https://en.wikipedia.org",
+      "text": "Mobile App"
+    },
+    "abbreviation": {
+      "slim": "MA",
+      "descriptive": "MoA",
+      "verbose": "MoAp"
+    },
+    "conflictProperty": "1993-513"
+  },
+  {
+    "id": "smartphone",
+    "year": 1994,
+    "linked": {
+      "text": "Smartphone",
+      "link": "/wiki/IBM_Simon"
+    },
+    "abbreviation": {
+      "slim": "S",
+      "descriptive": "Sm",
+      "verbose": "Sm"
+    },
+    "conflictProperty": "1994-514"
+  },
+  {
+    "id": "bluetooth",
+    "year": 1994,
+    "linked": {
+      "text": "Bluetooth",
+      "link": "/wiki/Bluetooth"
+    },
+    "abbreviation": {
+      "slim": "B",
+      "descriptive": "Bl",
+      "verbose": "Bl"
+    },
+    "conflictProperty": "1994-515"
+  },
+  {
+    "id": "mobile-game",
+    "year": 1994,
+    "linked": {
+      "text": "Mobile Game",
+      "link": "/wiki/Tetris"
+    },
+    "abbreviation": {
+      "slim": "MG",
+      "descriptive": "MoG",
+      "verbose": "MoGa"
+    },
+    "conflictProperty": "1994-516"
+  },
+  {
+    "id": "dvd",
+    "year": 1995,
+    "linked": {
+      "text": "DVD",
+      "link": "/wiki/DVD"
+    },
+    "abbreviation": {
+      "slim": "D",
+      "descriptive": "Dv",
+      "verbose": "Dv"
+    },
+    "conflictProperty": "1995-517"
+  },
+  {
+    "id": "dating-site",
+    "year": 1995,
+    "linked": {
+      "text": "Dating Site",
+      "link": "/wiki/Match.com"
+    },
+    "abbreviation": {
+      "slim": "DS",
+      "descriptive": "DaS",
+      "verbose": "DaSi"
+    },
+    "conflictProperty": "1995-518"
+  },
+  {
+    "id": "online-food-ordering",
+    "year": 1995,
+    "linked": {
+      "text": "online food ordering",
+      "link": "/wiki/Online_food_ordering"
+    },
+    "abbreviation": {
+      "slim": "OFO",
+      "descriptive": "OnFO",
+      "verbose": "OnFoOr"
+    },
+    "conflictProperty": "1995-519"
+  },
+  {
+    "id": "wavelength-division-multiplexing-system",
+    "year": 1996,
+    "linked": {
+      "text": "wavelength-division multiplexing system,",
+      "link": "/wiki/Wavelength-division_multiplexing"
+    },
+    "abbreviation": {
+      "slim": "WDMS",
+      "descriptive": "WaDMS",
+      "verbose": "WaDiMuSy"
+    },
+    "conflictProperty": "1996-520"
+  },
+  {
+    "id": "mobile-web",
+    "year": 1996,
+    "linked": {
+      "text": "Mobile Web",
+      "link": "/wiki/Nokia_9000_Communicator"
+    },
+    "abbreviation": {
+      "slim": "MW",
+      "descriptive": "MoW",
+      "verbose": "MoWe"
+    },
+    "conflictProperty": "1996-521"
+  },
+  {
+    "id": "social-media",
+    "year": 1996,
+    "linked": {
+      "link": "/wiki/https://en.wikipedia.org",
+      "text": "Social Media"
+    },
+    "abbreviation": {
+      "slim": "SM",
+      "descriptive": "SoM",
+      "verbose": "SoMe"
+    },
+    "conflictProperty": "1996-522"
+  },
+  {
+    "id": "breast-and-ovarian-cancer-test",
+    "year": 1996,
+    "linked": {
+      "text": "Breast and Ovarian cancer test",
+      "link": "/wiki/Myriad_Genetics"
+    },
+    "abbreviation": {
+      "slim": "BAOCT",
+      "descriptive": "BrAOCT",
+      "verbose": "BrAnOvCaTe"
+    },
+    "conflictProperty": "1996-523"
+  },
+  {
+    "id": "blog",
+    "year": 1997,
+    "linked": {
+      "link": "/wiki/https://en.wikipedia.org",
+      "text": "Blog"
+    },
+    "abbreviation": {
+      "slim": "B",
+      "descriptive": "Bl",
+      "verbose": "Bl"
+    },
+    "conflictProperty": "1997-524"
+  },
+  {
+    "id": "mp3-player",
+    "year": 1998,
+    "linked": {
+      "text": "MP3 player",
+      "link": "/wiki/MP3_player"
+    },
+    "abbreviation": {
+      "slim": "MP",
+      "descriptive": "MpP",
+      "verbose": "MpPl"
+    },
+    "conflictProperty": "1998-525"
+  },
+  {
+    "id": "google",
+    "year": 1998,
+    "linked": {
+      "text": "Google",
+      "link": "/wiki/Google_Search"
+    },
+    "abbreviation": {
+      "slim": "G",
+      "descriptive": "Go",
+      "verbose": "Go"
+    },
+    "conflictProperty": "1998-526"
+  },
+  {
+    "id": "digital-video-recorder",
+    "year": 1999,
+    "linked": {
+      "text": "digital video recorder",
+      "link": "/wiki/Digital_video_recorder"
+    },
+    "abbreviation": {
+      "slim": "DVR",
+      "descriptive": "DiVR",
+      "verbose": "DiViRe"
+    },
+    "conflictProperty": "1999-527"
+  },
+  {
+    "id": "online-app-store",
+    "year": 1999,
+    "linked": {
+      "text": "Online App store",
+      "link": "/wiki/App_store"
+    },
+    "abbreviation": {
+      "slim": "OAS",
+      "descriptive": "OnAS",
+      "verbose": "OnApSt"
+    },
+    "conflictProperty": "1999-528"
+  },
+  {
+    "id": "blu-ray",
+    "year": 2000,
+    "linked": {
+      "text": "Blu-ray",
+      "link": "/wiki/Blu-ray"
+    },
+    "abbreviation": {
+      "slim": "BR",
+      "descriptive": "BlR",
+      "verbose": "BlRa"
+    },
+    "conflictProperty": "2000-529"
+  },
+  {
+    "id": "geocaching",
+    "year": 2000,
+    "linked": {
+      "text": "Geocaching",
+      "link": "/wiki/Geocaching"
+    },
+    "abbreviation": {
+      "slim": "G",
+      "descriptive": "Ge",
+      "verbose": "Ge"
+    },
+    "conflictProperty": "2000-530"
+  },
+  {
+    "id": "podcast",
+    "year": 2004,
+    "linked": {
+      "text": "podcast",
+      "link": "/wiki/Podcast"
+    },
+    "abbreviation": {
+      "slim": "P",
+      "descriptive": "Po",
+      "verbose": "Po"
+    },
+    "conflictProperty": "2004-531"
+  },
+  {
+    "id": "netflix",
+    "year": 2007,
+    "linked": {
+      "text": "Netflix",
+      "link": "/wiki/Netflix"
+    },
+    "abbreviation": {
+      "slim": "N",
+      "descriptive": "Ne",
+      "verbose": "Ne"
+    },
+    "conflictProperty": "2007-533"
+  },
+  {
+    "id": "banking-app",
+    "year": 2007,
+    "linked": {
+      "text": "Banking App",
+      "link": "/wiki/Bank_of_Scotland"
+    },
+    "abbreviation": {
+      "slim": "BA",
+      "descriptive": "BaA",
+      "verbose": "BaAp"
+    },
+    "conflictProperty": "2007-535"
+  },
+  {
+    "id": "kindle",
+    "year": 2007,
+    "linked": {
+      "text": "Kindle",
+      "link": "/wiki/Amazon_Kindle"
+    },
+    "abbreviation": {
+      "slim": "K",
+      "descriptive": "Ki",
+      "verbose": "Ki"
+    },
+    "conflictProperty": "2007-537"
+  },
+  {
+    "id": "blockchain",
+    "year": 2008,
+    "linked": {
+      "text": "blockchain",
+      "link": "/wiki/Blockchain"
+    },
+    "abbreviation": {
+      "slim": "B",
+      "descriptive": "Bl",
+      "verbose": "Bl"
+    },
+    "conflictProperty": "2008-538"
+  },
+  {
+    "id": "solar-sail",
+    "year": 2010,
+    "linked": {
+      "text": "solar sail",
+      "link": "/wiki/Solar_sail"
+    },
+    "abbreviation": {
+      "slim": "SS",
+      "descriptive": "SoS",
+      "verbose": "SoSa"
+    },
+    "conflictProperty": "2010-539"
+  },
+  {
+    "id": "quantum-machine",
+    "year": 2010,
+    "linked": {
+      "text": "quantum machine",
+      "link": "/wiki/Quantum_machine"
+    },
+    "abbreviation": {
+      "slim": "QM",
+      "descriptive": "QuM",
+      "verbose": "QuMa"
+    },
+    "conflictProperty": "2010-540"
+  },
+  {
+    "id": "synthetic-organism",
+    "year": 2010,
+    "linked": {
+      "text": "synthetic organism",
+      "link": "/wiki/Synthetic_biology"
+    },
+    "abbreviation": {
+      "slim": "SO",
+      "descriptive": "SyO",
+      "verbose": "SyOr"
+    },
+    "conflictProperty": "2010-541"
+  },
+  {
+    "id": "cancer-immunotherapy",
+    "year": 2013,
+    "linked": {
+      "text": "Cancer immunotherapy",
+      "link": "/wiki/Cancer_immunotherapy"
+    },
+    "abbreviation": {
+      "slim": "CI",
+      "descriptive": "CaI",
+      "verbose": "CaIm"
+    },
+    "conflictProperty": "2013-543"
+  },
+  {
+    "id": "deep-learning-transformer",
+    "year": 2017,
+    "linked": {
+      "text": "Deep Learning Transformer",
+      "link": "/wiki/Transformer_(deep_learning_architecture)"
+    },
+    "abbreviation": {
+      "slim": "DLT",
+      "descriptive": "DeLT",
+      "verbose": "DeLeTr"
+    },
+    "conflictProperty": "2017-545"
+  },
+  {
+    "id": "single-cell-sequencing",
+    "year": 2018,
+    "linked": {
+      "text": "Single-cell sequencing",
+      "link": "/wiki/Single-cell_sequencing"
+    },
+    "abbreviation": {
+      "slim": "SCS",
+      "descriptive": "SiCS",
+      "verbose": "SiCeSe"
+    },
+    "conflictProperty": "2018-546"
+  },
+  {
+    "id": "quantum-computing",
+    "year": 2019,
+    "linked": {
+      "text": "quantum computing",
+      "link": "/wiki/Quantum_computing"
+    },
+    "abbreviation": {
+      "slim": "QC",
+      "descriptive": "QuC",
+      "verbose": "QuCo"
+    },
+    "conflictProperty": "2019-547"
+  },
+  {
+    "id": "youtube",
+    "year": 2005,
+    "linked": {
+      "text": "YouTube",
+      "link": "/wiki/YouTube"
+    },
+    "abbreviation": {
+      "slim": "YT",
+      "descriptive": "YoT",
+      "verbose": "YoTu"
+    },
+    "conflictProperty": "2005-532"
+  },
+  {
+    "id": "soundcloud",
+    "year": 2007,
+    "linked": {
+      "text": "SoundCloud",
+      "link": "/wiki/SoundCloud"
+    },
+    "abbreviation": {
+      "slim": "SC",
+      "descriptive": "SoC",
+      "verbose": "SoCl"
+    },
+    "conflictProperty": "2007-536"
+  },
+  {
+    "id": "hiv-treatment",
+    "year": 2011,
+    "linked": {
+      "text": "HIV Treatment",
+      "link": "/wiki/HPTN_052"
+    },
+    "abbreviation": {
+      "slim": "HIVT",
+      "descriptive": "HIVT",
+      "verbose": "HIVTr"
+    },
+    "conflictProperty": "2011-542"
+  },
+  {
+    "id": "crispr",
+    "year": 2015,
+    "linked": {
+      "text": "CRISPR",
+      "link": "/wiki/CRISPR"
+    },
+    "abbreviation": {
+      "slim": "CRISPR",
+      "descriptive": "CRISPR",
+      "verbose": "CRISPR"
+    },
+    "conflictProperty": "2015-544"
+  },
+  {
+    "id": "iphone",
+    "year": 2007,
+    "linked": {
+      "link": "/wiki/https://en.wikipedia.org",
+      "text": "iPhone"
+    },
+    "abbreviation": {
+      "slim": "IP",
+      "descriptive": "IP",
+      "verbose": "IPh"
+    },
+    "conflictProperty": "2007-534"
+  },
+  {
+    "id": "mrna-vaccine",
+    "year": 2020,
+    "linked": {
+      "text": "MRNA vaccine",
+      "link": "/wiki/MRNA_vaccine"
+    },
+    "abbreviation": {
+      "slim": "MRNAV",
+      "descriptive": "MRNAV",
+      "verbose": "MRNAVa"
+    },
+    "conflictProperty": "2020-548"
+  },
+  {
+    "id": "gpt-3",
+    "year": 2020,
+    "linked": {
+      "text": "GPT-3",
+      "link": "/wiki/GPT-3"
+    },
+    "abbreviation": {
+      "slim": "GPT3",
+      "descriptive": "GPT3",
+      "verbose": "GPT3"
+    },
+    "conflictProperty": "2020-549"
+  },
+  {
+    "id": "covid-pill",
+    "year": 2022,
+    "linked": {
+      "text": "COVID Pill",
+      "link": "/wiki/Paxlovid"
+    },
+    "abbreviation": {
+      "slim": "COVIDP",
+      "descriptive": "COVIDP",
+      "verbose": "COVIDPi"
+    },
+    "conflictProperty": "2022-550"
+  },
+  {
+    "id": "seal-emblem",
+    "year": -3500,
+    "linked": {
+      "text": "Seal (emblem)",
+      "link": "/wiki/Seal_(emblem)"
+    },
+    "abbreviation": {
+      "slim": "SE",
+      "descriptive": "SeE",
+      "verbose": "SeEm"
+    },
+    "conflictProperty": "-3500-74"
+  }
+]
