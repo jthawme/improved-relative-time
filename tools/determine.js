@@ -39,6 +39,13 @@ const LEVEL = {
 
 /**
  *
+ * @param {string} text
+ * @returns
+ */
+const slug = (text) => slugify(text, { remove: /[*+~.()'"!:@]/g, lower: true });
+
+/**
+ *
  * @param {RawItem} item
  */
 const determineTopic = async (item) => {
@@ -90,7 +97,7 @@ const determineTopic = async (item) => {
   const manualLink = await input({ message: "Wiki Link:" });
 
   return {
-    link: ["/wiki", manualLink.split("/wiki/").shift()].join("/"),
+    link: ["/wiki", manualLink.split("/wiki/")[1]].join("/"),
     text: manualInput,
   };
 };
@@ -219,7 +226,7 @@ const questionItem = async (item) => {
   const abbreviation = determineAbbreviation(linked.text);
 
   return {
-    id: slugify(linked.text, { remove: /[*+~.()'"!:@]/g }).toLowerCase(),
+    id: slug(linked.text),
 
     year: item.year,
     linked,
@@ -227,29 +234,91 @@ const questionItem = async (item) => {
   };
 };
 
+const uniqueItems = (arr) => {
+  const seen = new Set();
+  return arr.filter((item) => !seen.has(item.id) && seen.add(item.id));
+};
+
 const cumulativeData = await getPreviousData();
 
 onExit(() => {
   console.log("DEATH");
-  writeFileSync(determinedDataFile, JSON.stringify(cumulativeData, null, 2));
+  writeFileSync(
+    determinedDataFile,
+    JSON.stringify(uniqueItems(cumulativeData), null, 2)
+  );
 });
 
 const rawJsonData = await readJsonFile(rawDataFile);
 
+/**
+ * This is the annoying part, its a moving target, but i dont want to repeat the manual process if possible
+ * so we try determine a 'confflict property' a property to check against and see if we've seen this before
+ * but likely if the wiki gets updated this will invalidate somewhat, so we just have to hope
+ *
+ * @param {RawItem}
+ */
+function createConflictProperty(item) {
+  try {
+    const suffixes =
+      item.events.items.length === 0
+        ? [slug(item.events.fullText)]
+        : item.events.items.map((i) => slug(i.text));
+
+    return [item.year, ...suffixes].join("-");
+  } catch (e) {
+    console.log(item);
+    throw e;
+  }
+}
+
+function addItemToCumulative(item, rawItem) {
+  const idx = cumulativeData.findIndex((i) => i.id === item.id);
+
+  if (idx >= 0) {
+    cumulativeData.splice(idx, 1, {
+      ...item,
+      conflictProperty: createConflictProperty(rawItem),
+    });
+  } else {
+    cumulativeData.push({
+      ...item,
+      conflictProperty: createConflictProperty(rawItem),
+    });
+  }
+}
+
 await promiseRunner(rawJsonData, async (item, idx) => {
-  const prev = cumulativeData.some(
-    (d) => d.conflictProperty === `${item.year}-${idx}`
+  const prev = cumulativeData.find(
+    // (d) => d.conflictProperty === createConflictProperty(item)
+    (d) => {
+      if (d.conflictProperty === `${item.year}-${idx}`) {
+        console.log("item-year-idx");
+        return true;
+      }
+
+      if (Array.isArray(d.conflictProperty)) {
+        console.log("legacy array");
+        return true;
+      }
+
+      if (d.conflictProperty === createConflictProperty(item)) {
+        console.log("conflict property new");
+        return true;
+      }
+    }
   );
 
-  if (prev) {
-    console.log(colors.yellow("Skipping:"), item.time);
+  // if (item.events.fullText.includes("watch")) {
+  //   console.log(item);
+  // }
+
+  if (!!prev) {
+    console.log(colors.yellow("Skipping:"), prev.linked.text);
     return;
   }
 
   const determined = await questionItem(item);
 
-  cumulativeData.push({
-    ...determined,
-    conflictProperty: `${item.year}-${idx}`,
-  });
+  addItemToCumulative(determined, item);
 });

@@ -452,7 +452,7 @@
     "time": "45 kya – 9 kya:",
     "year": -45000,
     "events": {
-      "fullText": "45 kya – 9 kya: Earliest evidence of shoes, suggested by changes in foot bone morphology in China by Tianyuan man.[51] The earliest physical shoes found so far are bark sandals dated to 10 to 9 kya in Fort Rock Cave, United States.[52]",
+      "fullText": "45 kya – 9 kya: Earliest evidence of shoes, suggested by changes in foot bone morphology in China by Tianyuan man.[51] The earliest physical shoes found so far are bark sandals dated to 10 to 9 kya in Fort Rock Cave, United States.[52] The oldest known leather shoe dated to 5.5 kya was found in excellent condition in the Areni-1 cave located in the Vayots Dzor province of Armenia.[53]",
       "items": [
         {
           "text": "shoes",
@@ -473,6 +473,18 @@
         {
           "text": "United States",
           "link": "/wiki/United_States"
+        },
+        {
+          "text": "Areni-1 cave",
+          "link": "/wiki/Areni-1_cave"
+        },
+        {
+          "text": "Vayots Dzor",
+          "link": "/wiki/Vayots_Dzor"
+        },
+        {
+          "text": "Armenia",
+          "link": "/wiki/Armenia"
         }
       ]
     }
@@ -481,7 +493,7 @@
     "time": "44 kya – 42 kya:",
     "year": -44000,
     "events": {
-      "fullText": "44 kya – 42 kya: Tally sticks (see Lebombo bone) in Eswatini[53]",
+      "fullText": "44 kya – 42 kya: Tally sticks (see Lebombo bone) in Eswatini[54]",
       "items": [
         {
           "text": "Tally sticks",
@@ -502,7 +514,7 @@
     "time": "42 kya:",
     "year": -42000,
     "events": {
-      "fullText": "42 kya: Flute in Germany[54][55]",
+      "fullText": "42 kya: Flute in Germany[55][56]",
       "items": [
         {
           "text": "Flute",
@@ -515,7 +527,7 @@
     "time": "37 kya:",
     "year": -37000,
     "events": {
-      "fullText": "37 kya: Mortar and pestle in Southwest Asia[56]",
+      "fullText": "37 kya: Mortar and pestle in Southwest Asia[57]",
       "items": [
         {
           "text": "Mortar and pestle",
@@ -532,7 +544,7 @@
     "time": "32-28 kya:",
     "year": -32000,
     "events": {
-      "fullText": "32-28 kya: Rope and Cords for \"hafting stone tools, weaving baskets, or sewing garments,\" according to Elis Kvavadze et al.[57][58]",
+      "fullText": "32-28 kya: Rope and Cords for \"hafting stone tools, weaving baskets, or sewing garments,\" according to Elis Kvavadze et al.[58][59]",
       "items": [
         {
           "text": "Rope",
@@ -553,7 +565,7 @@
     "time": "31 kya:",
     "year": -31000,
     "events": {
-      "fullText": "31 kya: Amputation and surgery.[59] Medicine in a meaningful sense likely predates the human-chimpanzee split, as, for example, herbal medicine has been observed in other primates.[60]",
+      "fullText": "31 kya: Amputation and surgery.[60] Medicine in a meaningful sense likely predates the human-chimpanzee split, as, for example, herbal medicine has been observed in other primates.[61]",
       "items": [
         {
           "text": "Amputation",
@@ -574,7 +586,7 @@
     "time": "28 kya:",
     "year": -28000,
     "events": {
-      "fullText": "28 kya: Ceramics (direct evidence) and weaving (impressions left in the ceramics) in Moravia[61][62] (Czech Republic) and Georgia. (The oldest piece of woven cloth found so far was in Çatalhöyük, Turkey and dated to about 9,000 years ago.[63])",
+      "fullText": "28 kya: Ceramics (direct evidence) and weaving (impressions left in the ceramics) in Moravia[62][63] (Czech Republic) and Georgia. (The oldest piece of woven cloth found so far was in Çatalhöyük, Turkey and dated to about 9,000 years ago.[64])",
       "items": [
         {
           "text": "Ceramics",
@@ -599,7 +611,7 @@
     "time": "24 kya:",
     "year": -24000,
     "events": {
-      "fullText": "24 kya: Oldest known ceramic sculpture[64]",
+      "fullText": "24 kya: Oldest known ceramic sculpture[65]",
       "items": [
         {
           "text": "Oldest known ceramic sculpture",
@@ -612,7 +624,7 @@
     "time": "23 kya:",
     "year": -23000,
     "events": {
-      "fullText": "23 kya: Domestication of the dog in Siberia.[65]",
+      "fullText": "23 kya: Domestication of the dog in Siberia.[66]",
       "items": [
         {
           "text": "Domestication of the dog",
@@ -629,7 +641,7 @@
     "time": "22 – 17 kya",
     "year": 22,
     "events": {
-      "fullText": "22 – 17 kya Bullroarer[66][67][68]",
+      "fullText": "22 – 17 kya Bullroarer[67][68][69]",
       "items": [
         {
           "text": "Bullroarer",
@@ -642,7 +654,7 @@
     "time": "22 kya:",
     "year": -22000,
     "events": {
-      "fullText": "22 kya: Fish hook in Okinawa Island, modern day Japan.[69][70]",
+      "fullText": "22 kya: Fish hook in Okinawa Island, modern day Japan.[70][71]",
       "items": [
         {
           "text": "Fish hook",
@@ -659,7 +671,7 @@
     "time": "21 – 3.7 kya:",
     "year": -21000,
     "events": {
-      "fullText": "21 – 3.7 kya: Star chart in France,[71][72] and later Spain,[73] Kashmir,[74] Germany,[75][76] and Egypt.[77]",
+      "fullText": "21 – 3.7 kya: Star chart in France,[72][73] and later Spain,[74] Kashmir,[75] Germany,[76][77] and Egypt.[78]",
       "items": [
         {
           "text": "Star chart",
@@ -684,7 +696,7 @@
     "time": "17.5 kya:",
     "year": -17500,
     "events": {
-      "fullText": "17.5 kya: Spear-thrower (atlatl), found in France.[78]",
+      "fullText": "17.5 kya: Spear-thrower (atlatl), found in France.[79]",
       "items": [
         {
           "text": "Spear-thrower",
@@ -697,7 +709,7 @@
     "time": "16 kya:",
     "year": -16000,
     "events": {
-      "fullText": "16 kya: Pottery in China[79]",
+      "fullText": "16 kya: Pottery in China[80]",
       "items": [
         {
           "text": "Pottery",
@@ -714,7 +726,7 @@
     "time": "14.5 kya:",
     "year": -14500,
     "events": {
-      "fullText": "14.5 kya: Bread in Jordan[80][81]",
+      "fullText": "14.5 kya: Bread in Jordan[81][82]",
       "items": [
         {
           "text": "Bread",
@@ -727,7 +739,7 @@
     "time": "12 kya:",
     "year": -12000,
     "events": {
-      "fullText": "12 kya: Spindle whorl, also the oldest wheel-like tool, at Nahal Ein Gev II (Israel)[82][83]",
+      "fullText": "12 kya: Spindle whorl, also the oldest wheel-like tool, at Nahal Ein Gev II (Israel)[83][84]",
       "items": [
         {
           "text": "Spindle whorl",
@@ -748,7 +760,7 @@
     "time": "10,000 BC – 9000 BC:",
     "year": -10,
     "events": {
-      "fullText": "10,000 BC – 9000 BC: Agriculture in the Fertile Crescent[85][86]",
+      "fullText": "10,000 BC – 9000 BC: Agriculture in the Fertile Crescent[86][87]",
       "items": [
         {
           "text": "Agriculture",
@@ -765,7 +777,7 @@
     "time": "10,000 BC – 9000 BC:",
     "year": -10,
     "events": {
-      "fullText": "10,000 BC – 9000 BC: Domestication of sheep in Southwest Asia[87][88] (followed shortly by pigs, goats and cattle)",
+      "fullText": "10,000 BC – 9000 BC: Domestication of sheep in Southwest Asia[88][89] (followed shortly by pigs, goats and cattle)",
       "items": [
         {
           "text": "Domestication of sheep",
@@ -782,7 +794,7 @@
     "time": "9500 BC – 9000 BC:",
     "year": -9500,
     "events": {
-      "fullText": "9500 BC – 9000 BC: Oldest known surviving building – Göbekli Tepe, in Turkey[89][90]",
+      "fullText": "9500 BC – 9000 BC: Oldest known surviving building – Göbekli Tepe, in Turkey[90][91]",
       "items": [
         {
           "text": "Oldest known surviving building",
@@ -803,7 +815,7 @@
     "time": "9000 BC – 6000 BC:",
     "year": -9000,
     "events": {
-      "fullText": "9000 BC – 6000 BC: Domestication of rice in China[91]",
+      "fullText": "9000 BC – 6000 BC: Domestication of rice in China[92]",
       "items": [
         {
           "text": "Domestication of rice",
@@ -820,7 +832,7 @@
     "time": "9000 BC:",
     "year": -9000,
     "events": {
-      "fullText": "9000 BC: Mudbricks (unfired bricks), and clay mortar in Jericho.[92][93][94]",
+      "fullText": "9000 BC: Mudbricks (unfired bricks), and clay mortar in Jericho.[93][94][95]",
       "items": [
         {
           "text": "Mudbricks",
@@ -841,7 +853,7 @@
     "time": "8400 BC:",
     "year": -8400,
     "events": {
-      "fullText": "8400 BC: Oldest known water well in Cyprus.[95]",
+      "fullText": "8400 BC: Oldest known water well in Cyprus.[96]",
       "items": [
         {
           "text": "well",
@@ -858,7 +870,7 @@
     "time": "8000 BC – 7500 BC:",
     "year": -8000,
     "events": {
-      "fullText": "8000 BC – 7500 BC: Proto-city – large permanent settlements, such as Tell es-Sultan (Jericho) and Çatalhöyük, Turkey.[96]",
+      "fullText": "8000 BC – 7500 BC: Proto-city – large permanent settlements, such as Tell es-Sultan (Jericho) and Çatalhöyük, Turkey.[97]",
       "items": [
         {
           "text": "Proto-city",
@@ -879,7 +891,7 @@
     "time": "7000 BC:",
     "year": -7000,
     "events": {
-      "fullText": "7000 BC: Alcohol fermentation – specifically mead, in China[97]",
+      "fullText": "7000 BC: Alcohol fermentation – specifically mead, in China[98]",
       "items": [
         {
           "text": "Alcohol fermentation",
@@ -896,7 +908,7 @@
     "time": "7000 BC:",
     "year": -7000,
     "events": {
-      "fullText": "7000 BC: Sled dog and Dog sled, in Siberia.[98]",
+      "fullText": "7000 BC: Sled dog and Dog sled, in Siberia.[99]",
       "items": [
         {
           "text": "Sled dog",
@@ -913,7 +925,7 @@
     "time": "7000 BC – 3300 BC:",
     "year": -7000,
     "events": {
-      "fullText": "7000 BC – 3300 BC: Tanned leather in Mehrgarh, Pakistan.[99]",
+      "fullText": "7000 BC – 3300 BC: Tanned leather in Mehrgarh, Pakistan.[100]",
       "items": [
         {
           "text": "Tanned leather",
@@ -930,7 +942,7 @@
     "time": "6500 BC:",
     "year": -6500,
     "events": {
-      "fullText": "6500 BC: Evidence of lead smelting in Çatalhöyük, Turkey[100]",
+      "fullText": "6500 BC: Evidence of lead smelting in Çatalhöyük, Turkey[101]",
       "items": [
         {
           "text": "lead smelting",
@@ -951,7 +963,7 @@
     "time": "6000 BC:",
     "year": -6000,
     "events": {
-      "fullText": "6000 BC: Kiln in Mesopotamia (Iraq)[101]",
+      "fullText": "6000 BC: Kiln in Mesopotamia (Iraq)[102]",
       "items": [
         {
           "text": "Kiln",
@@ -968,7 +980,7 @@
     "time": "6th millennium BC:",
     "year": -6,
     "events": {
-      "fullText": "6th millennium BC: Irrigation in Khuzistan, Iran[102][103]",
+      "fullText": "6th millennium BC: Irrigation in Khuzistan, Iran[103][104]",
       "items": [
         {
           "text": "Irrigation",
@@ -989,7 +1001,7 @@
     "time": "6000 BC – 3200 BC:",
     "year": -6000,
     "events": {
-      "fullText": "6000 BC – 3200 BC: Proto-writing in present-day Egypt, Iraq, Romania, China, India and Pakistan.[104]",
+      "fullText": "6000 BC – 3200 BC: Proto-writing in present-day Egypt, Iraq, Romania, China, India and Pakistan.[105]",
       "items": [
         {
           "text": "Proto-writing",
@@ -1002,7 +1014,7 @@
     "time": "5900 – 5600 BC:",
     "year": -5900,
     "events": {
-      "fullText": "5900 – 5600 BC: Oldest evidence of salt production found in Southeastern Europe, in the countries of Moldova and Romania.[105]",
+      "fullText": "5900 – 5600 BC: Oldest evidence of salt production found in Southeastern Europe, in the countries of Moldova and Romania.[106]",
       "items": [
         {
           "text": "salt production",
@@ -1023,7 +1035,7 @@
     "time": "5500 – 5200 BC:",
     "year": -5500,
     "events": {
-      "fullText": "5500 – 5200 BC: Oldest evidence of cheese found, in Poland and on the Dalmatian coast of Croatia.[106][107]",
+      "fullText": "5500 – 5200 BC: Oldest evidence of cheese found, in Poland and on the Dalmatian coast of Croatia.[107][108]",
       "items": [
         {
           "text": "cheese",
@@ -1048,7 +1060,7 @@
     "time": "5500 BC:",
     "year": -5500,
     "events": {
-      "fullText": "5500 BC: Sailing - pottery depictions of sail boats, in Mesopotamia,[108] and later ancient Egypt[109][110]",
+      "fullText": "5500 BC: Sailing - pottery depictions of sail boats, in Mesopotamia,[109] and later ancient Egypt[110][111]",
       "items": [
         {
           "text": "Sailing",
@@ -1069,7 +1081,7 @@
     "time": "5000 BC:",
     "year": -5000,
     "events": {
-      "fullText": "5000 BC: Copper smelting in Serbia.[111][112]",
+      "fullText": "5000 BC: Copper smelting in Serbia.[112][113]",
       "items": [
         {
           "text": "Copper smelting",
@@ -1086,7 +1098,7 @@
     "time": "5000 BC:",
     "year": -5000,
     "events": {
-      "fullText": "5000 BC: Seawall in Tel Hreiz.[113]",
+      "fullText": "5000 BC: Seawall in Tel Hreiz.[114]",
       "items": [
         {
           "text": "Seawall",
@@ -1103,7 +1115,7 @@
     "time": "5th millennium BC:",
     "year": -5,
     "events": {
-      "fullText": "5th millennium BC: Lacquer in China[114][115]",
+      "fullText": "5th millennium BC: Lacquer in China[115][116]",
       "items": [
         {
           "text": "Lacquer",
@@ -1116,7 +1128,7 @@
     "time": "5000 BC:",
     "year": -5000,
     "events": {
-      "fullText": "5000 BC: Cotton thread, in Mehrgarh, Pakistan, connecting the copper beads of a bracelet.[116][117][118]",
+      "fullText": "5000 BC: Cotton thread, in Mehrgarh, Pakistan, connecting the copper beads of a bracelet.[117][118][119]",
       "items": [
         {
           "text": "Cotton",
@@ -1133,7 +1145,7 @@
     "time": "5000 BC – 4500 BC:",
     "year": -5000,
     "events": {
-      "fullText": "5000 BC – 4500 BC: Rowing oars in China[119][120]",
+      "fullText": "5000 BC – 4500 BC: Rowing oars in China[120][121]",
       "items": [
         {
           "text": "Rowing oars",
@@ -1146,7 +1158,7 @@
     "time": "4500 BC – 3500 BC:",
     "year": -4500,
     "events": {
-      "fullText": "4500 BC – 3500 BC: Lost-wax casting in Israel[121] or the Indus Valley[122]",
+      "fullText": "4500 BC – 3500 BC: Lost-wax casting in Israel[122] or the Indus Valley[123]",
       "items": [
         {
           "text": "Lost-wax casting",
@@ -1167,7 +1179,7 @@
     "time": "4400 BC:",
     "year": -4400,
     "events": {
-      "fullText": "4400 BC: Fired bricks in China.[123]",
+      "fullText": "4400 BC: Fired bricks in China.[124]",
       "items": [
         {
           "text": "Fired bricks",
@@ -1180,7 +1192,7 @@
     "time": "4000 BC:",
     "year": -4000,
     "events": {
-      "fullText": "4000 BC: Probable time period of the first diamond-mines in the world, in Southern India.[124]",
+      "fullText": "4000 BC: Probable time period of the first diamond-mines in the world, in Southern India.[125]",
       "items": []
     }
   },
@@ -1188,7 +1200,7 @@
     "time": "4000 BC:",
     "year": -4000,
     "events": {
-      "fullText": "4000 BC: Paved roads, in and around the Mesopotamian city of Ur, Iraq.[125]",
+      "fullText": "4000 BC: Paved roads, in and around the Mesopotamian city of Ur, Iraq.[126]",
       "items": [
         {
           "text": "roads",
@@ -1205,7 +1217,7 @@
     "time": "4000 BC:",
     "year": -4000,
     "events": {
-      "fullText": "4000 BC: Plumbing. The earliest pipes were made of clay, and are found at the Temple of Bel at Nippur in Babylonia.[126][b]",
+      "fullText": "4000 BC: Plumbing. The earliest pipes were made of clay, and are found at the Temple of Bel at Nippur in Babylonia.[127][b]",
       "items": [
         {
           "text": "Plumbing",
@@ -1218,7 +1230,7 @@
     "time": "4000 BC:",
     "year": -4000,
     "events": {
-      "fullText": "4000 BC: Oldest evidence of locks, the earliest example discovered in the ruins of Nineveh, the capital of ancient Assyria.[129]",
+      "fullText": "4000 BC: Oldest evidence of locks, the earliest example discovered in the ruins of Nineveh, the capital of ancient Assyria.[130]",
       "items": [
         {
           "text": "locks",
@@ -1239,7 +1251,7 @@
     "time": "4000 BC – 3400 BC:",
     "year": -4000,
     "events": {
-      "fullText": "4000 BC – 3400 BC: Oldest evidence of wheels, found in the countries of Ukraine, Poland, and Germany.[130][131]",
+      "fullText": "4000 BC – 3400 BC: Oldest evidence of wheels, found in the countries of Ukraine, Poland, and Germany.[131][132]",
       "items": [
         {
           "text": "wheels",
@@ -1264,7 +1276,7 @@
     "time": "3630 BC:",
     "year": -3630,
     "events": {
-      "fullText": "3630 BC: Silk garments (sericulture) in China[132]",
+      "fullText": "3630 BC: Silk garments (sericulture) in China[133]",
       "items": [
         {
           "text": "sericulture",
@@ -1277,7 +1289,7 @@
     "time": "3500 BC:",
     "year": -3500,
     "events": {
-      "fullText": "3500 BC: Probable first domestication of the horse in the Eurasian Steppes.[133][134][135]",
+      "fullText": "3500 BC: Probable first domestication of the horse in the Eurasian Steppes.[134][135][136]",
       "items": [
         {
           "text": "domestication of the horse",
@@ -1290,7 +1302,7 @@
     "time": "3500 BC:",
     "year": -3500,
     "events": {
-      "fullText": "3500 BC: Wine as general anaesthesia in Sumer.[136]",
+      "fullText": "3500 BC: Wine as general anaesthesia in Sumer.[137]",
       "items": [
         {
           "text": "general anaesthesia",
@@ -1303,7 +1315,7 @@
     "time": "3500 BC:",
     "year": -3500,
     "events": {
-      "fullText": "3500 BC: Seal (emblem) invented around in the Near East, at the contemporary sites of Uruk in southern Mesopotamia and slightly later at Susa in south-western Iran during the Proto-Elamite period, and they follow the development of stamp seals in the Halaf culture or slightly earlier.[137]",
+      "fullText": "3500 BC: Seal (emblem) invented around in the Near East, at the contemporary sites of Uruk in southern Mesopotamia and slightly later at Susa in south-western Iran during the Proto-Elamite period, and they follow the development of stamp seals in the Halaf culture or slightly earlier.[138]",
       "items": [
         {
           "text": "Seal (emblem)",
@@ -1348,7 +1360,7 @@
     "time": "3500 BC:",
     "year": -3500,
     "events": {
-      "fullText": "3500 BC: Ploughing, on a site in Bubeneč, Czech Republic.[138] Evidence, c. 2800 BC, has also been found at Kalibangan, Indus Valley (modern-day India).[139]",
+      "fullText": "3500 BC: Ploughing, on a site in Bubeneč, Czech Republic.[139] Evidence, c. 2800 BC, has also been found at Kalibangan, Indus Valley (modern-day India).[140]",
       "items": [
         {
           "text": "Ploughing",
@@ -1369,7 +1381,7 @@
     "time": "3400 BC – 3100 BC:",
     "year": -3400,
     "events": {
-      "fullText": "3400 BC – 3100 BC: Tattoos in southern Europe[140][141]",
+      "fullText": "3400 BC – 3100 BC: Tattoos in southern Europe[141][142]",
       "items": [
         {
           "text": "Tattoos",
@@ -1382,7 +1394,7 @@
     "time": "Late 4th millennium BC:",
     "year": -4,
     "events": {
-      "fullText": "Late 4th millennium BC: Writing – in Sumer and Egypt.[142][143][144][145]",
+      "fullText": "Late 4th millennium BC: Writing – in Sumer and Egypt.[143][144][145][146]",
       "items": [
         {
           "text": "Writing",
@@ -1403,7 +1415,7 @@
     "time": "3300 BC:",
     "year": -3300,
     "events": {
-      "fullText": "3300 BC: The first documented swords. They have been found in Arslantepe, Turkey, are made from arsenical bronze, and are about 60 cm (24 in) long.[146][147] Some of them are inlaid with silver.[147]",
+      "fullText": "3300 BC: The first documented swords. They have been found in Arslantepe, Turkey, are made from arsenical bronze, and are about 60 cm (24 in) long.[147][148] Some of them are inlaid with silver.[148]",
       "items": [
         {
           "text": "swords",
@@ -1428,7 +1440,7 @@
     "time": "3300 BC:",
     "year": -3300,
     "events": {
-      "fullText": "3300 BC: City in Uruk, Sumer, Mesopotamia (modern-day Iraq).[148]",
+      "fullText": "3300 BC: City in Uruk, Sumer, Mesopotamia (modern-day Iraq).[149]",
       "items": [
         {
           "text": "City",
@@ -1453,7 +1465,7 @@
     "time": "3250 BC: ",
     "year": -3250,
     "events": {
-      "fullText": "3250 BC: One of the earliest documented hats was worn by a man (nicknamed Ötzi) whose body and hat  found frozen in a mountain between Austria and Italy. He was found wearing a bearskin cap with a chin strap, made of several hides stitched together, resembling a Russian fur hat without the flaps.[149][150][151]",
+      "fullText": "3250 BC: One of the earliest documented hats was worn by a man (nicknamed Ötzi) whose body and hat  found frozen in a mountain between Austria and Italy. He was found wearing a bearskin cap with a chin strap, made of several hides stitched together, resembling a Russian fur hat without the flaps.[150][151][152]",
       "items": [
         {
           "text": "hats",
@@ -1470,7 +1482,7 @@
     "time": "3200 BC:",
     "year": -3200,
     "events": {
-      "fullText": "3200 BC: Dry Latrines in the city of Uruk, Iraq, with later dry squat Toilets, that added raised fired brick foot platforms, and pedestal toilets, all over clay pipe constructed drains.[152][153][154]",
+      "fullText": "3200 BC: Dry Latrines in the city of Uruk, Iraq, with later dry squat Toilets, that added raised fired brick foot platforms, and pedestal toilets, all over clay pipe constructed drains.[153][154][155]",
       "items": [
         {
           "text": "Latrines",
@@ -1491,7 +1503,7 @@
     "time": "3200 BC:",
     "year": -3200,
     "events": {
-      "fullText": "3200 BC: Earliest actual wheel ever found, the Ljubljana Marshes Wheel, made of wood, in Slovenia.[131]",
+      "fullText": "3200 BC: Earliest actual wheel ever found, the Ljubljana Marshes Wheel, made of wood, in Slovenia.[132]",
       "items": [
         {
           "text": "Ljubljana Marshes Wheel",
@@ -1508,7 +1520,7 @@
     "time": "3000 BC:",
     "year": -3000,
     "events": {
-      "fullText": "3000 BC: Devices functionally equivalent to dice, in the form of flat two-sided throwsticks, are seen in the Egyptian game of Senet.[155] Perhaps the oldest known dice, resembling modern ones, were excavated as part of a backgammon-like game set at the Burnt City, an archeological site in south-eastern Iran, estimated to be from between 2800 and 2500 BC.[156][157] Later, terracotta dice were used at the Indus Valley site of Mohenjo-daro (modern-day Pakistan).[158]",
+      "fullText": "3000 BC: Devices functionally equivalent to dice, in the form of flat two-sided throwsticks, are seen in the Egyptian game of Senet.[156] Perhaps the oldest known dice, resembling modern ones, were excavated as part of a backgammon-like game set at the Burnt City, an archeological site in south-eastern Iran, estimated to be from between 2800 and 2500 BC.[157][158] Later, terracotta dice were used at the Indus Valley site of Mohenjo-daro (modern-day Pakistan).[159]",
       "items": [
         {
           "text": "dice",
@@ -1541,7 +1553,7 @@
     "time": "3000 BC:",
     "year": -3000,
     "events": {
-      "fullText": "3000 BC: Tin extraction in Central Asia[159]",
+      "fullText": "3000 BC: Tin extraction in Central Asia[160]",
       "items": [
         {
           "text": "Tin",
@@ -1558,7 +1570,7 @@
     "time": "3000 BC – 2560 BC:",
     "year": -3000,
     "events": {
-      "fullText": "3000 BC – 2560 BC: Papyrus in Egypt[160][161][162][163]",
+      "fullText": "3000 BC – 2560 BC: Papyrus in Egypt[161][162][163][164]",
       "items": [
         {
           "text": "Papyrus",
@@ -1571,7 +1583,7 @@
     "time": "3000 BC:",
     "year": -3000,
     "events": {
-      "fullText": "3000 BC: Reservoir in Girnar, Indus Valley (modern-day India).[164]",
+      "fullText": "3000 BC: Reservoir in Girnar, Indus Valley (modern-day India).[165]",
       "items": [
         {
           "text": "Reservoir",
@@ -1592,7 +1604,7 @@
     "time": "3000 BC:",
     "year": -3000,
     "events": {
-      "fullText": "3000 BC: Receipt in Ancient Mesopotamia (Iraq)[165]",
+      "fullText": "3000 BC: Receipt in Ancient Mesopotamia (Iraq)[166]",
       "items": [
         {
           "text": "Receipt",
@@ -1613,7 +1625,7 @@
     "time": "3000 BC – 2800 BC:",
     "year": -3000,
     "events": {
-      "fullText": "3000 BC – 2800 BC: Prosthesis first documented in the Ancient Near East, in ancient Egypt and Iran, specifically for an eye prosthetics, the eye found in Iran was likely made of bitumen paste that was covered with a thin layer of gold.[166]",
+      "fullText": "3000 BC – 2800 BC: Prosthesis first documented in the Ancient Near East, in ancient Egypt and Iran, specifically for an eye prosthetics, the eye found in Iran was likely made of bitumen paste that was covered with a thin layer of gold.[167]",
       "items": [
         {
           "text": "Prosthesis",
@@ -1630,7 +1642,7 @@
     "time": "3000 BC – 2500 BC:",
     "year": -3000,
     "events": {
-      "fullText": "3000 BC – 2500 BC: Rhinoplasty in Egypt.[167][168]",
+      "fullText": "3000 BC – 2500 BC: Rhinoplasty in Egypt.[168][169]",
       "items": [
         {
           "text": "Rhinoplasty",
@@ -1668,7 +1680,7 @@
     "time": "2600 BC:",
     "year": -2600,
     "events": {
-      "fullText": "2600 BC: Planned city in Indus Valley (modern-day: India, Pakistan).[170][171]",
+      "fullText": "2600 BC: Planned city in Indus Valley (modern-day: India, Pakistan).[171][172]",
       "items": [
         {
           "text": "Planned city",
@@ -1681,7 +1693,7 @@
     "time": "2600 BC:",
     "year": -2600,
     "events": {
-      "fullText": "2600 BC: Public sewage and sanitation systems in Indus Valley sites such as Mohenjo-daro and Rakhigarhi (modern-day: India, Pakistan).[172]",
+      "fullText": "2600 BC: Public sewage and sanitation systems in Indus Valley sites such as Mohenjo-daro and Rakhigarhi (modern-day: India, Pakistan).[173]",
       "items": [
         {
           "text": "Public sewage and sanitation systems in Indus Valley",
@@ -1702,7 +1714,7 @@
     "time": "2600 BC:",
     "year": -2600,
     "events": {
-      "fullText": "2600 BC: Public bath in Mohenjo-daro, Indus Valley (modern-day Pakistan).[173]",
+      "fullText": "2600 BC: Public bath in Mohenjo-daro, Indus Valley (modern-day Pakistan).[174]",
       "items": [
         {
           "text": "Public bath",
@@ -1723,7 +1735,7 @@
     "time": "2600 BC:",
     "year": -2600,
     "events": {
-      "fullText": "2600 BC: Levee in Indus Valley.[174]",
+      "fullText": "2600 BC: Levee in Indus Valley.[175]",
       "items": [
         {
           "text": "Levee",
@@ -1736,7 +1748,7 @@
     "time": "2600 BC:",
     "year": -2600,
     "events": {
-      "fullText": "2600 BC: Balance weights and scales, from the Fourth Dynasty of Egypt; examples of Deben (unit) balance weights, from reign of Sneferu (c. 2600 BC) have been attributed.[175]",
+      "fullText": "2600 BC: Balance weights and scales, from the Fourth Dynasty of Egypt; examples of Deben (unit) balance weights, from reign of Sneferu (c. 2600 BC) have been attributed.[176]",
       "items": [
         {
           "text": "Balance weights and scales",
@@ -1761,7 +1773,7 @@
     "time": "2556 BC:",
     "year": -2556,
     "events": {
-      "fullText": "2556 BC: Docks structure in Wadi al-Jarf, Egypt, which was developed by the reign of the Pharaoh Khufu.[176][163][d]",
+      "fullText": "2556 BC: Docks structure in Wadi al-Jarf, Egypt, which was developed by the reign of the Pharaoh Khufu.[177][164][d]",
       "items": [
         {
           "text": "Docks",
@@ -1782,7 +1794,7 @@
     "time": "2500 BC:",
     "year": -2500,
     "events": {
-      "fullText": "2500 BC: Puppetry in the Indus Valley.[183][184]",
+      "fullText": "2500 BC: Puppetry in the Indus Valley.[184][185]",
       "items": [
         {
           "text": "Puppetry",
@@ -1795,7 +1807,7 @@
     "time": "2400 BC:",
     "year": -2400,
     "events": {
-      "fullText": "2400 BC: Fork in Bronze Age Qijia culture in China[185]",
+      "fullText": "2400 BC: Fork in Bronze Age Qijia culture in China[186]",
       "items": [
         {
           "text": "Fork",
@@ -1820,7 +1832,7 @@
     "time": "2400 BC:",
     "year": -2400,
     "events": {
-      "fullText": "2400 BC: Copper pipes, the Pyramid of Sahure, an adjoining temple complex at Abusir, was discovered to have a network of copper drainage pipes.[128]",
+      "fullText": "2400 BC: Copper pipes, the Pyramid of Sahure, an adjoining temple complex at Abusir, was discovered to have a network of copper drainage pipes.[129]",
       "items": [
         {
           "text": "Copper pipes",
@@ -1841,7 +1853,7 @@
     "time": "2400 BC:",
     "year": -2400,
     "events": {
-      "fullText": "2400 BC: Touchstone in the Indus Valley site of Banawali (modern-day India).[186]",
+      "fullText": "2400 BC: Touchstone in the Indus Valley site of Banawali (modern-day India).[187]",
       "items": [
         {
           "text": "Touchstone",
@@ -1858,7 +1870,7 @@
     "time": "2300 BC:",
     "year": -2300,
     "events": {
-      "fullText": "2300 BC: Dictionary in Mesopotamia.[187]",
+      "fullText": "2300 BC: Dictionary in Mesopotamia.[188]",
       "items": [
         {
           "text": "Dictionary",
@@ -1875,7 +1887,7 @@
     "time": "2200 BC – 2000 BC:",
     "year": -2200,
     "events": {
-      "fullText": "2200 BC – 2000 BC: Iron smelting in Kaman-Kalehöyük.[188]",
+      "fullText": "2200 BC – 2000 BC: Iron smelting in Kaman-Kalehöyük.[189]",
       "items": [
         {
           "text": "Iron smelting",
@@ -1892,7 +1904,7 @@
     "time": "2200 BC:",
     "year": -2200,
     "events": {
-      "fullText": "2200 BC: Protractor, Phase IV, Lothal, Indus Valley (modern-day India), a Xancus shell cylinder with sawn grooves, at right angles, in its top and bottom surfaces, has been proposed as an angle marking tool.[189][190]",
+      "fullText": "2200 BC: Protractor, Phase IV, Lothal, Indus Valley (modern-day India), a Xancus shell cylinder with sawn grooves, at right angles, in its top and bottom surfaces, has been proposed as an angle marking tool.[190][191]",
       "items": [
         {
           "text": "Protractor",
@@ -1913,7 +1925,7 @@
     "time": "2000 BC:",
     "year": -2000,
     "events": {
-      "fullText": "2000 BC: Water clock by at least the old Babylonian period (c. 2000 – c. 1600 BC),[191] but possibly earlier from Mohenjo-Daro in the Indus Valley.[192]",
+      "fullText": "2000 BC: Water clock by at least the old Babylonian period (c. 2000 – c. 1600 BC),[192] but possibly earlier from Mohenjo-Daro in the Indus Valley.[193]",
       "items": [
         {
           "text": "Water clock",
@@ -1926,7 +1938,7 @@
     "time": "2000 BC:",
     "year": -2000,
     "events": {
-      "fullText": "2000 BC: Chariot in Russia and Kazakhstan[193]",
+      "fullText": "2000 BC: Chariot in Russia and Kazakhstan[194]",
       "items": [
         {
           "text": "Chariot",
@@ -1968,7 +1980,7 @@
     "time": "2000 BC:",
     "year": -2000,
     "events": {
-      "fullText": "2000 BC: Scissors, in Mesopotamia.[194]",
+      "fullText": "2000 BC: Scissors, in Mesopotamia.[195]",
       "items": [
         {
           "text": "Scissors",
@@ -1985,7 +1997,7 @@
     "time": "1850 BC:",
     "year": -1850,
     "events": {
-      "fullText": "1850 BC: Proto-alphabet (Proto-Sinaitic script) in Egypt.[195]",
+      "fullText": "1850 BC: Proto-alphabet (Proto-Sinaitic script) in Egypt.[196]",
       "items": [
         {
           "text": "Proto-Sinaitic script",
@@ -1998,7 +2010,7 @@
     "time": "1600 BC:",
     "year": -1600,
     "events": {
-      "fullText": "1600 BC: Surgical treatise appeared in Egypt.[196]",
+      "fullText": "1600 BC: Surgical treatise appeared in Egypt.[197]",
       "items": [
         {
           "text": "Surgical treatise",
@@ -2011,7 +2023,7 @@
     "time": "1500 BC:",
     "year": -1500,
     "events": {
-      "fullText": "1500 BC: Sundial in Ancient Egypt[197] or Babylonia (modern-day Iraq).",
+      "fullText": "1500 BC: Sundial in Ancient Egypt[198] or Babylonia (modern-day Iraq).",
       "items": [
         {
           "text": "Sundial",
@@ -2032,7 +2044,7 @@
     "time": "1500 BC:",
     "year": -1500,
     "events": {
-      "fullText": "1500 BC: Glass manufacture in either Mesopotamia or Ancient Egypt.[198]",
+      "fullText": "1500 BC: Glass manufacture in either Mesopotamia or Ancient Egypt.[199]",
       "items": [
         {
           "text": "Glass",
@@ -2053,7 +2065,7 @@
     "time": "1500 BC:",
     "year": -1500,
     "events": {
-      "fullText": "1500 BC: Seed drill in Babylonia.[199]",
+      "fullText": "1500 BC: Seed drill in Babylonia.[200]",
       "items": [
         {
           "text": "Seed drill",
@@ -2087,7 +2099,7 @@
     "time": "1400 BC:",
     "year": -1400,
     "events": {
-      "fullText": "1400 BC: Rubber,[200] Mesoamerican ballgame.[200][201]",
+      "fullText": "1400 BC: Rubber,[201] Mesoamerican ballgame.[201][202]",
       "items": [
         {
           "text": "Rubber",
@@ -2104,7 +2116,7 @@
     "time": "1400 BC – 1200 BC:",
     "year": -1400,
     "events": {
-      "fullText": "1400 BC – 1200 BC: Concrete in Tiryns (Mycenaean Greece),[202][203] though it was not yet waterproof.",
+      "fullText": "1400 BC – 1200 BC: Concrete in Tiryns (Mycenaean Greece),[203][204] though it was not yet waterproof.",
       "items": [
         {
           "text": "Concrete",
@@ -2121,7 +2133,7 @@
     "time": "1300 BC:",
     "year": -1300,
     "events": {
-      "fullText": "1300 BC: Lathe in Ancient Egypt.[204]",
+      "fullText": "1300 BC: Lathe in Ancient Egypt.[205]",
       "items": [
         {
           "text": "Lathe",
@@ -2134,7 +2146,7 @@
     "time": "1200 BC:",
     "year": -1200,
     "events": {
-      "fullText": "1200 BC: Distillation is described on Akkadian tablets documenting perfumery operations.[205]",
+      "fullText": "1200 BC: Distillation is described on Akkadian tablets documenting perfumery operations.[206]",
       "items": [
         {
           "text": "Distillation",
@@ -2151,7 +2163,7 @@
     "time": "1100 BC",
     "year": 1100,
     "events": {
-      "fullText": "1100 BC Star catalogue — Three Stars Each is the earliest known catalogue in long-running tradition of Babylonian astronomy,[207] likely drawing on Sumerian[208] and/or Elamite constellations.[209]",
+      "fullText": "1100 BC Star catalogue — Three Stars Each is the earliest known catalogue in long-running tradition of Babylonian astronomy,[208] likely drawing on Sumerian[209] and/or Elamite constellations.[210]",
       "items": [
         {
           "text": "Star catalogue",
@@ -2172,7 +2184,7 @@
     "time": "700 BC:",
     "year": -700,
     "events": {
-      "fullText": "700 BC: Saddle (fringed cloths or pads used by Assyrian cavalry).[210]",
+      "fullText": "700 BC: Saddle (fringed cloths or pads used by Assyrian cavalry).[211]",
       "items": [
         {
           "text": "Saddle",
@@ -2189,7 +2201,7 @@
     "time": "7th century BC:",
     "year": -8000,
     "events": {
-      "fullText": "7th century BC: The royal Library of Ashurbanipal at Nineveh had 30,000 clay tablets, in several languages, organized according to shape and separated by content. The first recorded example of a library catalog.[211]",
+      "fullText": "7th century BC: The royal Library of Ashurbanipal at Nineveh had 30,000 clay tablets, in several languages, organized according to shape and separated by content. The first recorded example of a library catalog.[212]",
       "items": [
         {
           "text": "Library of Ashurbanipal",
@@ -2210,7 +2222,7 @@
     "time": "688 BC:",
     "year": -688,
     "events": {
-      "fullText": "688 BC: Waterproof concrete in use, by the Assyrians.[212] Later, the Romans developed concretes that could *set* underwater,[213] and used concrete extensively for construction from 300 BC to 476 AD.[214]",
+      "fullText": "688 BC: Waterproof concrete in use, by the Assyrians.[213] Later, the Romans developed concretes that could set underwater,[214] and used concrete extensively for construction from 300 BC to 476 AD.[215]",
       "items": []
     }
   },
@@ -2218,7 +2230,7 @@
     "time": "650 BC:",
     "year": -650,
     "events": {
-      "fullText": "650 BC: Crossbow in China.[215]",
+      "fullText": "650 BC: Crossbow in China.[216]",
       "items": [
         {
           "text": "Crossbow",
@@ -2252,7 +2264,7 @@
     "time": "600 BC:",
     "year": -600,
     "events": {
-      "fullText": "600 BC: Coins in Phoenicia (Modern Lebanon) or Lydia.[216]",
+      "fullText": "600 BC: Coins in Phoenicia (Modern Lebanon) or Lydia.[217]",
       "items": [
         {
           "text": "Coins",
@@ -2298,7 +2310,7 @@
     "time": "6th century BC – 10th century AD:",
     "year": 5000,
     "events": {
-      "fullText": "6th century BC – 10th century AD: High Carbon Steel, produced by the Closed Crucible method, later known as Wootz steel, of South India.[218][219][f]",
+      "fullText": "6th century BC – 10th century AD: High Carbon Steel, produced by the Closed Crucible method, later known as Wootz steel, of South India.[219][220][f]",
       "items": [
         {
           "text": "High Carbon Steel",
@@ -2348,7 +2360,7 @@
     "time": "6th century – 2nd century BC:",
     "year": -7000,
     "events": {
-      "fullText": "6th century – 2nd century BC: Systematization of medicine and surgery in the Sushruta Samhita in Vedic Northern India.[221][222][223] Documented procedures to:\nPerform cataract surgery (couching). Babylonian and Egyptian texts, a millennium before, depict and mention oculists, but not the procedure itself.[224]\nPerform Caesarean section.[225]\nConstruct Prosthetic limbs.[225]\nPerform Plastic surgery, though reconstructive nasal surgery is described in millennia older Egyptian papyri.[225][226]",
+      "fullText": "6th century – 2nd century BC: Systematization of medicine and surgery in the Sushruta Samhita in Vedic Northern India.[222][223][224] Documented procedures to:\nPerform cataract surgery (couching). Babylonian and Egyptian texts, a millennium before, depict and mention oculists, but not the procedure itself.[225]\nPerform Caesarean section.[226]\nConstruct Prosthetic limbs.[226]\nPerform Plastic surgery, though reconstructive nasal surgery is described in millennia older Egyptian papyri.[226][227]",
       "items": [
         {
           "text": "Sushruta Samhita",
@@ -2389,7 +2401,7 @@
     "time": "Late 6th century BC:",
     "year": -6000,
     "events": {
-      "fullText": "Late 6th century BC: Crank motion (rotary quern) in Carthage[227] or 5th century BC Celtiberian Spain[228][229] Later during the Roman empire, a mechanism appeared that incorporated a connecting rod.",
+      "fullText": "Late 6th century BC: Crank motion (rotary quern) in Carthage[228] or 5th century BC Celtiberian Spain[229][230] Later during the Roman empire, a mechanism appeared that incorporated a connecting rod.",
       "items": [
         {
           "text": "Crank",
@@ -2418,7 +2430,7 @@
     "time": "Before 5th century BC:",
     "year": -6000,
     "events": {
-      "fullText": "Before 5th century BC: Loan deeds in Upanishadic India.[230]",
+      "fullText": "Before 5th century BC: Loan deeds in Upanishadic India.[231]",
       "items": [
         {
           "text": "Loan deeds",
@@ -2431,7 +2443,7 @@
     "time": "500 BC:",
     "year": -500,
     "events": {
-      "fullText": "500 BC: Lighthouse in Greece.[231]",
+      "fullText": "500 BC: Lighthouse in Greece.[232]",
       "items": [
         {
           "text": "Lighthouse",
@@ -2444,7 +2456,7 @@
     "time": "500 – 200 BC:",
     "year": -500,
     "events": {
-      "fullText": "500 – 200 BC: Toe stirrup, depicted in 2nd century Buddhist art, of the Sanchi and Bhaja Caves, of the Deccan Satavahana empire (modern-day India)[232][233] although may have originated as early as 500 BC.[234]",
+      "fullText": "500 – 200 BC: Toe stirrup, depicted in 2nd century Buddhist art, of the Sanchi and Bhaja Caves, of the Deccan Satavahana empire (modern-day India)[233][234] although may have originated as early as 500 BC.[235]",
       "items": [
         {
           "text": "Toe stirrup",
@@ -2461,7 +2473,7 @@
     "time": "485 BC:",
     "year": -485,
     "events": {
-      "fullText": "485 BC: Catapult by Ajatashatru in Magadha, India.[235][236]",
+      "fullText": "485 BC: Catapult by Ajatashatru in Magadha, India.[236][237]",
       "items": [
         {
           "text": "Catapult",
@@ -2486,7 +2498,7 @@
     "time": "485 BC:",
     "year": -485,
     "events": {
-      "fullText": "485 BC: Scythed chariot by Ajatashatru in Magadha, India.[235][236]",
+      "fullText": "485 BC: Scythed chariot by Ajatashatru in Magadha, India.[236][237]",
       "items": [
         {
           "text": "Ajatashatru",
@@ -2507,7 +2519,7 @@
     "time": "5th century BC:",
     "year": -6000,
     "events": {
-      "fullText": "5th century BC: Cast iron in Ancient China: Confirmed by archaeological evidence, the earliest cast iron is developed in China by the early 5th century BC during the Zhou dynasty (1122–256 BC), the oldest specimens found in a tomb of Luhe County in Jiangsu province.[237][238][239]",
+      "fullText": "5th century BC: Cast iron in Ancient China: Confirmed by archaeological evidence, the earliest cast iron is developed in China by the early 5th century BC during the Zhou dynasty (1122–256 BC), the oldest specimens found in a tomb of Luhe County in Jiangsu province.[238][239][240]",
       "items": [
         {
           "text": "Cast iron",
@@ -2532,7 +2544,7 @@
     "time": "480 BC:",
     "year": -480,
     "events": {
-      "fullText": "480 BC: Spiral stairs (Temple A) in Selinunte, Sicily (see also List of ancient spiral stairs)[240][241]",
+      "fullText": "480 BC: Spiral stairs (Temple A) in Selinunte, Sicily (see also List of ancient spiral stairs)[241][242]",
       "items": [
         {
           "text": "Spiral stairs",
@@ -2557,7 +2569,7 @@
     "time": "By 407 BC:",
     "year": -407,
     "events": {
-      "fullText": "By 407 BC: Early descriptions of what may be a Wheelbarrow in Greece.[242] First actual depiction of one (tomb mural) shows up in China in 118 AD.[243]",
+      "fullText": "By 407 BC: Early descriptions of what may be a Wheelbarrow in Greece.[243] First actual depiction of one (tomb mural) shows up in China in 118 AD.[244]",
       "items": [
         {
           "text": "Wheelbarrow",
@@ -2574,7 +2586,7 @@
     "time": "By 400 BC:",
     "year": -400,
     "events": {
-      "fullText": "By 400 BC: Camera obscura described by Mo-tzu (or Mozi) in China.[244]",
+      "fullText": "By 400 BC: Camera obscura described by Mo-tzu (or Mozi) in China.[245]",
       "items": [
         {
           "text": "Camera obscura",
@@ -2591,7 +2603,7 @@
     "time": "4th century BC:",
     "year": -5000,
     "events": {
-      "fullText": "4th century BC: Traction trebuchet in Ancient China.[246]",
+      "fullText": "4th century BC: Traction trebuchet in Ancient China.[247]",
       "items": [
         {
           "text": "Traction trebuchet",
@@ -2625,7 +2637,7 @@
     "time": "4th century BC:",
     "year": -5000,
     "events": {
-      "fullText": "4th century BC: Reed pens, utilising a split nib, were used to write with ink on Papyrus in Egypt.[246]",
+      "fullText": "4th century BC: Reed pens, utilising a split nib, were used to write with ink on Papyrus in Egypt.[247]",
       "items": [
         {
           "text": "Reed pens",
@@ -2642,7 +2654,7 @@
     "time": "4th century BC:",
     "year": -5000,
     "events": {
-      "fullText": "4th century BC: Nailed Horseshoe, with 4 bronze shoes found in an Etruscan tomb.[247]",
+      "fullText": "4th century BC: Nailed Horseshoe, with 4 bronze shoes found in an Etruscan tomb.[248]",
       "items": [
         {
           "text": "Horseshoe",
@@ -2659,7 +2671,7 @@
     "time": "375 BC – 350 BC:",
     "year": -375,
     "events": {
-      "fullText": "375 BC – 350 BC: Animal-driven rotary mill in Carthage.[248][249]",
+      "fullText": "375 BC – 350 BC: Animal-driven rotary mill in Carthage.[249][250]",
       "items": [
         {
           "text": "Animal-driven rotary mill",
@@ -2672,7 +2684,7 @@
     "time": "By the late 4th century BC:",
     "year": -4000,
     "events": {
-      "fullText": "By the late 4th century BC: Corporations in either the Maurya Empire of India[250] or in Ancient Rome (Collegium).",
+      "fullText": "By the late 4th century BC: Corporations in either the Maurya Empire of India[251] or in Ancient Rome (Collegium).",
       "items": [
         {
           "text": "Corporations",
@@ -2693,7 +2705,7 @@
     "time": "Late 4th century BC:",
     "year": -4000,
     "events": {
-      "fullText": "Late 4th century BC: Cheque in the Maurya Empire of India.[251]",
+      "fullText": "Late 4th century BC: Cheque in the Maurya Empire of India.[252]",
       "items": [
         {
           "text": "Cheque",
@@ -2710,7 +2722,7 @@
     "time": "Late 4th century BC:",
     "year": -4000,
     "events": {
-      "fullText": "Late 4th century BC: Potassium nitrate manufacturing and military use in the Seleucid Empire.[252][verification needed]",
+      "fullText": "Late 4th century BC: Potassium nitrate manufacturing and military use in the Seleucid Empire.[253][verification needed]",
       "items": [
         {
           "text": "Potassium nitrate",
@@ -2731,7 +2743,7 @@
     "time": "Late 4th century BC:",
     "year": -4000,
     "events": {
-      "fullText": "Late 4th century BC: Formal systems by Pāṇini in India, possibly during the reign of Chandragupta Maurya.[253]",
+      "fullText": "Late 4th century BC: Formal systems by Pāṇini in India, possibly during the reign of Chandragupta Maurya.[254]",
       "items": [
         {
           "text": "Formal systems",
@@ -2752,7 +2764,7 @@
     "time": "4th to 3rd century BC:",
     "year": -5000,
     "events": {
-      "fullText": "4th to 3rd century BC: Zinc production in North-Western India during the Maurya Empire.[254] The earliest known zinc mines and smelting sites are from Zawar, near Udaipur, in Rajasthan.[255][256]",
+      "fullText": "4th to 3rd century BC: Zinc production in North-Western India during the Maurya Empire.[255] The earliest known zinc mines and smelting sites are from Zawar, near Udaipur, in Rajasthan.[256][257]",
       "items": [
         {
           "text": "Zinc production",
@@ -2781,7 +2793,7 @@
     "time": "3rd century BC:",
     "year": -4000,
     "events": {
-      "fullText": "3rd century BC: Analog computers in the Hellenistic world (see e.g. the Antikythera mechanism), possibly in Rhodes.[257]",
+      "fullText": "3rd century BC: Analog computers in the Hellenistic world (see e.g. the Antikythera mechanism), possibly in Rhodes.[258]",
       "items": [
         {
           "text": "Analog computers",
@@ -2802,7 +2814,7 @@
     "time": "By at least the 3rd century BC:",
     "year": -4000,
     "events": {
-      "fullText": "By at least the 3rd century BC: Archimedes' screw, one of the earliest hydraulic machines, was first used in the Nile river for irrigation purposes in Ancient Egypt[258]",
+      "fullText": "By at least the 3rd century BC: Archimedes' screw, one of the earliest hydraulic machines, was first used in the Nile river for irrigation purposes in Ancient Egypt[259]",
       "items": [
         {
           "text": "Archimedes' screw",
@@ -2823,7 +2835,7 @@
     "time": "Early 3rd century BC:",
     "year": -4000,
     "events": {
-      "fullText": "Early 3rd century BC: Canal lock in Canal of the Pharaohs under Ptolemy II (283–246 BC) in Hellenistic Egypt[259][260][261]",
+      "fullText": "Early 3rd century BC: Canal lock in Canal of the Pharaohs under Ptolemy II (283–246 BC) in Hellenistic Egypt[260][261][262]",
       "items": [
         {
           "text": "Canal lock",
@@ -2848,7 +2860,7 @@
     "time": "3rd century BC:",
     "year": -4000,
     "events": {
-      "fullText": "3rd century BC: Cam during the Hellenistic period, used in water-driven automata.[262]",
+      "fullText": "3rd century BC: Cam during the Hellenistic period, used in water-driven automata.[263]",
       "items": [
         {
           "text": "Cam",
@@ -2869,7 +2881,7 @@
     "time": "By the 3rd century BC:",
     "year": -4000,
     "events": {
-      "fullText": "By the 3rd century BC: Water wheel. The origin is unclear: Indian Pali texts dating to the 4th century BCE refer to the cakkavattaka, which later commentaries describe as arahatta-ghati-yanta (machine with wheel-pots attached). Helaine Selin suggests that the device existed in Persia before 350 BC.[263] The clearest description of the water wheel and Liquid-driven escapement is provided by Philo of Byzantium (c. 280 – 220 BC) in the Hellenistic kingdoms.[264]",
+      "fullText": "By the 3rd century BC: Water wheel. The origin is unclear: Indian Pali texts dating to the 4th century BCE refer to the cakkavattaka, which later commentaries describe as arahatta-ghati-yanta (machine with wheel-pots attached). Helaine Selin suggests that the device existed in Persia before 350 BC.[264] The clearest description of the water wheel and Liquid-driven escapement is provided by Philo of Byzantium (c. 280 – 220 BC) in the Hellenistic kingdoms.[265]",
       "items": [
         {
           "text": "Water wheel",
@@ -2890,7 +2902,7 @@
     "time": "3rd century BC:",
     "year": -4000,
     "events": {
-      "fullText": "3rd century BC: Gimbal described by Philo of Byzantium[265]",
+      "fullText": "3rd century BC: Gimbal described by Philo of Byzantium[266]",
       "items": [
         {
           "text": "Gimbal",
@@ -2903,7 +2915,7 @@
     "time": "Late 3rd century BC:",
     "year": -3000,
     "events": {
-      "fullText": "Late 3rd century BC: Dry dock under Ptolemy IV (221–205 BC) in Hellenistic Egypt[266]",
+      "fullText": "Late 3rd century BC: Dry dock under Ptolemy IV (221–205 BC) in Hellenistic Egypt[267]",
       "items": [
         {
           "text": "Dry dock",
@@ -2924,7 +2936,7 @@
     "time": "3rd century BC – 2nd century BC:",
     "year": -4000,
     "events": {
-      "fullText": "3rd century BC – 2nd century BC: Blast furnace in Ancient China: The earliest discovered blast furnaces in China date to the 3rd and 2nd centuries BC, although most sites are from the later Han dynasty.[237][267]",
+      "fullText": "3rd century BC – 2nd century BC: Blast furnace in Ancient China: The earliest discovered blast furnaces in China date to the 3rd and 2nd centuries BC, although most sites are from the later Han dynasty.[238][268]",
       "items": [
         {
           "text": "Blast furnace",
@@ -2966,7 +2978,7 @@
     "time": "206 BC:",
     "year": -206,
     "events": {
-      "fullText": "206 BC: Compass in Han dynasty China[270]",
+      "fullText": "206 BC: Compass in Han dynasty China[271]",
       "items": [
         {
           "text": "Compass",
@@ -3004,7 +3016,7 @@
     "time": "1st century BC:",
     "year": -2000,
     "events": {
-      "fullText": "1st century BC: Segmental arch bridge (e.g. Pont-Saint-Martin or Ponte San Lorenzo) in Italy, Roman Republic[271][272]",
+      "fullText": "1st century BC: Segmental arch bridge (e.g. Pont-Saint-Martin or Ponte San Lorenzo) in Italy, Roman Republic[272][273]",
       "items": [
         {
           "text": "arch bridge",
@@ -3033,7 +3045,7 @@
     "time": "1st century BC:",
     "year": -2000,
     "events": {
-      "fullText": "1st century BC: News bulletin during the reign of Julius Caesar.[273] A paper form, i.e. the earliest newspaper, later appeared during the late Han dynasty in the form of the Dibao.[274][275][276]",
+      "fullText": "1st century BC: News bulletin during the reign of Julius Caesar.[274] A paper form, i.e. the earliest newspaper, later appeared during the late Han dynasty in the form of the Dibao.[275][276][277]",
       "items": [
         {
           "text": "newspaper",
@@ -3050,7 +3062,7 @@
     "time": "1st century BC:",
     "year": -2000,
     "events": {
-      "fullText": "1st century BC: Arch dam (Glanum Dam) in Gallia Narbonensis, Roman Republic (see also List of Roman dams)[277][278][279][280][281]",
+      "fullText": "1st century BC: Arch dam (Glanum Dam) in Gallia Narbonensis, Roman Republic (see also List of Roman dams)[278][279][280][281][282]",
       "items": [
         {
           "text": "Arch dam",
@@ -3079,7 +3091,7 @@
     "time": "Before 40 BC:",
     "year": -40,
     "events": {
-      "fullText": "Before 40 BC: Trip hammer in China[282]",
+      "fullText": "Before 40 BC: Trip hammer in China[283]",
       "items": [
         {
           "text": "Trip hammer",
@@ -3125,7 +3137,7 @@
     "time": "37 BC – 14 BC:",
     "year": -37,
     "events": {
-      "fullText": "37 BC – 14 BC: Glass blowing developed in Jerusalem.[283][284][285]",
+      "fullText": "37 BC – 14 BC: Glass blowing developed in Jerusalem.[284][285][286]",
       "items": [
         {
           "text": "Glass blowing",
@@ -3138,7 +3150,7 @@
     "time": "Before 25 BC:",
     "year": -25,
     "events": {
-      "fullText": "Before 25 BC: Reverse overshot water wheel by Roman engineers in Rio Tinto, Spain[286]",
+      "fullText": "Before 25 BC: Reverse overshot water wheel by Roman engineers in Rio Tinto, Spain[287]",
       "items": [
         {
           "text": "Reverse overshot water wheel",
@@ -3159,7 +3171,7 @@
     "time": "25 BC:",
     "year": -25,
     "events": {
-      "fullText": "25 BC: Noodle in Lajia in China[287]",
+      "fullText": "25 BC: Noodle in Lajia in China[288]",
       "items": [
         {
           "text": "Noodle",
@@ -3180,7 +3192,7 @@
     "time": "1st century AD:",
     "year": 0,
     "events": {
-      "fullText": "1st century AD: The aeolipile, a simple steam turbine is recorded by Hero of Alexandria.[288]",
+      "fullText": "1st century AD: The aeolipile, a simple steam turbine is recorded by Hero of Alexandria.[289]",
       "items": [
         {
           "text": "aeolipile",
@@ -3197,7 +3209,7 @@
     "time": "1st century AD:",
     "year": 0,
     "events": {
-      "fullText": "1st century AD: The first use of respiratory protective equipment is documented by Pliny the Elder (c. 23 AD–79) using animal bladder skins to protect workers in Roman mines from red lead oxide dust.[289]",
+      "fullText": "1st century AD: The first use of respiratory protective equipment is documented by Pliny the Elder (c. 23 AD–79) using animal bladder skins to protect workers in Roman mines from red lead oxide dust.[290]",
       "items": [
         {
           "text": "respiratory protective equipment",
@@ -3214,7 +3226,7 @@
     "time": "1st century AD:",
     "year": 0,
     "events": {
-      "fullText": "1st century AD: Oldest surviving wine.[290]",
+      "fullText": "1st century AD: Oldest surviving wine.[291]",
       "items": [
         {
           "text": "wine",
@@ -3244,7 +3256,7 @@
     "time": "By the 1st century AD:",
     "year": 0,
     "events": {
-      "fullText": "By the 1st century AD: The double-entry bookkeeping system in the Roman Empire.[291]",
+      "fullText": "By the 1st century AD: The double-entry bookkeeping system in the Roman Empire.[292]",
       "items": [
         {
           "text": "double-entry bookkeeping system",
@@ -3257,7 +3269,7 @@
     "time": "132:",
     "year": 132,
     "events": {
-      "fullText": "132: Seismometer and pendulum in Han dynasty China, built by Zhang Heng. It is a large metal urn-shaped instrument which employed either a suspended pendulum or inverted pendulum acting on inertia, like the ground tremors from earthquakes, to dislodge a metal ball by a lever trip device.[292][293]",
+      "fullText": "132: Seismometer and pendulum in Han dynasty China, built by Zhang Heng. It is a large metal urn-shaped instrument which employed either a suspended pendulum or inverted pendulum acting on inertia, like the ground tremors from earthquakes, to dislodge a metal ball by a lever trip device.[293][294]",
       "items": [
         {
           "text": "Seismometer",
@@ -3294,7 +3306,7 @@
     "time": "2nd century:",
     "year": 2,
     "events": {
-      "fullText": "2nd century: Carding in India.[294]",
+      "fullText": "2nd century: Carding in India.[295]",
       "items": [
         {
           "text": "Carding",
@@ -3307,7 +3319,7 @@
     "time": "By at least the 3rd century:",
     "year": 3,
     "events": {
-      "fullText": "By at least the 3rd century: Crystallized sugar in India.[298]",
+      "fullText": "By at least the 3rd century: Crystallized sugar in India.[299]",
       "items": []
     }
   },
@@ -3315,7 +3327,7 @@
     "time": "Early 3rd century:",
     "year": 3,
     "events": {
-      "fullText": "Early 3rd century: Woodblock printing is invented in Han dynasty China at sometime before 220 AD. This made China become the world's first print culture.[299]",
+      "fullText": "Early 3rd century: Woodblock printing is invented in Han dynasty China at sometime before 220 AD. This made China become the world's first print culture.[300]",
       "items": [
         {
           "text": "Woodblock printing",
@@ -3340,7 +3352,7 @@
     "time": "Late 3rd century – Early 4th century:",
     "year": 3,
     "events": {
-      "fullText": "Late 3rd century – Early 4th century: Water turbine in the Roman Empire in modern-day Tunisia.[300][301][302]",
+      "fullText": "Late 3rd century – Early 4th century: Water turbine in the Roman Empire in modern-day Tunisia.[301][302][303]",
       "items": [
         {
           "text": "Water turbine",
@@ -3361,7 +3373,7 @@
     "time": "280 – 550:",
     "year": 280,
     "events": {
-      "fullText": "280 – 550: Chaturanga, a precursor of Chess was invented in India during the Gupta Empire.[303][304][305]",
+      "fullText": "280 – 550: Chaturanga, a precursor of Chess was invented in India during the Gupta Empire.[304][305][306]",
       "items": [
         {
           "text": "Chaturanga",
@@ -3395,20 +3407,7 @@
     "time": "4th century:",
     "year": 4,
     "events": {
-      "fullText": "4th century: Mariner's compass in Tamil Southern India: the first mention of the use of a compass for navigational purposes is found in Tamil nautical texts as the macchayantra.[306][307] However, the theoretical notion of magnets pointing North predates the device by several centuries.",
-      "items": [
-        {
-          "text": "Mariner's compass",
-          "link": "/wiki/Compass"
-        }
-      ]
-    }
-  },
-  {
-    "time": "4th century:",
-    "year": 4,
-    "events": {
-      "fullText": "4th century: Simple suspension bridge, independently invented in Pre-Columbian South America,  and the Hindu Kush range, of present-day Afghanistan and Pakistan. With Han dynasty travelers noting bridges being constructed from 3 or more vines or 3 ropes.[308] Later bridges constructed utilizing cables of iron chains appeared in Tibet.[309][310]",
+      "fullText": "4th century: Simple suspension bridge, independently invented in Pre-Columbian South America,  and the Hindu Kush range, of present-day Afghanistan and Pakistan. With Han dynasty travelers noting bridges being constructed from 3 or more vines or 3 ropes.[307] Later bridges constructed utilizing cables of iron chains appeared in Tibet.[308][309]",
       "items": [
         {
           "text": "Simple suspension bridge",
@@ -3433,7 +3432,7 @@
     "time": "4th century:",
     "year": 4,
     "events": {
-      "fullText": "4th century: Fishing reel in Ancient China: In literary records, the earliest evidence of the fishing reel comes from a 4th-century AD[311] work entitled Lives of Famous Immortals.[312]",
+      "fullText": "4th century: Fishing reel in Ancient China: In literary records, the earliest evidence of the fishing reel comes from a 4th-century AD[310] work entitled Lives of Famous Immortals.[311]",
       "items": [
         {
           "text": "Fishing reel",
@@ -3450,7 +3449,7 @@
     "time": "347:",
     "year": 347,
     "events": {
-      "fullText": "347: Oil Wells and Borehole drilling in China. Such wells could reach depths of up to 240 m (790 ft).[313]",
+      "fullText": "347: Oil Wells and Borehole drilling in China. Such wells could reach depths of up to 240 m (790 ft).[312]",
       "items": [
         {
           "text": "Oil Wells",
@@ -3471,7 +3470,7 @@
     "time": "400:",
     "year": 400,
     "events": {
-      "fullText": "400: The construction of the Iron pillar of Delhi in Mathura by the Gupta Empire shows the development of rust-resistant ferrous metallurgy in Ancient India,[315][316] although original texts do not survive to detail the specific processes invented in this period.",
+      "fullText": "400: The construction of the Iron pillar of Delhi in Mathura by the Gupta Empire shows the development of rust-resistant ferrous metallurgy in Ancient India,[314][315] although original texts do not survive to detail the specific processes invented in this period.",
       "items": [
         {
           "text": "Iron pillar of Delhi",
@@ -3492,7 +3491,7 @@
     "time": "5th century:",
     "year": 5,
     "events": {
-      "fullText": "5th century: The horse collar as a fully developed collar harness is developed in Northern and Southern dynasties China during the 5th century AD.[317] The earliest depiction of it is a Dunhuang cave mural from the Chinese Northern Wei dynasty, the painting dated to 477–499.[318]",
+      "fullText": "5th century: The horse collar as a fully developed collar harness is developed in Northern and Southern dynasties China during the 5th century AD.[316] The earliest depiction of it is a Dunhuang cave mural from the Chinese Northern Wei dynasty, the painting dated to 477–499.[317]",
       "items": [
         {
           "text": "horse collar",
@@ -3529,7 +3528,7 @@
     "time": "5th century – 6th century:",
     "year": 5,
     "events": {
-      "fullText": "5th century – 6th century: Pointed arch bridge (Karamagara Bridge) in Cappadocia, Eastern Roman Empire[319][320]",
+      "fullText": "5th century – 6th century: Pointed arch bridge (Karamagara Bridge) in Cappadocia, Eastern Roman Empire[318][319]",
       "items": [
         {
           "text": "Pointed arch bridge",
@@ -3554,7 +3553,7 @@
     "time": "By the 6th century:",
     "year": 6,
     "events": {
-      "fullText": "By the 6th century: Incense clock in China.[321][322]",
+      "fullText": "By the 6th century: Incense clock in China.[320][321]",
       "items": [
         {
           "text": "Incense clock",
@@ -3567,7 +3566,7 @@
     "time": "After 500:",
     "year": 500,
     "events": {
-      "fullText": "After 500: Charkha (spinning wheel/cotton gin) invented in India (probably during the Vakataka dynasty of Maharashtra, India), between 500 and 1000 A.D.[323]",
+      "fullText": "After 500: Charkha (spinning wheel/cotton gin) invented in India (probably during the Vakataka dynasty of Maharashtra, India), between 500 and 1000 A.D.[322]",
       "items": [
         {
           "text": "Charkha",
@@ -3588,7 +3587,7 @@
     "time": "563:",
     "year": 563,
     "events": {
-      "fullText": "563: Pendentive dome (Hagia Sophia) in Constantinople, Eastern Roman Empire[324]",
+      "fullText": "563: Pendentive dome (Hagia Sophia) in Constantinople, Eastern Roman Empire[323]",
       "items": [
         {
           "text": "Pendentive",
@@ -3634,7 +3633,7 @@
     "time": "589:",
     "year": 589,
     "events": {
-      "fullText": "589: Toilet paper in Sui dynasty China, first mentioned by the official Yan Zhitui (531–591), with full evidence of continual use in subsequent dynasties.[325][326]",
+      "fullText": "589: Toilet paper in Sui dynasty China, first mentioned by the official Yan Zhitui (531–591), with full evidence of continual use in subsequent dynasties.[324][325]",
       "items": [
         {
           "text": "Toilet paper",
@@ -3659,7 +3658,7 @@
     "time": "619:",
     "year": 619,
     "events": {
-      "fullText": "619: Toothbrush in China during the Tang dynasty[327]",
+      "fullText": "619: Toothbrush in China during the Tang dynasty[326]",
       "items": [
         {
           "text": "Toothbrush",
@@ -3680,7 +3679,7 @@
     "time": "672:",
     "year": 672,
     "events": {
-      "fullText": "672: Greek fire in Constantinople, Byzantine Empire: Greek fire, an incendiary weapon likely based on petroleum or naphtha, is invented by Kallinikos, a Lebanese Greek refugee from Baalbek, as described by Theophanes.[328] However, the historicity and exact chronology of this account is dubious,[329] and it could be that Kallinikos merely introduced an improved version of an established weapon.[330]",
+      "fullText": "672: Greek fire in Constantinople, Byzantine Empire: Greek fire, an incendiary weapon likely based on petroleum or naphtha, is invented by Kallinikos, a Lebanese Greek refugee from Baalbek, as described by Theophanes.[327] However, the historicity and exact chronology of this account is dubious,[328] and it could be that Kallinikos merely introduced an improved version of an established weapon.[329]",
       "items": [
         {
           "text": "Greek fire",
@@ -3721,7 +3720,7 @@
     "time": "7th century:",
     "year": 7,
     "events": {
-      "fullText": "7th century: Banknote in Tang dynasty China: The banknote is first developed in China during the Tang and Song dynasties, starting in the 7th century. Its roots are in merchant receipts of deposit during the Tang dynasty (618–907), as merchants and wholesalers desire to avoid the heavy bulk of copper coinage in large commercial transactions.[331][332][333]",
+      "fullText": "7th century: Banknote in Tang dynasty China: The banknote is first developed in China during the Tang and Song dynasties, starting in the 7th century. Its roots are in merchant receipts of deposit during the Tang dynasty (618–907), as merchants and wholesalers desire to avoid the heavy bulk of copper coinage in large commercial transactions.[330][331][332]",
       "items": [
         {
           "text": "Banknote",
@@ -3770,7 +3769,7 @@
     "time": "7th century:",
     "year": 7,
     "events": {
-      "fullText": "7th century: Porcelain in Tang dynasty China: True porcelain is manufactured in northern China from roughly the beginning of the Tang dynasty in the 7th century, while true porcelain was not manufactured in southern China until about 300 years later, during the early 10th century.[334]",
+      "fullText": "7th century: Porcelain in Tang dynasty China: True porcelain is manufactured in northern China from roughly the beginning of the Tang dynasty in the 7th century, while true porcelain was not manufactured in southern China until about 300 years later, during the early 10th century.[333]",
       "items": [
         {
           "text": "Porcelain",
@@ -3791,7 +3790,7 @@
     "time": "9th century:",
     "year": 9,
     "events": {
-      "fullText": "9th century: Gunpowder in Tang dynasty China: Gunpowder is, according to prevailing academic consensus, discovered in the 9th century by Chinese alchemists searching for an elixir of immortality.[335] Evidence of gunpowder's first use in China comes from the Five Dynasties and Ten Kingdoms period (618–907).[336] The earliest known recorded recipes for gunpowder are written by Zeng Gongliang, Ding Du, and Yang Weide in the Wujing Zongyao, a military manuscript compiled in 1044 during the Song dynasty (960–1279).[337][338][339]",
+      "fullText": "9th century: Gunpowder in Tang dynasty China: Gunpowder is, according to prevailing academic consensus, discovered in the 9th century by Chinese alchemists searching for an elixir of immortality.[334] Evidence of gunpowder's first use in China comes from the Five Dynasties and Ten Kingdoms period (618–907).[335] The earliest known recorded recipes for gunpowder are written by Zeng Gongliang, Ding Du, and Yang Weide in the Wujing Zongyao, a military manuscript compiled in 1044 during the Song dynasty (960–1279).[336][337][338]",
       "items": [
         {
           "text": "Gunpowder",
@@ -3832,7 +3831,7 @@
     "time": "9th century:",
     "year": 9,
     "events": {
-      "fullText": "9th century: Playing card in Tang dynasty China[340][341][342][343][344]",
+      "fullText": "9th century: Playing card in Tang dynasty China[339][340][341][342][343]",
       "items": [
         {
           "text": "Playing card",
@@ -3853,7 +3852,7 @@
     "time": "10th century:",
     "year": 10,
     "events": {
-      "fullText": "10th century: Fire lance in Song dynasty China, developed in the 10th century with a tube of first bamboo and later on metal that shot a weak gunpowder blast of flame and shrapnel, its earliest depiction is a painting found at Dunhuang.[345] Fire lance is the earliest firearm in the world and one of the earliest gunpowder weapons.[346][347]",
+      "fullText": "10th century: Fire lance in Song dynasty China, developed in the 10th century with a tube of first bamboo and later on metal that shot a weak gunpowder blast of flame and shrapnel, its earliest depiction is a painting found at Dunhuang.[344] Fire lance is the earliest firearm in the world and one of the earliest gunpowder weapons.[345][346]",
       "items": [
         {
           "text": "Fire lance",
@@ -3886,7 +3885,7 @@
     "time": "10th century:",
     "year": 10,
     "events": {
-      "fullText": "10th century: Fireworks in Song dynasty China: Fireworks first appear in China during the Song dynasty (960–1279), in the early age of gunpowder. Fireworks could be purchased from market vendors; these were made of sticks of bamboo packed with gunpowder.[348]",
+      "fullText": "10th century: Fireworks in Song dynasty China: Fireworks first appear in China during the Song dynasty (960–1279), in the early age of gunpowder. Fireworks could be purchased from market vendors; these were made of sticks of bamboo packed with gunpowder.[347]",
       "items": [
         {
           "text": "Fireworks",
@@ -3915,7 +3914,7 @@
     "time": "974:",
     "year": 974,
     "events": {
-      "fullText": "974: Fountain pen: invented at the request of al-Mu'izz li-Din Allah in Arab Egypt.[349]",
+      "fullText": "974: Fountain pen: invented at the request of al-Mu'izz li-Din Allah in Arab Egypt.[348]",
       "items": [
         {
           "text": "Fountain pen",
@@ -3949,7 +3948,7 @@
     "time": "11th century:",
     "year": 11,
     "events": {
-      "fullText": "11th century: Endless power-transmitting chain drive by Su Song for the development an astronomical clock (the Cosmic Engine)[350]",
+      "fullText": "11th century: Endless power-transmitting chain drive by Su Song for the development an astronomical clock (the Cosmic Engine)[349]",
       "items": [
         {
           "text": "Endless power-transmitting chain drive",
@@ -3970,8 +3969,12 @@
     "time": "11th century:",
     "year": 11,
     "events": {
-      "fullText": "11th century: Calico was developed in Calicut, India.[351]",
+      "fullText": "11th century: Calico was developed in Calicut, India.[350]",
       "items": [
+        {
+          "text": "Calico",
+          "link": "/wiki/Calico"
+        },
         {
           "text": "Calicut",
           "link": "/wiki/Kozhikode"
@@ -3983,7 +3986,7 @@
     "time": "1088:",
     "year": 1088,
     "events": {
-      "fullText": "1088: Movable type in Song dynasty China: The first record of a movable type system is in the Dream Pool Essays, which attributes the invention of the movable type to Bi Sheng.[352][353][354][355]",
+      "fullText": "1088: Movable type in Song dynasty China: The first record of a movable type system is in the Dream Pool Essays, which attributes the invention of the movable type to Bi Sheng.[351][352][353][354]",
       "items": [
         {
           "text": "Movable type",
@@ -4012,7 +4015,7 @@
     "time": "13th century:",
     "year": 13,
     "events": {
-      "fullText": "13th century: Rocket for military and recreational uses date back to at least 13th-century China.[356]",
+      "fullText": "13th century: Rocket for military and recreational uses date back to at least 13th-century China.[355]",
       "items": [
         {
           "text": "Rocket",
@@ -4025,7 +4028,7 @@
     "time": "13th century:",
     "year": 13,
     "events": {
-      "fullText": "13th century: The earliest form of mechanical escapement, the verge escapement in Europe.[357]",
+      "fullText": "13th century: The earliest form of mechanical escapement, the verge escapement in Europe.[356]",
       "items": [
         {
           "text": "mechanical escapement",
@@ -4046,7 +4049,7 @@
     "time": "13th century:",
     "year": 13,
     "events": {
-      "fullText": "13th century: Buttons (combined with buttonholes) as a functional fastening for closing clothes appear first in Germany.[358]",
+      "fullText": "13th century: Buttons (combined with buttonholes) as a functional fastening for closing clothes appear first in Germany.[357]",
       "items": [
         {
           "text": "Buttons",
@@ -4063,7 +4066,7 @@
     "time": "13th century:",
     "year": 13,
     "events": {
-      "fullText": "13th century: Explosive bomb in Jin dynasty Manchuria: Explosive bombs are used in 1221 by the Jin dynasty against a Song dynasty city.[359] The first accounts of bombs made of cast iron shells packed with explosive gunpowder are documented in the 13th century in China and are called \"thunder-crash bombs\",[360] coined during a Jin dynasty naval battle in 1231.[361]",
+      "fullText": "13th century: Explosive bomb in Jin dynasty Manchuria: Explosive bombs are used in 1221 by the Jin dynasty against a Song dynasty city.[358] The first accounts of bombs made of cast iron shells packed with explosive gunpowder are documented in the 13th century in China and are called \"thunder-crash bombs\",[359] coined during a Jin dynasty naval battle in 1231.[360]",
       "items": [
         {
           "text": "Explosive bomb",
@@ -4092,7 +4095,7 @@
     "time": "13th century:",
     "year": 13,
     "events": {
-      "fullText": "13th century: Hand cannon in Yuan dynasty China: The earliest hand cannon dates to the 13th century based on archaeological evidence from a Heilongjiang excavation. There is also written evidence in the Yuanshi (1370) on Li Tang, an ethnic Jurchen commander under the Yuan dynasty who in 1288 suppresses the rebellion of the Christian prince Nayan with his \"gun-soldiers\" or chongzu, this being the earliest known event where this phrase is used.[362]",
+      "fullText": "13th century: Hand cannon in Yuan dynasty China: The earliest hand cannon dates to the 13th century based on archaeological evidence from a Heilongjiang excavation. There is also written evidence in the Yuanshi (1370) on Li Tang, an ethnic Jurchen commander under the Yuan dynasty who in 1288 suppresses the rebellion of the Christian prince Nayan with his \"gun-soldiers\" or chongzu, this being the earliest known event where this phrase is used.[361]",
       "items": [
         {
           "text": "Hand cannon",
@@ -4117,7 +4120,7 @@
     "time": "13th century:",
     "year": 13,
     "events": {
-      "fullText": "13th century: Earliest documented snow goggles, a type of sunglasses, made of flattened walrus or caribou ivory are used by the Inuit peoples in the arctic regions of North America.[363][364] In China, the first sunglasses consisting of flat panes of smoky quartz are documented.[365][366]",
+      "fullText": "13th century: Earliest documented snow goggles, a type of sunglasses, made of flattened walrus or caribou ivory are used by the Inuit peoples in the arctic regions of North America.[362][363] In China, the first sunglasses consisting of flat panes of smoky quartz are documented.[364][365]",
       "items": [
         {
           "text": "snow goggles",
@@ -4134,7 +4137,7 @@
     "time": "13th century - 14th century:",
     "year": 13,
     "events": {
-      "fullText": "13th century - 14th century: Worm gear cotton gin in India.[367]",
+      "fullText": "13th century - 14th century: Worm gear cotton gin in India.[366]",
       "items": [
         {
           "text": "Worm gear cotton gin",
@@ -4147,7 +4150,7 @@
     "time": "1277:",
     "year": 1277,
     "events": {
-      "fullText": "1277: Land mine in Song dynasty China: Textual evidence suggests that the first use of a land mine in history is by a Song dynasty brigadier general known as Lou Qianxia, who uses an 'enormous bomb' (huo pao) to kill Mongol soldiers invading Guangxi in 1277.[368]",
+      "fullText": "1277: Land mine in Song dynasty China: Textual evidence suggests that the first use of a land mine in history is by a Song dynasty brigadier general known as Lou Qianxia, who uses an 'enormous bomb' (huo pao) to kill Mongol soldiers invading Guangxi in 1277.[367]",
       "items": [
         {
           "text": "Land mine",
@@ -4176,7 +4179,7 @@
     "time": "1286:",
     "year": 1286,
     "events": {
-      "fullText": "1286: Eyeglasses in Italy[369]",
+      "fullText": "1286: Eyeglasses in Italy[368]",
       "items": [
         {
           "text": "Eyeglasses",
@@ -4222,7 +4225,7 @@
     "time": "By at least 1326:",
     "year": 1326,
     "events": {
-      "fullText": "By at least 1326: Cannon in Ming dynasty China[370]",
+      "fullText": "By at least 1326: Cannon in Ming dynasty China[369]",
       "items": [
         {
           "text": "Cannon",
@@ -4243,7 +4246,7 @@
     "time": "14th century:",
     "year": 14,
     "events": {
-      "fullText": "14th century: Painting Canvas was first used in Italy.[371]",
+      "fullText": "14th century: Painting Canvas was first used in Italy.[370]",
       "items": [
         {
           "text": "Canvas",
@@ -4277,7 +4280,7 @@
     "time": "14th century:",
     "year": 14,
     "events": {
-      "fullText": "14th century: Naval mine in Ming dynasty China: Mentioned in the Huolongjing military manuscript written by Jiao Yu (fl. 14th to early 15th century) and Liu Bowen (1311–1375), describing naval mines used at sea or on rivers and lakes, made of wrought iron and enclosed in an ox bladder. A later model is documented in Song Yingxing's encyclopedia written in 1637.[372]",
+      "fullText": "14th century: Naval mine in Ming dynasty China: Mentioned in the Huolongjing military manuscript written by Jiao Yu (fl. 14th to early 15th century) and Liu Bowen (1311–1375), describing naval mines used at sea or on rivers and lakes, made of wrought iron and enclosed in an ox bladder. A later model is documented in Song Yingxing's encyclopedia written in 1637.[371]",
       "items": [
         {
           "text": "Naval mine",
@@ -4318,7 +4321,7 @@
     "time": "14th century:",
     "year": 14,
     "events": {
-      "fullText": "14th century: Bidriware in the Bahmani Sultanate in India.[373]",
+      "fullText": "14th century: Bidriware in the Bahmani Sultanate in India.[372]",
       "items": [
         {
           "text": "Bidriware",
@@ -4339,7 +4342,7 @@
     "time": "Early 15th century:",
     "year": 15,
     "events": {
-      "fullText": "Early 15th century: Coil spring in Europe[375]",
+      "fullText": "Early 15th century: Coil spring in Europe[374]",
       "items": [
         {
           "text": "Coil spring",
@@ -4356,7 +4359,7 @@
     "time": "15th century:",
     "year": 15,
     "events": {
-      "fullText": "15th century: Mainspring in Europe[375]",
+      "fullText": "15th century: Mainspring in Europe[374]",
       "items": [
         {
           "text": "Mainspring",
@@ -4382,14 +4385,14 @@
     "time": "1420s:",
     "year": 1420,
     "events": {
-      "fullText": "1420s: Brace in Flandres, Holy Roman Empire[376]",
+      "fullText": "1420s: Brace in Flanders, Holy Roman Empire[375]",
       "items": [
         {
           "text": "Brace",
           "link": "/wiki/Brace_(tool)"
         },
         {
-          "text": "Flandres",
+          "text": "Flanders",
           "link": "/wiki/County_of_Flanders"
         },
         {
@@ -4403,7 +4406,7 @@
     "time": "1439:",
     "year": 1439,
     "events": {
-      "fullText": "1439: Printing press in Mainz, Germany: The printing press is invented in the Holy Roman Empire by Johannes Gutenberg before 1440, based on existing screw presses. The first confirmed record of a press appeared in a 1439 lawsuit against Gutenberg.[377]",
+      "fullText": "1439: Printing press in Mainz, Germany: The printing press is invented in the Holy Roman Empire by Johannes Gutenberg before 1440, based on existing screw presses. The first confirmed record of a press appeared in a 1439 lawsuit against Gutenberg.[376]",
       "items": [
         {
           "text": "Printing press",
@@ -4436,7 +4439,7 @@
     "time": "Mid 15th century:",
     "year": 15,
     "events": {
-      "fullText": "Mid 15th century: The Arquebus (also spelled Harquebus) is invented, possibly in Spain.[378][379]",
+      "fullText": "Mid 15th century: The Arquebus (also spelled Harquebus) is invented, possibly in Spain.[377][378]",
       "items": [
         {
           "text": "Arquebus",
@@ -4449,7 +4452,7 @@
     "time": "1480s:",
     "year": 1480,
     "events": {
-      "fullText": "1480s: Mariner's astrolabe in Portuguese circumnavigation of Africa[380]",
+      "fullText": "1480s: Mariner's astrolabe in Portuguese circumnavigation of Africa[379]",
       "items": [
         {
           "text": "Mariner's astrolabe",
@@ -4466,7 +4469,7 @@
     "time": "16th century:",
     "year": 16,
     "events": {
-      "fullText": "16th century: Chintz or printed clothing in Golconda, India[381]",
+      "fullText": "16th century: Chintz or printed clothing in Golconda, India[380]",
       "items": [
         {
           "text": "Chintz",
@@ -4504,7 +4507,7 @@
     "time": "1560:",
     "year": 1560,
     "events": {
-      "fullText": "1560: Floating Dry Dock in Venice, Venetian Republic[384]",
+      "fullText": "1560: Floating Dry Dock in Venice, Venetian Republic[383]",
       "items": [
         {
           "text": "Floating Dry Dock",
@@ -4542,7 +4545,7 @@
     "time": "1589:",
     "year": 1589,
     "events": {
-      "fullText": "1589: Stocking frame: Invented by William Lee.[385]",
+      "fullText": "1589: Stocking frame: Invented by William Lee.[384]",
       "items": [
         {
           "text": "Stocking frame",
@@ -4589,7 +4592,7 @@
     "time": "1605:",
     "year": 1605,
     "events": {
-      "fullText": "1605: Newspaper (Relation): Johann Carolus in Strassburg (see also List of the oldest newspapers)[386][387]",
+      "fullText": "1605: Newspaper (Relation): Johann Carolus in Strassburg (see also List of the oldest newspapers)[385][386]",
       "items": [
         {
           "text": "Newspaper",
@@ -4643,7 +4646,7 @@
     "time": "1620:",
     "year": 1620,
     "events": {
-      "fullText": "1620: Compound microscopes, which combine an objective lens with an eyepiece to view a real image, first appear in Europe. Apparently derived from the telescope, actual inventor unknown, variously attributed to Zacharias Janssen (his son claiming it was invented in 1590), Cornelis Drebbel, and Galileo Galilei.[388]",
+      "fullText": "1620: Compound microscopes, which combine an objective lens with an eyepiece to view a real image, first appear in Europe. Apparently derived from the telescope, actual inventor unknown, variously attributed to Zacharias Janssen (his son claiming it was invented in 1590), Cornelis Drebbel, and Galileo Galilei.[387]",
       "items": [
         {
           "text": "Compound microscopes",
@@ -4680,7 +4683,7 @@
     "time": "1630:",
     "year": 1630,
     "events": {
-      "fullText": "1630: Slide rule: invented by William Oughtred[389][390]",
+      "fullText": "1630: Slide rule: invented by William Oughtred[388][389]",
       "items": [
         {
           "text": "Slide rule",
@@ -4697,7 +4700,7 @@
     "time": "1642:",
     "year": 1642,
     "events": {
-      "fullText": "1642: Mechanical calculator. The Pascaline is built by Blaise Pascal.[391]",
+      "fullText": "1642: Mechanical calculator. The Pascaline is built by Blaise Pascal.[390]",
       "items": [
         {
           "text": "Mechanical calculator",
@@ -4718,7 +4721,7 @@
     "time": "1643:",
     "year": 1643,
     "events": {
-      "fullText": "1643: Barometer: invented by Evangelista Torricelli, or possibly up to three years earlier by Gasparo Berti.[392]",
+      "fullText": "1643: Barometer: invented by Evangelista Torricelli, or possibly up to three years earlier by Gasparo Berti.[391]",
       "items": [
         {
           "text": "Barometer",
@@ -4739,7 +4742,7 @@
     "time": "1650:",
     "year": 1650,
     "events": {
-      "fullText": "1650: Vacuum pump: Invented by Otto von Guericke.[393]",
+      "fullText": "1650: Vacuum pump: Invented by Otto von Guericke.[392]",
       "items": [
         {
           "text": "Vacuum pump",
@@ -4756,7 +4759,7 @@
     "time": "1656:",
     "year": 1656,
     "events": {
-      "fullText": "1656: Pendulum clock: Invented by Christiaan Huygens. It was first conceptualized in 1637 by Galileo Galilei but he was unable to create a working model.[394]",
+      "fullText": "1656: Pendulum clock: Invented by Christiaan Huygens. It was first conceptualized in 1637 by Galileo Galilei but he was unable to create a working model.[393]",
       "items": [
         {
           "text": "Pendulum clock",
@@ -4794,7 +4797,7 @@
     "time": "1668:",
     "year": 1668,
     "events": {
-      "fullText": "1668: First functional reflecting telescope constructed by Isaac Newton.[395]",
+      "fullText": "1668: First functional reflecting telescope constructed by Isaac Newton.[394]",
       "items": [
         {
           "text": "reflecting telescope",
@@ -4811,7 +4814,7 @@
     "time": "1679:",
     "year": 1679,
     "events": {
-      "fullText": "1679: Pressure-cooker: Invented by Denis Papin.[396]",
+      "fullText": "1679: Pressure-cooker: Invented by Denis Papin.[395]",
       "items": [
         {
           "text": "Pressure-cooker",
@@ -4828,7 +4831,7 @@
     "time": "1680:",
     "year": 1680,
     "events": {
-      "fullText": "1680: Christiaan Huygens provides the first known description of a piston engine.[397]",
+      "fullText": "1680: Christiaan Huygens provides the first known description of a piston engine.[396]",
       "items": [
         {
           "text": "Christiaan Huygens",
@@ -4845,7 +4848,7 @@
     "time": "1698:",
     "year": 1698,
     "events": {
-      "fullText": "1698: Thomas Savery develops a steam-powered water pump: for draining mines[398]",
+      "fullText": "1698: Thomas Savery develops a steam-powered water pump: for draining mines[397]",
       "items": [
         {
           "text": "Thomas Savery",
@@ -4896,7 +4899,7 @@
     "time": "1712:",
     "year": 1712,
     "events": {
-      "fullText": "1712: Thomas Newcomen builds the first commercial steam engine to pump water out of mines.[399] Newcomen's engine, unlike Thomas Savery's, uses a piston.",
+      "fullText": "1712: Thomas Newcomen builds the first commercial steam engine to pump water out of mines.[398] Newcomen's engine, unlike Thomas Savery's, uses a piston.",
       "items": [
         {
           "text": "Thomas Newcomen",
@@ -4934,7 +4937,7 @@
     "time": "1733:",
     "year": 1733,
     "events": {
-      "fullText": "1733: John Kay enables one person to operate a loom with the flying shuttle[400]",
+      "fullText": "1733: John Kay enables one person to operate a loom with the flying shuttle[399]",
       "items": [
         {
           "text": "John Kay",
@@ -5065,7 +5068,7 @@
     "time": "1760:",
     "year": 1760,
     "events": {
-      "fullText": "1760: John Joseph Merlin invents the first  Roller skates.[401]",
+      "fullText": "1760: John Joseph Merlin invents the first  Roller skates.[400]",
       "items": [
         {
           "text": "John Joseph Merlin",
@@ -5239,7 +5242,7 @@
     "time": "1780:",
     "year": 1780,
     "events": {
-      "fullText": "1780: Hyder Ali of Mysore, India develops the first metal-cylinder rockets.[402]",
+      "fullText": "1780: Hyder Ali of Mysore, India develops the first metal-cylinder rockets.[401]",
       "items": [
         {
           "text": "Hyder Ali",
@@ -5369,6 +5372,10 @@
       "fullText": "1790: Thomas Saint invents the sewing machine.",
       "items": [
         {
+          "text": "Thomas Saint",
+          "link": "/wiki/Thomas_Saint"
+        },
+        {
           "text": "sewing machine",
           "link": "/wiki/Sewing_machine"
         }
@@ -5430,7 +5437,7 @@
     "time": "1796:",
     "year": 1796,
     "events": {
-      "fullText": "1796: Alois Senefelder invents the lithography printing technique.[403]",
+      "fullText": "1796: Alois Senefelder invents the lithography printing technique.[402]",
       "items": [
         {
           "text": "Alois Senefelder",
@@ -5527,7 +5534,7 @@
     "time": "1802:",
     "year": 1802,
     "events": {
-      "fullText": "1802: Humphry Davy invents the arc lamp (exact date unclear; not practical as a light source until the invention of efficient electric generators).[404]",
+      "fullText": "1802: Humphry Davy invents the arc lamp (exact date unclear; not practical as a light source until the invention of efficient electric generators).[403]",
       "items": [
         {
           "text": "Humphry Davy",
@@ -5544,7 +5551,7 @@
     "time": "1804:",
     "year": 1804,
     "events": {
-      "fullText": "1804: Friedrich Sertürner discovers morphine as the first active alkaloid extracted from the opium poppy plant.[405]",
+      "fullText": "1804: Friedrich Sertürner discovers morphine as the first active alkaloid extracted from the opium poppy plant.[404]",
       "items": [
         {
           "text": "Friedrich Sertürner",
@@ -5561,7 +5568,7 @@
     "time": "1804:",
     "year": 1804,
     "events": {
-      "fullText": "1804: Joseph Marie Jacquard develops his automated Jacquard loom.[406]",
+      "fullText": "1804: Joseph Marie Jacquard develops his automated Jacquard loom.[405]",
       "items": [
         {
           "text": "Joseph Marie Jacquard",
@@ -5578,7 +5585,7 @@
     "time": "1804:",
     "year": 1804,
     "events": {
-      "fullText": "1804: Richard Trevithick invents the steam locomotive.[407]",
+      "fullText": "1804: Richard Trevithick invents the steam locomotive.[406]",
       "items": [
         {
           "text": "Richard Trevithick",
@@ -5595,7 +5602,7 @@
     "time": "1804:",
     "year": 1804,
     "events": {
-      "fullText": "1804: Hanaoka Seishū creates tsūsensan, the first modern general anesthetic.[408]",
+      "fullText": "1804: Hanaoka Seishū creates tsūsensan, the first modern general anesthetic.[407]",
       "items": [
         {
           "text": "Hanaoka Seishū",
@@ -5663,7 +5670,7 @@
     "time": "1810:",
     "year": 1810,
     "events": {
-      "fullText": "1810: Nicolas Appert invents the canning process for food.[409]",
+      "fullText": "1810: Nicolas Appert invents the canning process for food.[408]",
       "items": [
         {
           "text": "Nicolas Appert",
@@ -5680,7 +5687,7 @@
     "time": "1810:",
     "year": 1810,
     "events": {
-      "fullText": "1810: Abraham-Louis Breguet creates the first wristwatch.[410]",
+      "fullText": "1810: Abraham-Louis Breguet creates the first wristwatch.[409]",
       "items": [
         {
           "text": "Abraham-Louis Breguet",
@@ -5760,7 +5767,7 @@
     "time": "1816:",
     "year": 1816,
     "events": {
-      "fullText": "1816: René Laennec  invents the first Stethoscope.[411]",
+      "fullText": "1816: René Laennec  invents the first Stethoscope.[410]",
       "items": [
         {
           "text": "René Laennec",
@@ -5798,7 +5805,7 @@
     "time": "1816:",
     "year": 1816,
     "events": {
-      "fullText": "1816: Robert Stirling invents the Stirling engine.[412]",
+      "fullText": "1816: Robert Stirling invents the Stirling engine.[411]",
       "items": [
         {
           "text": "Robert Stirling",
@@ -5857,7 +5864,7 @@
     "time": "1822:",
     "year": 1822,
     "events": {
-      "fullText": "1822: Thomas Blanchard invents the pattern-tracing lathe (actually more like a shaper). The lathe can copy symmetrical shapes and is used for making gun stocks, and later, ax handles.[413][414]",
+      "fullText": "1822: Thomas Blanchard invents the pattern-tracing lathe (actually more like a shaper). The lathe can copy symmetrical shapes and is used for making gun stocks, and later, ax handles.[412][413]",
       "items": [
         {
           "text": "Thomas Blanchard",
@@ -5891,7 +5898,7 @@
     "time": "1822:",
     "year": 1822,
     "events": {
-      "fullText": "1822: Charles Babbage, considered the \"father of the computer\",[415] begins building the first programmable mechanical computer.",
+      "fullText": "1822: Charles Babbage, considered the \"father of the computer\",[414] begins building the first programmable mechanical computer.",
       "items": [
         {
           "text": "Charles Babbage",
@@ -5929,7 +5936,7 @@
     "time": "1824:",
     "year": 1824,
     "events": {
-      "fullText": "1824: Johann Nikolaus von Dreyse invents the bolt-action rifle.[416]",
+      "fullText": "1824: Johann Nikolaus von Dreyse invents the bolt-action rifle.[415]",
       "items": [
         {
           "text": "Johann Nikolaus von Dreyse",
@@ -5946,7 +5953,7 @@
     "time": "1824:",
     "year": 1824,
     "events": {
-      "fullText": "1824: William Sturgeon invents the electromagnet.[417][418]",
+      "fullText": "1824: William Sturgeon invents the electromagnet.[416][417]",
       "items": [
         {
           "text": "William Sturgeon",
@@ -5963,7 +5970,7 @@
     "time": "1826:",
     "year": 1826,
     "events": {
-      "fullText": "1826: John Walker invents the friction match.[419]",
+      "fullText": "1826: John Walker invents the friction match.[418]",
       "items": [
         {
           "text": "John Walker",
@@ -6044,7 +6051,7 @@
     "time": "1829:",
     "year": 1829,
     "events": {
-      "fullText": "1829: Louis Braille invents the Braille reading system for the blind.[420]",
+      "fullText": "1829: Louis Braille invents the Braille reading system for the blind.[419]",
       "items": [
         {
           "text": "Louis Braille",
@@ -6108,7 +6115,7 @@
     "time": "1831:",
     "year": 1831,
     "events": {
-      "fullText": "1831: Michael Faraday invents a method of electromagnetic induction. It would be independently invented by Joseph Henry the following year.",
+      "fullText": "1831: Michael Faraday invents a method of electromagnetic induction. It would be independently invented by Joseph Henry the following year. Faraday is credited with inventing the first electric generator called the Faraday disk.",
       "items": [
         {
           "text": "Michael Faraday",
@@ -6121,6 +6128,14 @@
         {
           "text": "Joseph Henry",
           "link": "/wiki/Joseph_Henry"
+        },
+        {
+          "text": "electric generator",
+          "link": "/wiki/Electric_generator"
+        },
+        {
+          "text": "Faraday disk",
+          "link": "/wiki/Homopolar_generator"
         }
       ]
     }
@@ -6252,7 +6267,7 @@
     "time": "1839:",
     "year": 1839,
     "events": {
-      "fullText": "1839: Charles Goodyear invents vulcanized rubber.[421]",
+      "fullText": "1839: Charles Goodyear invents vulcanized rubber.[420]",
       "items": [
         {
           "text": "Charles Goodyear",
@@ -6269,7 +6284,7 @@
     "time": "1839:",
     "year": 1839,
     "events": {
-      "fullText": "1839: Louis Daguerre invents daguerreotype photography.[422]",
+      "fullText": "1839: Louis Daguerre invents daguerreotype photography.[421]",
       "items": [
         {
           "text": "Louis Daguerre",
@@ -6286,7 +6301,7 @@
     "time": "1840:",
     "year": 1840,
     "events": {
-      "fullText": "1840: John Herschel invents the blueprint.[423]",
+      "fullText": "1840: John Herschel invents the blueprint.[422]",
       "items": [
         {
           "text": "John Herschel",
@@ -6303,7 +6318,7 @@
     "time": "1841:",
     "year": 1841,
     "events": {
-      "fullText": "1841: Alexander Bain devises a printing telegraph.[424]",
+      "fullText": "1841: Alexander Bain devises a printing telegraph.[423]",
       "items": [
         {
           "text": "Alexander Bain",
@@ -6503,7 +6518,7 @@
     "time": "1849:",
     "year": 1849,
     "events": {
-      "fullText": "1849: Walter Hunt invents the Safety pin.[425]",
+      "fullText": "1849: Walter Hunt invents the Safety pin.[424]",
       "items": [
         {
           "text": "Walter Hunt",
@@ -6537,7 +6552,7 @@
     "time": "1851:",
     "year": 1851,
     "events": {
-      "fullText": "1851: George Jennings offers the first public flush toilets, accessible for a penny per visit, and in 1852 receives a UK patent for the single piece, free standing, earthenware, trap plumed, flushing, water-closet.[426]",
+      "fullText": "1851: George Jennings offers the first public flush toilets, accessible for a penny per visit, and in 1852 receives a UK patent for the single piece, free standing, earthenware, trap plumed, flushing, water-closet.[425]",
       "items": [
         {
           "text": "George Jennings",
@@ -6567,7 +6582,7 @@
     "time": "1852:",
     "year": 1852,
     "events": {
-      "fullText": "1852: Elisha Otis invents the safety brake elevator.[427]",
+      "fullText": "1852: Elisha Otis invents the safety brake elevator.[426]",
       "items": [
         {
           "text": "Elisha Otis",
@@ -6669,7 +6684,7 @@
     "time": "1856:",
     "year": 1856,
     "events": {
-      "fullText": "1856: James Harrison produces the world's first practical ice making machine and refrigerator using the principle of vapour compression in Geelong, Australia.[428]",
+      "fullText": "1856: James Harrison produces the world's first practical ice making machine and refrigerator using the principle of vapour compression in Geelong, Australia.[427]",
       "items": [
         {
           "text": "James Harrison",
@@ -6758,7 +6773,7 @@
     "time": "1860:",
     "year": 1860,
     "events": {
-      "fullText": "1860: Joseph Swan produces carbon fibers.[429]",
+      "fullText": "1860: Joseph Swan produces carbon fibers.[428]",
       "items": [
         {
           "text": "Joseph Swan",
@@ -6868,7 +6883,7 @@
     "time": "1872:",
     "year": 1872,
     "events": {
-      "fullText": "1872: J.E.T. Woods and J. Clark invented stainless steel. Harry Brearley was the first to commercialize it.[430]",
+      "fullText": "1872: J.E.T. Woods and J. Clark invented stainless steel. Harry Brearley was the first to commercialize it.[429]",
       "items": [
         {
           "text": "stainless steel",
@@ -6995,7 +7010,7 @@
     "time": "1876:",
     "year": 1876,
     "events": {
-      "fullText": "1876: Alexander Graham Bell has a patent granted for the telephone. However, other inventors before Bell had worked on the development of the telephone and the invention had several pioneers.[431]",
+      "fullText": "1876: Alexander Graham Bell has a patent granted for the telephone. However, other inventors before Bell had worked on the development of the telephone and the invention had several pioneers.[430]",
       "items": [
         {
           "text": "Alexander Graham Bell",
@@ -7012,7 +7027,7 @@
     "time": "1877:",
     "year": 1877,
     "events": {
-      "fullText": "1877: Thomas Edison invents the first working phonograph.[432]",
+      "fullText": "1877: Thomas Edison invents the first working phonograph.[431]",
       "items": [
         {
           "text": "Thomas Edison",
@@ -7029,7 +7044,7 @@
     "time": "1878:",
     "year": 1878,
     "events": {
-      "fullText": "1878: Henry Fleuss is granted a patent for the first practical rebreather.[433]",
+      "fullText": "1878: Henry Fleuss is granted a patent for the first practical rebreather.[432]",
       "items": [
         {
           "text": "Henry Fleuss",
@@ -7063,7 +7078,7 @@
     "time": "1879:",
     "year": 1879,
     "events": {
-      "fullText": "1879: Joseph Swan and Thomas Edison both patent a functional incandescent light bulb. Some two dozen inventors had experimented with electric incandescent lighting over the first three-quarters of the 19th century but never came up with a practical design.[434] Swan's, which he had been working on since the 1860s, had a low resistance so was only suited for small installations. Edison designed a high-resistance bulb as part of a large-scale commercial electric lighting utility.[435][436][437]",
+      "fullText": "1879: Joseph Swan and Thomas Edison both patent a functional incandescent light bulb. Some two dozen inventors had experimented with electric incandescent lighting over the first three-quarters of the 19th century but never came up with a practical design.[433] Swan's, which he had been working on since the 1860s, had a low resistance so was only suited for small installations. Edison designed a high-resistance bulb as part of a large-scale commercial electric lighting utility.[434][435][436]",
       "items": [
         {
           "text": "Joseph Swan",
@@ -7084,7 +7099,7 @@
     "time": "1881:",
     "year": 1881,
     "events": {
-      "fullText": "1881: Nikolay Benardos presents carbon arc welding, the first practical arc welding method.[438]",
+      "fullText": "1881: Nikolay Benardos presents carbon arc welding, the first practical arc welding method.[437]",
       "items": [
         {
           "text": "Nikolay Benardos",
@@ -7185,7 +7200,7 @@
     "time": "1885:",
     "year": 1885,
     "events": {
-      "fullText": "1885: John Kemp Starley invents the modern safety bicycle.[439][440]",
+      "fullText": "1885: John Kemp Starley invents the modern safety bicycle.[438][439]",
       "items": [
         {
           "text": "John Kemp Starley",
@@ -7244,7 +7259,7 @@
     "time": "1886:",
     "year": 1886,
     "events": {
-      "fullText": "1886: Karl Benz invents the first petrol or gasoline powered auto-mobile (car).[441]",
+      "fullText": "1886: Karl Benz invents the first petrol or gasoline powered auto-mobile (car).[440]",
       "items": [
         {
           "text": "Karl Benz",
@@ -7308,7 +7323,7 @@
     "time": "1888:",
     "year": 1888,
     "events": {
-      "fullText": "1888: John J. Loud invents the ballpoint pen.[442]",
+      "fullText": "1888: John J. Loud invents the ballpoint pen.[441]",
       "items": [
         {
           "text": "John J. Loud",
@@ -7325,7 +7340,7 @@
     "time": "1888:",
     "year": 1888,
     "events": {
-      "fullText": "1888: Thomas Edison and William Kennedy Dickson invent the Kinetoscope.[443]",
+      "fullText": "1888: Thomas Edison and William Kennedy Dickson invent the Kinetoscope.[442]",
       "items": [
         {
           "text": "Thomas Edison",
@@ -7388,7 +7403,7 @@
     "time": "1890s:",
     "year": 1890,
     "events": {
-      "fullText": "1890s: Frédéric Swarts invents the first chlorofluorocarbons to be applied as refrigerant.[444]",
+      "fullText": "1890s: Frédéric Swarts invents the first chlorofluorocarbons to be applied as refrigerant.[443]",
       "items": [
         {
           "text": "Frédéric Swarts",
@@ -7405,7 +7420,7 @@
     "time": "1890:",
     "year": 1890,
     "events": {
-      "fullText": "1890: Robert Gair would invent the pre-cut cardboard box.[445]",
+      "fullText": "1890: Robert Gair would invent the pre-cut cardboard box.[444]",
       "items": [
         {
           "text": "Robert Gair",
@@ -7456,7 +7471,7 @@
     "time": "1892:",
     "year": 1892,
     "events": {
-      "fullText": "1892: Thomas Ahearn invents the electric oven.[446]",
+      "fullText": "1892: Thomas Ahearn invents the electric oven.[445]",
       "items": [
         {
           "text": "Thomas Ahearn",
@@ -7494,7 +7509,7 @@
     "time": "1893:",
     "year": 1893,
     "events": {
-      "fullText": "1893: William Stewart Halsted, invents the rubber glove for his wife Caroline Hampton as he noticed her hands were affected by the daily surgeries she had performed. The gloves were intended to prevent medical staff from developing dermatitis from surgical chemicals.[447][448][449] The first modern disposable glove was created by Ansell Rubber Co. Pty. Ltd. in 1965.[450][451][452]",
+      "fullText": "1893: William Stewart Halsted, invents the rubber glove for his wife Caroline Hampton as he noticed her hands were affected by the daily surgeries she had performed. The gloves were intended to prevent medical staff from developing dermatitis from surgical chemicals.[446][447][448] The first modern disposable glove was created by Ansell Rubber Co. Pty. Ltd. in 1965.[449][450][451]",
       "items": [
         {
           "text": "William Stewart Halsted",
@@ -7549,7 +7564,7 @@
     "time": "1897:",
     "year": 1897,
     "events": {
-      "fullText": "1897: Surgical masks made of cloth were developed in Europe by physicians Jan Mikulicz-Radecki at the University of Breslau and Paul Berger in Paris, as a result of increasing awareness of germ theory and the importance of antiseptic procedures in medicine.[453]",
+      "fullText": "1897: Surgical masks made of cloth were developed in Europe by physicians Jan Mikulicz-Radecki at the University of Breslau and Paul Berger in Paris, as a result of increasing awareness of germ theory and the importance of antiseptic procedures in medicine.[452]",
       "items": [
         {
           "text": "Surgical masks",
@@ -7574,7 +7589,7 @@
     "time": "1898:",
     "year": 1898,
     "events": {
-      "fullText": "1898: Hans von Pechmann synthesizes polyethylene, now the most common plastic in the world.[454]",
+      "fullText": "1898: Hans von Pechmann synthesizes polyethylene, now the most common plastic in the world.[453]",
       "items": [
         {
           "text": "Hans von Pechmann",
@@ -7637,7 +7652,7 @@
     "time": "1901:",
     "year": 1901,
     "events": {
-      "fullText": "1901: The first motorized cleaner using suction, a powered \"vacuum cleaner\", is patented independently by Hubert Cecil Booth and David T. Kenney.[455]",
+      "fullText": "1901: The first motorized cleaner using suction, a powered \"vacuum cleaner\", is patented independently by Hubert Cecil Booth and David T. Kenney.[454]",
       "items": [
         {
           "text": "vacuum cleaner",
@@ -7772,7 +7787,7 @@
     "time": "1907:",
     "year": 1907,
     "events": {
-      "fullText": "1907: The tuyères thermopropulsives[456] after 1945 (Maurice Roy (fr)) known as the statoreacteur[456][457] a combustion subsonique (the ramjet)[458] – R. Lorin[459][460][461]",
+      "fullText": "1907: The tuyères thermopropulsives[455] after 1945 (Maurice Roy (fr)) known as the statoreacteur[455][456] a combustion subsonique (the ramjet)[457] – R. Lorin[458][459][460]",
       "items": [
         {
           "text": "ramjet",
@@ -7920,7 +7935,7 @@
     "time": "1915:",
     "year": 1915,
     "events": {
-      "fullText": "1915: Harry Brearley invents a process to create Martensitic stainless steel, initially labelled Rustless Steel, later marketed as Staybrite, and AISI Type 420.[462]",
+      "fullText": "1915: Harry Brearley invents a process to create Martensitic stainless steel, initially labelled Rustless Steel, later marketed as Staybrite, and AISI Type 420.[461]",
       "items": [
         {
           "text": "Harry Brearley",
@@ -8083,7 +8098,7 @@
     "time": "1926:",
     "year": 1926,
     "events": {
-      "fullText": "1926: Harry Ferguson, patents the Three-point hitch equipment linkage system for tractors.[463]",
+      "fullText": "1926: Harry Ferguson, patents the Three-point hitch equipment linkage system for tractors.[462]",
       "items": [
         {
           "text": "Harry Ferguson",
@@ -8100,7 +8115,7 @@
     "time": "1926:",
     "year": 1926,
     "events": {
-      "fullText": "1926: John Logie Baird demonstrates the world's first live working television system.[464][465][466]",
+      "fullText": "1926: John Logie Baird demonstrates the world's first live working television system.[463][464][465]",
       "items": [
         {
           "text": "John Logie Baird",
@@ -8117,7 +8132,7 @@
     "time": "1927:",
     "year": 1927,
     "events": {
-      "fullText": "1927: The quartz clock is invented by Warren Marrison and J.W. Horton at Bell Telephone Laboratories.[467]",
+      "fullText": "1927: The quartz clock is invented by Warren Marrison and J.W. Horton at Bell Telephone Laboratories.[466]",
       "items": [
         {
           "text": "quartz clock",
@@ -8163,7 +8178,7 @@
     "time": "1928:",
     "year": 1928,
     "events": {
-      "fullText": "1928: Frank Whittle formally submitted his ideas for a turbo-jet engine. In October 1929, he developed his ideas further.[468] On 16 January 1930, Whittle submitted his first patent (granted in 1932).[469]",
+      "fullText": "1928: Frank Whittle formally submitted his ideas for a turbo-jet engine. In October 1929, he developed his ideas further.[467] On 16 January 1930, Whittle submitted his first patent (granted in 1932).[468]",
       "items": [
         {
           "text": "Frank Whittle",
@@ -8278,10 +8293,10 @@
     "time": "1933:",
     "year": 1933,
     "events": {
-      "fullText": "1933: Harry C. Jennings Sr. and his disabled friend Herbert Everest, both mechanical engineers, invented the first lightweight, steel, folding, portable wheelchair with their \"X-brace\" design.[470][471]",
+      "fullText": "1933: Harry C. Jennings Sr. and Herbert Everest, both mechanical engineers, invented the first lightweight, steel, folding, portable wheelchair with their \"X-brace\" design.[469][470]",
       "items": [
         {
-          "text": "Harry C. Jennings Sr. and his disabled friend Herbert Everest",
+          "text": "Harry C. Jennings Sr. and Herbert Everest",
           "link": "/wiki/Everest_and_Jennings"
         },
         {
@@ -8299,7 +8314,7 @@
     "time": "1935:",
     "year": 1935,
     "events": {
-      "fullText": "1935: Nylon, the first fully synthetic fiber is produced by Wallace Carothers while working at DuPont.[472]",
+      "fullText": "1935: Nylon, the first fully synthetic fiber is produced by Wallace Carothers while working at DuPont.[471]",
       "items": [
         {
           "text": "Nylon",
@@ -8407,7 +8422,7 @@
     "time": "1940:",
     "year": 1940,
     "events": {
-      "fullText": "1940: Pu-239 isotope (isotope of plutonium)[473][474] a form of matter existing with the capacity for use as a destructive element[475] (because the isotope has an exponentially increasing[473] spontaneous[476] fissile decay[477]) within nuclear devices — Glenn Seaborg.[474]",
+      "fullText": "1940: Pu-239 isotope (isotope of plutonium)[472][473] a form of matter existing with the capacity for use as a destructive element[474] (because the isotope has an exponentially increasing[472] spontaneous[475] fissile decay[476]) within nuclear devices — Glenn Seaborg.[473]",
       "items": [
         {
           "text": "Pu-239 isotope",
@@ -8436,7 +8451,7 @@
     "time": "1940:",
     "year": 1940,
     "events": {
-      "fullText": "1940: John Randall and Harry Boot would develop the high power, microwave generating, cavity magnetron, later applied to commercial Radar and Microwave oven appliances.[478]",
+      "fullText": "1940: John Randall and Harry Boot would develop the high power, microwave generating, cavity magnetron, later applied to commercial Radar and Microwave oven appliances.[477]",
       "items": [
         {
           "text": "John Randall",
@@ -8465,7 +8480,7 @@
     "time": "1941:",
     "year": 1941,
     "events": {
-      "fullText": "1941: Polyester is invented by John Rex Whinfield and James Dickson.[479]",
+      "fullText": "1941: Polyester is invented by John Rex Whinfield and James Dickson.[478]",
       "items": [
         {
           "text": "Polyester",
@@ -8503,7 +8518,7 @@
     "time": "1944:",
     "year": 1944,
     "events": {
-      "fullText": "1944: The non-infectious viral vaccine is perfected by Dr. Jonas Salk and Thomas Francis.[480]",
+      "fullText": "1944: The non-infectious viral vaccine is perfected by Dr. Jonas Salk and Thomas Francis.[479]",
       "items": []
     }
   },
@@ -8532,7 +8547,7 @@
     "time": "1945:",
     "year": 1945,
     "events": {
-      "fullText": "1945: Percy Spencer, while employed at Raytheon, would patent a magnetron based microwave oven.[481]",
+      "fullText": "1945: Percy Spencer, while employed at Raytheon, would patent a magnetron based microwave oven.[480]",
       "items": [
         {
           "text": "Percy Spencer",
@@ -8553,7 +8568,7 @@
     "time": "1945:",
     "year": 1945,
     "events": {
-      "fullText": "1945: Willard Libby began his work on radiocarbon dating. He published his paper in 1946,[482][483] a second paper in Science in 1947.[482][484] Libby and James Arnold succeeded with the radiocarbon dating theory after results were published in Science in December 1949.[485][486]",
+      "fullText": "1945: Willard Libby began his work on radiocarbon dating. He published his paper in 1946,[481][482] a second paper in Science in 1947.[481][483] Libby and James Arnold succeeded with the radiocarbon dating theory after results were published in Science in December 1949.[484][485]",
       "items": [
         {
           "text": "Willard Libby",
@@ -8616,7 +8631,7 @@
     "time": "1947:",
     "year": 1947,
     "events": {
-      "fullText": "1947: Floyd Farris and J.B. Clark (Stanolind Oil and Gas Corporation) invents hydraulic fracturing technology.[487]",
+      "fullText": "1947: Floyd Farris and J.B. Clark (Stanolind Oil and Gas Corporation) invents hydraulic fracturing technology.[486]",
       "items": [
         {
           "text": "Stanolind Oil and Gas Corporation",
@@ -8683,7 +8698,7 @@
     "time": "1948:",
     "year": 1948,
     "events": {
-      "fullText": "1948: Basic oxygen steelmaking is developed by Robert Durrer. The majority of steel manufactured in the world is produced using the basic oxygen furnace; in 2000, it accounted for 60% of global steel output.[488]",
+      "fullText": "1948: Basic oxygen steelmaking is developed by Robert Durrer. The majority of steel manufactured in the world is produced using the basic oxygen furnace; in 2000, it accounted for 60% of global steel output.[487]",
       "items": [
         {
           "text": "Basic oxygen steelmaking",
@@ -8721,7 +8736,7 @@
     "time": "1950:",
     "year": 1950,
     "events": {
-      "fullText": "1950: The Toroidal chamber with axial magnetic fields (the Tokamak) is developed by Igor E. Tamm and Andrei D. Sakharov.[489]",
+      "fullText": "1950: The Toroidal chamber with axial magnetic fields (the Tokamak) is developed by Igor E. Tamm and Andrei D. Sakharov.[488]",
       "items": [
         {
           "text": "Tokamak",
@@ -8742,7 +8757,7 @@
     "time": "1952:",
     "year": 1952,
     "events": {
-      "fullText": "1952: The float glass process is developed by Alastair Pilkington.[490]",
+      "fullText": "1952: The float glass process is developed by Alastair Pilkington.[489]",
       "items": [
         {
           "text": "float glass process",
@@ -8832,7 +8847,7 @@
     "time": "1956:",
     "year": 1956,
     "events": {
-      "fullText": "1956: The hard disk drive is invented by IBM.[491]",
+      "fullText": "1956: The hard disk drive is invented by IBM.[490]",
       "items": [
         {
           "text": "hard disk drive",
@@ -8849,7 +8864,7 @@
     "time": "1956:",
     "year": 1956,
     "events": {
-      "fullText": "1956: The Logic Theorist computer program, the first \"artificial intelligence program\", was written and invented by Allen Newell, Herbert A. Simon, and Cliff Shaw.[492]",
+      "fullText": "1956: The Logic Theorist computer program, the first \"artificial intelligence program\", was written and invented by Allen Newell, Herbert A. Simon, and Cliff Shaw.[491]",
       "items": [
         {
           "text": "Logic Theorist",
@@ -8874,7 +8889,7 @@
     "time": "1957:",
     "year": 1957,
     "events": {
-      "fullText": "1957: The laser and optical amplifier are invented and named by Gordon Gould and Charles Townes. The laser and optical amplifier are foundational to powering the Internet.[493]",
+      "fullText": "1957: The laser and optical amplifier are invented and named by Gordon Gould and Charles Townes. The laser and optical amplifier are foundational to powering the Internet.[492]",
       "items": [
         {
           "text": "laser",
@@ -8966,7 +8981,7 @@
     "time": "1959:",
     "year": 1959,
     "events": {
-      "fullText": "1959: The MOSFET (MOS transistor) is invented by the Egyptian Mohamed Atalla and the Korean Dawon Kahng at Bell Labs. It is used in almost all modern electronic products. It was smaller, faster, more reliable and cheaper to manufacture than earlier bipolar transistors, leading to a revolution in computers, controls and communication.[494][495][496]",
+      "fullText": "1959: The MOSFET (MOS transistor) is invented by the Egyptian Mohamed Atalla and the Korean Dawon Kahng at Bell Labs. It is used in almost all modern electronic products. It was smaller, faster, more reliable and cheaper to manufacture than earlier bipolar transistors, leading to a revolution in computers, controls and communication.[493][494][495]",
       "items": [
         {
           "text": "MOSFET",
@@ -9063,7 +9078,7 @@
     "time": "1969:",
     "year": 1969,
     "events": {
-      "fullText": "1969: The NPL network followed by the ARPANET implement packet switching for data communication,[497][498] drawing on the concepts and designs of Donald Davies,[499][500][501] and Paul Baran.[502]",
+      "fullText": "1969: The NPL network followed by the ARPANET implement packet switching for data communication,[496][497] drawing on the concepts and designs of Donald Davies,[498][499][500] and Paul Baran.[501] These are considered precursors to the modern Internet.[498][501]",
       "items": [
         {
           "text": "NPL network",
@@ -9088,6 +9103,10 @@
         {
           "text": "Paul Baran",
           "link": "/wiki/Paul_Baran"
+        },
+        {
+          "text": "Internet",
+          "link": "/wiki/Internet"
         }
       ]
     }
@@ -9158,7 +9177,7 @@
     "time": "1971:",
     "year": 1971,
     "events": {
-      "fullText": "1971: The first single-chip microprocessor, the Intel 4004, is invented. Its development was led by Federico Faggin, using his silicon-gate MOS technology. This led to the personal computer (PC) revolution.[503]",
+      "fullText": "1971: The first single-chip microprocessor, the Intel 4004, is invented. Its development was led by Federico Faggin, using his silicon-gate MOS technology. This led to the personal computer (PC) revolution.[502]",
       "items": [
         {
           "text": "microprocessor",
@@ -9208,7 +9227,7 @@
     "time": "1971:",
     "year": 1971,
     "events": {
-      "fullText": "1971: IBM developed and released the world's first floppy disk and disk drive.[504]",
+      "fullText": "1971: IBM developed and released the world's first floppy disk and disk drive.[503]",
       "items": [
         {
           "text": "IBM",
@@ -9229,7 +9248,7 @@
     "time": "1972:",
     "year": 1972,
     "events": {
-      "fullText": "1972: The first video game console, used primarily for playing video games on a TV, is the Magnavox Odyssey.[505]",
+      "fullText": "1972: The first video game console, used primarily for playing video games on a TV, is the Magnavox Odyssey.[504]",
       "items": [
         {
           "text": "video game console",
@@ -9246,7 +9265,7 @@
     "time": "1973:",
     "year": 1973,
     "events": {
-      "fullText": "1973: The first fiber optic communication systems were developed by Optelecom.[506]",
+      "fullText": "1973: The first fiber optic communication systems were developed by Optelecom.[505]",
       "items": [
         {
           "text": "Optelecom",
@@ -9301,7 +9320,7 @@
     "time": "1974:",
     "year": 1974,
     "events": {
-      "fullText": "1974: The Transmission Control Program is proposed by Vinton Cerf and Robert E. Kahn, building on the work of Louis Pouzin and other Internet pioneers, creating the basis for the modern Internet.[507][508]",
+      "fullText": "1974: The Transmission Control Program is proposed by Vinton Cerf and Robert E. Kahn, building on the work of Louis Pouzin and other Internet pioneers, creating the basis for the modern Internet.[506][507]",
       "items": [
         {
           "text": "Transmission Control Program",
@@ -9334,7 +9353,7 @@
     "time": "1974:",
     "year": 1974,
     "events": {
-      "fullText": "1974: The lithium-ion battery is invented by M. Stanley Whittingham, and further developed in the 1980s and 1990s by John B. Goodenough, Rachid Yazami and Akira Yoshino. It has impacted modern consumer electronics and electric vehicles.[509]",
+      "fullText": "1974: The lithium-ion battery is invented by M. Stanley Whittingham, and further developed in the 1980s and 1990s by John B. Goodenough, Rachid Yazami and Akira Yoshino. It has impacted modern consumer electronics and electric vehicles.[508]",
       "items": [
         {
           "text": "lithium-ion battery",
@@ -9371,7 +9390,7 @@
     "time": "1974:",
     "year": 1974,
     "events": {
-      "fullText": "1974: The Rubik's cube is invented by Ernő Rubik which went on to be the best selling puzzle ever.[510]",
+      "fullText": "1974: The Rubik's cube is invented by Ernő Rubik which went on to be the best selling puzzle ever.[509]",
       "items": [
         {
           "text": "Rubik's cube",
@@ -9392,7 +9411,7 @@
     "time": "1977:",
     "year": 1977,
     "events": {
-      "fullText": "1977: Dr Walter Gilbert and Frederick Sanger invented a new DNA sequencing method for which they won the Nobel Prize.[511]",
+      "fullText": "1977: Dr Walter Gilbert and Frederick Sanger invented a new DNA sequencing method for which they won the Nobel Prize.[510]",
       "items": [
         {
           "text": "DNA sequencing",
@@ -9409,7 +9428,7 @@
     "time": "1977:",
     "year": 1977,
     "events": {
-      "fullText": "1977: The first self-driving car that did not rely upon rails or wires under the road is designed by the Tsukuba Mechanical Engineering Laboratory.[512]",
+      "fullText": "1977: The first self-driving car that did not rely upon rails or wires under the road is designed by the Tsukuba Mechanical Engineering Laboratory.[511]",
       "items": [
         {
           "text": "self-driving car",
@@ -9452,7 +9471,7 @@
     "time": "1979:",
     "year": 1979,
     "events": {
-      "fullText": "1979: Nippon Telegraph and Telephone (NTT) launched the first cellular network in Japan.[513]",
+      "fullText": "1979: Nippon Telegraph and Telephone (NTT) launched the first cellular network in Japan.[512]",
       "items": [
         {
           "text": "Nippon Telegraph and Telephone",
@@ -9465,7 +9484,7 @@
     "time": "1979:",
     "year": 1979,
     "events": {
-      "fullText": "1979: Public dialup information, messaging and e-commerce services, were pioneered through CompuServe and RadioShack's MicroNET, and the UK's Post Office Telecommunications Prestel services.[514][515]",
+      "fullText": "1979: Public dialup information, messaging and e-commerce services, were pioneered through CompuServe and RadioShack's MicroNET, and the UK's Post Office Telecommunications Prestel services.[513][514]",
       "items": [
         {
           "text": "CompuServe",
@@ -9511,7 +9530,7 @@
     "time": "1980:",
     "year": 1980,
     "events": {
-      "fullText": "1980: Scientists Mark Skolnick, Ron Davis, Ray White, and David Botstein published their findings on a gene mapping tool using Restriction Fragment-length Polymorphisms (RFLP), that would have applications to identify heritable disorders, including some forms of cancer.[516][517][518]",
+      "fullText": "1980: Scientists Mark Skolnick, Ron Davis, Ray White, and David Botstein published their findings on a gene mapping tool using Restriction Fragment-length Polymorphisms (RFLP), that would have applications to identify heritable disorders, including some forms of cancer.[515][516][517]",
       "items": [
         {
           "text": "Mark Skolnick",
@@ -9549,7 +9568,7 @@
     "time": "1981:",
     "year": 1981,
     "events": {
-      "fullText": "1981: Kane Kramer develops the credit card-sized, IXI digital media player.[519]",
+      "fullText": "1981: Kane Kramer develops the credit card-sized, IXI digital media player.[518]",
       "items": [
         {
           "text": "Kane Kramer",
@@ -9566,7 +9585,7 @@
     "time": "1981:",
     "year": 1981,
     "events": {
-      "fullText": "1981: Televerket, a Swedish state-owned corporation, launched the Nordic Mobile Telephone (NMT) system.[520][521][522]",
+      "fullText": "1981: Televerket, a Swedish state-owned corporation, launched the Nordic Mobile Telephone (NMT) system.[519][520][521]",
       "items": [
         {
           "text": "Televerket",
@@ -9583,7 +9602,7 @@
     "time": "1981:",
     "year": 1981,
     "events": {
-      "fullText": "1981: Comvik, a Swedish telecommunications company, launched the first commercial automatic cellular system. However, according to the Swedish Post and Telecom Authority, the company launched an unlicensed automatic system. Comvik didn’t receive a license to operate until December 1981, two months after the NMT system was launched.[523][524]",
+      "fullText": "1981: Comvik, a Swedish telecommunications company, launched the first commercial automatic cellular system. However, according to the Swedish Post and Telecom Authority, the company launched an unlicensed automatic system. Comvik didn’t receive a license to operate until December 1981, two months after the NMT system was launched.[522][523]",
       "items": [
         {
           "text": "Comvik",
@@ -9600,7 +9619,7 @@
     "time": "1982:",
     "year": 1982,
     "events": {
-      "fullText": "1982: A CD-ROM contains data accessible to, but not writable by, a computer for data storage and music playback. The 1985 Yellow Book standard developed by Sony and Philips adapted the format to hold any form of binary data.[525]",
+      "fullText": "1982: A CD-ROM contains data accessible to, but not writable by, a computer for data storage and music playback. The 1985 Yellow Book standard developed by Sony and Philips adapted the format to hold any form of binary data.[524]",
       "items": [
         {
           "text": "CD-ROM",
@@ -9629,7 +9648,7 @@
     "time": "1982:",
     "year": 1982,
     "events": {
-      "fullText": "1982: Direct to home satellite television transmission, with the launch of Sky One service.[526]",
+      "fullText": "1982: Direct to home satellite television transmission, with the launch of Sky One service.[525]",
       "items": [
         {
           "text": "satellite television",
@@ -9646,7 +9665,7 @@
     "time": "1982:",
     "year": 1982,
     "events": {
-      "fullText": "1982: The first laptop computer is launched, the 8/16-bit Epson HX-20.[527]",
+      "fullText": "1982: The first laptop computer is launched, the 8/16-bit Epson HX-20.[526]",
       "items": [
         {
           "text": "laptop",
@@ -9663,7 +9682,7 @@
     "time": "1983:",
     "year": 1983,
     "events": {
-      "fullText": "1983: Stereolithography is invented by Chuck Hull.[528]",
+      "fullText": "1983: Stereolithography is invented by Chuck Hull.[527]",
       "items": [
         {
           "text": "Stereolithography",
@@ -9680,7 +9699,7 @@
     "time": "1983:",
     "year": 1983,
     "events": {
-      "fullText": "1983: Ameritech, now known as AT&T, commercialized the Bell System (its cellular network) in Chicago, Ill.[529][530]",
+      "fullText": "1983: Ameritech, now known as AT&T, commercialized the Bell System (its cellular network) in Chicago, Ill.[528][529]",
       "items": [
         {
           "text": "AT&T",
@@ -9718,7 +9737,7 @@
     "time": "1984:",
     "year": 1984,
     "events": {
-      "fullText": "1984: DNA profiling is pioneered by Alec Jeffreys.[531][532]",
+      "fullText": "1984: DNA profiling is pioneered by Alec Jeffreys.[530][531]",
       "items": [
         {
           "text": "DNA profiling",
@@ -9735,7 +9754,7 @@
     "time": "1986:",
     "year": 1986,
     "events": {
-      "fullText": "1986: Technophone, a British mobile phone company, created the first pocket-sized cell phone, the Excell PCT105.[533][534]",
+      "fullText": "1986: Technophone, a British mobile phone company, created the first pocket-sized cell phone, the Excell PCT105.[532][533]",
       "items": [
         {
           "text": "Technophone",
@@ -9752,7 +9771,7 @@
     "time": "1989:",
     "year": 1989,
     "events": {
-      "fullText": "1989: Karlheinz Brandenburg would publish the audio compression algorithms that would be standardised as the: MPEG-1, layer 3 (mp3), and later the MPEG-2, layer 7 Advanced Audio Compression (AAC).[535]",
+      "fullText": "1989: Karlheinz Brandenburg would publish the audio compression algorithms that would be standardised as the: MPEG-1, layer 3 (mp3), and later the MPEG-2, layer 7 Advanced Audio Compression (AAC).[534]",
       "items": [
         {
           "text": "Karlheinz Brandenburg",
@@ -9769,7 +9788,7 @@
     "time": "1989:",
     "year": 1989,
     "events": {
-      "fullText": "1989: The World Wide Web is invented by computer scientist Tim Berners-Lee.[536][537]",
+      "fullText": "1989: The World Wide Web is invented by computer scientist Tim Berners-Lee.[535][536]",
       "items": [
         {
           "text": "World Wide Web",
@@ -9816,7 +9835,7 @@
     "time": "1991:",
     "year": 1991,
     "events": {
-      "fullText": "1991: The first commercial flash-based solid-state drive is launched by SunDisk.[538]",
+      "fullText": "1991: The first commercial flash-based solid-state drive is launched by SunDisk.[537]",
       "items": [
         {
           "text": "solid-state drive",
@@ -9976,7 +9995,7 @@
     "time": "1996:",
     "year": 1996,
     "events": {
-      "fullText": "1996: The Ciena Corporation, in partnership with Sprint, deployed the first commercial dense wavelength-division multiplexing system, which created the massive capacity of the Internet.[539][540][541]",
+      "fullText": "1996: The Ciena Corporation, in partnership with Sprint, deployed the first commercial dense wavelength-division multiplexing system, which created the massive capacity of the Internet.[538][539][540]",
       "items": [
         {
           "text": "Ciena Corporation",
@@ -9987,7 +10006,7 @@
           "link": "/wiki/Sprint_Corporation"
         },
         {
-          "text": "wavelength-division multiplexing system,",
+          "text": "wavelength-division multiplexing system",
           "link": "/wiki/Wavelength-division_multiplexing"
         }
       ]
@@ -10027,7 +10046,7 @@
     "time": "1996:",
     "year": 1996,
     "events": {
-      "fullText": "1996: Myriad Genetics released the BRACAnalysis, the first commercial genetic test for assessing the risk of hereditary breast and ovarian cancer.[542][543]",
+      "fullText": "1996: Myriad Genetics released the BRACAnalysis, the first commercial genetic test for assessing the risk of hereditary breast and ovarian cancer.[541][542]",
       "items": [
         {
           "text": "Myriad Genetics",
@@ -10066,7 +10085,7 @@
     "time": "1998:",
     "year": 1998,
     "events": {
-      "fullText": "1998:  The search engine Google, is launched.[544]",
+      "fullText": "1998:  The search engine Google, is launched.[543]",
       "items": [
         {
           "text": "Google",
@@ -10155,7 +10174,7 @@
     "time": "2004:",
     "year": 2004,
     "events": {
-      "fullText": "2004: First podcast, invented by Adam Curry and Dave Winer, is a program made available in digital format for download over the Internet and it usually features one or more recurring hosts engaged in a discussion about a particular topic or current event.[545][546][547]",
+      "fullText": "2004: First podcast, invented by Adam Curry and Dave Winer, is a program made available in digital format for download over the Internet and it usually features one or more recurring hosts engaged in a discussion about a particular topic or current event.[544][545][546]",
       "items": [
         {
           "text": "podcast",
@@ -10207,6 +10226,10 @@
         {
           "text": "Apple Inc.",
           "link": "/wiki/Apple_Inc."
+        },
+        {
+          "text": "iPhone",
+          "link": "/wiki/IPhone"
         }
       ]
     }
@@ -10241,7 +10264,7 @@
     "time": "2007:",
     "year": 2007,
     "events": {
-      "fullText": "2007: First Kindle introduced by Amazon (company) founder and CEO Jeff Bezos, who instructed the company's employees to build the world's best e-reader before Amazon's competitors could. Amazon originally used the codename Fiona for the device. This hardware evolved from the original Kindle introduced in 2007 and the Kindle DX (with its larger 9.7\" screen) introduced in 2009.[548]",
+      "fullText": "2007: First Kindle introduced by Amazon (company) founder and CEO Jeff Bezos, who instructed the company's employees to build the world's best e-reader before Amazon's competitors could. Amazon originally used the codename Fiona for the device. This hardware evolved from the original Kindle introduced in 2007 and the Kindle DX (with its larger 9.7\" screen) introduced in 2009.[547]",
       "items": [
         {
           "text": "Kindle",
@@ -10258,7 +10281,7 @@
     "time": "2008:",
     "year": 2008,
     "events": {
-      "fullText": "2008: Satoshi Nakamoto develops the first blockchain.[549]",
+      "fullText": "2008: Satoshi Nakamoto develops the first blockchain.[548]",
       "items": [
         {
           "text": "Satoshi Nakamoto",
@@ -10275,7 +10298,7 @@
     "time": "2010:",
     "year": 2010,
     "events": {
-      "fullText": "2010: The first solar sail based spacecraft, IKAROS.[550]",
+      "fullText": "2010: The first solar sail based spacecraft, IKAROS.[549]",
       "items": [
         {
           "text": "solar sail",
@@ -10292,7 +10315,7 @@
     "time": "2010:",
     "year": 2010,
     "events": {
-      "fullText": "2010: The first quantum machine[551]",
+      "fullText": "2010: The first quantum machine[550]",
       "items": [
         {
           "text": "quantum machine",
@@ -10326,7 +10349,7 @@
     "time": "2011:",
     "year": 2011,
     "events": {
-      "fullText": "2011: HIV treatment as prevention (HPTN 052)[552]",
+      "fullText": "2011: HIV treatment as prevention (HPTN 052)[551]",
       "items": [
         {
           "text": "HPTN 052",
@@ -10339,7 +10362,7 @@
     "time": "2013:",
     "year": 2013,
     "events": {
-      "fullText": "2013: Cancer immunotherapy[553]",
+      "fullText": "2013: Cancer immunotherapy[552]",
       "items": [
         {
           "text": "Cancer immunotherapy",
@@ -10352,7 +10375,7 @@
     "time": "2015:",
     "year": 2015,
     "events": {
-      "fullText": "2015: CRISPR genome-editing method[554]",
+      "fullText": "2015: CRISPR genome-editing method[553]",
       "items": [
         {
           "text": "CRISPR",
@@ -10365,7 +10388,7 @@
     "time": "2017:",
     "year": 2017,
     "events": {
-      "fullText": "2017: Google publishes a research paper \"Attention Is All You Need\" leading to the development into a new deep learning architecture known as the transformer.[555]",
+      "fullText": "2017: Google publishes a research paper \"Attention Is All You Need\" leading to the development into a new deep learning architecture known as the transformer.[554]",
       "items": [
         {
           "text": "Google",
@@ -10386,7 +10409,7 @@
     "time": "2018:",
     "year": 2018,
     "events": {
-      "fullText": "2018: Single-cell sequencing[556]",
+      "fullText": "2018: Single-cell sequencing[555]",
       "items": [
         {
           "text": "Single-cell sequencing",
@@ -10420,7 +10443,7 @@
     "time": "2020:",
     "year": 2020,
     "events": {
-      "fullText": "2020: The first MRNA vaccine to be approved by public health medicines regulators is co-developed by Pfizer and BioNTech for COVID-19.[557]",
+      "fullText": "2020: The first MRNA vaccine to be approved by public health medicines regulators is co-developed by Pfizer and BioNTech for COVID-19.[556]",
       "items": [
         {
           "text": "MRNA vaccine",
@@ -10445,7 +10468,7 @@
     "time": "2020:",
     "year": 2020,
     "events": {
-      "fullText": "2020: OpenAI demonstrated an Artificial Intelligence model called GPT-3. The program was created to generate human-like responses when given prompts.[558]",
+      "fullText": "2020: OpenAI demonstrated an Artificial Intelligence model called GPT-3. The program was created to generate human-like responses when given prompts.[557]",
       "items": [
         {
           "text": "OpenAI",
@@ -10463,10 +10486,10 @@
     }
   },
   {
-    "time": "2022:",
-    "year": 2022,
+    "time": "2021:",
+    "year": 2021,
     "events": {
-      "fullText": "2022: Pfizer develops the world's first pill for COVID.",
+      "fullText": "2021: Pfizer develops the world's first pill for COVID.",
       "items": [
         {
           "text": "Pfizer",
@@ -10479,6 +10502,23 @@
         {
           "text": "COVID",
           "link": "/wiki/COVID-19"
+        }
+      ]
+    }
+  },
+  {
+    "time": "2022:",
+    "year": 2022,
+    "events": {
+      "fullText": "2022: ChatGPT is launched to the public, making its first mainstream generative AI to be released.",
+      "items": [
+        {
+          "text": "ChatGPT",
+          "link": "/wiki/ChatGPT"
+        },
+        {
+          "text": "generative AI",
+          "link": "/wiki/Generative_AI"
         }
       ]
     }

@@ -44,3 +44,11 @@ formatTimeRandom(new Date(), {
 })
 
 ```
+
+## Running locally
+
+These are the various steps that can be ran
+
+- Run `node tools/scrape.js` - this does the initial pass from wikipedia to get a breakdown of _things_ and their possible attributions
+- Run `node tools/determine.js` - this is a manual process that lets you hone the data into what needs to be linked
+- Run `node tools/prepare.js` - this chunks up the data and stamps it in `lib/data.js`

@@ -15,6 +15,12 @@ export const determinedDataFile = path.resolve(
 export const splitExportFile = path.resolve(libFolder, "data.js");
 export const mergeFile = path.resolve(libFolder, "merge.js.txt");
 
+/**
+ *
+ * @param {T[]} arr
+ * @param {(item: T, idx: number, arr: T[], responses: any[]) => Promise<any>} cb
+ * @template T
+ */
 export const promiseRunner = (arr, cb) => {
   return new Promise((resolve) => {
     const responses = [];

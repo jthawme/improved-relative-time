@@ -1,7 +1,7 @@
 import { writeFile, mkdir } from "node:fs/promises";
 import * as path from "node:path";
 import { JSDOM } from "jsdom";
-import { rawDataFile } from "./utils.js";
+import { rawDataFile, dataFolder } from "./utils.js";
 
 /**
  * Correct as of December 2024, but of course if wikipedia pages, this will break
@@ -132,6 +132,8 @@ const breakdownListItem = (listItem) => {
 
   const year = convertTimeToYear(time);
   const events = extractPossibleEvents(listItem);
+
+  console.log(time);
 
   return {
     time,

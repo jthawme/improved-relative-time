@@ -11,7 +11,7 @@
       "descriptive": "StT",
       "verbose": "StTo"
     },
-    "conflictProperty": "-3300000-0"
+    "conflictProperty": "-3300000-stone-tools-kenya-ethiopia-oldowan-australopithecus-further-explanation-needed"
   },
   {
     "id": "control-of-fire",
@@ -25,7 +25,7 @@
       "descriptive": "CooF",
       "verbose": "CooFi"
     },
-    "conflictProperty": "-2300000-1"
+    "conflictProperty": "-2300000-control-of-fire-cooking-homo-habilis"
   },
   {
     "id": "acheulean",
@@ -39,7 +39,7 @@
       "descriptive": "Ac",
       "verbose": "Ac"
     },
-    "conflictProperty": "-1760000-2"
+    "conflictProperty": "-1760000-acheulean-kenya-homo-erectus"
   },
   {
     "id": "origin-of-language",
@@ -53,7 +53,7 @@
       "descriptive": "OroL",
       "verbose": "OroLa"
     },
-    "conflictProperty": "-1750-3"
+    "conflictProperty": "-1750-origin-of-language"
   },
   {
     "id": "bone-tools",
@@ -67,7 +67,7 @@
       "descriptive": "BoT",
       "verbose": "BoTo"
     },
-    "conflictProperty": "-1500000-4"
+    "conflictProperty": "-1500000-bone-tools-homo-erectus"
   },
   {
     "id": "boats",
@@ -81,7 +81,7 @@
       "descriptive": "Bo",
       "verbose": "Bo"
     },
-    "conflictProperty": "-900000-5"
+    "conflictProperty": "-900000-boats"
   },
   {
     "id": "hafting",
@@ -95,7 +95,7 @@
       "descriptive": "Ha",
       "verbose": "Ha"
     },
-    "conflictProperty": "-500000-6"
+    "conflictProperty": "-500000-hafting-homo-heidelbergensis"
   },
   {
     "id": "woodworking",
@@ -109,7 +109,7 @@
       "descriptive": "Wo",
       "verbose": "Wo"
     },
-    "conflictProperty": "-500000-7"
+    "conflictProperty": "-500000-woodworking-zambia-homo-heidelbergensis-oldest-known-surviving-buildings"
   },
   {
     "id": "food-storage",
@@ -123,7 +123,7 @@
       "descriptive": "FoS",
       "verbose": "FoSt"
     },
-    "conflictProperty": "-420000-8"
+    "conflictProperty": "-420000-food-storage-qesem-cave"
   },
   {
     "id": "pigments",
@@ -137,7 +137,7 @@
       "descriptive": "Pi",
       "verbose": "Pi"
     },
-    "conflictProperty": "-400000-9"
+    "conflictProperty": "-400000-pigments-homo-heidelbergensis"
   },
   {
     "id": "spears",
@@ -151,7 +151,7 @@
       "descriptive": "Sp",
       "verbose": "Sp"
     },
-    "conflictProperty": "-400000-10"
+    "conflictProperty": "-400000-spears-germany-homo-heidelbergensis"
   },
   {
     "id": "trade",
@@ -165,21 +165,21 @@
       "descriptive": "Tr",
       "verbose": "Tr"
     },
-    "conflictProperty": "-320000-11"
+    "conflictProperty": "-320000-trade-transportation"
   },
   {
     "id": "stone-tipped-projectiles",
     "year": -279000,
     "linked": {
-      "link": "/wiki/https://en.wikipedia.org",
+      "link": "/wiki/Ballistics#History_and_prehistory",
       "text": "Stone-Tipped Projectiles"
     },
     "abbreviation": {
-      "slim": "SP",
-      "descriptive": "StP",
-      "verbose": "StPr"
+      "slim": "STP",
+      "descriptive": "StTP",
+      "verbose": "StTiPr"
     },
-    "conflictProperty": "-279000-12"
+    "conflictProperty": "-279000-hafting"
   },
   {
     "id": "adhesive",
@@ -193,7 +193,7 @@
       "descriptive": "Ad",
       "verbose": "Ad"
     },
-    "conflictProperty": "-200000-13"
+    "conflictProperty": "-200000-adhesive"
   },
   {
     "id": "beds",
@@ -207,7 +207,7 @@
       "descriptive": "Be",
       "verbose": "Be"
     },
-    "conflictProperty": "-200000-14"
+    "conflictProperty": "-200000-beds"
   },
   {
     "id": "clothing",
@@ -221,13 +221,13 @@
       "descriptive": "Cl",
       "verbose": "Cl"
     },
-    "conflictProperty": "-170000-15"
+    "conflictProperty": "-170000-clothing-bone-scrapers"
   },
   {
     "id": "heat-treating-of-stone-blades",
     "year": -164000,
     "linked": {
-      "link": "/wiki/https://en.wikipedia.org",
+      "link": "/wiki/Differential_heat_treatment",
       "text": "Heat Treating of Stone Blades"
     },
     "abbreviation": {
@@ -235,7 +235,7 @@
       "descriptive": "HeToSB",
       "verbose": "HeTroStBl"
     },
-    "conflictProperty": "-164000-16"
+    "conflictProperty": "-164000-164-kya-47-kya-heat-treating-of-stone-blades-in-south-africa[31]"
   },
   {
     "id": "beads",
@@ -249,7 +249,7 @@
       "descriptive": "Be",
       "verbose": "Be"
     },
-    "conflictProperty": "-135000-17"
+    "conflictProperty": "-135000-beads-algeria"
   },
   {
     "id": "paints",
@@ -263,7 +263,7 @@
       "descriptive": "Pa",
       "verbose": "Pa"
     },
-    "conflictProperty": "-100000-18"
+    "conflictProperty": "-100000-paints"
   },
   {
     "id": "burial",
@@ -277,7 +277,7 @@
       "descriptive": "Bu",
       "verbose": "Bu"
     },
-    "conflictProperty": "-100000-19"
+    "conflictProperty": "-100000-burial"
   },
   {
     "id": "harpoons",
@@ -291,7 +291,7 @@
       "descriptive": "Ha",
       "verbose": "Ha"
     },
-    "conflictProperty": "-90000-20"
+    "conflictProperty": "-90000-harpoons-democratic-republic-of-the-congo"
   },
   {
     "id": "sewing-needle",
@@ -305,7 +305,7 @@
       "descriptive": "SeN",
       "verbose": "SeNe"
     },
-    "conflictProperty": "70-21"
+    "conflictProperty": "70-sibudu-cave-compound-adhesives-arrows-sewing-needle"
   },
   {
     "id": "cave-painting",
@@ -319,7 +319,7 @@
       "descriptive": "CaP",
       "verbose": "CaPa"
     },
-    "conflictProperty": "-61000-22"
+    "conflictProperty": "-61000-cave-painting-spain-neanderthal"
   },
   {
     "id": "narrative-art",
@@ -333,7 +333,7 @@
       "descriptive": "NaA",
       "verbose": "NaAr"
     },
-    "conflictProperty": "-55800-23"
+    "conflictProperty": "-55800-representational-narrative-art-indonesia"
   },
   {
     "id": "ground-stone",
@@ -347,7 +347,7 @@
       "descriptive": "GrS",
       "verbose": "GrSt"
     },
-    "conflictProperty": "-49000-24"
+    "conflictProperty": "-49000-ground-stone"
   },
   {
     "id": "ochre",
@@ -361,7 +361,7 @@
       "descriptive": "Oc",
       "verbose": "Oc"
     },
-    "conflictProperty": "-47000-25"
+    "conflictProperty": "-47000-ochre"
   },
   {
     "id": "shoes",
@@ -375,7 +375,7 @@
       "descriptive": "Sh",
       "verbose": "Sh"
     },
-    "conflictProperty": "-45000-26"
+    "conflictProperty": "-45000-shoes-tianyuan-man-sandals-fort-rock-cave-united-states-areni-1-cave-vayots-dzor-armenia"
   },
   {
     "id": "tally-sticks",
@@ -389,7 +389,7 @@
       "descriptive": "TaS",
       "verbose": "TaSt"
     },
-    "conflictProperty": "-44000-27"
+    "conflictProperty": "-44000-tally-sticks-lebombo-bone-eswatini"
   },
   {
     "id": "flute",
@@ -403,7 +403,7 @@
       "descriptive": "Fl",
       "verbose": "Fl"
     },
-    "conflictProperty": "-42000-28"
+    "conflictProperty": "-42000-flute"
   },
   {
     "id": "mortar-and-pestle",
@@ -417,7 +417,7 @@
       "descriptive": "MoAP",
       "verbose": "MoAnPe"
     },
-    "conflictProperty": "-37000-29"
+    "conflictProperty": "-37000-mortar-and-pestle-southwest-asia"
   },
   {
     "id": "rope",
@@ -431,7 +431,7 @@
       "descriptive": "Ro",
       "verbose": "Ro"
     },
-    "conflictProperty": "-32000-30"
+    "conflictProperty": "-32000-rope-cords-baskets"
   },
   {
     "id": "amputation",
@@ -445,7 +445,7 @@
       "descriptive": "Am",
       "verbose": "Am"
     },
-    "conflictProperty": "-31000-31"
+    "conflictProperty": "-31000-amputation-surgery-medicine"
   },
   {
     "id": "ceramics",
@@ -459,7 +459,7 @@
       "descriptive": "Ce",
       "verbose": "Ce"
     },
-    "conflictProperty": "-28000-32"
+    "conflictProperty": "-28000-ceramics-weaving-moravia-georgia"
   },
   {
     "id": "oldest-known-ceramic-sculpture",
@@ -473,7 +473,7 @@
       "descriptive": "OlKCS",
       "verbose": "OlKnCeSc"
     },
-    "conflictProperty": "-24000-33"
+    "conflictProperty": "-24000-oldest-known-ceramic-sculpture"
   },
   {
     "id": "domestication-of-the-dog",
@@ -487,7 +487,7 @@
       "descriptive": "DootD",
       "verbose": "DootDo"
     },
-    "conflictProperty": "-23000-34"
+    "conflictProperty": "-23000-domestication-of-the-dog-siberia"
   },
   {
     "id": "bullroarer",
@@ -501,7 +501,7 @@
       "descriptive": "Bu",
       "verbose": "Bu"
     },
-    "conflictProperty": "22-35"
+    "conflictProperty": "22-bullroarer"
   },
   {
     "id": "fish-hook",
@@ -515,7 +515,7 @@
       "descriptive": "FiH",
       "verbose": "FiHo"
     },
-    "conflictProperty": "-22000-36"
+    "conflictProperty": "-22000-fish-hook-okinawa-island"
   },
   {
     "id": "star-chart",
@@ -529,7 +529,7 @@
       "descriptive": "StC",
       "verbose": "StCh"
     },
-    "conflictProperty": "-21000-37"
+    "conflictProperty": "-21000-star-chart-france-spain-kashmir"
   },
   {
     "id": "spear-thrower",
@@ -543,7 +543,7 @@
       "descriptive": "Sp",
       "verbose": "Sp"
     },
-    "conflictProperty": "-17500-38"
+    "conflictProperty": "-17500-spear-thrower"
   },
   {
     "id": "pottery",
@@ -557,7 +557,7 @@
       "descriptive": "Po",
       "verbose": "Po"
     },
-    "conflictProperty": "-16000-39"
+    "conflictProperty": "-16000-pottery-china"
   },
   {
     "id": "bread",
@@ -571,7 +571,7 @@
       "descriptive": "Br",
       "verbose": "Br"
     },
-    "conflictProperty": "-14500-40"
+    "conflictProperty": "-14500-bread"
   },
   {
     "id": "spindle-whorl",
@@ -585,7 +585,7 @@
       "descriptive": "SpW",
       "verbose": "SpWh"
     },
-    "conflictProperty": "-12000-41"
+    "conflictProperty": "-12000-spindle-whorl-wheel-nahal-ein-gev-ii"
   },
   {
     "id": "agriculture",
@@ -599,7 +599,7 @@
       "descriptive": "Ag",
       "verbose": "Ag"
     },
-    "conflictProperty": "-10-42"
+    "conflictProperty": "-10-agriculture-fertile-crescent"
   },
   {
     "id": "domestication-of-sheep",
@@ -613,7 +613,7 @@
       "descriptive": "DooS",
       "verbose": "DooSh"
     },
-    "conflictProperty": "-10-43"
+    "conflictProperty": "-10-domestication-of-sheep-southwest-asia"
   },
   {
     "id": "oldest-known-surviving-building",
@@ -627,7 +627,7 @@
       "descriptive": "OlKSB",
       "verbose": "OlKnSuBu"
     },
-    "conflictProperty": "-9500-44"
+    "conflictProperty": "-9500-oldest-known-surviving-building-gobekli-tepe-turkey"
   },
   {
     "id": "domestication-of-rice",
@@ -641,7 +641,7 @@
       "descriptive": "DooR",
       "verbose": "DooRi"
     },
-    "conflictProperty": "-9000-45"
+    "conflictProperty": "-9000-domestication-of-rice-china"
   },
   {
     "id": "mudbricks",
@@ -655,7 +655,7 @@
       "descriptive": "Mu",
       "verbose": "Mu"
     },
-    "conflictProperty": "-9000-46"
+    "conflictProperty": "-9000-mudbricks-mortar-jericho"
   },
   {
     "id": "well",
@@ -669,7 +669,7 @@
       "descriptive": "We",
       "verbose": "We"
     },
-    "conflictProperty": "-8400-47"
+    "conflictProperty": "-8400-well-cyprus"
   },
   {
     "id": "alcohol-fermentation",
@@ -683,7 +683,7 @@
       "descriptive": "AlF",
       "verbose": "AlFe"
     },
-    "conflictProperty": "-7000-49"
+    "conflictProperty": "-7000-alcohol-fermentation-mead"
   },
   {
     "id": "dog-sled",
@@ -697,7 +697,7 @@
       "descriptive": "DoS",
       "verbose": "DoSl"
     },
-    "conflictProperty": "-7000-50"
+    "conflictProperty": "-7000-sled-dog-dog-sled"
   },
   {
     "id": "tanned-leather",
@@ -711,7 +711,7 @@
       "descriptive": "TaL",
       "verbose": "TaLe"
     },
-    "conflictProperty": "-7000-51"
+    "conflictProperty": "-7000-tanned-leather-mehrgarh"
   },
   {
     "id": "lead-smelting",
@@ -725,7 +725,7 @@
       "descriptive": "LeS",
       "verbose": "LeSm"
     },
-    "conflictProperty": "-6500-52"
+    "conflictProperty": "-6500-lead-smelting-catalhoyuk-turkey"
   },
   {
     "id": "kiln",
@@ -739,7 +739,7 @@
       "descriptive": "Ki",
       "verbose": "Ki"
     },
-    "conflictProperty": "-6000-53"
+    "conflictProperty": "-6000-kiln-mesopotamia"
   },
   {
     "id": "irrigation",
@@ -753,7 +753,7 @@
       "descriptive": "Ir",
       "verbose": "Ir"
     },
-    "conflictProperty": "-6-54"
+    "conflictProperty": "-6-irrigation-khuzistan-iran"
   },
   {
     "id": "salt-production",
@@ -767,7 +767,7 @@
       "descriptive": "SaP",
       "verbose": "SaPr"
     },
-    "conflictProperty": "-5900-56"
+    "conflictProperty": "-5900-salt-production-moldova-romania"
   },
   {
     "id": "cheese",
@@ -781,7 +781,7 @@
       "descriptive": "Ch",
       "verbose": "Ch"
     },
-    "conflictProperty": "-5500-57"
+    "conflictProperty": "-5500-cheese-poland-dalmatian-coast-croatia"
   },
   {
     "id": "sailing",
@@ -795,7 +795,7 @@
       "descriptive": "Sa",
       "verbose": "Sa"
     },
-    "conflictProperty": "-5500-58"
+    "conflictProperty": "-5500-sailing-mesopotamia-ancient-egypt"
   },
   {
     "id": "copper-smelting",
@@ -809,7 +809,7 @@
       "descriptive": "CoS",
       "verbose": "CoSm"
     },
-    "conflictProperty": "-5000-59"
+    "conflictProperty": "-5000-copper-smelting-serbia"
   },
   {
     "id": "seawall",
@@ -823,7 +823,7 @@
       "descriptive": "Se",
       "verbose": "Se"
     },
-    "conflictProperty": "-5000-60"
+    "conflictProperty": "-5000-seawall-tel-hreiz"
   },
   {
     "id": "lacquer",
@@ -837,7 +837,7 @@
       "descriptive": "La",
       "verbose": "La"
     },
-    "conflictProperty": "-5-61"
+    "conflictProperty": "-5-lacquer"
   },
   {
     "id": "cotton",
@@ -851,7 +851,7 @@
       "descriptive": "Co",
       "verbose": "Co"
     },
-    "conflictProperty": "-5000-62"
+    "conflictProperty": "-5000-cotton-mehrgarh"
   },
   {
     "id": "rowing-oars",
@@ -865,7 +865,7 @@
       "descriptive": "RoO",
       "verbose": "RoOa"
     },
-    "conflictProperty": "-5000-63"
+    "conflictProperty": "-5000-rowing-oars"
   },
   {
     "id": "lost-wax-casting",
@@ -879,7 +879,7 @@
       "descriptive": "LoC",
       "verbose": "LoCa"
     },
-    "conflictProperty": "-4500-64"
+    "conflictProperty": "-4500-lost-wax-casting-israel-indus-valley"
   },
   {
     "id": "fired-bricks",
@@ -893,13 +893,13 @@
       "descriptive": "FiB",
       "verbose": "FiBr"
     },
-    "conflictProperty": "-4400-65"
+    "conflictProperty": "-4400-fired-bricks"
   },
   {
     "id": "diamond-mining",
     "year": -4000,
     "linked": {
-      "link": "/wiki/https://en.wikipedia.org",
+      "link": "/wiki/Diamond#Mining",
       "text": "Diamond Mining"
     },
     "abbreviation": {
@@ -907,7 +907,7 @@
       "descriptive": "DiM",
       "verbose": "DiMi"
     },
-    "conflictProperty": "-4000-66"
+    "conflictProperty": "-4000-4000-bc-probable-time-period-of-the-first-diamond-mines-in-the-world,-in-southern-india[125]"
   },
   {
     "id": "roads",
@@ -921,7 +921,7 @@
       "descriptive": "Ro",
       "verbose": "Ro"
     },
-    "conflictProperty": "-4000-67"
+    "conflictProperty": "-4000-roads-ur"
   },
   {
     "id": "plumbing",
@@ -935,7 +935,7 @@
       "descriptive": "Pl",
       "verbose": "Pl"
     },
-    "conflictProperty": "-4000-68"
+    "conflictProperty": "-4000-plumbing"
   },
   {
     "id": "locks",
@@ -949,7 +949,7 @@
       "descriptive": "Lo",
       "verbose": "Lo"
     },
-    "conflictProperty": "-4000-69"
+    "conflictProperty": "-4000-locks-nineveh-assyria"
   },
   {
     "id": "wheels",
@@ -963,7 +963,7 @@
       "descriptive": "Wh",
       "verbose": "Wh"
     },
-    "conflictProperty": "-4000-70"
+    "conflictProperty": "-4000-wheels-ukraine-poland-germany"
   },
   {
     "id": "silk-garments",
@@ -977,7 +977,7 @@
       "descriptive": "SiG",
       "verbose": "SiGa"
     },
-    "conflictProperty": "-3630-71"
+    "conflictProperty": "-3630-sericulture"
   },
   {
     "id": "domestication-of-the-horse",
@@ -991,7 +991,7 @@
       "descriptive": "DootH",
       "verbose": "DootHo"
     },
-    "conflictProperty": "-3500-72"
+    "conflictProperty": "-3500-domestication-of-the-horse"
   },
   {
     "id": "general-anaesthesia",
@@ -1005,7 +1005,7 @@
       "descriptive": "GeA",
       "verbose": "GeAn"
     },
-    "conflictProperty": "-3500-73"
+    "conflictProperty": "-3500-general-anaesthesia"
   },
   {
     "id": "ploughing",
@@ -1019,7 +1019,7 @@
       "descriptive": "Pl",
       "verbose": "Pl"
     },
-    "conflictProperty": "-3500-75"
+    "conflictProperty": "-3500-ploughing-bubenec-kalibangan"
   },
   {
     "id": "tattoos",
@@ -1033,7 +1033,7 @@
       "descriptive": "Ta",
       "verbose": "Ta"
     },
-    "conflictProperty": "-3400-76"
+    "conflictProperty": "-3400-tattoos"
   },
   {
     "id": "writing",
@@ -1047,7 +1047,7 @@
       "descriptive": "Wr",
       "verbose": "Wr"
     },
-    "conflictProperty": "-4-77"
+    "conflictProperty": "-4-writing-sumer-egypt"
   },
   {
     "id": "swords",
@@ -1061,7 +1061,7 @@
       "descriptive": "Sw",
       "verbose": "Sw"
     },
-    "conflictProperty": "-3300-78"
+    "conflictProperty": "-3300-swords-arslantepe-arsenical-bronze-silver"
   },
   {
     "id": "city",
@@ -1075,7 +1075,7 @@
       "descriptive": "Ci",
       "verbose": "Ci"
     },
-    "conflictProperty": "-3300-79"
+    "conflictProperty": "-3300-city-uruk-sumer-mesopotamia"
   },
   {
     "id": "hats",
@@ -1089,7 +1089,7 @@
       "descriptive": "Ha",
       "verbose": "Ha"
     },
-    "conflictProperty": "-3250-80"
+    "conflictProperty": "-3250-hats-otzi"
   },
   {
     "id": "latrines",
@@ -1103,7 +1103,7 @@
       "descriptive": "La",
       "verbose": "La"
     },
-    "conflictProperty": "-3200-81"
+    "conflictProperty": "-3200-latrines-uruk-toilets"
   },
   {
     "id": "ljubljana-marshes-wheel",
@@ -1117,7 +1117,7 @@
       "descriptive": "LjMW",
       "verbose": "LjMaWh"
     },
-    "conflictProperty": "-3200-82"
+    "conflictProperty": "-3200-ljubljana-marshes-wheel-slovenia"
   },
   {
     "id": "dice",
@@ -1131,7 +1131,7 @@
       "descriptive": "Di",
       "verbose": "Di"
     },
-    "conflictProperty": "-3000-83"
+    "conflictProperty": "-3000-dice-senet-backgammon-burnt-city-iran-mohenjo-daro"
   },
   {
     "id": "tin",
@@ -1145,7 +1145,7 @@
       "descriptive": "Ti",
       "verbose": "Ti"
     },
-    "conflictProperty": "-3000-84"
+    "conflictProperty": "-3000-tin-central-asia"
   },
   {
     "id": "papyrus",
@@ -1159,7 +1159,7 @@
       "descriptive": "Pa",
       "verbose": "Pa"
     },
-    "conflictProperty": "-3000-85"
+    "conflictProperty": "-3000-papyrus"
   },
   {
     "id": "reservoir",
@@ -1173,7 +1173,7 @@
       "descriptive": "Re",
       "verbose": "Re"
     },
-    "conflictProperty": "-3000-86"
+    "conflictProperty": "-3000-reservoir-girnar-india"
   },
   {
     "id": "receipt",
@@ -1187,7 +1187,7 @@
       "descriptive": "Re",
       "verbose": "Re"
     },
-    "conflictProperty": "-3000-87"
+    "conflictProperty": "-3000-receipt-mesopotamia-iraq"
   },
   {
     "id": "prosthesis",
@@ -1201,7 +1201,7 @@
       "descriptive": "Pr",
       "verbose": "Pr"
     },
-    "conflictProperty": "-3000-88"
+    "conflictProperty": "-3000-prosthesis-ancient-near-east"
   },
   {
     "id": "rhinoplasty",
@@ -1215,7 +1215,7 @@
       "descriptive": "Rh",
       "verbose": "Rh"
     },
-    "conflictProperty": "-3000-89"
+    "conflictProperty": "-3000-rhinoplasty"
   },
   {
     "id": "ruler",
@@ -1229,7 +1229,7 @@
       "descriptive": "Ru",
       "verbose": "Ru"
     },
-    "conflictProperty": "-2650-90"
+    "conflictProperty": "-2650-ruler-measuring-rod-nippur-sumerian-civilisation"
   },
   {
     "id": "planned-city",
@@ -1243,7 +1243,7 @@
       "descriptive": "PlC",
       "verbose": "PlCi"
     },
-    "conflictProperty": "-2600-91"
+    "conflictProperty": "-2600-planned-city"
   },
   {
     "id": "public-sewage-and-sanitation-systems",
@@ -1257,7 +1257,7 @@
       "descriptive": "PuSASS",
       "verbose": "PuSeAnSaSy"
     },
-    "conflictProperty": "-2600-92"
+    "conflictProperty": "-2600-public-sewage-and-sanitation-systems-in-indus-valley-mohenjo-daro-rakhigarhi"
   },
   {
     "id": "public-bath",
@@ -1271,7 +1271,7 @@
       "descriptive": "PuB",
       "verbose": "PuBa"
     },
-    "conflictProperty": "-2600-93"
+    "conflictProperty": "-2600-public-bath-mohenjo-daro-pakistan"
   },
   {
     "id": "levee",
@@ -1285,7 +1285,7 @@
       "descriptive": "Le",
       "verbose": "Le"
     },
-    "conflictProperty": "-2600-94"
+    "conflictProperty": "-2600-levee"
   },
   {
     "id": "balance-weights-and-scales",
@@ -1299,7 +1299,7 @@
       "descriptive": "BaWAS",
       "verbose": "BaWeAnSc"
     },
-    "conflictProperty": "-2600-95"
+    "conflictProperty": "-2600-balance-weights-and-scales-fourth-dynasty-of-egypt-deben-unit-sneferu"
   },
   {
     "id": "docks",
@@ -1313,7 +1313,7 @@
       "descriptive": "Do",
       "verbose": "Do"
     },
-    "conflictProperty": "-2556-96"
+    "conflictProperty": "-2556-docks-wadi-al-jarf-khufu"
   },
   {
     "id": "puppetry",
@@ -1327,7 +1327,7 @@
       "descriptive": "Pu",
       "verbose": "Pu"
     },
-    "conflictProperty": "-2500-97"
+    "conflictProperty": "-2500-puppetry"
   },
   {
     "id": "fork",
@@ -1341,7 +1341,7 @@
       "descriptive": "Fo",
       "verbose": "Fo"
     },
-    "conflictProperty": "-2400-98"
+    "conflictProperty": "-2400-fork-bronze-age-qijia-culture-china"
   },
   {
     "id": "copper-pipes",
@@ -1355,7 +1355,7 @@
       "descriptive": "CoP",
       "verbose": "CoPi"
     },
-    "conflictProperty": "-2400-99"
+    "conflictProperty": "-2400-copper-pipes-pyramid-of-sahure-abusir"
   },
   {
     "id": "touchstone",
@@ -1369,7 +1369,7 @@
       "descriptive": "To",
       "verbose": "To"
     },
-    "conflictProperty": "-2400-100"
+    "conflictProperty": "-2400-touchstone-banawali"
   },
   {
     "id": "dictionary",
@@ -1383,7 +1383,7 @@
       "descriptive": "Di",
       "verbose": "Di"
     },
-    "conflictProperty": "-2300-101"
+    "conflictProperty": "-2300-dictionary-mesopotamia"
   },
   {
     "id": "iron-smelting",
@@ -1397,7 +1397,7 @@
       "descriptive": "IrS",
       "verbose": "IrSm"
     },
-    "conflictProperty": "-2200-102"
+    "conflictProperty": "-2200-iron-smelting-kaman-kalehoyuk"
   },
   {
     "id": "protractor",
@@ -1411,7 +1411,7 @@
       "descriptive": "Pr",
       "verbose": "Pr"
     },
-    "conflictProperty": "-2200-103"
+    "conflictProperty": "-2200-protractor-lothal-xancus"
   },
   {
     "id": "water-clock",
@@ -1425,7 +1425,7 @@
       "descriptive": "WaC",
       "verbose": "WaCl"
     },
-    "conflictProperty": "-2000-104"
+    "conflictProperty": "-2000-water-clock"
   },
   {
     "id": "chariot",
@@ -1439,7 +1439,7 @@
       "descriptive": "Ch",
       "verbose": "Ch"
     },
-    "conflictProperty": "-2000-105"
+    "conflictProperty": "-2000-chariot-russia-kazakhstan"
   },
   {
     "id": "fountain",
@@ -1453,7 +1453,7 @@
       "descriptive": "Fo",
       "verbose": "Fo"
     },
-    "conflictProperty": "-2000-106"
+    "conflictProperty": "-2000-fountain-lagash-sumer"
   },
   {
     "id": "scissors",
@@ -1467,7 +1467,7 @@
       "descriptive": "Sc",
       "verbose": "Sc"
     },
-    "conflictProperty": "-2000-107"
+    "conflictProperty": "-2000-scissors-mesopotamia"
   },
   {
     "id": "proto-city",
@@ -1481,7 +1481,7 @@
       "descriptive": "PrC",
       "verbose": "PrCi"
     },
-    "conflictProperty": "-8000-48"
+    "conflictProperty": "-8000-proto-city-tell-es-sultan-jericho-catalhoyuk"
   },
   {
     "id": "proto-alphabet",
@@ -1495,7 +1495,7 @@
       "descriptive": "PrA",
       "verbose": "PrAl"
     },
-    "conflictProperty": "-1850-108"
+    "conflictProperty": "-1850-proto-sinaitic-script"
   },
   {
     "id": "proto-writing",
@@ -1509,7 +1509,7 @@
       "descriptive": "PrW",
       "verbose": "PrWr"
     },
-    "conflictProperty": "-6000-55"
+    "conflictProperty": "-6000-proto-writing"
   },
   {
     "id": "surgical-treatise",
@@ -1523,7 +1523,7 @@
       "descriptive": "SuT",
       "verbose": "SuTr"
     },
-    "conflictProperty": "-1600-109"
+    "conflictProperty": "-1600-surgical-treatise"
   },
   {
     "id": "sundial",
@@ -1537,7 +1537,7 @@
       "descriptive": "Su",
       "verbose": "Su"
     },
-    "conflictProperty": "-1500-110"
+    "conflictProperty": "-1500-sundial-ancient-egypt-babylonia"
   },
   {
     "id": "glass",
@@ -1551,7 +1551,7 @@
       "descriptive": "Gl",
       "verbose": "Gl"
     },
-    "conflictProperty": "-1500-111"
+    "conflictProperty": "-1500-glass-mesopotamia-ancient-egypt"
   },
   {
     "id": "seed-drill",
@@ -1565,7 +1565,7 @@
       "descriptive": "SeD",
       "verbose": "SeDr"
     },
-    "conflictProperty": "-1500-112"
+    "conflictProperty": "-1500-seed-drill-babylonia"
   },
   {
     "id": "prosthetic",
@@ -1579,7 +1579,7 @@
       "descriptive": "Pr",
       "verbose": "Pr"
     },
-    "conflictProperty": "-1500-113"
+    "conflictProperty": "-1500-prosthetic-india"
   },
   {
     "id": "rubber",
@@ -1593,7 +1593,7 @@
       "descriptive": "Ru",
       "verbose": "Ru"
     },
-    "conflictProperty": "-1400-114"
+    "conflictProperty": "-1400-rubber-mesoamerican-ballgame"
   },
   {
     "id": "concrete",
@@ -1607,7 +1607,7 @@
       "descriptive": "Co",
       "verbose": "Co"
     },
-    "conflictProperty": "-1400-115"
+    "conflictProperty": "-1400-concrete-tiryns"
   },
   {
     "id": "lathe",
@@ -1621,7 +1621,7 @@
       "descriptive": "La",
       "verbose": "La"
     },
-    "conflictProperty": "-1300-116"
+    "conflictProperty": "-1300-lathe"
   },
   {
     "id": "distillation",
@@ -1635,7 +1635,7 @@
       "descriptive": "Di",
       "verbose": "Di"
     },
-    "conflictProperty": "-1200-117"
+    "conflictProperty": "-1200-distillation-akkadian"
   },
   {
     "id": "star-catalogue",
@@ -1649,7 +1649,7 @@
       "descriptive": "StC",
       "verbose": "StCa"
     },
-    "conflictProperty": "1100-118"
+    "conflictProperty": "1100-star-catalogue-three-stars-each-babylonian-astronomy"
   },
   {
     "id": "saddle",
@@ -1663,7 +1663,7 @@
       "descriptive": "Sa",
       "verbose": "Sa"
     },
-    "conflictProperty": "-700-119"
+    "conflictProperty": "-700-saddle-assyrian-cavalry"
   },
   {
     "id": "library-catalog",
@@ -1677,13 +1677,13 @@
       "descriptive": "LiC",
       "verbose": "LiCa"
     },
-    "conflictProperty": "-8000-120"
+    "conflictProperty": "-8000-library-of-ashurbanipal-nineveh-library-catalog"
   },
   {
     "id": "waterproof-concrete",
     "year": -688,
     "linked": {
-      "link": "/wiki/https://en.wikipedia.org",
+      "link": "/wiki/Concrete#History",
       "text": "Waterproof concrete"
     },
     "abbreviation": {
@@ -1691,7 +1691,7 @@
       "descriptive": "WaC",
       "verbose": "WaCo"
     },
-    "conflictProperty": "-688-121"
+    "conflictProperty": "-688-688-bc-waterproof-concrete-in-use,-by-the-assyrians[213]-later,-the-romans-developed-concretes-that-could-set-underwater,[214]-and-used-concrete-extensively-for-construction-from-300-bc-to-476-ad[215]"
   },
   {
     "id": "crossbow",
@@ -1705,7 +1705,7 @@
       "descriptive": "Cr",
       "verbose": "Cr"
     },
-    "conflictProperty": "-650-122"
+    "conflictProperty": "-650-crossbow-china"
   },
   {
     "id": "windmills",
@@ -1719,7 +1719,7 @@
       "descriptive": "Wi",
       "verbose": "Wi"
     },
-    "conflictProperty": "-650-123"
+    "conflictProperty": "-650-windmills-persia"
   },
   {
     "id": "coins",
@@ -1733,7 +1733,7 @@
       "descriptive": "Co",
       "verbose": "Co"
     },
-    "conflictProperty": "-600-124"
+    "conflictProperty": "-600-coins-phoenicia-lydia"
   },
   {
     "id": "wagonway",
@@ -1747,7 +1747,7 @@
       "descriptive": "Wa",
       "verbose": "Wa"
     },
-    "conflictProperty": "-7000-125"
+    "conflictProperty": "-7000-wagonway-diolkos-isthmus-of-corinth-ancient-greece"
   },
   {
     "id": "high-carbon-steel",
@@ -1761,7 +1761,7 @@
       "descriptive": "HiCS",
       "verbose": "HiCaSt"
     },
-    "conflictProperty": "5000-126"
+    "conflictProperty": "5000-high-carbon-steel-closed-crucible-method-wootz-steel-south-india"
   },
   {
     "id": "university",
@@ -1775,7 +1775,7 @@
       "descriptive": "Un",
       "verbose": "Un"
     },
-    "conflictProperty": "-7000-127"
+    "conflictProperty": "-7000-university-taxila-gandhara-achaemenid-empire"
   },
   {
     "id": "cataract-surgery",
@@ -1789,7 +1789,7 @@
       "descriptive": "CaS",
       "verbose": "CaSu"
     },
-    "conflictProperty": "-7000-128"
+    "conflictProperty": "-7000-sushruta-samhita-cataract-surgery-couching-caesarean-section-prosthetic-limbs-plastic-surgery-nasal-surgery-egyptian-papyri"
   },
   {
     "id": "crank",
@@ -1803,7 +1803,7 @@
       "descriptive": "Cr",
       "verbose": "Cr"
     },
-    "conflictProperty": "-6000-129"
+    "conflictProperty": "-6000-crank-rotary-quern-carthage-celtiberian-spain"
   },
   {
     "id": "loan-deeds",
@@ -1817,7 +1817,7 @@
       "descriptive": "LoD",
       "verbose": "LoDe"
     },
-    "conflictProperty": "-6000-130"
+    "conflictProperty": "-6000-loan-deeds"
   },
   {
     "id": "lighthouse",
@@ -1831,7 +1831,7 @@
       "descriptive": "Li",
       "verbose": "Li"
     },
-    "conflictProperty": "-500-131"
+    "conflictProperty": "-500-lighthouse"
   },
   {
     "id": "toe-stirrup",
@@ -1845,7 +1845,7 @@
       "descriptive": "ToS",
       "verbose": "ToSt"
     },
-    "conflictProperty": "-500-132"
+    "conflictProperty": "-500-toe-stirrup-satavahana-empire"
   },
   {
     "id": "catapult",
@@ -1859,13 +1859,13 @@
       "descriptive": "Ca",
       "verbose": "Ca"
     },
-    "conflictProperty": "-485-133"
+    "conflictProperty": "-485-catapult-ajatashatru-magadha-india"
   },
   {
     "id": "scythed-chariot",
     "year": -485,
     "linked": {
-      "link": "/wiki/https://en.wikipedia.org",
+      "link": "/wiki/Scythed_chariot",
       "text": "Scythed Chariot"
     },
     "abbreviation": {
@@ -1873,7 +1873,7 @@
       "descriptive": "ScC",
       "verbose": "ScCh"
     },
-    "conflictProperty": "-485-134"
+    "conflictProperty": "-485-ajatashatru-magadha-india"
   },
   {
     "id": "cast-iron",
@@ -1887,7 +1887,7 @@
       "descriptive": "CaI",
       "verbose": "CaIr"
     },
-    "conflictProperty": "-6000-135"
+    "conflictProperty": "-6000-cast-iron-ancient-china-zhou-dynasty-jiangsu"
   },
   {
     "id": "spiral-stairs",
@@ -1901,7 +1901,7 @@
       "descriptive": "SpS",
       "verbose": "SpSt"
     },
-    "conflictProperty": "-480-136"
+    "conflictProperty": "-480-spiral-stairs-selinunte-sicily-list-of-ancient-spiral-stairs"
   },
   {
     "id": "wheelbarrow",
@@ -1915,7 +1915,7 @@
       "descriptive": "Wh",
       "verbose": "Wh"
     },
-    "conflictProperty": "-407-137"
+    "conflictProperty": "-407-wheelbarrow-china"
   },
   {
     "id": "camera-obscura",
@@ -1929,7 +1929,7 @@
       "descriptive": "CaO",
       "verbose": "CaOb"
     },
-    "conflictProperty": "-400-138"
+    "conflictProperty": "-400-camera-obscura-mozi"
   },
   {
     "id": "traction-trebuchet",
@@ -1943,7 +1943,7 @@
       "descriptive": "TrT",
       "verbose": "TrTr"
     },
-    "conflictProperty": "-5000-139"
+    "conflictProperty": "-5000-traction-trebuchet-ancient-china"
   },
   {
     "id": "gears",
@@ -1957,7 +1957,7 @@
       "descriptive": "Ge",
       "verbose": "Ge"
     },
-    "conflictProperty": "-5000-140"
+    "conflictProperty": "-5000-gears-ancient-china"
   },
   {
     "id": "reed-pens",
@@ -1971,7 +1971,7 @@
       "descriptive": "ReP",
       "verbose": "RePe"
     },
-    "conflictProperty": "-5000-141"
+    "conflictProperty": "-5000-reed-pens-papyrus"
   },
   {
     "id": "horseshoe",
@@ -1985,7 +1985,7 @@
       "descriptive": "Ho",
       "verbose": "Ho"
     },
-    "conflictProperty": "-5000-142"
+    "conflictProperty": "-5000-horseshoe-etruscan-tomb"
   },
   {
     "id": "animal-driven-rotary-mill",
@@ -1999,7 +1999,7 @@
       "descriptive": "AnDRM",
       "verbose": "AnDrRoMi"
     },
-    "conflictProperty": "-375-143"
+    "conflictProperty": "-375-animal-driven-rotary-mill"
   },
   {
     "id": "corporations",
@@ -2013,7 +2013,7 @@
       "descriptive": "Co",
       "verbose": "Co"
     },
-    "conflictProperty": "-4000-144"
+    "conflictProperty": "-4000-corporations-maurya-empire-collegium"
   },
   {
     "id": "cheque",
@@ -2027,7 +2027,7 @@
       "descriptive": "Ch",
       "verbose": "Ch"
     },
-    "conflictProperty": "-4000-145"
+    "conflictProperty": "-4000-cheque-maurya-empire"
   },
   {
     "id": "potassium-nitrate",
@@ -2041,7 +2041,7 @@
       "descriptive": "PoN",
       "verbose": "PoNi"
     },
-    "conflictProperty": "-4000-146"
+    "conflictProperty": "-4000-potassium-nitrate-seleucid-empire-verification-needed"
   },
   {
     "id": "formal-systems",
@@ -2055,7 +2055,7 @@
       "descriptive": "FoS",
       "verbose": "FoSy"
     },
-    "conflictProperty": "-4000-147"
+    "conflictProperty": "-4000-formal-systems-paṇini-chandragupta-maurya"
   },
   {
     "id": "zinc-production",
@@ -2069,7 +2069,7 @@
       "descriptive": "ZiP",
       "verbose": "ZiPr"
     },
-    "conflictProperty": "-5000-148"
+    "conflictProperty": "-5000-zinc-production-india-maurya-empire-udaipur-rajasthan"
   },
   {
     "id": "analog-computers",
@@ -2083,7 +2083,7 @@
       "descriptive": "AnC",
       "verbose": "AnCo"
     },
-    "conflictProperty": "-4000-149"
+    "conflictProperty": "-4000-analog-computers-antikythera-mechanism-rhodes"
   },
   {
     "id": "hydraulic-machines",
@@ -2097,7 +2097,7 @@
       "descriptive": "HyM",
       "verbose": "HyMa"
     },
-    "conflictProperty": "-4000-150"
+    "conflictProperty": "-4000-archimedes-screw-hydraulic-ancient-egypt"
   },
   {
     "id": "canal-lock",
@@ -2111,7 +2111,7 @@
       "descriptive": "CaL",
       "verbose": "CaLo"
     },
-    "conflictProperty": "-4000-151"
+    "conflictProperty": "-4000-canal-lock-canal-of-the-pharaohs-ptolemy-ii-hellenistic-egypt"
   },
   {
     "id": "cam",
@@ -2125,7 +2125,7 @@
       "descriptive": "Ca",
       "verbose": "Ca"
     },
-    "conflictProperty": "-4000-152"
+    "conflictProperty": "-4000-cam-hellenistic-period-automata"
   },
   {
     "id": "water-wheel",
@@ -2139,7 +2139,7 @@
       "descriptive": "WaW",
       "verbose": "WaWh"
     },
-    "conflictProperty": "-4000-153"
+    "conflictProperty": "-4000-water-wheel-liquid-driven-escapement-philo-of-byzantium"
   },
   {
     "id": "gimbal",
@@ -2153,7 +2153,7 @@
       "descriptive": "Gi",
       "verbose": "Gi"
     },
-    "conflictProperty": "-4000-154"
+    "conflictProperty": "-4000-gimbal"
   },
   {
     "id": "dry-dock",
@@ -2167,7 +2167,7 @@
       "descriptive": "DrD",
       "verbose": "DrDo"
     },
-    "conflictProperty": "-3000-155"
+    "conflictProperty": "-3000-dry-dock-ptolemy-iv-hellenistic-egypt"
   },
   {
     "id": "blast-furnace",
@@ -2181,7 +2181,7 @@
       "descriptive": "BlF",
       "verbose": "BlFu"
     },
-    "conflictProperty": "-4000-156"
+    "conflictProperty": "-4000-blast-furnace-ancient-china-han-dynasty"
   },
   {
     "id": "paper",
@@ -2195,7 +2195,7 @@
       "descriptive": "Pa",
       "verbose": "Pa"
     },
-    "conflictProperty": "-3000-157"
+    "conflictProperty": "-3000-paper-han-dynasty-china"
   },
   {
     "id": "compass",
@@ -2209,7 +2209,7 @@
       "descriptive": "Co",
       "verbose": "Co"
     },
-    "conflictProperty": "-206-158"
+    "conflictProperty": "-206-compass-han-dynasty-china"
   },
   {
     "id": "astrolabe",
@@ -2223,7 +2223,7 @@
       "descriptive": "As",
       "verbose": "As"
     },
-    "conflictProperty": "-3000-159"
+    "conflictProperty": "-3000-astrolabe-apollonius-of-perga"
   },
   {
     "id": "arch-bridge",
@@ -2237,13 +2237,13 @@
       "descriptive": "ArB",
       "verbose": "ArBr"
     },
-    "conflictProperty": "-2000-160"
+    "conflictProperty": "-2000-arch-bridge-pont-saint-martin-ponte-san-lorenzo-italy-roman-republic"
   },
   {
     "id": "newspaper",
-    "year": -2000,
+    "year": 1605,
     "linked": {
-      "text": "newspaper",
+      "text": "Newspaper",
       "link": "/wiki/Newspaper"
     },
     "abbreviation": {
@@ -2251,7 +2251,7 @@
       "descriptive": "Ne",
       "verbose": "Ne"
     },
-    "conflictProperty": "-2000-161"
+    "conflictProperty": "1605-newspaper-relation-johann-carolus-strassburg-list-of-the-oldest-newspapers"
   },
   {
     "id": "arch-dam",
@@ -2265,7 +2265,7 @@
       "descriptive": "ArD",
       "verbose": "ArDa"
     },
-    "conflictProperty": "-2000-162"
+    "conflictProperty": "-2000-arch-dam-glanum-dam-gallia-narbonensis-roman-republic-list-of-roman-dams"
   },
   {
     "id": "trip-hammer",
@@ -2279,7 +2279,7 @@
       "descriptive": "TrH",
       "verbose": "TrHa"
     },
-    "conflictProperty": "-40-163"
+    "conflictProperty": "-40-trip-hammer-china"
   },
   {
     "id": "zero",
@@ -2293,7 +2293,7 @@
       "descriptive": "Ze",
       "verbose": "Ze"
     },
-    "conflictProperty": "-38-164"
+    "conflictProperty": "-38-zero-maya-numerals-chiapas-claudius-ptolemy-almagest"
   },
   {
     "id": "glass-blowing",
@@ -2307,7 +2307,7 @@
       "descriptive": "GlB",
       "verbose": "GlBl"
     },
-    "conflictProperty": "-37-165"
+    "conflictProperty": "-37-glass-blowing"
   },
   {
     "id": "reverse-overshot-water-wheel",
@@ -2321,7 +2321,7 @@
       "descriptive": "ReOWW",
       "verbose": "ReOvWaWh"
     },
-    "conflictProperty": "-25-166"
+    "conflictProperty": "-25-reverse-overshot-water-wheel-roman-engineers-rio-tinto"
   },
   {
     "id": "noodle",
@@ -2335,7 +2335,7 @@
       "descriptive": "No",
       "verbose": "No"
     },
-    "conflictProperty": "-25-167"
+    "conflictProperty": "-25-noodle-lajia-china"
   },
   {
     "id": "steam-turbine",
@@ -2349,7 +2349,7 @@
       "descriptive": "StT",
       "verbose": "StTu"
     },
-    "conflictProperty": "0-168"
+    "conflictProperty": "0-aeolipile-steam-turbine"
   },
   {
     "id": "respiratory-protective-equipment",
@@ -2363,7 +2363,7 @@
       "descriptive": "RePE",
       "verbose": "RePrEq"
     },
-    "conflictProperty": "0-169"
+    "conflictProperty": "0-respiratory-protective-equipment-pliny-the-elder"
   },
   {
     "id": "wine",
@@ -2377,7 +2377,7 @@
       "descriptive": "Wi",
       "verbose": "Wi"
     },
-    "conflictProperty": "0-170"
+    "conflictProperty": "0-wine"
   },
   {
     "id": "vending-machines",
@@ -2391,7 +2391,7 @@
       "descriptive": "VeM",
       "verbose": "VeMa"
     },
-    "conflictProperty": "0-171"
+    "conflictProperty": "0-vending-machines-hero-of-alexandria"
   },
   {
     "id": "double-entry-bookkeeping-system",
@@ -2405,7 +2405,7 @@
       "descriptive": "DoEBS",
       "verbose": "DoEnBoSy"
     },
-    "conflictProperty": "0-172"
+    "conflictProperty": "0-double-entry-bookkeeping-system"
   },
   {
     "id": "seismometer",
@@ -2419,7 +2419,7 @@
       "descriptive": "Se",
       "verbose": "Se"
     },
-    "conflictProperty": "132-173"
+    "conflictProperty": "132-seismometer-pendulum-han-dynasty-china-zhang-heng-inverted-pendulum-earthquakes"
   },
   {
     "id": "carding",
@@ -2433,13 +2433,13 @@
       "descriptive": "Ca",
       "verbose": "Ca"
     },
-    "conflictProperty": "2-174"
+    "conflictProperty": "2-carding"
   },
   {
     "id": "crystallized-sugar",
     "year": 3,
     "linked": {
-      "link": "/wiki/https://en.wikipedia.org",
+      "link": "/wiki/Rock_candy",
       "text": "Crystallized Sugar"
     },
     "abbreviation": {
@@ -2447,7 +2447,7 @@
       "descriptive": "CrS",
       "verbose": "CrSu"
     },
-    "conflictProperty": "3-175"
+    "conflictProperty": "3-by-at-least-the-3rd-century-crystallized-sugar-in-india[299]"
   },
   {
     "id": "woodblock-printing",
@@ -2461,7 +2461,7 @@
       "descriptive": "WoP",
       "verbose": "WoPr"
     },
-    "conflictProperty": "3-176"
+    "conflictProperty": "3-woodblock-printing-han-dynasty-china-print-culture"
   },
   {
     "id": "water-turbine",
@@ -2475,7 +2475,7 @@
       "descriptive": "WaT",
       "verbose": "WaTu"
     },
-    "conflictProperty": "3-177"
+    "conflictProperty": "3-water-turbine-roman-empire-tunisia"
   },
   {
     "id": "chaturanga",
@@ -2489,7 +2489,7 @@
       "descriptive": "Ch",
       "verbose": "Ch"
     },
-    "conflictProperty": "280-178"
+    "conflictProperty": "280-chaturanga-chess-gupta-empire"
   },
   {
     "id": "dichroic-glass",
@@ -2503,7 +2503,7 @@
       "descriptive": "DiG",
       "verbose": "DiGl"
     },
-    "conflictProperty": "4-179"
+    "conflictProperty": "4-dichroic-glass"
   },
   {
     "id": "mariners-compass",
@@ -2517,7 +2517,7 @@
       "descriptive": "MaSC",
       "verbose": "MaSCo"
     },
-    "conflictProperty": "4-180"
+    "conflictProperty": "4-simple-suspension-bridge-hindu-kush-afghanistan-pakistan"
   },
   {
     "id": "simple-suspension-bridge",
@@ -2531,7 +2531,7 @@
       "descriptive": "SiSB",
       "verbose": "SiSuBr"
     },
-    "conflictProperty": "4-181"
+    "conflictProperty": "4-fishing-reel-ancient-china"
   },
   {
     "id": "fishing-reel",
@@ -2559,7 +2559,7 @@
       "descriptive": "OiW",
       "verbose": "OiWe"
     },
-    "conflictProperty": "347-183"
+    "conflictProperty": "347-oil-wells-borehole-china"
   },
   {
     "id": "iron-pillar-of-delhi",
@@ -2573,7 +2573,7 @@
       "descriptive": "IrPoD",
       "verbose": "IrPioDe"
     },
-    "conflictProperty": "400-184"
+    "conflictProperty": "400-iron-pillar-of-delhi-mathura-gupta-empire"
   },
   {
     "id": "horse-collar",
@@ -2587,7 +2587,7 @@
       "descriptive": "HoC",
       "verbose": "HoCo"
     },
-    "conflictProperty": "5-185"
+    "conflictProperty": "5-horse-collar-northern-and-southern-dynasties-china-dunhuang-mural-northern-wei-painting"
   },
   {
     "id": "pointed-arch-bridge",
@@ -2601,7 +2601,7 @@
       "descriptive": "PoAB",
       "verbose": "PoArBr"
     },
-    "conflictProperty": "5-186"
+    "conflictProperty": "5-pointed-arch-bridge-karamagara-bridge-cappadocia-eastern-roman-empire"
   },
   {
     "id": "incense-clock",
@@ -2615,7 +2615,7 @@
       "descriptive": "InC",
       "verbose": "InCl"
     },
-    "conflictProperty": "6-187"
+    "conflictProperty": "6-incense-clock"
   },
   {
     "id": "charkha",
@@ -2629,7 +2629,7 @@
       "descriptive": "Ch",
       "verbose": "Ch"
     },
-    "conflictProperty": "500-188"
+    "conflictProperty": "500-charkha-vakataka-dynasty-maharashtra,-india"
   },
   {
     "id": "pendentive-dome",
@@ -2657,7 +2657,7 @@
       "descriptive": "SuM",
       "verbose": "SuMa"
     },
-    "conflictProperty": "577-190"
+    "conflictProperty": "577-sulfur-matches-china"
   },
   {
     "id": "toilet-paper",
@@ -2671,7 +2671,7 @@
       "descriptive": "ToP",
       "verbose": "ToPa"
     },
-    "conflictProperty": "589-191"
+    "conflictProperty": "589-toilet-paper-sui-dynasty-china-yan-zhitui"
   },
   {
     "id": "toothbrush",
@@ -2685,7 +2685,7 @@
       "descriptive": "To",
       "verbose": "To"
     },
-    "conflictProperty": "619-192"
+    "conflictProperty": "619-toothbrush-china-tang-dynasty"
   },
   {
     "id": "incendiary-weapon",
@@ -2713,7 +2713,7 @@
       "descriptive": "Ba",
       "verbose": "Ba"
     },
-    "conflictProperty": "7-194"
+    "conflictProperty": "7-banknote-tang-dynasty-china-first-developed-in-china-tang-song-receipts-merchants-wholesalers-copper-coinage"
   },
   {
     "id": "porcelain",
@@ -2727,7 +2727,7 @@
       "descriptive": "Po",
       "verbose": "Po"
     },
-    "conflictProperty": "7-195"
+    "conflictProperty": "7-porcelain-tang-dynasty-china"
   },
   {
     "id": "gunpowder",
@@ -2741,7 +2741,7 @@
       "descriptive": "Gu",
       "verbose": "Gu"
     },
-    "conflictProperty": "9-196"
+    "conflictProperty": "9-gunpowder-tang-dynasty-china-chinese-alchemists-elixir-of-immortality-five-dynasties-and-ten-kingdoms-period-wujing-zongyao-song-dynasty"
   },
   {
     "id": "playing-card",
@@ -2755,7 +2755,7 @@
       "descriptive": "PlC",
       "verbose": "PlCa"
     },
-    "conflictProperty": "9-197"
+    "conflictProperty": "9-playing-card-tang-dynasty-china"
   },
   {
     "id": "fire-lance",
@@ -2769,7 +2769,7 @@
       "descriptive": "FiL",
       "verbose": "FiLa"
     },
-    "conflictProperty": "10-198"
+    "conflictProperty": "10-fire-lance-song-dynasty-china-gunpowder-dunhuang-firearm"
   },
   {
     "id": "fireworks",
@@ -2783,7 +2783,7 @@
       "descriptive": "Fi",
       "verbose": "Fi"
     },
-    "conflictProperty": "10-199"
+    "conflictProperty": "10-fireworks-song-dynasty-china-gunpowder-bamboo"
   },
   {
     "id": "fountain-pen",
@@ -2797,11 +2797,11 @@
       "descriptive": "FoP",
       "verbose": "FoPe"
     },
-    "conflictProperty": "974-200"
+    "conflictProperty": "974-fountain-pen-al-muizz-li-din-allah-arab-egypt"
   },
   {
     "id": "bessemer-process",
-    "year": 11,
+    "year": 1855,
     "linked": {
       "text": "Bessemer process",
       "link": "/wiki/Bessemer_process"
@@ -2811,7 +2811,7 @@
       "descriptive": "BeP",
       "verbose": "BePr"
     },
-    "conflictProperty": "11-201"
+    "conflictProperty": "1855-henry-bessemer-bessemer-process"
   },
   {
     "id": "endless-power-transmitting-chain-drive",
@@ -2825,7 +2825,7 @@
       "descriptive": "EnPTCD",
       "verbose": "EnPoTrChDr"
     },
-    "conflictProperty": "11-202"
+    "conflictProperty": "11-calico-calicut"
   },
   {
     "id": "calicut",
@@ -2853,7 +2853,7 @@
       "descriptive": "MoT",
       "verbose": "MoTy"
     },
-    "conflictProperty": "1088-204"
+    "conflictProperty": "1088-movable-type-song-dynasty-china-dream-pool-essays-bi-sheng"
   },
   {
     "id": "rocket",
@@ -2867,7 +2867,7 @@
       "descriptive": "Ro",
       "verbose": "Ro"
     },
-    "conflictProperty": "13-205"
+    "conflictProperty": "13-rocket"
   },
   {
     "id": "mechanical-escapement",
@@ -2881,7 +2881,7 @@
       "descriptive": "MeE",
       "verbose": "MeEs"
     },
-    "conflictProperty": "13-206"
+    "conflictProperty": "13-mechanical-escapement-verge-escapement-europe"
   },
   {
     "id": "buttons",
@@ -2895,7 +2895,7 @@
       "descriptive": "Bu",
       "verbose": "Bu"
     },
-    "conflictProperty": "13-207"
+    "conflictProperty": "13-buttons-germany"
   },
   {
     "id": "explosive-bomb",
@@ -2909,7 +2909,7 @@
       "descriptive": "ExB",
       "verbose": "ExBo"
     },
-    "conflictProperty": "13-208"
+    "conflictProperty": "13-explosive-bomb-jin-dynasty-jin-dynasty-song-dynasty-jin-dynasty"
   },
   {
     "id": "hand-cannon",
@@ -2923,7 +2923,7 @@
       "descriptive": "HaC",
       "verbose": "HaCa"
     },
-    "conflictProperty": "13-209"
+    "conflictProperty": "13-hand-cannon-yuan-dynasty-heilongjiang-ethnic-jurchen"
   },
   {
     "id": "snow-goggles",
@@ -2937,7 +2937,7 @@
       "descriptive": "SnG",
       "verbose": "SnGo"
     },
-    "conflictProperty": "13-210"
+    "conflictProperty": "13-snow-goggles-smoky-quartz"
   },
   {
     "id": "worm-gear-cotton-gin",
@@ -2951,7 +2951,7 @@
       "descriptive": "WoGCG",
       "verbose": "WoGeCoGi"
     },
-    "conflictProperty": "13-211"
+    "conflictProperty": "13-worm-gear-cotton-gin"
   },
   {
     "id": "land-mine",
@@ -2965,7 +2965,7 @@
       "descriptive": "LaM",
       "verbose": "LaMi"
     },
-    "conflictProperty": "1277-212"
+    "conflictProperty": "1277-land-mine-song-dynasty-china-mongol-soldiers-guangxi"
   },
   {
     "id": "eyeglasses",
@@ -2979,7 +2979,7 @@
       "descriptive": "Ey",
       "verbose": "Ey"
     },
-    "conflictProperty": "1286-213"
+    "conflictProperty": "1286-eyeglasses-italy"
   },
   {
     "id": "multistage-rocket",
@@ -2993,7 +2993,7 @@
       "descriptive": "MuR",
       "verbose": "MuRo"
     },
-    "conflictProperty": "14-214"
+    "conflictProperty": "14-multistage-rocket-ming-dynasty-china-huolongjing-jiao-yu"
   },
   {
     "id": "cannon",
@@ -3007,7 +3007,7 @@
       "descriptive": "Ca",
       "verbose": "Ca"
     },
-    "conflictProperty": "1326-215"
+    "conflictProperty": "1326-cannon-ming-dynasty-china"
   },
   {
     "id": "canvas",
@@ -3021,7 +3021,7 @@
       "descriptive": "Ca",
       "verbose": "Ca"
     },
-    "conflictProperty": "14-216"
+    "conflictProperty": "14-canvas-italy"
   },
   {
     "id": "jacobs-staff",
@@ -3035,7 +3035,7 @@
       "descriptive": "JaSS",
       "verbose": "JaSSt"
     },
-    "conflictProperty": "14-217"
+    "conflictProperty": "14-jacobs-staff-levi-ben-gerson"
   },
   {
     "id": "naval-mine",
@@ -3049,7 +3049,7 @@
       "descriptive": "NaM",
       "verbose": "NaMi"
     },
-    "conflictProperty": "14-218"
+    "conflictProperty": "14-naval-mine-ming-dynasty-china-huolongjing-jiao-yu-liu-bowen-wrought-iron-song-yingxing"
   },
   {
     "id": "bidriware",
@@ -3063,7 +3063,7 @@
       "descriptive": "Bi",
       "verbose": "Bi"
     },
-    "conflictProperty": "14-219"
+    "conflictProperty": "14-bidriware-bahmani-sultanate-india"
   },
   {
     "id": "coil-spring",
@@ -3077,7 +3077,7 @@
       "descriptive": "CoS",
       "verbose": "CoSp"
     },
-    "conflictProperty": "15-220"
+    "conflictProperty": "15-coil-spring-europe"
   },
   {
     "id": "mainspring",
@@ -3091,7 +3091,7 @@
       "descriptive": "Ma",
       "verbose": "Ma"
     },
-    "conflictProperty": "15-221"
+    "conflictProperty": "15-mainspring"
   },
   {
     "id": "rifle",
@@ -3105,7 +3105,7 @@
       "descriptive": "Ri",
       "verbose": "Ri"
     },
-    "conflictProperty": "15-222"
+    "conflictProperty": "15-rifle"
   },
   {
     "id": "brace",
@@ -3119,7 +3119,7 @@
       "descriptive": "Br",
       "verbose": "Br"
     },
-    "conflictProperty": "1420-223"
+    "conflictProperty": "1420-brace-flanders-holy-roman-empire"
   },
   {
     "id": "printing-press",
@@ -3133,7 +3133,7 @@
       "descriptive": "PrP",
       "verbose": "PrPr"
     },
-    "conflictProperty": "1439-224"
+    "conflictProperty": "1439-printing-press-mainz,-germany-holy-roman-empire-johannes-gutenberg-screw-presses-lawsuit"
   },
   {
     "id": "arquebus",
@@ -3147,7 +3147,7 @@
       "descriptive": "Ar",
       "verbose": "Ar"
     },
-    "conflictProperty": "15-225"
+    "conflictProperty": "15-arquebus"
   },
   {
     "id": "mariner's-astrolabe",
@@ -3175,7 +3175,7 @@
       "descriptive": "Ch",
       "verbose": "Ch"
     },
-    "conflictProperty": "16-227"
+    "conflictProperty": "16-chintz-printed-golconda"
   },
   {
     "id": "hookah",
@@ -3189,7 +3189,7 @@
       "descriptive": "Ho",
       "verbose": "Ho"
     },
-    "conflictProperty": "16-228"
+    "conflictProperty": "16-hookah-akbar"
   },
   {
     "id": "floating-dry-dock",
@@ -3203,7 +3203,7 @@
       "descriptive": "FlDD",
       "verbose": "FlDrDo"
     },
-    "conflictProperty": "1560-229"
+    "conflictProperty": "1560-floating-dry-dock-venice-venetian-republic"
   },
   {
     "id": "mercator-projection",
@@ -3217,7 +3217,7 @@
       "descriptive": "MeP",
       "verbose": "MePr"
     },
-    "conflictProperty": "1569-230"
+    "conflictProperty": "1569-mercator-projection-gerardus-mercator"
   },
   {
     "id": "stocking-frame",
@@ -3231,7 +3231,7 @@
       "descriptive": "StF",
       "verbose": "StFr"
     },
-    "conflictProperty": "1589-231"
+    "conflictProperty": "1589-stocking-frame-william-lee"
   },
   {
     "id": "backstaff",
@@ -3245,7 +3245,7 @@
       "descriptive": "Ba",
       "verbose": "Ba"
     },
-    "conflictProperty": "1594-232"
+    "conflictProperty": "1594-backstaff-john-davis"
   },
   {
     "id": "revolver",
@@ -3259,21 +3259,7 @@
       "descriptive": "Re",
       "verbose": "Re"
     },
-    "conflictProperty": "1597-233"
-  },
-  {
-    "id": "newspaper",
-    "year": 1605,
-    "linked": {
-      "text": "Newspaper",
-      "link": "/wiki/Newspaper"
-    },
-    "abbreviation": {
-      "slim": "N",
-      "descriptive": "Ne",
-      "verbose": "Ne"
-    },
-    "conflictProperty": "1605-234"
+    "conflictProperty": "1597-revolver"
   },
   {
     "id": "telescope",
@@ -3287,7 +3273,7 @@
       "descriptive": "Te",
       "verbose": "Te"
     },
-    "conflictProperty": "1608-235"
+    "conflictProperty": "1608-telescope-hans-lippershey-jacob-metius-zacharias-janssen"
   },
   {
     "id": "compound-microscopes",
@@ -3301,7 +3287,7 @@
       "descriptive": "CoM",
       "verbose": "CoMi"
     },
-    "conflictProperty": "1620-236"
+    "conflictProperty": "1620-compound-microscopes-objective-lens-eyepiece-real-image-zacharias-janssen-cornelis-drebbel-galileo-galilei"
   },
   {
     "id": "slide-rule",
@@ -3315,7 +3301,7 @@
       "descriptive": "SlR",
       "verbose": "SlRu"
     },
-    "conflictProperty": "1630-237"
+    "conflictProperty": "1630-slide-rule-william-oughtred"
   },
   {
     "id": "mechanical-calculator",
@@ -3329,7 +3315,7 @@
       "descriptive": "MeC",
       "verbose": "MeCa"
     },
-    "conflictProperty": "1642-238"
+    "conflictProperty": "1642-mechanical-calculator-pascaline-blaise-pascal"
   },
   {
     "id": "barometer",
@@ -3343,7 +3329,7 @@
       "descriptive": "Ba",
       "verbose": "Ba"
     },
-    "conflictProperty": "1643-239"
+    "conflictProperty": "1643-barometer-evangelista-torricelli-gasparo-berti"
   },
   {
     "id": "vacuum-pump",
@@ -3357,7 +3343,7 @@
       "descriptive": "VaP",
       "verbose": "VaPu"
     },
-    "conflictProperty": "1650-240"
+    "conflictProperty": "1650-vacuum-pump-otto-von-guericke"
   },
   {
     "id": "pendulum-clock",
@@ -3371,7 +3357,7 @@
       "descriptive": "PeC",
       "verbose": "PeCl"
     },
-    "conflictProperty": "1656-241"
+    "conflictProperty": "1656-pendulum-clock-christiaan-huygens-galileo-galilei"
   },
   {
     "id": "friction-machine",
@@ -3385,7 +3371,7 @@
       "descriptive": "FrM",
       "verbose": "FrMa"
     },
-    "conflictProperty": "1663-242"
+    "conflictProperty": "1663-friction-machine-otto-von-guericke"
   },
   {
     "id": "reflecting-telescope",
@@ -3399,7 +3385,7 @@
       "descriptive": "ReT",
       "verbose": "ReTe"
     },
-    "conflictProperty": "1668-243"
+    "conflictProperty": "1668-reflecting-telescope-isaac-newton"
   },
   {
     "id": "pressure-cooker",
@@ -3413,7 +3399,7 @@
       "descriptive": "PrC",
       "verbose": "PrCo"
     },
-    "conflictProperty": "1679-244"
+    "conflictProperty": "1679-pressure-cooker-denis-papin"
   },
   {
     "id": "piston-engine",
@@ -3427,7 +3413,7 @@
       "descriptive": "PiE",
       "verbose": "PiEn"
     },
-    "conflictProperty": "1680-245"
+    "conflictProperty": "1680-christiaan-huygens-piston-engine"
   },
   {
     "id": "steam-powered-water-pump",
@@ -3441,7 +3427,7 @@
       "descriptive": "StPWP",
       "verbose": "StPoWaPu"
     },
-    "conflictProperty": "1698-246"
+    "conflictProperty": "1698-thomas-savery-steam-powered-water-pump"
   },
   {
     "id": "piano",
@@ -3455,7 +3441,7 @@
       "descriptive": "Pi",
       "verbose": "Pi"
     },
-    "conflictProperty": "1709-247"
+    "conflictProperty": "1709-bartolomeo-cristofori-piano"
   },
   {
     "id": "thermometer",
@@ -3469,13 +3455,13 @@
       "descriptive": "Th",
       "verbose": "Th"
     },
-    "conflictProperty": "1709-248"
+    "conflictProperty": "1709-daniel-gabriel-fahrenheit-thermometer"
   },
   {
     "id": "first-commercial-steam-engine",
     "year": 1712,
     "linked": {
-      "link": "/wiki/https://en.wikipedia.org",
+      "link": "/wiki/Steam_engine",
       "text": "First Commercial Steam Engine"
     },
     "abbreviation": {
@@ -3483,7 +3469,7 @@
       "descriptive": "FiCSE",
       "verbose": "FiCoStEn"
     },
-    "conflictProperty": "1712-249"
+    "conflictProperty": "1712-thomas-newcomen-thomas-savery"
   },
   {
     "id": "octant",
@@ -3511,7 +3497,7 @@
       "descriptive": "FlS",
       "verbose": "FlSh"
     },
-    "conflictProperty": "1733-251"
+    "conflictProperty": "1733-john-kay-flying-shuttle"
   },
   {
     "id": "mechanized-cotton-spinning-machine",
@@ -3525,7 +3511,7 @@
       "descriptive": "MeCSM",
       "verbose": "MeCoSpMa"
     },
-    "conflictProperty": "1738-252"
+    "conflictProperty": "1738-lewis-paul-john-wyatt-mechanized-cotton-spinning-machine"
   },
   {
     "id": "franklin-stove",
@@ -3539,7 +3525,7 @@
       "descriptive": "FrS",
       "verbose": "FrSt"
     },
-    "conflictProperty": "1742-253"
+    "conflictProperty": "1742-benjamin-franklin-franklin-stove"
   },
   {
     "id": "capacitor",
@@ -3567,7 +3553,7 @@
       "descriptive": "LeCP",
       "verbose": "LeChPr"
     },
-    "conflictProperty": "1746-255"
+    "conflictProperty": "1746-john-roebuck-lead-chamber-process"
   },
   {
     "id": "lightning-rod",
@@ -3581,7 +3567,7 @@
       "descriptive": "LiR",
       "verbose": "LiRo"
     },
-    "conflictProperty": "1752-256"
+    "conflictProperty": "1752-benjamin-franklin-lightning-rod"
   },
   {
     "id": "refrigeration",
@@ -3595,7 +3581,7 @@
       "descriptive": "Re",
       "verbose": "Re"
     },
-    "conflictProperty": "1755-257"
+    "conflictProperty": "1755-william-cullen-refrigeration"
   },
   {
     "id": "roller-skates",
@@ -3609,7 +3595,7 @@
       "descriptive": "RoS",
       "verbose": "RoSk"
     },
-    "conflictProperty": "1760-258"
+    "conflictProperty": "1760-john-joseph-merlin-roller-skates"
   },
   {
     "id": "spinning-jenny",
@@ -3623,7 +3609,7 @@
       "descriptive": "SpJ",
       "verbose": "SpJe"
     },
-    "conflictProperty": "1764-259"
+    "conflictProperty": "1764-james-hargreaves-spinning-jenny"
   },
   {
     "id": "steam-engine",
@@ -3637,7 +3623,7 @@
       "descriptive": "StE",
       "verbose": "StEn"
     },
-    "conflictProperty": "1765-260"
+    "conflictProperty": "1765-james-watt-steam-engine"
   },
   {
     "id": "carbonated-water",
@@ -3651,7 +3637,7 @@
       "descriptive": "CaW",
       "verbose": "CaWa"
     },
-    "conflictProperty": "1767-261"
+    "conflictProperty": "1767-joseph-priestley-carbonated-water"
   },
   {
     "id": "car",
@@ -3665,7 +3651,7 @@
       "descriptive": "Ca",
       "verbose": "Ca"
     },
-    "conflictProperty": "1769-262"
+    "conflictProperty": "1769-nicolas-joseph-cugnot-car"
   },
   {
     "id": "weighing-scale",
@@ -3679,7 +3665,7 @@
       "descriptive": "WeS",
       "verbose": "WeSc"
     },
-    "conflictProperty": "1770-263"
+    "conflictProperty": "1770-richard-salter-weighing-scale"
   },
   {
     "id": "boring-machine",
@@ -3693,7 +3679,7 @@
       "descriptive": "BoM",
       "verbose": "BoMa"
     },
-    "conflictProperty": "1774-264"
+    "conflictProperty": "1774-john-wilkinson-boring-machine-tool"
   },
   {
     "id": "screw-cutting-lathe",
@@ -3707,7 +3693,7 @@
       "descriptive": "ScCL",
       "verbose": "ScCuLa"
     },
-    "conflictProperty": "1775-265"
+    "conflictProperty": "1775-jesse-ramsden-screw-cutting-lathe"
   },
   {
     "id": "air-compressor",
@@ -3721,7 +3707,7 @@
       "descriptive": "AiC",
       "verbose": "AiCo"
     },
-    "conflictProperty": "1776-266"
+    "conflictProperty": "1776-john-wilkinson-air-compressor"
   },
   {
     "id": "lever-tumbler-lock",
@@ -3735,7 +3721,7 @@
       "descriptive": "LeTL",
       "verbose": "LeTuLo"
     },
-    "conflictProperty": "1778-267"
+    "conflictProperty": "1778-robert-barron-lever-tumbler-lock"
   },
   {
     "id": "metal-cylinder-rockets",
@@ -3749,7 +3735,7 @@
       "descriptive": "MeCR",
       "verbose": "MeCyRo"
     },
-    "conflictProperty": "1780-268"
+    "conflictProperty": "1780-hyder-ali-mysore-metal-cylinder-rockets"
   },
   {
     "id": "steamboat",
@@ -3763,7 +3749,7 @@
       "descriptive": "St",
       "verbose": "St"
     },
-    "conflictProperty": "1783-269"
+    "conflictProperty": "1783-claude-de-jouffroy-steamboat"
   },
   {
     "id": "hot-air-balloon",
@@ -3777,7 +3763,7 @@
       "descriptive": "HoAB",
       "verbose": "HoAiBa"
     },
-    "conflictProperty": "1783-270"
+    "conflictProperty": "1783-joseph-ralf-jacques-etienne-montgolfier-hot-air-balloon"
   },
   {
     "id": "parachute",
@@ -3791,7 +3777,7 @@
       "descriptive": "Pa",
       "verbose": "Pa"
     },
-    "conflictProperty": "1783-271"
+    "conflictProperty": "1783-louis-sebastien-lenormand-parachute"
   },
   {
     "id": "electrolysis",
@@ -3805,7 +3791,7 @@
       "descriptive": "El",
       "verbose": "El"
     },
-    "conflictProperty": "1785-272"
+    "conflictProperty": "1785-martinus-van-marum-electrolysis"
   },
   {
     "id": "threshing-machine",
@@ -3819,7 +3805,7 @@
       "descriptive": "ThM",
       "verbose": "ThMa"
     },
-    "conflictProperty": "1786-273"
+    "conflictProperty": "1786-andrew-meikle-threshing-machine"
   },
   {
     "id": "power-loom",
@@ -3833,7 +3819,7 @@
       "descriptive": "PoL",
       "verbose": "PoLo"
     },
-    "conflictProperty": "1789-274"
+    "conflictProperty": "1789-edmund-cartwright-power-loom"
   },
   {
     "id": "sewing-machine",
@@ -3847,7 +3833,7 @@
       "descriptive": "SeM",
       "verbose": "SeMa"
     },
-    "conflictProperty": "1790-275"
+    "conflictProperty": "1790-thomas-saint-sewing-machine"
   },
   {
     "id": "telegraph",
@@ -3861,7 +3847,7 @@
       "descriptive": "Te",
       "verbose": "Te"
     },
-    "conflictProperty": "1792-276"
+    "conflictProperty": "1792-claude-chappe-telegraph"
   },
   {
     "id": "cotton-gin",
@@ -3875,7 +3861,7 @@
       "descriptive": "CoG",
       "verbose": "CoGi"
     },
-    "conflictProperty": "1793-277"
+    "conflictProperty": "1793-eli-whitney-cotton-gin"
   },
   {
     "id": "hydraulic-press",
@@ -3889,7 +3875,7 @@
       "descriptive": "HyP",
       "verbose": "HyPr"
     },
-    "conflictProperty": "1795-278"
+    "conflictProperty": "1795-joseph-bramah-hydraulic-press"
   },
   {
     "id": "lithography",
@@ -3903,7 +3889,7 @@
       "descriptive": "Li",
       "verbose": "Li"
     },
-    "conflictProperty": "1796-279"
+    "conflictProperty": "1796-alois-senefelder-lithography"
   },
   {
     "id": "plywood",
@@ -3917,21 +3903,7 @@
       "descriptive": "Pl",
       "verbose": "Pl"
     },
-    "conflictProperty": "1797-280"
-  },
-  {
-    "id": "air-compressor",
-    "year": 1799,
-    "linked": {
-      "text": "air compressor",
-      "link": "/wiki/Air_compressor"
-    },
-    "abbreviation": {
-      "slim": "AC",
-      "descriptive": "AiC",
-      "verbose": "AiCo"
-    },
-    "conflictProperty": "1799-281"
+    "conflictProperty": "1797-samuel-bentham-plywood"
   },
   {
     "id": "paper-machine",
@@ -3945,7 +3917,7 @@
       "descriptive": "PaM",
       "verbose": "PaMa"
     },
-    "conflictProperty": "1799-282"
+    "conflictProperty": "1799-paper-machine-louis-nicolas-robert"
   },
   {
     "id": "voltaic-pile",
@@ -3973,7 +3945,7 @@
       "descriptive": "ArL",
       "verbose": "ArLa"
     },
-    "conflictProperty": "1802-284"
+    "conflictProperty": "1802-humphry-davy-arc-lamp"
   },
   {
     "id": "morphine",
@@ -3987,7 +3959,7 @@
       "descriptive": "Mo",
       "verbose": "Mo"
     },
-    "conflictProperty": "1804-285"
+    "conflictProperty": "1804-friedrich-serturner-morphine"
   },
   {
     "id": "jacquard-loom",
@@ -4001,7 +3973,7 @@
       "descriptive": "JaL",
       "verbose": "JaLo"
     },
-    "conflictProperty": "1804-286"
+    "conflictProperty": "1804-joseph-marie-jacquard-jacquard-loom"
   },
   {
     "id": "steam-locomotive",
@@ -4015,7 +3987,7 @@
       "descriptive": "StL",
       "verbose": "StLo"
     },
-    "conflictProperty": "1804-287"
+    "conflictProperty": "1804-richard-trevithick-steam-locomotive"
   },
   {
     "id": "general-anesthetic",
@@ -4029,7 +4001,7 @@
       "descriptive": "GeA",
       "verbose": "GeAn"
     },
-    "conflictProperty": "1804-288"
+    "conflictProperty": "1804-hanaoka-seishu-general-anesthetic"
   },
   {
     "id": "internal-combustion-engine",
@@ -4043,7 +4015,7 @@
       "descriptive": "InCE",
       "verbose": "InCoEn"
     },
-    "conflictProperty": "1807-289"
+    "conflictProperty": "1807-nicephore-niepce-internal-combustion-engine"
   },
   {
     "id": "automobile-internal-combustion-engine",
@@ -4057,21 +4029,7 @@
       "descriptive": "AuICE",
       "verbose": "AuInCoEn"
     },
-    "conflictProperty": "1807-290"
-  },
-  {
-    "id": "workable-steamboat",
-    "year": 1807,
-    "linked": {
-      "link": "/wiki/https://en.wikipedia.org",
-      "text": "Workable Steamboat"
-    },
-    "abbreviation": {
-      "slim": "WS",
-      "descriptive": "WoS",
-      "verbose": "WoSt"
-    },
-    "conflictProperty": "1807-291"
+    "conflictProperty": "1807-robert-fulton"
   },
   {
     "id": "canning",
@@ -4085,13 +4043,13 @@
       "descriptive": "Ca",
       "verbose": "Ca"
     },
-    "conflictProperty": "1810-292"
+    "conflictProperty": "1810-nicolas-appert-canning"
   },
   {
     "id": "wristwatch",
     "year": 1810,
     "linked": {
-      "link": "/wiki/https://en.wikipedia.org",
+      "link": "/wiki/Watch#Wristwatches",
       "text": "Wristwatch"
     },
     "abbreviation": {
@@ -4099,21 +4057,7 @@
       "descriptive": "Wr",
       "verbose": "Wr"
     },
-    "conflictProperty": "1810-293"
-  },
-  {
-    "id": "printing-press",
-    "year": 1811,
-    "linked": {
-      "text": "printing press",
-      "link": "/wiki/Printing_press"
-    },
-    "abbreviation": {
-      "slim": "PP",
-      "descriptive": "PrP",
-      "verbose": "PrPr"
-    },
-    "conflictProperty": "1811-294"
+    "conflictProperty": "1810-abraham-louis-breguet"
   },
   {
     "id": "safety-lamp",
@@ -4127,7 +4071,7 @@
       "descriptive": "SaL",
       "verbose": "SaLa"
     },
-    "conflictProperty": "1812-295"
+    "conflictProperty": "1812-william-reid-clanny-safety-lamp"
   },
   {
     "id": "planing-machine",
@@ -4141,7 +4085,7 @@
       "descriptive": "PlM",
       "verbose": "PlMa"
     },
-    "conflictProperty": "1814-296"
+    "conflictProperty": "1814-james-fox-planing-machine-matthew-murray-leeds-richard-roberts-manchester"
   },
   {
     "id": "stethoscope",
@@ -4155,7 +4099,7 @@
       "descriptive": "St",
       "verbose": "St"
     },
-    "conflictProperty": "1816-297"
+    "conflictProperty": "1816-rene-laennec-stethoscope"
   },
   {
     "id": "electric-telegraph",
@@ -4169,7 +4113,7 @@
       "descriptive": "ElT",
       "verbose": "ElTe"
     },
-    "conflictProperty": "1816-298"
+    "conflictProperty": "1816-francis-ronalds-electric-telegraph-electrostatic"
   },
   {
     "id": "stirling-engine",
@@ -4183,7 +4127,7 @@
       "descriptive": "StE",
       "verbose": "StEn"
     },
-    "conflictProperty": "1816-299"
+    "conflictProperty": "1816-robert-stirling-stirling-engine"
   },
   {
     "id": "dandy-horse",
@@ -4197,7 +4141,7 @@
       "descriptive": "DaH",
       "verbose": "DaHo"
     },
-    "conflictProperty": "1817-300"
+    "conflictProperty": "1817-karl-von-drais-dandy-horse-velocipede-bicycle"
   },
   {
     "id": "tunnelling-shield",
@@ -4211,7 +4155,7 @@
       "descriptive": "TuS",
       "verbose": "TuSh"
     },
-    "conflictProperty": "1818-301"
+    "conflictProperty": "1818-marc-isambard-brunel-tunnelling-shield"
   },
   {
     "id": "shaper",
@@ -4225,7 +4169,7 @@
       "descriptive": "Sh",
       "verbose": "Sh"
     },
-    "conflictProperty": "1822-302"
+    "conflictProperty": "1822-thomas-blanchard-shaper"
   },
   {
     "id": "heliography",
@@ -4239,7 +4183,7 @@
       "descriptive": "He",
       "verbose": "He"
     },
-    "conflictProperty": "1822-303"
+    "conflictProperty": "1822-nicephore-niepce-heliography"
   },
   {
     "id": "mechanical-computer",
@@ -4253,7 +4197,7 @@
       "descriptive": "MeC",
       "verbose": "MeCo"
     },
-    "conflictProperty": "1822-304"
+    "conflictProperty": "1822-charles-babbage-father-of-the-computer-mechanical-computer"
   },
   {
     "id": "first-lighter",
@@ -4281,7 +4225,7 @@
       "descriptive": "BoAR",
       "verbose": "BoAcRi"
     },
-    "conflictProperty": "1824-306"
+    "conflictProperty": "1824-johann-nikolaus-von-dreyse-bolt-action-rifle"
   },
   {
     "id": "electromagnet",
@@ -4295,7 +4239,7 @@
       "descriptive": "El",
       "verbose": "El"
     },
-    "conflictProperty": "1824-307"
+    "conflictProperty": "1824-william-sturgeon-electromagnet"
   },
   {
     "id": "match",
@@ -4309,7 +4253,7 @@
       "descriptive": "Ma",
       "verbose": "Ma"
     },
-    "conflictProperty": "1826-308"
+    "conflictProperty": "1826-john-walker-match"
   },
   {
     "id": "gas-stove",
@@ -4323,7 +4267,7 @@
       "descriptive": "GaS",
       "verbose": "GaSt"
     },
-    "conflictProperty": "1826-309"
+    "conflictProperty": "1826-gas-stove"
   },
   {
     "id": "hot-blast",
@@ -4337,7 +4281,7 @@
       "descriptive": "HoB",
       "verbose": "HoBl"
     },
-    "conflictProperty": "1828-310"
+    "conflictProperty": "1828-james-beaumont-neilson-hot-blast"
   },
   {
     "id": "reaping-machine",
@@ -4351,7 +4295,7 @@
       "descriptive": "ReM",
       "verbose": "ReMa"
     },
-    "conflictProperty": "1828-311"
+    "conflictProperty": "1828-patrick-bell-reaping-machine"
   },
   {
     "id": "electromechanical-machine",
@@ -4365,7 +4309,7 @@
       "descriptive": "ElM",
       "verbose": "ElMa"
     },
-    "conflictProperty": "1828-312"
+    "conflictProperty": "1828-anyos-jedlik-electromechanical-machine"
   },
   {
     "id": "braille",
@@ -4379,21 +4323,7 @@
       "descriptive": "Br",
       "verbose": "Br"
     },
-    "conflictProperty": "1829-313"
-  },
-  {
-    "id": "air-compressor",
-    "year": 1829,
-    "linked": {
-      "text": "air compressor",
-      "link": "/wiki/Air_compressor"
-    },
-    "abbreviation": {
-      "slim": "AC",
-      "descriptive": "AiC",
-      "verbose": "AiCo"
-    },
-    "conflictProperty": "1829-314"
+    "conflictProperty": "1829-louis-braille-braille"
   },
   {
     "id": "corrugated-galvanised-iron",
@@ -4407,7 +4337,7 @@
       "descriptive": "CoGI",
       "verbose": "CoGaIr"
     },
-    "conflictProperty": "1829-315"
+    "conflictProperty": "1829-henry-robinson-palmer-corrugated-galvanised-iron"
   },
   {
     "id": "lawn-mower",
@@ -4421,7 +4351,7 @@
       "descriptive": "LaM",
       "verbose": "LaMo"
     },
-    "conflictProperty": "1830-316"
+    "conflictProperty": "1830-edwin-budding-lawn-mower"
   },
   {
     "id": "electromagnetic-induction",
@@ -4435,7 +4365,7 @@
       "descriptive": "ElI",
       "verbose": "ElIn"
     },
-    "conflictProperty": "1831-317"
+    "conflictProperty": "1831-michael-faraday-electromagnetic-induction-joseph-henry-electric-generator-faraday-disk"
   },
   {
     "id": "electric-motor",
@@ -4449,7 +4379,7 @@
       "descriptive": "ElM",
       "verbose": "ElMo"
     },
-    "conflictProperty": "1834-318"
+    "conflictProperty": "1834-moritz-von-jacobi-electric-motor"
   },
   {
     "id": "relay",
@@ -4463,7 +4393,7 @@
       "descriptive": "Re",
       "verbose": "Re"
     },
-    "conflictProperty": "1835-319"
+    "conflictProperty": "1835-joseph-henry-relay"
   },
   {
     "id": "morse-code",
@@ -4477,7 +4407,7 @@
       "descriptive": "MoC",
       "verbose": "MoCo"
     },
-    "conflictProperty": "1837-320"
+    "conflictProperty": "1837-samuel-morse-morse-code"
   },
   {
     "id": "electrotyping",
@@ -4491,7 +4421,7 @@
       "descriptive": "El",
       "verbose": "El"
     },
-    "conflictProperty": "1838-321"
+    "conflictProperty": "1838-moritz-von-jacobi-electrotyping"
   },
   {
     "id": "steam-shovel",
@@ -4505,7 +4435,7 @@
       "descriptive": "StS",
       "verbose": "StSh"
     },
-    "conflictProperty": "1839-322"
+    "conflictProperty": "1839-william-otis-steam-shovel"
   },
   {
     "id": "steam-hammer",
@@ -4519,7 +4449,7 @@
       "descriptive": "StH",
       "verbose": "StHa"
     },
-    "conflictProperty": "1839-323"
+    "conflictProperty": "1839-james-nasmyth-steam-hammer"
   },
   {
     "id": "photovoltaic-effect",
@@ -4533,7 +4463,7 @@
       "descriptive": "PhE",
       "verbose": "PhEf"
     },
-    "conflictProperty": "1839-324"
+    "conflictProperty": "1839-charles-goodyear-vulcanized-rubber"
   },
   {
     "id": "vulcanized-rubber",
@@ -4547,7 +4477,7 @@
       "descriptive": "VuR",
       "verbose": "VuRu"
     },
-    "conflictProperty": "1839-325"
+    "conflictProperty": "1839-louis-daguerre-daguerreotype"
   },
   {
     "id": "daguerreotype",
@@ -4575,13 +4505,13 @@
       "descriptive": "Bl",
       "verbose": "Bl"
     },
-    "conflictProperty": "1840-327"
+    "conflictProperty": "1840-john-herschel-blueprint"
   },
   {
     "id": "printing-telegraph",
     "year": 1841,
     "linked": {
-      "link": "/wiki/https://en.wikipedia.org",
+      "link": "/wiki/Printing_telegraph",
       "text": "Printing Telegraph"
     },
     "abbreviation": {
@@ -4589,7 +4519,7 @@
       "descriptive": "PrT",
       "verbose": "PrTe"
     },
-    "conflictProperty": "1841-328"
+    "conflictProperty": "1841-alexander-bain"
   },
   {
     "id": "fuel-cell",
@@ -4603,7 +4533,7 @@
       "descriptive": "FuC",
       "verbose": "FuCe"
     },
-    "conflictProperty": "1842-329"
+    "conflictProperty": "1842-william-robert-grove-fuel-cell"
   },
   {
     "id": "superphosphate",
@@ -4623,7 +4553,7 @@
     "id": "wood-pulp-paper",
     "year": 1844,
     "linked": {
-      "link": "/wiki/https://en.wikipedia.org",
+      "link": "/wiki/Pulp_(paper)",
       "text": "Wood Pulp Paper"
     },
     "abbreviation": {
@@ -4631,7 +4561,7 @@
       "descriptive": "WoPP",
       "verbose": "WoPuPa"
     },
-    "conflictProperty": "1844-331"
+    "conflictProperty": "1844-friedrich-gottlob-keller-charles-fenerty"
   },
   {
     "id": "hypodermic-needle",
@@ -4645,7 +4575,7 @@
       "descriptive": "HyN",
       "verbose": "HyNe"
     },
-    "conflictProperty": "1844-332"
+    "conflictProperty": "1844-francis-rynd-hypodermic-needle"
   },
   {
     "id": "portland-cement",
@@ -4659,7 +4589,7 @@
       "descriptive": "PoC",
       "verbose": "PoCe"
     },
-    "conflictProperty": "1845-333"
+    "conflictProperty": "1845-isaac-charles-johnson-portland-cement"
   },
   {
     "id": "tunnel-boring-machine",
@@ -4673,7 +4603,7 @@
       "descriptive": "TuBM",
       "verbose": "TuBoMa"
     },
-    "conflictProperty": "1846-334"
+    "conflictProperty": "1846-tunnel-boring-machine"
   },
   {
     "id": "nitroglycerin",
@@ -4687,7 +4617,7 @@
       "descriptive": "Ni",
       "verbose": "Ni"
     },
-    "conflictProperty": "1847-335"
+    "conflictProperty": "1847-ascanio-sobrero-nitroglycerin-black-powder"
   },
   {
     "id": "pneumatic-drill",
@@ -4701,7 +4631,7 @@
       "descriptive": "PnD",
       "verbose": "PnDr"
     },
-    "conflictProperty": "1848-336"
+    "conflictProperty": "1848-pneumatic-drill"
   },
   {
     "id": "pin-tumbler-lock",
@@ -4715,7 +4645,7 @@
       "descriptive": "PiTL",
       "verbose": "PiTuLo"
     },
-    "conflictProperty": "1848-337"
+    "conflictProperty": "1848-linus-yale-sr-pin-tumbler-lock"
   },
   {
     "id": "repeating-rifle",
@@ -4729,7 +4659,7 @@
       "descriptive": "ReR",
       "verbose": "ReRi"
     },
-    "conflictProperty": "1849-338"
+    "conflictProperty": "1849-walter-hunt-repeating-rifle"
   },
   {
     "id": "francis-turbine",
@@ -4743,7 +4673,7 @@
       "descriptive": "FrT",
       "verbose": "FrTu"
     },
-    "conflictProperty": "1849-339"
+    "conflictProperty": "1849-james-b-francis-francis-turbine"
   },
   {
     "id": "safety-pin",
@@ -4757,7 +4687,7 @@
       "descriptive": "SaP",
       "verbose": "SaPi"
     },
-    "conflictProperty": "1849-340"
+    "conflictProperty": "1849-walter-hunt-safety-pin"
   },
   {
     "id": "hydraulic-accumulator",
@@ -4771,13 +4701,13 @@
       "descriptive": "HyA",
       "verbose": "HyAc"
     },
-    "conflictProperty": "1850-341"
+    "conflictProperty": "1850-william-armstrong-hydraulic-accumulator"
   },
   {
     "id": "public-flush-toilets",
     "year": 1851,
     "linked": {
-      "link": "/wiki/https://en.wikipedia.org",
+      "link": "/wiki/Public_toilet#History",
       "text": "Public Flush Toilets"
     },
     "abbreviation": {
@@ -4785,7 +4715,7 @@
       "descriptive": "PuFT",
       "verbose": "PuFlTo"
     },
-    "conflictProperty": "1851-342"
+    "conflictProperty": "1851-george-jennings"
   },
   {
     "id": "chemical-vapor-deposition",
@@ -4799,13 +4729,13 @@
       "descriptive": "ChVD",
       "verbose": "ChVaDe"
     },
-    "conflictProperty": "1852-343"
+    "conflictProperty": "1852-robert-bunsen-chemical-vapor-deposition"
   },
   {
     "id": "safety-brake-elevator",
     "year": 1852,
     "linked": {
-      "link": "/wiki/https://en.wikipedia.org",
+      "link": "/wiki/Elevator#Industrial_Era",
       "text": "Safety Brake Elevator"
     },
     "abbreviation": {
@@ -4813,7 +4743,7 @@
       "descriptive": "SaBE",
       "verbose": "SaBrEl"
     },
-    "conflictProperty": "1852-344"
+    "conflictProperty": "1852-elisha-otis"
   },
   {
     "id": "dirigible",
@@ -4827,7 +4757,7 @@
       "descriptive": "Di",
       "verbose": "Di"
     },
-    "conflictProperty": "1852-345"
+    "conflictProperty": "1852-henri-giffard-dirigible"
   },
   {
     "id": "reinforced-concrete",
@@ -4841,7 +4771,7 @@
       "descriptive": "ReC",
       "verbose": "ReCo"
     },
-    "conflictProperty": "1853-346"
+    "conflictProperty": "1853-reinforced-concrete"
   },
   {
     "id": "color-photography",
@@ -4855,21 +4785,7 @@
       "descriptive": "CoP",
       "verbose": "CoPh"
     },
-    "conflictProperty": "1855-347"
-  },
-  {
-    "id": "bessemer-process",
-    "year": 1855,
-    "linked": {
-      "text": "Bessemer process",
-      "link": "/wiki/Bessemer_process"
-    },
-    "abbreviation": {
-      "slim": "BP",
-      "descriptive": "BeP",
-      "verbose": "BePr"
-    },
-    "conflictProperty": "1855-348"
+    "conflictProperty": "1855-james-clerk-maxwell-color-photography"
   },
   {
     "id": "parkesine",
@@ -4883,21 +4799,7 @@
       "descriptive": "Pa",
       "verbose": "Pa"
     },
-    "conflictProperty": "1856-349"
-  },
-  {
-    "id": "ice-making-machine",
-    "year": 1856,
-    "linked": {
-      "link": "/wiki/https://en.wikipedia.org",
-      "text": "Ice Making Machine"
-    },
-    "abbreviation": {
-      "slim": "IMM",
-      "descriptive": "IcMM",
-      "verbose": "IcMaMa"
-    },
-    "conflictProperty": "1856-350"
+    "conflictProperty": "1856-james-harrison"
   },
   {
     "id": "mauveine",
@@ -4925,7 +4827,7 @@
       "descriptive": "GeT",
       "verbose": "GeTu"
     },
-    "conflictProperty": "1857-352"
+    "conflictProperty": "1857-heinrich-geissler-geissler-tube"
   },
   {
     "id": "phonautograph",
@@ -4939,7 +4841,7 @@
       "descriptive": "Ph",
       "verbose": "Ph"
     },
-    "conflictProperty": "1857-353"
+    "conflictProperty": "1857-phonautograph-edouard-leon-scott-de-martinville"
   },
   {
     "id": "lead-acid-battery",
@@ -4953,7 +4855,7 @@
       "descriptive": "LeAB",
       "verbose": "LeAcBa"
     },
-    "conflictProperty": "1859-354"
+    "conflictProperty": "1859-gaston-plante-lead-acid-battery-rechargeable-battery"
   },
   {
     "id": "carbon-fibers",
@@ -4967,7 +4869,7 @@
       "descriptive": "CaF",
       "verbose": "CaFi"
     },
-    "conflictProperty": "1860-355"
+    "conflictProperty": "1860-joseph-swan-carbon-fibers"
   },
   {
     "id": "pasteurization",
@@ -4981,21 +4883,7 @@
       "descriptive": "Pa",
       "verbose": "Pa"
     },
-    "conflictProperty": "1864-356"
-  },
-  {
-    "id": "siemens-martin",
-    "year": 1865,
-    "linked": {
-      "link": "/wiki/https://en.wikipedia.org",
-      "text": "Siemens-Martin"
-    },
-    "abbreviation": {
-      "slim": "SM",
-      "descriptive": "SiM",
-      "verbose": "SiMa"
-    },
-    "conflictProperty": "1865-357"
+    "conflictProperty": "1864-louis-pasteur-pasteurization"
   },
   {
     "id": "dynamite",
@@ -5009,7 +4897,7 @@
       "descriptive": "Dy",
       "verbose": "Dy"
     },
-    "conflictProperty": "1867-358"
+    "conflictProperty": "1867-alfred-nobel-dynamite-black-powder"
   },
   {
     "id": "barbed-wire",
@@ -5023,7 +4911,7 @@
       "descriptive": "BaW",
       "verbose": "BaWi"
     },
-    "conflictProperty": "1867-359"
+    "conflictProperty": "1867-barbed-wire-joseph-f-glidden-the-west"
   },
   {
     "id": "polyvinyl-chloride",
@@ -5037,7 +4925,7 @@
       "descriptive": "PoC",
       "verbose": "PoCh"
     },
-    "conflictProperty": "1872-360"
+    "conflictProperty": "1872-polyvinyl-chloride-eugen-baumann"
   },
   {
     "id": "stainless-steel",
@@ -5051,7 +4939,7 @@
       "descriptive": "StS",
       "verbose": "StSt"
     },
-    "conflictProperty": "1872-361"
+    "conflictProperty": "1872-stainless-steel-harry-brearley"
   },
   {
     "id": "rotary-kiln",
@@ -5065,7 +4953,7 @@
       "descriptive": "RoK",
       "verbose": "RoKi"
     },
-    "conflictProperty": "1873-362"
+    "conflictProperty": "1873-frederick-ransome-rotary-kiln"
   },
   {
     "id": "crookes-radiometer",
@@ -5079,7 +4967,7 @@
       "descriptive": "CrR",
       "verbose": "CrRa"
     },
-    "conflictProperty": "1873-363"
+    "conflictProperty": "1873-william-crookes-crookes-radiometer"
   },
   {
     "id": "electrical-generator",
@@ -5093,7 +4981,7 @@
       "descriptive": "ElG",
       "verbose": "ElGe"
     },
-    "conflictProperty": "1873-364"
+    "conflictProperty": "1873-zenobe-gramme-electrical-generator-gramme-machine"
   },
   {
     "id": "metal-detector",
@@ -5107,7 +4995,7 @@
       "descriptive": "MeD",
       "verbose": "MeDe"
     },
-    "conflictProperty": "1874-365"
+    "conflictProperty": "1874-gustave-trouve-metal-detector"
   },
   {
     "id": "electric-tram",
@@ -5121,7 +5009,7 @@
       "descriptive": "ElT",
       "verbose": "ElTr"
     },
-    "conflictProperty": "1875-366"
+    "conflictProperty": "1875-fyodor-pirotsky-electric-tram-saint-petersburg,-russia"
   },
   {
     "id": "four-stroke-cycle",
@@ -5135,7 +5023,7 @@
       "descriptive": "FoSC",
       "verbose": "FoStCy"
     },
-    "conflictProperty": "1876-367"
+    "conflictProperty": "1876-nicolaus-august-otto-four-stroke-cycle"
   },
   {
     "id": "telephone",
@@ -5149,7 +5037,7 @@
       "descriptive": "Te",
       "verbose": "Te"
     },
-    "conflictProperty": "1876-368"
+    "conflictProperty": "1876-alexander-graham-bell-telephone"
   },
   {
     "id": "phonograph",
@@ -5163,7 +5051,7 @@
       "descriptive": "Ph",
       "verbose": "Ph"
     },
-    "conflictProperty": "1877-369"
+    "conflictProperty": "1877-thomas-edison-phonograph"
   },
   {
     "id": "rebreather",
@@ -5177,7 +5065,7 @@
       "descriptive": "Re",
       "verbose": "Re"
     },
-    "conflictProperty": "1878-370"
+    "conflictProperty": "1878-henry-fleuss-rebreather"
   },
   {
     "id": "pelton-wheel",
@@ -5191,7 +5079,7 @@
       "descriptive": "PeW",
       "verbose": "PeWh"
     },
-    "conflictProperty": "1878-371"
+    "conflictProperty": "1878-lester-allan-pelton-pelton-wheel"
   },
   {
     "id": "incandescent-light-bulb",
@@ -5205,7 +5093,7 @@
       "descriptive": "InLB",
       "verbose": "InLiBu"
     },
-    "conflictProperty": "1879-372"
+    "conflictProperty": "1879-joseph-swan-thomas-edison-incandescent-light-bulb"
   },
   {
     "id": "carbon-arc-welding",
@@ -5219,7 +5107,7 @@
       "descriptive": "CaAW",
       "verbose": "CaArWe"
     },
-    "conflictProperty": "1881-373"
+    "conflictProperty": "1881-nikolay-benardos-carbon-arc-welding-arc-welding"
   },
   {
     "id": "recoil-operated-gun",
@@ -5233,7 +5121,7 @@
       "descriptive": "ReOG",
       "verbose": "ReOpGu"
     },
-    "conflictProperty": "1884-374"
+    "conflictProperty": "1884-paul-vieille-poudre-b-smokeless-powder"
   },
   {
     "id": "smokeless-powder",
@@ -5247,27 +5135,13 @@
       "descriptive": "SmP",
       "verbose": "SmPo"
     },
-    "conflictProperty": "1884-375"
-  },
-  {
-    "id": "steam-turbine",
-    "year": 1884,
-    "linked": {
-      "text": "steam turbine",
-      "link": "/wiki/Steam_turbine"
-    },
-    "abbreviation": {
-      "slim": "ST",
-      "descriptive": "StT",
-      "verbose": "StTu"
-    },
-    "conflictProperty": "1884-376"
+    "conflictProperty": "1884-charles-parsons-steam-turbine"
   },
   {
     "id": "closed-core-high-efficiency-transformer",
     "year": 1884,
     "linked": {
-      "link": "/wiki/https://en.wikipedia.org",
+      "link": "/wiki/Transformer#Closed-core_transformers_and_parallel_power_distribution",
       "text": "Closed Core High Efficiency Transformer"
     },
     "abbreviation": {
@@ -5275,7 +5149,7 @@
       "descriptive": "ClCHET",
       "verbose": "ClCoHiEfTr"
     },
-    "conflictProperty": "1884-377"
+    "conflictProperty": "1884-karoly-zipernowsky-otto-blathy-miksa-deri"
   },
   {
     "id": "safety-bicycle",
@@ -5289,7 +5163,7 @@
       "descriptive": "SaB",
       "verbose": "SaBi"
     },
-    "conflictProperty": "1885-378"
+    "conflictProperty": "1885-john-kemp-starley-safety-bicycle"
   },
   {
     "id": "zinc-carbon-battery",
@@ -5303,7 +5177,7 @@
       "descriptive": "ZiCB",
       "verbose": "ZiCaBa"
     },
-    "conflictProperty": "1886-379"
+    "conflictProperty": "1886-carl-gassner-zinc-carbon-battery-dry-cell-battery"
   },
   {
     "id": "hall-heroult-process",
@@ -5317,13 +5191,13 @@
       "descriptive": "HaHRP",
       "verbose": "HaHRoPr"
     },
-    "conflictProperty": "1886-380"
+    "conflictProperty": "1886-charles-martin-hall-paul-heroult-hall-heroult-process"
   },
   {
     "id": "petrol-automobile",
     "year": 1886,
     "linked": {
-      "link": "/wiki/https://en.wikipedia.org",
+      "link": "/wiki/Carl_Benz#Benz's_first_factory_and_early_inventions_(1871%E2%80%931882)",
       "text": "Petrol Automobile"
     },
     "abbreviation": {
@@ -5331,7 +5205,7 @@
       "descriptive": "PeA",
       "verbose": "PeAu"
     },
-    "conflictProperty": "1886-381"
+    "conflictProperty": "1886-karl-benz"
   },
   {
     "id": "bayer-process",
@@ -5345,7 +5219,7 @@
       "descriptive": "BaP",
       "verbose": "BaPr"
     },
-    "conflictProperty": "1887-382"
+    "conflictProperty": "1887-carl-josef-bayer-bayer-process"
   },
   {
     "id": "wind-turbine",
@@ -5359,7 +5233,7 @@
       "descriptive": "WiT",
       "verbose": "WiTu"
     },
-    "conflictProperty": "1887-383"
+    "conflictProperty": "1887-james-blyth-wind-turbine"
   },
   {
     "id": "gold-cyanidation",
@@ -5373,7 +5247,7 @@
       "descriptive": "GoC",
       "verbose": "GoCy"
     },
-    "conflictProperty": "1887-384"
+    "conflictProperty": "1887-john-stewart-macarthur-gold-cyanidation"
   },
   {
     "id": "ballpoint-pen",
@@ -5387,7 +5261,7 @@
       "descriptive": "BaP",
       "verbose": "BaPe"
     },
-    "conflictProperty": "1888-385"
+    "conflictProperty": "1888-john-j-loud-ballpoint-pen"
   },
   {
     "id": "kinetoscope",
@@ -5401,7 +5275,7 @@
       "descriptive": "Ki",
       "verbose": "Ki"
     },
-    "conflictProperty": "1888-386"
+    "conflictProperty": "1888-thomas-edison-william-kennedy-dickson-kinetoscope"
   },
   {
     "id": "radio-waves",
@@ -5415,7 +5289,7 @@
       "descriptive": "RaW",
       "verbose": "RaWa"
     },
-    "conflictProperty": "1888-387"
+    "conflictProperty": "1888-heinrich-hertz-james-clerk-maxwell-radio-waves"
   },
   {
     "id": "pneumatic-tire",
@@ -5429,7 +5303,7 @@
       "descriptive": "PnT",
       "verbose": "PnTi"
     },
-    "conflictProperty": "1888-388"
+    "conflictProperty": "1888-pneumatic-tire-john-boyd-dunlop-robert-william-thomson"
   },
   {
     "id": "chlorofluorocarbons",
@@ -5443,7 +5317,7 @@
       "descriptive": "Ch",
       "verbose": "Ch"
     },
-    "conflictProperty": "1890-389"
+    "conflictProperty": "1890-frederic-swarts-chlorofluorocarbons"
   },
   {
     "id": "cardboard-box",
@@ -5457,7 +5331,7 @@
       "descriptive": "CaB",
       "verbose": "CaBo"
     },
-    "conflictProperty": "1890-390"
+    "conflictProperty": "1890-robert-gair-cardboard-box"
   },
   {
     "id": "zipper",
@@ -5471,7 +5345,7 @@
       "descriptive": "Zi",
       "verbose": "Zi"
     },
-    "conflictProperty": "1891-391"
+    "conflictProperty": "1891-whitcomb-judson-zipper"
   },
   {
     "id": "cinematograph",
@@ -5485,7 +5359,7 @@
       "descriptive": "Ci",
       "verbose": "Ci"
     },
-    "conflictProperty": "1892-392"
+    "conflictProperty": "1892-leon-bouly-cinematograph"
   },
   {
     "id": "electric-oven",
@@ -5499,7 +5373,7 @@
       "descriptive": "ElO",
       "verbose": "ElOv"
     },
-    "conflictProperty": "1892-393"
+    "conflictProperty": "1892-thomas-ahearn-electric-oven"
   },
   {
     "id": "diesel-engine",
@@ -5513,7 +5387,7 @@
       "descriptive": "DiE",
       "verbose": "DiEn"
     },
-    "conflictProperty": "1893-394"
+    "conflictProperty": "1893-rudolf-diesel-diesel-engine-herbert-akroyd-stuart"
   },
   {
     "id": "rubber-glove",
@@ -5527,21 +5401,7 @@
       "descriptive": "RuG",
       "verbose": "RuGl"
     },
-    "conflictProperty": "1893-395"
-  },
-  {
-    "id": "wireless-communication",
-    "year": 1895,
-    "linked": {
-      "link": "/wiki/https://en.wikipedia.org",
-      "text": "Wireless Communication"
-    },
-    "abbreviation": {
-      "slim": "WC",
-      "descriptive": "WiC",
-      "verbose": "WiCo"
-    },
-    "conflictProperty": "1895-396"
+    "conflictProperty": "1893-william-stewart-halsted-rubber-glove-caroline-hampton-dermatitis"
   },
   {
     "id": "x-ray",
@@ -5555,7 +5415,7 @@
       "descriptive": "XR",
       "verbose": "XRa"
     },
-    "conflictProperty": "1895-397"
+    "conflictProperty": "1895-wilhelm-conrad-rontgen-x-ray"
   },
   {
     "id": "surgical-masks",
@@ -5569,7 +5429,7 @@
       "descriptive": "SuM",
       "verbose": "SuMa"
     },
-    "conflictProperty": "1897-398"
+    "conflictProperty": "1897-surgical-masks-jan-mikulicz-radecki-university-of-breslau-paul-berger"
   },
   {
     "id": "polyethylene",
@@ -5583,7 +5443,7 @@
       "descriptive": "Po",
       "verbose": "Po"
     },
-    "conflictProperty": "1898-399"
+    "conflictProperty": "1898-hans-von-pechmann-polyethylene-plastic"
   },
   {
     "id": "nickel-cadmium-battery",
@@ -5597,7 +5457,7 @@
       "descriptive": "NiCB",
       "verbose": "NiCaBa"
     },
-    "conflictProperty": "1899-400"
+    "conflictProperty": "1899-waldemar-jungner-nickel-cadmium-battery-nickel-iron-electric-storage-battery-silver-cadmium-battery"
   },
   {
     "id": "zeppelin",
@@ -5611,7 +5471,7 @@
       "descriptive": "Ze",
       "verbose": "Ze"
     },
-    "conflictProperty": "1900-401"
+    "conflictProperty": "1900-zeppelin-theodor-kober"
   },
   {
     "id": "vacuum-cleaner",
@@ -5625,7 +5485,7 @@
       "descriptive": "VaC",
       "verbose": "VaCl"
     },
-    "conflictProperty": "1901-402"
+    "conflictProperty": "1901-vacuum-cleaner-hubert-cecil-booth-david-t-kenney"
   },
   {
     "id": "gas-turbine",
@@ -5639,7 +5499,7 @@
       "descriptive": "GaT",
       "verbose": "GaTu"
     },
-    "conflictProperty": "1903-403"
+    "conflictProperty": "1903-gas-turbine-aegidius-elling"
   },
   {
     "id": "laminated-glass",
@@ -5653,7 +5513,7 @@
       "descriptive": "LaG",
       "verbose": "LaGl"
     },
-    "conflictProperty": "1903-404"
+    "conflictProperty": "1903-laminated-glass"
   },
   {
     "id": "airplane",
@@ -5667,7 +5527,7 @@
       "descriptive": "Ai",
       "verbose": "Ai"
     },
-    "conflictProperty": "1903-405"
+    "conflictProperty": "1903-airplane-kitty-hawk,-north-carolina-orville-and-wilbur-wright-claims-to-the-first-powered-flight"
   },
   {
     "id": "fleming-valve",
@@ -5681,21 +5541,7 @@
       "descriptive": "FlV",
       "verbose": "FlVa"
     },
-    "conflictProperty": "1904-406"
-  },
-  {
-    "id": "rotary-wing-aircraft",
-    "year": 1907,
-    "linked": {
-      "link": "/wiki/https://en.wikipedia.org",
-      "text": "Rotary-Wing Aircraft"
-    },
-    "abbreviation": {
-      "slim": "RWA",
-      "descriptive": "RoWA",
-      "verbose": "RoWiAi"
-    },
-    "conflictProperty": "1907-407"
+    "conflictProperty": "1904-fleming-valve-vacuum-tube-diode-john-ambrose-fleming"
   },
   {
     "id": "bakelite",
@@ -5709,7 +5555,7 @@
       "descriptive": "Ba",
       "verbose": "Ba"
     },
-    "conflictProperty": "1907-408"
+    "conflictProperty": "1907-leo-baekeland-bakelite-plastic"
   },
   {
     "id": "ramjet",
@@ -5723,7 +5569,7 @@
       "descriptive": "Ra",
       "verbose": "Ra"
     },
-    "conflictProperty": "1907-409"
+    "conflictProperty": "1907-ramjet-r-lorin"
   },
   {
     "id": "cellophane",
@@ -5737,7 +5583,7 @@
       "descriptive": "Ce",
       "verbose": "Ce"
     },
-    "conflictProperty": "1908-410"
+    "conflictProperty": "1908-cellophane-jacques-e-brandenberger"
   },
   {
     "id": "haber-process",
@@ -5751,21 +5597,7 @@
       "descriptive": "HaP",
       "verbose": "HaPr"
     },
-    "conflictProperty": "1909-411"
-  },
-  {
-    "id": "television-broadcast",
-    "year": 1909,
-    "linked": {
-      "link": "/wiki/https://en.wikipedia.org",
-      "text": "Television Broadcast"
-    },
-    "abbreviation": {
-      "slim": "TB",
-      "descriptive": "TeB",
-      "verbose": "TeBr"
-    },
-    "conflictProperty": "1909-412"
+    "conflictProperty": "1909-fritz-haber-haber-process"
   },
   {
     "id": "cloud-chamber",
@@ -5782,20 +5614,6 @@
     "conflictProperty": "1911-413"
   },
   {
-    "id": "model-electric-racing-cars",
-    "year": 1912,
-    "linked": {
-      "link": "/wiki/https://en.wikipedia.org",
-      "text": "Model Electric Racing Cars"
-    },
-    "abbreviation": {
-      "slim": "MERC",
-      "descriptive": "MoERC",
-      "verbose": "MoElRaCa"
-    },
-    "conflictProperty": "1912-414"
-  },
-  {
     "id": "trams",
     "year": 1912,
     "linked": {
@@ -5807,7 +5625,7 @@
       "descriptive": "Tr",
       "verbose": "Tr"
     },
-    "conflictProperty": "1912-415"
+    "conflictProperty": "1912-trams-boston-elevated-railway"
   },
   {
     "id": "bergius-process",
@@ -5821,7 +5639,7 @@
       "descriptive": "BeP",
       "verbose": "BePr"
     },
-    "conflictProperty": "1913-416"
+    "conflictProperty": "1913-bergius-process-friedrich-bergius"
   },
   {
     "id": "kaplan-turbine",
@@ -5835,7 +5653,7 @@
       "descriptive": "KaT",
       "verbose": "KaTu"
     },
-    "conflictProperty": "1913-417"
+    "conflictProperty": "1913-kaplan-turbine-viktor-kaplan"
   },
   {
     "id": "martensitic-stainless-steel",
@@ -5849,7 +5667,7 @@
       "descriptive": "MaSS",
       "verbose": "MaStSt"
     },
-    "conflictProperty": "1915-418"
+    "conflictProperty": "1915-harry-brearley-martensitic-stainless-steel"
   },
   {
     "id": "tanks",
@@ -5863,7 +5681,7 @@
       "descriptive": "Ta",
       "verbose": "Ta"
     },
-    "conflictProperty": "1915-419"
+    "conflictProperty": "1915-tanks-walter-wilson-william-tritton-eugene-brillie"
   },
   {
     "id": "silicon",
@@ -5877,7 +5695,7 @@
       "descriptive": "Si",
       "verbose": "Si"
     },
-    "conflictProperty": "1916-420"
+    "conflictProperty": "1916-czochralski-process-silicon-jan-czochralski"
   },
   {
     "id": "crystal-oscillator",
@@ -5891,7 +5709,7 @@
       "descriptive": "CrO",
       "verbose": "CrOs"
     },
-    "conflictProperty": "1917-421"
+    "conflictProperty": "1917-crystal-oscillator-alexander-m-nicholson-rochelle-salt-walter-guyton-cady"
   },
   {
     "id": "fischer-tropsch-process",
@@ -5905,7 +5723,7 @@
       "descriptive": "FiTP",
       "verbose": "FiTrPr"
     },
-    "conflictProperty": "1925-422"
+    "conflictProperty": "1925-fischer-tropsch-process-franz-fischer-hans-tropsch-kaiser-wilhelm-institut-fur-kohlenforschung"
   },
   {
     "id": "yagi-uda-antenna",
@@ -5919,7 +5737,7 @@
       "descriptive": "YaUA",
       "verbose": "YaUdAn"
     },
-    "conflictProperty": "1926-423"
+    "conflictProperty": "1926-robert-h-goddard-liquid-fueled-rocket"
   },
   {
     "id": "liquid-fueled-rocket",
@@ -5933,7 +5751,7 @@
       "descriptive": "LiFR",
       "verbose": "LiFuRo"
     },
-    "conflictProperty": "1926-424"
+    "conflictProperty": "1926-harry-ferguson-three-point-hitch"
   },
   {
     "id": "three-point-hitch",
@@ -5947,21 +5765,21 @@
       "descriptive": "ThPH",
       "verbose": "ThPoHi"
     },
-    "conflictProperty": "1926-425"
+    "conflictProperty": "1926-john-logie-baird-television"
   },
   {
     "id": "television",
-    "year": 1926,
+    "year": 1909,
     "linked": {
       "text": "television",
-      "link": "/wiki/Mechanical_television"
+      "link": "/wiki/Television"
     },
     "abbreviation": {
       "slim": "T",
       "descriptive": "Te",
       "verbose": "Te"
     },
-    "conflictProperty": "1926-426"
+    "conflictProperty": "1909-television-georges-rignoux"
   },
   {
     "id": "quartz-clock",
@@ -5975,7 +5793,7 @@
       "descriptive": "QuC",
       "verbose": "QuCl"
     },
-    "conflictProperty": "1927-427"
+    "conflictProperty": "1927-quartz-clock-bell-telephone-laboratories"
   },
   {
     "id": "penicillin",
@@ -5989,13 +5807,13 @@
       "descriptive": "Pe",
       "verbose": "Pe"
     },
-    "conflictProperty": "1928-428"
+    "conflictProperty": "1928-penicillin-alexander-fleming-howard-walter-florey-ernst-chain-norman-heatley"
   },
   {
     "id": "turbo-jet-engine",
     "year": 1928,
     "linked": {
-      "link": "/wiki/https://en.wikipedia.org",
+      "link": "/wiki/Turbojet#History",
       "text": "Turbo-Jet Engine"
     },
     "abbreviation": {
@@ -6003,7 +5821,7 @@
       "descriptive": "TuJE",
       "verbose": "TuJeEn"
     },
-    "conflictProperty": "1928-429"
+    "conflictProperty": "1928-frank-whittle"
   },
   {
     "id": "electronic-television",
@@ -6017,7 +5835,7 @@
       "descriptive": "ElT",
       "verbose": "ElTe"
     },
-    "conflictProperty": "1928-430"
+    "conflictProperty": "1928-philo-farnsworth-electronic-television"
   },
   {
     "id": "ball-screw",
@@ -6031,7 +5849,7 @@
       "descriptive": "BaS",
       "verbose": "BaSc"
     },
-    "conflictProperty": "1929-431"
+    "conflictProperty": "1929-ball-screw"
   },
   {
     "id": "supersonic-combusting-ramjet",
@@ -6045,7 +5863,7 @@
       "descriptive": "SuCR",
       "verbose": "SuCoRa"
     },
-    "conflictProperty": "1930-432"
+    "conflictProperty": "1930-supersonic-combusting-ramjet-frank-whittle-citation-needed"
   },
   {
     "id": "phase-contrast-microscopy",
@@ -6059,7 +5877,7 @@
       "descriptive": "PhCM",
       "verbose": "PhCoMi"
     },
-    "conflictProperty": "1930-433"
+    "conflictProperty": "1930-phase-contrast-microscopy-frits-zernike"
   },
   {
     "id": "electron-microscope",
@@ -6073,7 +5891,7 @@
       "descriptive": "ElM",
       "verbose": "ElMi"
     },
-    "conflictProperty": "1931-434"
+    "conflictProperty": "1931-electron-microscope-ernst-ruska"
   },
   {
     "id": "fm-radio",
@@ -6083,11 +5901,11 @@
       "link": "/wiki/FM_radio"
     },
     "abbreviation": {
-      "slim": "FR",
-      "descriptive": "FmR",
-      "verbose": "FmRa"
+      "slim": "FMR",
+      "descriptive": "FMR",
+      "verbose": "FMRa"
     },
-    "conflictProperty": "1933-435"
+    "conflictProperty": "1933-fm-radio-edwin-h-armstrong"
   },
   {
     "id": "wheelchair",
@@ -6101,7 +5919,7 @@
       "descriptive": "Wh",
       "verbose": "Wh"
     },
-    "conflictProperty": "1933-436"
+    "conflictProperty": "1933-harry-c-jennings-sr-and-herbert-everest-mechanical-engineers-wheelchair"
   },
   {
     "id": "nylon",
@@ -6115,7 +5933,7 @@
       "descriptive": "Ny",
       "verbose": "Ny"
     },
-    "conflictProperty": "1935-437"
+    "conflictProperty": "1935-nylon-synthetic-fiber-wallace-carothers-dupont"
   },
   {
     "id": "computer",
@@ -6129,7 +5947,7 @@
       "descriptive": "Co",
       "verbose": "Co"
     },
-    "conflictProperty": "1938-438"
+    "conflictProperty": "1938-nuclear-fission-otto-hahn-fritz-strassmann-lise-meitner-otto-robert-frisch-german-nuclear-energy-project-tube-alloys-manhattan-project-soviet-atomic-bomb-project"
   },
   {
     "id": "nuclear-fission",
@@ -6157,7 +5975,7 @@
       "descriptive": "De",
       "verbose": "De"
     },
-    "conflictProperty": "1939-440"
+    "conflictProperty": "1939-naum-gurvich-defibrillator"
   },
   {
     "id": "plutonium",
@@ -6171,7 +5989,7 @@
       "descriptive": "Pl",
       "verbose": "Pl"
     },
-    "conflictProperty": "1940-441"
+    "conflictProperty": "1940-pu-239-isotope-plutonium-fissile-nuclear-devices-glenn-seaborg"
   },
   {
     "id": "cavity-magnetron",
@@ -6185,7 +6003,7 @@
       "descriptive": "CaM",
       "verbose": "CaMa"
     },
-    "conflictProperty": "1940-442"
+    "conflictProperty": "1940-john-randall-harry-boot-cavity-magnetron-radar-microwave-oven"
   },
   {
     "id": "polyester",
@@ -6199,7 +6017,7 @@
       "descriptive": "Po",
       "verbose": "Po"
     },
-    "conflictProperty": "1941-443"
+    "conflictProperty": "1941-polyester-john-rex-whinfield"
   },
   {
     "id": "v-2-rocket",
@@ -6216,32 +6034,18 @@
     "conflictProperty": "1942-444"
   },
   {
-    "id": "viral-vaccine",
-    "year": 1944,
-    "linked": {
-      "link": "/wiki/https://en.wikipedia.org",
-      "text": "Viral Vaccine"
-    },
-    "abbreviation": {
-      "slim": "VV",
-      "descriptive": "ViV",
-      "verbose": "ViVa"
-    },
-    "conflictProperty": "1944-445"
-  },
-  {
     "id": "atomic-bomb",
     "year": 1945,
     "linked": {
-      "link": "/wiki/https://en.wikipedia.org",
-      "text": "Atomic Bomb"
+      "text": "Atomic Bomb",
+      "link": "/wiki/Manhattan_Project"
     },
     "abbreviation": {
       "slim": "AB",
       "descriptive": "AtB",
       "verbose": "AtBo"
     },
-    "conflictProperty": "1945-446"
+    "conflictProperty": "1945-manhattan-project-atomic-bombings-of-hiroshima-and-nagasaki-world-war-ii"
   },
   {
     "id": "microwave-oven",
@@ -6255,7 +6059,7 @@
       "descriptive": "MiO",
       "verbose": "MiOv"
     },
-    "conflictProperty": "1945-447"
+    "conflictProperty": "1945-percy-spencer-raytheon-microwave-oven"
   },
   {
     "id": "radiocarbon-dating",
@@ -6269,7 +6073,7 @@
       "descriptive": "RaD",
       "verbose": "RaDa"
     },
-    "conflictProperty": "1945-448"
+    "conflictProperty": "1945-willard-libby-radiocarbon-dating-science-james-arnold"
   },
   {
     "id": "ejector-seat",
@@ -6283,7 +6087,7 @@
       "descriptive": "EjS",
       "verbose": "EjSe"
     },
-    "conflictProperty": "1946-449"
+    "conflictProperty": "1946-james-martin-ejector-seat-valentine-baker"
   },
   {
     "id": "holography",
@@ -6297,7 +6101,7 @@
       "descriptive": "Ho",
       "verbose": "Ho"
     },
-    "conflictProperty": "1947-450"
+    "conflictProperty": "1947-holography-dennis-gabor"
   },
   {
     "id": "hydraulic-fracturing",
@@ -6311,7 +6115,7 @@
       "descriptive": "HyF",
       "verbose": "HyFr"
     },
-    "conflictProperty": "1947-451"
+    "conflictProperty": "1947-stanolind-oil-and-gas-corporation-hydraulic-fracturing"
   },
   {
     "id": "transistor",
@@ -6325,7 +6129,7 @@
       "descriptive": "Tr",
       "verbose": "Tr"
     },
-    "conflictProperty": "1947-452"
+    "conflictProperty": "1947-transistor-point-contact-transistor-john-bardeen-walter-brattain-william-shockley-bell-labs"
   },
   {
     "id": "atomic-clock",
@@ -6339,7 +6143,7 @@
       "descriptive": "AtC",
       "verbose": "AtCl"
     },
-    "conflictProperty": "1948-453"
+    "conflictProperty": "1948-atomic-clock-national-bureau-of-standards"
   },
   {
     "id": "basic-oxygen-steelmaking",
@@ -6353,7 +6157,7 @@
       "descriptive": "BaOS",
       "verbose": "BaOxSt"
     },
-    "conflictProperty": "1948-454"
+    "conflictProperty": "1948-basic-oxygen-steelmaking-robert-durrer"
   },
   {
     "id": "video-game",
@@ -6367,7 +6171,7 @@
       "descriptive": "ViG",
       "verbose": "ViGa"
     },
-    "conflictProperty": "1950-455"
+    "conflictProperty": "1950-bertie-the-brain-video-game-canadian-national-exhibition"
   },
   {
     "id": "tokamak",
@@ -6381,7 +6185,7 @@
       "descriptive": "To",
       "verbose": "To"
     },
-    "conflictProperty": "1950-456"
+    "conflictProperty": "1950-tokamak-igor-e-tamm-andrei-d-sakharov"
   },
   {
     "id": "float-glass-process",
@@ -6395,7 +6199,7 @@
       "descriptive": "FlGP",
       "verbose": "FlGlPr"
     },
-    "conflictProperty": "1952-457"
+    "conflictProperty": "1952-float-glass-process-alastair-pilkington"
   },
   {
     "id": "thermonuclear-weapon",
@@ -6409,7 +6213,7 @@
       "descriptive": "ThW",
       "verbose": "ThWe"
     },
-    "conflictProperty": "1952-458"
+    "conflictProperty": "1952-thermonuclear-weapon"
   },
   {
     "id": "video-tape-recorder",
@@ -6423,13 +6227,13 @@
       "descriptive": "ViTR",
       "verbose": "ViTaRe"
     },
-    "conflictProperty": "1953-459"
+    "conflictProperty": "1953-video-tape-recorder"
   },
   {
     "id": "solar-battery",
     "year": 1954,
     "linked": {
-      "link": "/wiki/https://en.wikipedia.org",
+      "link": "/wiki/Solar_cell#History",
       "text": "Solar Battery"
     },
     "abbreviation": {
@@ -6437,7 +6241,7 @@
       "descriptive": "SoB",
       "verbose": "SoBa"
     },
-    "conflictProperty": "1954-460"
+    "conflictProperty": "1954-calvin-souther-fuller"
   },
   {
     "id": "hovercraft",
@@ -6451,7 +6255,7 @@
       "descriptive": "Ho",
       "verbose": "Ho"
     },
-    "conflictProperty": "1955-461"
+    "conflictProperty": "1955-hovercraft-christopher-cockerell"
   },
   {
     "id": "intermodal-container",
@@ -6465,7 +6269,7 @@
       "descriptive": "InC",
       "verbose": "InCo"
     },
-    "conflictProperty": "1955-462"
+    "conflictProperty": "1955-intermodal-container-malcom-mclean"
   },
   {
     "id": "hard-disk-drive",
@@ -6479,7 +6283,7 @@
       "descriptive": "HaDD",
       "verbose": "HaDiDr"
     },
-    "conflictProperty": "1956-463"
+    "conflictProperty": "1956-hard-disk-drive-ibm"
   },
   {
     "id": "logic-theorist-program",
@@ -6497,7 +6301,7 @@
   },
   {
     "id": "laser",
-    "year": 1957,
+    "year": 1960,
     "linked": {
       "text": "laser",
       "link": "/wiki/Laser"
@@ -6507,7 +6311,7 @@
       "descriptive": "La",
       "verbose": "La"
     },
-    "conflictProperty": "1957-465"
+    "conflictProperty": "1960-laser-theodore-maiman"
   },
   {
     "id": "personal-computer",
@@ -6521,7 +6325,7 @@
       "descriptive": "PeC",
       "verbose": "PeCo"
     },
-    "conflictProperty": "1957-466"
+    "conflictProperty": "1957-personal-computer-ibm-610-ibm"
   },
   {
     "id": "satellite",
@@ -6535,7 +6339,7 @@
       "descriptive": "Sa",
       "verbose": "Sa"
     },
-    "conflictProperty": "1957-467"
+    "conflictProperty": "1957-satellite-sputnik-1"
   },
   {
     "id": "integrated-circuit",
@@ -6549,7 +6353,7 @@
       "descriptive": "InC",
       "verbose": "InCi"
     },
-    "conflictProperty": "1958-468"
+    "conflictProperty": "1958-integrated-circuit-independently-invented-jack-kilby-robert-noyce"
   },
   {
     "id": "mosfet",
@@ -6559,25 +6363,11 @@
       "link": "/wiki/MOSFET"
     },
     "abbreviation": {
-      "slim": "M",
-      "descriptive": "Mo",
-      "verbose": "Mo"
+      "slim": "MOSFET",
+      "descriptive": "MOSFET",
+      "verbose": "MOSFET"
     },
-    "conflictProperty": "1959-469"
-  },
-  {
-    "id": "laser",
-    "year": 1960,
-    "linked": {
-      "text": "laser",
-      "link": "/wiki/Laser"
-    },
-    "abbreviation": {
-      "slim": "L",
-      "descriptive": "La",
-      "verbose": "La"
-    },
-    "conflictProperty": "1960-470"
+    "conflictProperty": "1959-mosfet-mohamed-atalla-dawon-kahng-electronic-products"
   },
   {
     "id": "electronic-cigarette",
@@ -6591,7 +6381,7 @@
       "descriptive": "ElC",
       "verbose": "ElCi"
     },
-    "conflictProperty": "1963-471"
+    "conflictProperty": "1963-electronic-cigarette-hon-lik"
   },
   {
     "id": "high-speed-rail",
@@ -6605,7 +6395,7 @@
       "descriptive": "HiSR",
       "verbose": "HiSpRa"
     },
-    "conflictProperty": "1964-472"
+    "conflictProperty": "1964-shinkansen-high-speed-rail"
   },
   {
     "id": "kevlar",
@@ -6619,7 +6409,7 @@
       "descriptive": "Ke",
       "verbose": "Ke"
     },
-    "conflictProperty": "1965-473"
+    "conflictProperty": "1965-kevlar-stephanie-kwolek-dupont"
   },
   {
     "id": "packet-switching",
@@ -6633,7 +6423,7 @@
       "descriptive": "PaS",
       "verbose": "PaSw"
     },
-    "conflictProperty": "1969-474"
+    "conflictProperty": "1969-npl-network-arpanet-packet-switching-data-communication-donald-davies-paul-baran-internet"
   },
   {
     "id": "public-key-cryptography",
@@ -6647,7 +6437,7 @@
       "descriptive": "PuKC",
       "verbose": "PuKeCr"
     },
-    "conflictProperty": "1970-475"
+    "conflictProperty": "1970-public-key-cryptography-james-h-ellis-clifford-cocks-malcolm-j-williamson-whitfield-diffie-martin-hellman-ralph-merkle-ron-rivest-adi-shamir-leonard-adleman"
   },
   {
     "id": "pocket-calculator",
@@ -6661,7 +6451,7 @@
       "descriptive": "PoC",
       "verbose": "PoCa"
     },
-    "conflictProperty": "1970-476"
+    "conflictProperty": "1970-pocket-calculator"
   },
   {
     "id": "microprocessor",
@@ -6675,7 +6465,7 @@
       "descriptive": "Mi",
       "verbose": "Mi"
     },
-    "conflictProperty": "1971-477"
+    "conflictProperty": "1971-microprocessor-intel-4004-federico-faggin-silicon-gate-mos-personal-computer"
   },
   {
     "id": "space-station",
@@ -6689,7 +6479,7 @@
       "descriptive": "SpS",
       "verbose": "SpSt"
     },
-    "conflictProperty": "1971-478"
+    "conflictProperty": "1971-space-station-salyut-1"
   },
   {
     "id": "floppy-disk",
@@ -6703,7 +6493,7 @@
       "descriptive": "FlD",
       "verbose": "FlDi"
     },
-    "conflictProperty": "1971-479"
+    "conflictProperty": "1971-ibm-floppy-disk-disk-drive"
   },
   {
     "id": "video-game-console",
@@ -6717,13 +6507,13 @@
       "descriptive": "ViGC",
       "verbose": "ViGaCo"
     },
-    "conflictProperty": "1972-480"
+    "conflictProperty": "1972-video-game-console-magnavox-odyssey"
   },
   {
     "id": "fiber-optic-communication",
     "year": 1973,
     "linked": {
-      "link": "/wiki/https://en.wikipedia.org",
+      "link": "/wiki/Fiber-optic_communication",
       "text": "Fiber Optic Communication"
     },
     "abbreviation": {
@@ -6731,7 +6521,7 @@
       "descriptive": "FiOC",
       "verbose": "FiOpCo"
     },
-    "conflictProperty": "1973-481"
+    "conflictProperty": "1973-optelecom"
   },
   {
     "id": "graphical-user-interface",
@@ -6745,7 +6535,7 @@
       "descriptive": "GrUI",
       "verbose": "GrUsIn"
     },
-    "conflictProperty": "1973-482"
+    "conflictProperty": "1973-graphical-user-interface-xerox-alto-xerox-star-apple-lisa"
   },
   {
     "id": "capacitive-touchscreen",
@@ -6759,7 +6549,7 @@
       "descriptive": "CaT",
       "verbose": "CaTo"
     },
-    "conflictProperty": "1973-483"
+    "conflictProperty": "1973-capacitive-touchscreen-cern"
   },
   {
     "id": "transmission-control-program",
@@ -6773,7 +6563,7 @@
       "descriptive": "TrCP",
       "verbose": "TrCoPr"
     },
-    "conflictProperty": "1974-484"
+    "conflictProperty": "1974-transmission-control-program-vinton-cerf-robert-e-kahn-louis-pouzin-internet-pioneers-internet"
   },
   {
     "id": "lithium-ion-battery",
@@ -6787,7 +6577,7 @@
       "descriptive": "LiIB",
       "verbose": "LiIoBa"
     },
-    "conflictProperty": "1974-485"
+    "conflictProperty": "1974-lithium-ion-battery-m-stanley-whittingham-john-b-goodenough-rachid-yazami-akira-yoshino-consumer-electronics-electric-vehicles"
   },
   {
     "id": "rubik's-cube",
@@ -6811,11 +6601,11 @@
       "link": "/wiki/DNA_sequencing"
     },
     "abbreviation": {
-      "slim": "DS",
-      "descriptive": "DnS",
-      "verbose": "DnSe"
+      "slim": "DNAS",
+      "descriptive": "DNAS",
+      "verbose": "DNASe"
     },
-    "conflictProperty": "1977-487"
+    "conflictProperty": "1977-dna-sequencing-nobel-prize"
   },
   {
     "id": "self-driving-car",
@@ -6829,7 +6619,7 @@
       "descriptive": "SeDC",
       "verbose": "SeDrCa"
     },
-    "conflictProperty": "1977-488"
+    "conflictProperty": "1977-self-driving-car"
   },
   {
     "id": "global-positioning-system",
@@ -6843,7 +6633,7 @@
       "descriptive": "GlPS",
       "verbose": "GlPoSy"
     },
-    "conflictProperty": "1978-489"
+    "conflictProperty": "1978-global-positioning-system-satellite-navigation"
   },
   {
     "id": "handheld-game-console",
@@ -6857,7 +6647,7 @@
       "descriptive": "HaGC",
       "verbose": "HaGaCo"
     },
-    "conflictProperty": "1979-490"
+    "conflictProperty": "1979-nippon-telegraph-and-telephone"
   },
   {
     "id": "cellular-network",
@@ -6871,21 +6661,7 @@
       "descriptive": "CeN",
       "verbose": "CeNe"
     },
-    "conflictProperty": "1979-491"
-  },
-  {
-    "id": "public-dialup-information",
-    "year": 1979,
-    "linked": {
-      "link": "/wiki/https://en.wikipedia.org",
-      "text": "Public Dialup Information"
-    },
-    "abbreviation": {
-      "slim": "PDI",
-      "descriptive": "PuDI",
-      "verbose": "PuDiIn"
-    },
-    "conflictProperty": "1979-492"
+    "conflictProperty": "1979-compuserve-radioshack-post-office-telecommunications-prestel"
   },
   {
     "id": "flash-memory",
@@ -6899,7 +6675,7 @@
       "descriptive": "FlM",
       "verbose": "FlMe"
     },
-    "conflictProperty": "1980-493"
+    "conflictProperty": "1980-flash-memory-fujio-masuoka-toshiba"
   },
   {
     "id": "restriction-fragment-length-polymorphisms",
@@ -6913,7 +6689,7 @@
       "descriptive": "ReFLP",
       "verbose": "ReFrLePo"
     },
-    "conflictProperty": "1980-494"
+    "conflictProperty": "1980-mark-skolnick-david-botstein-restriction-fragment-length-polymorphisms"
   },
   {
     "id": "reusable-spacecraft",
@@ -6927,7 +6703,7 @@
       "descriptive": "ReS",
       "verbose": "ReSp"
     },
-    "conflictProperty": "1981-495"
+    "conflictProperty": "1981-reusable-spacecraft-space-shuttle"
   },
   {
     "id": "digital-media-player",
@@ -6941,7 +6717,7 @@
       "descriptive": "DiMP",
       "verbose": "DiMePl"
     },
-    "conflictProperty": "1981-496"
+    "conflictProperty": "1981-kane-kramer-digital-media-player"
   },
   {
     "id": "nordic-mobile-telephone",
@@ -6955,13 +6731,13 @@
       "descriptive": "NoMT",
       "verbose": "NoMoTe"
     },
-    "conflictProperty": "1981-497"
+    "conflictProperty": "1981-televerket-nordic-mobile-telephone"
   },
   {
     "id": "automatic-cellular-system",
     "year": 1981,
     "linked": {
-      "link": "/wiki/https://en.wikipedia.org",
+      "link": "/wiki/Cellular_network#History",
       "text": "Automatic Cellular System"
     },
     "abbreviation": {
@@ -6969,7 +6745,7 @@
       "descriptive": "AuCS",
       "verbose": "AuCeSy"
     },
-    "conflictProperty": "1981-498"
+    "conflictProperty": "1981-comvik-swedish-post-and-telecom-authority"
   },
   {
     "id": "cd-rom",
@@ -6979,11 +6755,11 @@
       "link": "/wiki/CD-ROM"
     },
     "abbreviation": {
-      "slim": "CR",
-      "descriptive": "CdR",
-      "verbose": "CdRo"
+      "slim": "CDROM",
+      "descriptive": "CDROM",
+      "verbose": "CDROM"
     },
-    "conflictProperty": "1982-499"
+    "conflictProperty": "1982-cd-rom-data-sony-philips-binary-data"
   },
   {
     "id": "satellite-television",
@@ -6997,7 +6773,7 @@
       "descriptive": "SaT",
       "verbose": "SaTe"
     },
-    "conflictProperty": "1982-500"
+    "conflictProperty": "1982-satellite-television-sky-one"
   },
   {
     "id": "laptop",
@@ -7011,7 +6787,7 @@
       "descriptive": "La",
       "verbose": "La"
     },
-    "conflictProperty": "1982-501"
+    "conflictProperty": "1982-laptop-epson-hx-20"
   },
   {
     "id": "stereolithography",
@@ -7025,7 +6801,7 @@
       "descriptive": "St",
       "verbose": "St"
     },
-    "conflictProperty": "1983-502"
+    "conflictProperty": "1983-stereolithography-chuck-hull"
   },
   {
     "id": "bell-system",
@@ -7039,7 +6815,7 @@
       "descriptive": "BeS",
       "verbose": "BeSy"
     },
-    "conflictProperty": "1983-503"
+    "conflictProperty": "1983-atandt-bell-system"
   },
   {
     "id": "cell-phone",
@@ -7053,7 +6829,7 @@
       "descriptive": "CeP",
       "verbose": "CePh"
     },
-    "conflictProperty": "1984-504"
+    "conflictProperty": "1984-cell-phone-dynatac-motorola"
   },
   {
     "id": "dna-profiling",
@@ -7063,11 +6839,11 @@
       "link": "/wiki/DNA_profiling"
     },
     "abbreviation": {
-      "slim": "DP",
-      "descriptive": "DnP",
-      "verbose": "DnPr"
+      "slim": "DNAP",
+      "descriptive": "DNAP",
+      "verbose": "DNAPr"
     },
-    "conflictProperty": "1984-505"
+    "conflictProperty": "1984-dna-profiling-alec-jeffreys"
   },
   {
     "id": "pocket-sized-cell-phone",
@@ -7095,7 +6871,7 @@
       "descriptive": "Mp",
       "verbose": "Mp"
     },
-    "conflictProperty": "1989-507"
+    "conflictProperty": "1989-karlheinz-brandenburg-mp3"
   },
   {
     "id": "world-wide-web",
@@ -7109,7 +6885,7 @@
       "descriptive": "WoWW",
       "verbose": "WoWiWe"
     },
-    "conflictProperty": "1989-508"
+    "conflictProperty": "1989-world-wide-web-tim-berners-lee"
   },
   {
     "id": "memory-cards",
@@ -7123,7 +6899,7 @@
       "descriptive": "MeC",
       "verbose": "MeCa"
     },
-    "conflictProperty": "1990-509"
+    "conflictProperty": "1990-neo-geo-aes-memory-cards"
   },
   {
     "id": "search-engine",
@@ -7137,7 +6913,7 @@
       "descriptive": "SeE",
       "verbose": "SeEn"
     },
-    "conflictProperty": "1990-510"
+    "conflictProperty": "1990-archie"
   },
   {
     "id": "solid-state-drive",
@@ -7151,7 +6927,7 @@
       "descriptive": "SoSD",
       "verbose": "SoStDr"
     },
-    "conflictProperty": "1991-511"
+    "conflictProperty": "1991-solid-state-drive-sundisk"
   },
   {
     "id": "sim-card",
@@ -7165,13 +6941,13 @@
       "descriptive": "SiC",
       "verbose": "SiCa"
     },
-    "conflictProperty": "1991-512"
+    "conflictProperty": "1991-sim-card"
   },
   {
     "id": "mobile-app",
     "year": 1993,
     "linked": {
-      "link": "/wiki/https://en.wikipedia.org",
+      "link": "/wiki/Mobile_app",
       "text": "Mobile App"
     },
     "abbreviation": {
@@ -7179,7 +6955,7 @@
       "descriptive": "MoA",
       "verbose": "MoAp"
     },
-    "conflictProperty": "1993-513"
+    "conflictProperty": "1993-1993-ibm-created-the-first-mobile-app-with-simon;-it-had-10-built-in-apps-from-email-to-calendar"
   },
   {
     "id": "smartphone",
@@ -7193,7 +6969,7 @@
       "descriptive": "Sm",
       "verbose": "Sm"
     },
-    "conflictProperty": "1994-514"
+    "conflictProperty": "1994-bluetooth-ericsson-mobile"
   },
   {
     "id": "bluetooth",
@@ -7207,7 +6983,7 @@
       "descriptive": "Bl",
       "verbose": "Bl"
     },
-    "conflictProperty": "1994-515"
+    "conflictProperty": "1994-tetris-hagenuk-mt-2000"
   },
   {
     "id": "mobile-game",
@@ -7231,11 +7007,11 @@
       "link": "/wiki/DVD"
     },
     "abbreviation": {
-      "slim": "D",
-      "descriptive": "Dv",
-      "verbose": "Dv"
+      "slim": "DVD",
+      "descriptive": "DVD",
+      "verbose": "DVD"
     },
-    "conflictProperty": "1995-517"
+    "conflictProperty": "1995-dvd-optical-disc-storage-philips-sony-toshiba-panasonic-compact-discs"
   },
   {
     "id": "dating-site",
@@ -7249,7 +7025,7 @@
       "descriptive": "DaS",
       "verbose": "DaSi"
     },
-    "conflictProperty": "1995-518"
+    "conflictProperty": "1995-matchcom"
   },
   {
     "id": "online-food-ordering",
@@ -7263,13 +7039,13 @@
       "descriptive": "OnFO",
       "verbose": "OnFoOr"
     },
-    "conflictProperty": "1995-519"
+    "conflictProperty": "1995-waitercom-online-food-ordering"
   },
   {
     "id": "wavelength-division-multiplexing-system",
     "year": 1996,
     "linked": {
-      "text": "wavelength-division multiplexing system,",
+      "text": "wavelength-division multiplexing system",
       "link": "/wiki/Wavelength-division_multiplexing"
     },
     "abbreviation": {
@@ -7277,7 +7053,7 @@
       "descriptive": "WaDMS",
       "verbose": "WaDiMuSy"
     },
-    "conflictProperty": "1996-520"
+    "conflictProperty": "1996-ciena-corporation-sprint-wavelength-division-multiplexing-system"
   },
   {
     "id": "mobile-web",
@@ -7291,21 +7067,21 @@
       "descriptive": "MoW",
       "verbose": "MoWe"
     },
-    "conflictProperty": "1996-521"
+    "conflictProperty": "1996-nokia-9000-communicator"
   },
   {
     "id": "social-media",
     "year": 1996,
     "linked": {
-      "link": "/wiki/https://en.wikipedia.org",
-      "text": "Social Media"
+      "text": "Social Media",
+      "link": "/wiki/Bolt_(website)"
     },
     "abbreviation": {
       "slim": "SM",
       "descriptive": "SoM",
       "verbose": "SoMe"
     },
-    "conflictProperty": "1996-522"
+    "conflictProperty": "1996-bolt-six-degrees"
   },
   {
     "id": "breast-and-ovarian-cancer-test",
@@ -7319,13 +7095,13 @@
       "descriptive": "BrAOCT",
       "verbose": "BrAnOvCaTe"
     },
-    "conflictProperty": "1996-523"
+    "conflictProperty": "1996-myriad-genetics"
   },
   {
     "id": "blog",
     "year": 1997,
     "linked": {
-      "link": "/wiki/https://en.wikipedia.org",
+      "link": "/wiki/Blog",
       "text": "Blog"
     },
     "abbreviation": {
@@ -7333,7 +7109,7 @@
       "descriptive": "Bl",
       "verbose": "Bl"
     },
-    "conflictProperty": "1997-524"
+    "conflictProperty": "1997-jorn-barger"
   },
   {
     "id": "mp3-player",
@@ -7343,11 +7119,11 @@
       "link": "/wiki/MP3_player"
     },
     "abbreviation": {
-      "slim": "MP",
-      "descriptive": "MpP",
-      "verbose": "MpPl"
+      "slim": "MP3P",
+      "descriptive": "MP3P",
+      "verbose": "MP3Pl"
     },
-    "conflictProperty": "1998-525"
+    "conflictProperty": "1998-mp3-player"
   },
   {
     "id": "google",
@@ -7361,7 +7137,7 @@
       "descriptive": "Go",
       "verbose": "Go"
     },
-    "conflictProperty": "1998-526"
+    "conflictProperty": "1998-google"
   },
   {
     "id": "digital-video-recorder",
@@ -7375,7 +7151,7 @@
       "descriptive": "DiVR",
       "verbose": "DiViRe"
     },
-    "conflictProperty": "1999-527"
+    "conflictProperty": "1999-digital-video-recorder-tivo-xperi"
   },
   {
     "id": "online-app-store",
@@ -7389,7 +7165,7 @@
       "descriptive": "OnAS",
       "verbose": "OnApSt"
     },
-    "conflictProperty": "1999-528"
+    "conflictProperty": "1999-ntt-docomo-i-mode-online-app-store"
   },
   {
     "id": "blu-ray",
@@ -7403,7 +7179,7 @@
       "descriptive": "BlR",
       "verbose": "BlRa"
     },
-    "conflictProperty": "2000-529"
+    "conflictProperty": "2000-sony-blu-ray"
   },
   {
     "id": "geocaching",
@@ -7417,7 +7193,7 @@
       "descriptive": "Ge",
       "verbose": "Ge"
     },
-    "conflictProperty": "2000-530"
+    "conflictProperty": "2000-geocaching-beavercreek,-oregon"
   },
   {
     "id": "podcast",
@@ -7431,7 +7207,7 @@
       "descriptive": "Po",
       "verbose": "Po"
     },
-    "conflictProperty": "2004-531"
+    "conflictProperty": "2004-podcast-program-download"
   },
   {
     "id": "netflix",
@@ -7445,7 +7221,7 @@
       "descriptive": "Ne",
       "verbose": "Ne"
     },
-    "conflictProperty": "2007-533"
+    "conflictProperty": "2007-netflix"
   },
   {
     "id": "banking-app",
@@ -7459,7 +7235,7 @@
       "descriptive": "BaA",
       "verbose": "BaAp"
     },
-    "conflictProperty": "2007-535"
+    "conflictProperty": "2007-bank-of-scotland"
   },
   {
     "id": "kindle",
@@ -7473,7 +7249,7 @@
       "descriptive": "Ki",
       "verbose": "Ki"
     },
-    "conflictProperty": "2007-537"
+    "conflictProperty": "2007-kindle-amazon-company"
   },
   {
     "id": "blockchain",
@@ -7487,7 +7263,7 @@
       "descriptive": "Bl",
       "verbose": "Bl"
     },
-    "conflictProperty": "2008-538"
+    "conflictProperty": "2008-satoshi-nakamoto-blockchain"
   },
   {
     "id": "solar-sail",
@@ -7501,7 +7277,7 @@
       "descriptive": "SoS",
       "verbose": "SoSa"
     },
-    "conflictProperty": "2010-539"
+    "conflictProperty": "2010-solar-sail-ikaros"
   },
   {
     "id": "quantum-machine",
@@ -7515,7 +7291,7 @@
       "descriptive": "QuM",
       "verbose": "QuMa"
     },
-    "conflictProperty": "2010-540"
+    "conflictProperty": "2010-quantum-machine"
   },
   {
     "id": "synthetic-organism",
@@ -7529,7 +7305,7 @@
       "descriptive": "SyO",
       "verbose": "SyOr"
     },
-    "conflictProperty": "2010-541"
+    "conflictProperty": "2010-synthetic-organism-mycoplasma-laboratorium-j-craig-venter-institute"
   },
   {
     "id": "cancer-immunotherapy",
@@ -7543,7 +7319,7 @@
       "descriptive": "CaI",
       "verbose": "CaIm"
     },
-    "conflictProperty": "2013-543"
+    "conflictProperty": "2013-cancer-immunotherapy"
   },
   {
     "id": "deep-learning-transformer",
@@ -7571,7 +7347,7 @@
       "descriptive": "SiCS",
       "verbose": "SiCeSe"
     },
-    "conflictProperty": "2018-546"
+    "conflictProperty": "2018-single-cell-sequencing"
   },
   {
     "id": "quantum-computing",
@@ -7585,7 +7361,7 @@
       "descriptive": "QuC",
       "verbose": "QuCo"
     },
-    "conflictProperty": "2019-547"
+    "conflictProperty": "2019-ibm-ibm-q-system-one-quantum-computing"
   },
   {
     "id": "youtube",
@@ -7599,7 +7375,7 @@
       "descriptive": "YoT",
       "verbose": "YoTu"
     },
-    "conflictProperty": "2005-532"
+    "conflictProperty": "2005-youtube"
   },
   {
     "id": "soundcloud",
@@ -7613,7 +7389,7 @@
       "descriptive": "SoC",
       "verbose": "SoCl"
     },
-    "conflictProperty": "2007-536"
+    "conflictProperty": "2007-soundcloud"
   },
   {
     "id": "hiv-treatment",
@@ -7627,7 +7403,7 @@
       "descriptive": "HIVT",
       "verbose": "HIVTr"
     },
-    "conflictProperty": "2011-542"
+    "conflictProperty": "2011-hptn-052"
   },
   {
     "id": "crispr",
@@ -7641,21 +7417,21 @@
       "descriptive": "CRISPR",
       "verbose": "CRISPR"
     },
-    "conflictProperty": "2015-544"
+    "conflictProperty": "2015-crispr"
   },
   {
     "id": "iphone",
     "year": 2007,
     "linked": {
-      "link": "/wiki/https://en.wikipedia.org",
-      "text": "iPhone"
+      "text": "iPhone",
+      "link": "/wiki/IPhone"
     },
     "abbreviation": {
       "slim": "IP",
       "descriptive": "IP",
       "verbose": "IPh"
     },
-    "conflictProperty": "2007-534"
+    "conflictProperty": "2007-apple-inc-iphone"
   },
   {
     "id": "mrna-vaccine",
@@ -7669,7 +7445,7 @@
       "descriptive": "MRNAV",
       "verbose": "MRNAVa"
     },
-    "conflictProperty": "2020-548"
+    "conflictProperty": "2020-mrna-vaccine-pfizer-biontech-covid-19"
   },
   {
     "id": "gpt-3",
@@ -7683,21 +7459,21 @@
       "descriptive": "GPT3",
       "verbose": "GPT3"
     },
-    "conflictProperty": "2020-549"
+    "conflictProperty": "2020-openai-artificial-intelligence-gpt-3"
   },
   {
     "id": "covid-pill",
-    "year": 2022,
+    "year": 2021,
     "linked": {
-      "text": "COVID Pill",
-      "link": "/wiki/Paxlovid"
+      "link": "/wiki/Nirmatrelvir/ritonavir",
+      "text": "COVID Pill"
     },
     "abbreviation": {
       "slim": "COVIDP",
       "descriptive": "COVIDP",
       "verbose": "COVIDPi"
     },
-    "conflictProperty": "2022-550"
+    "conflictProperty": "2021-pfizer-the-worlds-first-pill-covid"
   },
   {
     "id": "seal-emblem",
@@ -7711,6 +7487,496 @@
       "descriptive": "SeE",
       "verbose": "SeEm"
     },
-    "conflictProperty": "-3500-74"
+    "conflictProperty": "-3500-seal-emblem-near-east-uruk-mesopotamia-susa-iran-proto-elamite-period-stamp-seals-halaf-culture"
+  },
+  {
+    "id": "dome",
+    "year": 563,
+    "linked": {
+      "text": "dome",
+      "link": "/wiki/Dome"
+    },
+    "abbreviation": {
+      "slim": "D",
+      "descriptive": "Do",
+      "verbose": "Do"
+    },
+    "conflictProperty": "563-pendentive-dome-hagia-sophia-constantinople-eastern-roman-empire"
+  },
+  {
+    "id": "greek-fire",
+    "year": 672,
+    "linked": {
+      "text": "Greek fire",
+      "link": "/wiki/Greek_fire"
+    },
+    "abbreviation": {
+      "slim": "GF",
+      "descriptive": "GrF",
+      "verbose": "GrFi"
+    },
+    "conflictProperty": "672-greek-fire-constantinople-byzantine-empire-incendiary-weapon-petroleum-naphtha-baalbek-theophanes"
+  },
+  {
+    "id": "mariners-astrolabe",
+    "year": 1480,
+    "linked": {
+      "text": "Mariner's astrolabe",
+      "link": "/wiki/Mariner%27s_astrolabe"
+    },
+    "abbreviation": {
+      "slim": "MSA",
+      "descriptive": "MaSA",
+      "verbose": "MaSAs"
+    },
+    "conflictProperty": "1480-mariners-astrolabe-portuguese-circumnavigation-of-africa"
+  },
+  {
+    "id": "thomas-godfrey",
+    "year": 1730,
+    "linked": {
+      "text": "Thomas Godfrey",
+      "link": "/wiki/Thomas_Godfrey_(inventor)"
+    },
+    "abbreviation": {
+      "slim": "TG",
+      "descriptive": "ThG",
+      "verbose": "ThGo"
+    },
+    "conflictProperty": "1730-thomas-godfrey-john-hadley-octant"
+  },
+  {
+    "id": "leyden-jar",
+    "year": 1745,
+    "linked": {
+      "text": "Leyden jar",
+      "link": "/wiki/Leyden_jar"
+    },
+    "abbreviation": {
+      "slim": "LJ",
+      "descriptive": "LeJ",
+      "verbose": "LeJa"
+    },
+    "conflictProperty": "1745-musschenbroek-kleist-leyden-jar-capacitor"
+  },
+  {
+    "id": "battery",
+    "year": 1800,
+    "linked": {
+      "text": "battery",
+      "link": "/wiki/Battery_(electricity)"
+    },
+    "abbreviation": {
+      "slim": "B",
+      "descriptive": "Ba",
+      "verbose": "Ba"
+    },
+    "conflictProperty": "1800-alessandro-volta-voltaic-pile-battery-italy-luigi-galvani"
+  },
+  {
+    "id": "celluloid",
+    "year": 1856,
+    "linked": {
+      "text": "celluloid",
+      "link": "/wiki/Celluloid"
+    },
+    "abbreviation": {
+      "slim": "C",
+      "descriptive": "Ce",
+      "verbose": "Ce"
+    },
+    "conflictProperty": "1856-alexander-parkes-parkesine-celluloid-plastic"
+  },
+  {
+    "id": "siemens-martin-process",
+    "year": 1865,
+    "linked": {
+      "link": "/wiki/Open-hearth_furnace",
+      "text": "Siemens-Martin Process"
+    },
+    "abbreviation": {
+      "slim": "SMP",
+      "descriptive": "SiMP",
+      "verbose": "SiMaPr"
+    },
+    "conflictProperty": "1865-carl-wilhelm-siemens-pierre-emile-martin"
+  },
+  {
+    "id": "maxim-gun",
+    "year": 1884,
+    "linked": {
+      "text": "Maxim gun",
+      "link": "/wiki/Maxim_gun"
+    },
+    "abbreviation": {
+      "slim": "MG",
+      "descriptive": "MaG",
+      "verbose": "MaGu"
+    },
+    "conflictProperty": "1884-hiram-maxim-recoil-operated-maxim-gun"
+  },
+  {
+    "id": "radio-wave-communication",
+    "year": 1895,
+    "linked": {
+      "text": "Radio Wave Communication",
+      "link": "/wiki/Guglielmo_Marconi"
+    },
+    "abbreviation": {
+      "slim": "RWC",
+      "descriptive": "RaWC",
+      "verbose": "RaWaCo"
+    },
+    "conflictProperty": "1895-guglielmo-marconi"
+  },
+  {
+    "id": "rotary-wing-aircraft-flight",
+    "year": 1907,
+    "linked": {
+      "text": "Rotary-Wing Aircraft Flight",
+      "link": "/wiki/Paul_Cornu"
+    },
+    "abbreviation": {
+      "slim": "RWAF",
+      "descriptive": "RoWAF",
+      "verbose": "RoWiAiFl"
+    },
+    "conflictProperty": "1907-paul-cornu"
+  },
+  {
+    "id": "particle-detector",
+    "year": 1911,
+    "linked": {
+      "text": "particle detector",
+      "link": "/wiki/Particle_detector"
+    },
+    "abbreviation": {
+      "slim": "PD",
+      "descriptive": "PaD",
+      "verbose": "PaDe"
+    },
+    "conflictProperty": "1911-cloud-chamber-particle-detector-charles-thomson-rees-wilson"
+  },
+  {
+    "id": "commercial-slot-cars",
+    "year": 1912,
+    "linked": {
+      "link": "/wiki/Slot_car#History",
+      "text": "Commercial Slot Cars"
+    },
+    "abbreviation": {
+      "slim": "CSC",
+      "descriptive": "CoSC",
+      "verbose": "CoSlCa"
+    },
+    "conflictProperty": "1912-1912-the-first-commercial-slot-cars-or-more-accurately-model-electric-racing-cars-operating-under-constant-power-were-made-by-lionel-usa-and-appeared-in-their-catalogues-in-1912"
+  },
+  {
+    "id": "freely-programmable-computer",
+    "year": 1938,
+    "linked": {
+      "text": "Freely Programmable Computer",
+      "link": "/wiki/Z1_(computer)"
+    },
+    "abbreviation": {
+      "slim": "FPC",
+      "descriptive": "FrPC",
+      "verbose": "FrPrCo"
+    },
+    "conflictProperty": "1938-z1-konrad-zuse-computer"
+  },
+  {
+    "id": "ballistic-missile",
+    "year": 1942,
+    "linked": {
+      "text": "ballistic missile",
+      "link": "/wiki/Ballistic_missile"
+    },
+    "abbreviation": {
+      "slim": "BM",
+      "descriptive": "BaM",
+      "verbose": "BaMi"
+    },
+    "conflictProperty": "1942-v-2-rocket-ballistic-missile-wernher-von-braun"
+  },
+  {
+    "id": "non-infectious-viral-vaccine",
+    "year": 1944,
+    "linked": {
+      "link": "/wiki/Inactivated_vaccine",
+      "text": "Non-infectious viral vaccine"
+    },
+    "abbreviation": {
+      "slim": "NIVV",
+      "descriptive": "NoIVV",
+      "verbose": "NoInViVa"
+    },
+    "conflictProperty": "1944-1944-the-non-infectious-viral-vaccine-is-perfected-by-dr-jonas-salk-and-thomas-francis[479]"
+  },
+  {
+    "id": "microvision",
+    "year": 1979,
+    "linked": {
+      "text": "Microvision",
+      "link": "/wiki/Microvision"
+    },
+    "abbreviation": {
+      "slim": "M",
+      "descriptive": "Mi",
+      "verbose": "Mi"
+    },
+    "conflictProperty": "1979-microvision"
+  },
+  {
+    "id": "technophone",
+    "year": 1986,
+    "linked": {
+      "text": "Technophone",
+      "link": "/wiki/Technophone"
+    },
+    "abbreviation": {
+      "slim": "T",
+      "descriptive": "Te",
+      "verbose": "Te"
+    },
+    "conflictProperty": "1986-technophone-excell-pct105"
+  },
+  {
+    "id": "ibm-simon",
+    "year": 1994,
+    "linked": {
+      "text": "IBM Simon",
+      "link": "/wiki/IBM_Simon"
+    },
+    "abbreviation": {
+      "slim": "IBMS",
+      "descriptive": "IBMS",
+      "verbose": "IBMSi"
+    },
+    "conflictProperty": "1994-ibm-simon-ibm"
+  },
+  {
+    "id": "transformer",
+    "year": 2017,
+    "linked": {
+      "text": "transformer",
+      "link": "/wiki/Transformer_(deep_learning_architecture)"
+    },
+    "abbreviation": {
+      "slim": "T",
+      "descriptive": "Tr",
+      "verbose": "Tr"
+    },
+    "conflictProperty": "2017-google-attention-is-all-you-need-transformer"
+  },
+  {
+    "id": "cosmic-engine",
+    "year": 11,
+    "linked": {
+      "text": "Cosmic Engine",
+      "link": "/wiki/Su_Song#Horology_and_mechanical_engineering"
+    },
+    "abbreviation": {
+      "slim": "CE",
+      "descriptive": "CoE",
+      "verbose": "CoEn"
+    },
+    "conflictProperty": "11-endless-power-transmitting-chain-drive-su-song-cosmic-engine"
+  },
+  {
+    "id": "motorized-air-compressor",
+    "year": 1799,
+    "linked": {
+      "text": "Motorized Air Compressor",
+      "link": "/wiki/Air_compressor"
+    },
+    "abbreviation": {
+      "slim": "MAC",
+      "descriptive": "MoAC",
+      "verbose": "MoAiCo"
+    },
+    "conflictProperty": "1799-george-medhurst-air-compressor"
+  },
+  {
+    "id": "automobile-internal-engine",
+    "year": 1807,
+    "linked": {
+      "link": "/wiki/Car",
+      "text": "Automobile Internal Engine"
+    },
+    "abbreviation": {
+      "slim": "AIE",
+      "descriptive": "AuIE",
+      "verbose": "AuInEn"
+    },
+    "conflictProperty": "1807-francois-isaac-de-rivaz-internal-combustion-engine-hydrogen"
+  },
+  {
+    "id": "powered-printing-press",
+    "year": 1811,
+    "linked": {
+      "text": "Powered Printing Press",
+      "link": "/wiki/Printing_press"
+    },
+    "abbreviation": {
+      "slim": "PPP",
+      "descriptive": "PoPP",
+      "verbose": "PoPrPr"
+    },
+    "conflictProperty": "1811-friedrich-koenig-printing-press"
+  },
+  {
+    "id": "lighter",
+    "year": 1823,
+    "linked": {
+      "text": "Lighter",
+      "link": "/wiki/D%C3%B6bereiner%27s_lamp"
+    },
+    "abbreviation": {
+      "slim": "L",
+      "descriptive": "Li",
+      "verbose": "Li"
+    },
+    "conflictProperty": "1823-johann-wolfgang-dobereiner-first-lighter"
+  },
+  {
+    "id": "compound-air-compressor",
+    "year": 1829,
+    "linked": {
+      "text": "Compound Air Compressor",
+      "link": "/wiki/Air_compressor"
+    },
+    "abbreviation": {
+      "slim": "CAC",
+      "descriptive": "CoAC",
+      "verbose": "CoAiCo"
+    },
+    "conflictProperty": "1829-air-compressor"
+  },
+  {
+    "id": "solar-cell",
+    "year": 1839,
+    "linked": {
+      "text": "solar cell",
+      "link": "/wiki/Solar_cell"
+    },
+    "abbreviation": {
+      "slim": "SC",
+      "descriptive": "SoC",
+      "verbose": "SoCe"
+    },
+    "conflictProperty": "1839-edmond-becquerel-photovoltaic-effect-solar-cell"
+  },
+  {
+    "id": "fertilizer",
+    "year": 1842,
+    "linked": {
+      "text": "fertilizer",
+      "link": "/wiki/Fertilizer"
+    },
+    "abbreviation": {
+      "slim": "F",
+      "descriptive": "Fe",
+      "verbose": "Fe"
+    },
+    "conflictProperty": "1842-john-bennet-lawes-superphosphate-fertilizer"
+  },
+  {
+    "id": "synthetic-dye",
+    "year": 1856,
+    "linked": {
+      "text": "synthetic dye",
+      "link": "/wiki/Synthetic_dye"
+    },
+    "abbreviation": {
+      "slim": "SD",
+      "descriptive": "SyD",
+      "verbose": "SyDy"
+    },
+    "conflictProperty": "1856-william-henry-perkin-mauveine-synthetic-dye"
+  },
+  {
+    "id": "television-antennas",
+    "year": 1926,
+    "linked": {
+      "text": "television antennas",
+      "link": "/wiki/Television_antennas"
+    },
+    "abbreviation": {
+      "slim": "TA",
+      "descriptive": "TeA",
+      "verbose": "TeAn"
+    },
+    "conflictProperty": "1926-yagi-uda-antenna-shintaro-uda-tohoku-imperial-university-hidetsugu-yagi-world-war-ii-television-antennas"
+  },
+  {
+    "id": "artificial-intelligence",
+    "year": 1956,
+    "linked": {
+      "text": "Artificial Intelligence",
+      "link": "/wiki/Logic_Theorist"
+    },
+    "abbreviation": {
+      "slim": "AI",
+      "descriptive": "ArI",
+      "verbose": "ArIn"
+    },
+    "conflictProperty": "1956-logic-theorist-allen-newell-herbert-a-simon-cliff-shaw"
+  },
+  {
+    "id": "optical-amplifier",
+    "year": 1957,
+    "linked": {
+      "text": "optical amplifier",
+      "link": "/wiki/Optical_amplifier"
+    },
+    "abbreviation": {
+      "slim": "OA",
+      "descriptive": "OpA",
+      "verbose": "OpAm"
+    },
+    "conflictProperty": "1957-laser-optical-amplifier-gordon-gould-charles-townes-internet"
+  },
+  {
+    "id": "rubiks-cube",
+    "year": 1974,
+    "linked": {
+      "text": "Rubik's cube",
+      "link": "/wiki/Rubik%27s_Cube"
+    },
+    "abbreviation": {
+      "slim": "RSC",
+      "descriptive": "RuSC",
+      "verbose": "RuSCu"
+    },
+    "conflictProperty": "1974-rubiks-cube-erno-rubik-puzzle"
+  },
+  {
+    "id": "chatgpt",
+    "year": 2022,
+    "linked": {
+      "text": "ChatGPT",
+      "link": "/wiki/ChatGPT"
+    },
+    "abbreviation": {
+      "slim": "CGPT",
+      "descriptive": "ChGPT",
+      "verbose": "ChGPT"
+    },
+    "conflictProperty": "2022-chatgpt-generative-ai"
+  },
+  {
+    "id": "news-bulletin",
+    "year": -2000,
+    "linked": {
+      "text": "News Bulletin",
+      "link": "/wiki/Newspaper"
+    },
+    "abbreviation": {
+      "slim": "NB",
+      "descriptive": "NeB",
+      "verbose": "NeBu"
+    },
+    "conflictProperty": "-2000-newspaper-dibao"
   }
 ]
